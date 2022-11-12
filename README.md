@@ -14,9 +14,9 @@ https://github.com/1dot13/gamedir
 
 **分支内容**
 
-* JA2 v1.13 开发版：Gamedata Chinese 熊窝版本（Chinese文件命名）  
-  https://github.com/zwwooooo/JA2v1.13-Gamedata-Chinese/tree/dev-original
 * JA2 v1.13 2014稳定版：Gamedata Chinese 重构版  
   https://github.com/zwwooooo/JA2v1.13-Gamedata-Chinese/tree/2014-stable
-* JA2 v1.13 2014稳定版：Gamedata Chinese 熊窝版本（Chinese文件命名）  
-  https://github.com/zwwooooo/JA2v1.13-Gamedata-Chinese/tree/2014-stable-original
+* JA2 v1.13 MOD：AIMNAS 汉化  
+  https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/AIMNAS_CN
+* JA2 v1.13 MOD：Urban Chaos 汉化  
+  https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/UC113_CN
