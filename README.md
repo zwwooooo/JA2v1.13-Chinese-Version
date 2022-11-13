@@ -14,7 +14,7 @@ https://github.com/1dot13/gamedir
 
 **分支内容**
 
-* JA2 v1.13 2014稳定版：Gamedata Chinese 重构版  
+* JA2 v1.13 2014 stable 中文重构版（2014 stable = 2014 稳定版 = 7609 版）  
   https://github.com/zwwooooo/JA2v1.13-Gamedata-Chinese/tree/2014-stable
 * JA2 v1.13 MOD：AIMNAS 汉化  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/AIMNAS_CN
