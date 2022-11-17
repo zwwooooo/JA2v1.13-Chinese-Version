@@ -12,6 +12,9 @@ https://github.com/1dot13/source
 dev gamedata  
 https://github.com/1dot13/gamedir
 
+dev gamedata languages  
+https://github.com/1dot13/gamedir-languages
+
 **分支内容**
 
 * JA2 v1.13 2014 stable 中文重构版（2014 stable = 2014 稳定版 = 7609 版）  
