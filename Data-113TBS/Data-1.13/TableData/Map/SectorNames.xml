@@ -668,7 +668,7 @@
     <szDetailedUnexploredName>热带</szDetailedUnexploredName>
     <szExploredName>SAM基地</szExploredName>
     <szDetailedExploredName>热带, SAM基地</szDetailedExploredName>
-    <sWaterType>2</sWaterType>
+    <sWaterType>1</sWaterType>
     <usNaturalDirt>300</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
     <sRadioScanModifier>2</sRadioScanModifier>
