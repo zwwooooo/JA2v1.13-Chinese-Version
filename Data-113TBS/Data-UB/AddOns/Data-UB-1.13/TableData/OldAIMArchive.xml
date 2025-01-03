@@ -13,187 +13,185 @@
 	<MERC>
 		<!-- Sam -->
 		<uiIndex>0</uiIndex>
-		<NickName>Wink</NickName>
-		<Name>Wink Dickerson</Name>
-		<Bio> 作为一名并不出色的运动员，Wink以强壮的手臂和差强人意的投球精度闻名。 Wink Dinkerson最近接到了他等待许久的一笔工作合同(在蒙特利尔世博会会场担任保洁员)。不过由于生活所迫，他最终还是辞掉了自己的保洁工作去锻炼自己的投球技巧，经过长久的锻炼后， 他以140加元每周的薪水与一个农场俱乐部签约，成为了俱乐部第五投手。 </Bio>
+		<NickName>Sam</NickName>
+		<Name>Samuel "Sam" Garver</Name>
+		<Bio>在经历了辉煌的佣兵生涯后，Sam Garver领取了养老金，退休后定居在佛罗里达群岛。作为Sam鳄鱼牧场和礼品店的经营者，他正在享受他的黄金岁月。该店位于71号高速公路旁，地理位置优越，因其独有的鳄鱼皮战刀系列和配套靴子以及Sam总是热衷于向顾客讲述的战争故事而声名远播。</Bio>
 		<FaceID>2</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Wink -->
 		<uiIndex>1</uiIndex>
-		<NickName>Larry</NickName>
-		<Name>Larry Roachburn</Name>
-		<Bio> 在第八次尝试戒毒失败后，Larry除了退出戒毒组织外别无选择。据我们所知，Larry的父亲正说服他尝试其它的戒毒方法，戒毒组织也祝愿他在未来的戒毒道路上取得成功。 </Bio>
+		<NickName>Wink</NickName>
+		<Name>Wink Dickerson</Name>
+		<Bio>Wink Dickerson主要以投球臂力强而准确性差著称，他终于接到了一生都在等待的电话。由于预算严重缩减，蒙特利尔快船队只能四处寻找投手人才。在接受了一份周薪140加元的合同后，Wink Dickerson获得了农场俱乐部先发轮换中第五投手的位置。</Bio>
 		<FaceID>7</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Beth -->
 		<uiIndex>2</uiIndex>
-		<NickName>Ears</NickName>
-		<Name>Edward "Ears" Stockwell</Name>
-		<Bio> Ears Stockwell在十八个月前向我们提交了辞呈，自从这件事之后我们再没有收到他的任何消息。不过，我们还是在尽最大的努力尝试联系他。 </Bio>
+		<NickName>Beth</NickName>
+		<Name>Mary Beth Wilkens</Name>
+		<Bio>因强健善掷、准度欠佳的手臂出名的Wink Dinkerson终于等来了一生都在守候的召唤。由于资金大幅削减，蒙特利尔博览会队正在各地搜寻天分上佳（或不佳）的候补投手。签订周薪140加元的合同以后，Wink终于成为了预备队内第五投手。</Bio>
 		<FaceID>8</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Larry -->
 		<uiIndex>3</uiIndex>
-		<NickName>Bernie</NickName>
-		<Name>Doctor Bernie Gloveless</Name>
-		<Bio> Bernie在A.I.M的生涯可以说是最错综复杂的。由于客户的投诉，A.I.M不得不考虑解除他主任医师的职务。他现在在一家国际保险公司任职，你可能会在你们公司组织的下一次的保险体检中看到他。 </Bio>
+		<NickName>Larry</NickName>
+		<Name>Larry Roachburn</Name>
+		<Bio>八次戒毒均告无果后，AIM别无选择，只能剥夺Larry Roachburn的成员身份。据我们推断，Larry父亲的死促使他又一次尝试规束自身的暴力倾向并终止长达十数年的吸毒史。我们谨希望他一帆风顺，有所实绩。</Bio>
 		<FaceID>10</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Ears -->
 		<uiIndex>4</uiIndex>
-		<NickName>Reuban</NickName>
-		<Name>"Unusually Ruthless" Reuban</Name>
-		<Bio> 逃亡多年后， Reuban最终被警方逮捕并被引渡到了罗马尼亚，他被指控杀害他的妻子和家人共六人。虽然 Reuban再也不能成为一个自由的公民，他还是很快地适应了监狱的生活，他在监狱负责环境美化，他的树木雕塑多次获奖，他因此被评为了“最佳劳改犯”。 </Bio>
+		<NickName>Ears</NickName>
+		<Name>Edward "Ears" Stockwell</Name>
+		<Bio>Ears Stockwell几乎在十八个月前就递交了辞呈。从那以后，我们就没有收得有关他的任何联络，因此也没有值得公布的信息。而事实上，我们也懒得去联系他。</Bio>
 		<FaceID>11</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Bernie -->
 		<uiIndex>5</uiIndex>
-		<NickName>Pops</NickName>
-		<Name>Pops McGillicutty</Name>
-		<Bio> 在多年尝试说服 Pops McGillicutty退休无果的情况下，A.I.M最终决定强制他退休。他现在从事他所喜爱的墓葬事业，在网站上经营他的墓葬沙龙。 </Bio>
+		<NickName>Bernie</NickName>
+		<Name>Doctor Bernie Gloveless</Name>
+		<Bio>Bernie与AIM的渊源可以概括为一波未平，一波又起。在拒绝让出组织专属内科医师并与队员发生诸多龃龉之后，AIM决定将Bernie Gloveless医生强行解职。他目前受雇于一家国际保险公司，下次公司让你去做身体年度检查的时候，你可能会想起他的名字。</Bio>
 		<FaceID>15</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Reuban -->
 		<uiIndex>6</uiIndex>
-		<NickName>Tex</NickName>
-		<Name>Tex R. Colburn</Name>
-		<Bio> 作为我们最多才多艺的佣兵之一，Tex Colburn出演six-shooters这部电影使他如愿以偿地成为了荧幕上的巨星，作为日本影视圈的后起之秀，他在电影 "Much Dust, Many Bullets,"中的优秀表现引起了人们的关注，在电影"Attack of the Clydesdales" and "Have Honda, will Travel."中的表现也被给予了很高评价。</Bio>
+		<NickName>Reuban</NickName>
+		<Name>"Unusually Ruthless" Reuban</Name>
+		<Bio>潜逃数年的Reuban终于落入法网，并被押解回罗马尼亚。他因谋杀妻儿同时背上了六条人命。尽管可能要在牢里过完他的下半辈子，Reuban似乎对新环境适应良好。他劳教的内容主要是打扫庭院，而且他修剪的树木造型为所在监狱赢得了好几次“新风貌”奖。</Bio>
 		<FaceID>16</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Pops -->
 		<uiIndex>7</uiIndex>
-		<NickName>Hurl</NickName>
-		<Name>Hurl E. Cutter</Name>
-		<Bio> 作为一个对医生来说有利可图的病人，Hurl已经失踪了九个月了，医院的记录和警方在哈瓦那发现的无名尸体成为了寻找他的仅有线索。Fidel Dahan对他的失踪表示怀疑， 不过警方的搜索始终毫无进展。
-</Bio>
+		<NickName>Pops</NickName>
+		<Name>Pops McGillicutty</Name>
+		<Bio>AIM努力劝说Pops McGillicutty退休达数年之久，未能成功，终于不得不推出一条措施，让年满85岁的佣兵强制离职。Pops为了还马革裹尸的佣兵一个安身愿，开设了主要立足网络的殡葬沙龙，专门负责给去世的佣兵举办有排场的葬礼。</Bio>
 		<FaceID>17</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Tex -->
 		<uiIndex>8</uiIndex>
-		<NickName>Biff</NickName>
-		<Name>Biff Apscott</Name>
-		<Bio> Biff Apscott是我们佣兵队伍中的一个独一无二的纯爷们，他经常怀念他年轻时的热情与活力，并且经常和别人提起他年轻时有多么勇敢。虽然有点令人难以置信，他自己创立了一个雇佣兵组织并且和A.I.M保持竞争关系，不过我们并不为此对我们的生意感到担心。 </Bio>
+		<NickName>Tex</NickName>
+		<Name>Tex R. Colburn</Name>
+		<Bio>我们多才多艺的成员之一，Tex Colburn，上交了自己的两把左轮，走上了实现演艺之梦的道路。作为在欧美冉冉升起的日裔明星，他领衔主演了《让弹尘飘》 这部电影，并让人们对其早年在经典影片《大骏马的突击》和《开着本田去旅行》所饰演的角色产生了热切关注。</Bio>
 		<FaceID>19</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Hurl -->
 		<uiIndex>9</uiIndex>
-		<NickName>Raffi</NickName>
-		<Name>Dr. Raffitto "Raffi" Leevon</Name>
-		<Bio> Leevon医生的医学学位备受争议，年初他在没有提前通知的情况下脱离了组织。显然，他已换了一个名字开始了他的新的事业生涯。“Raffiman”医生现在正经营着他的美国路易斯安纳州放克乐队。 </Bio>
+		<NickName>Hurl</NickName>
+		<Name>Hurl E. Cutter</Name>
+		<Bio>Hurl不论到哪儿都是个供医生榨取医疗费的病秧子，而他已经杳无信讯达九个月。在搜寻医院的医疗记录及前往Havana认尸未果以后，他最后的行踪也没能提供任何有效线索。Fidel Dahana屡次质询他的情况，不过警方并没有继续对此的调查。</Bio>
 		<FaceID>20</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Biff -->
 		<uiIndex>10</uiIndex>
-		<NickName>Mike</NickName>
-		<Name>Mike</Name>
-		<Bio> 在我们与他关于加薪事宜的谈判正在进行之时，我们向他透露了许多雇主投诉他的薪金过高的事情，他因此一气之下终止了谈判并且离开了我们。目前他的行踪神秘而且未知，他的最后一封信件寄出的办公室在一个我们都不知名的一个小国家，信件中还警告我们不要再尝试联系他，否则后果自负。 </Bio>
+		<NickName>Biff</NickName>
+		<Name>Biff Apscott</Name>
+		<Bio>Biff Apscott在佣兵中也是个出挑的人。我们将会怀念这名年轻人的旺盛精力，以及他让成员们铭记自身勇气的方式。尽管难以置信，我们还是要声明，Biff不明智地开设了一家佣兵介绍所与AIM竞争。至于我们对此感到多么惋惜，自然不需赘言。</Bio>
 		<FaceID>21</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Raffi -->
 		<uiIndex>11</uiIndex>
-		<NickName>Speck</NickName>
-		<Name>Speck T. Kline</Name>
-		<Bio> 尽管Speck并不是一位英勇善战的士兵，但他总是能修复别人看似不可修复的东西，正是这个特长使他备受欢迎。这或许也就是他成立自己的开放竞争的雇佣兵组织的原因，他的这一举动令我们很吃惊，不过A.I.M还是祝他好运，因为我们都很清楚，他需要有自己的事业。 </Bio>
+		<NickName>Raffi</NickName>
+		<Name>Dr. Raffitto "Raffi" Leevon</Name>
+		<Bio>在医学学位问题上引起无数争论的Leevon医生，在并未通知我们的情况下于年初离开。显然他隐姓埋名，开始新生，并伙同他的乐队成员Rotis和Haggis一头扎进了舞动汤勺敲击饭碗的打击乐世界。</Bio>
 		<FaceID>23</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Mike -->
 		<uiIndex>12</uiIndex>
-		<NickName>Weasel</NickName>
-		<Name>Willy "Weasel" Augustin</Name>
-		<Bio> 外号叫做“黄鼠狼”，“喉舌”的Wee Will主要从事廉价的监听工作。他严重缺乏正义感，最终也是自食其果。他在向他入狱的妻子吹口哨之后，他入狱的妻子保释回家将他赶出了家门。
-</Bio>
+		<NickName>Mike</NickName>
+		<Name>Mike</Name>
+		<Bio>新一轮个人薪资增长事宜还在洽谈中时，听说雇主评价他为外强中干的Mike突然退出了讨论。他目前行踪成谜，其他情况也是如此。办事处收到他的最后联络源于某个小国，而此地当局的胁迫让我们宁愿忘记这个国家的名字。</Bio>
 		<FaceID>24</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Speck -->
 		<uiIndex>13</uiIndex>
-		<NickName>Lance</NickName>
-		<Name>Lance Fisher</Name>
-		<Bio> 由于与Victoria Waters由来已久的性格冲突，他被要求辞去A.I.M的工作。他现在在西点军校任职，出版了一本关于道德和战术的书籍。“没有硝烟的战争往往可以在军事书店中找到。”他说。 </Bio>
+		<NickName>Speck</NickName>
+		<Name>Speck T. Kline</Name>
+		<Bio>While Speck从来就没能融入到佣兵的生活中去，我们普遍认为他对修理的爱好根本无法修理，这让他成了鲜人问津的成员。或许，我们正是因此才对他开设另一家佣兵介绍所的行为感到吃惊。AIM祝他好运，因为我们清楚，他太需要运气了。</Bio>
 		<FaceID>27</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Weasel -->
 		<uiIndex>14</uiIndex>
-		<NickName>Eli</NickName>
-		<Name>Doctor Eli Summers</Name>
-		<Bio> Summers医生在执行任务时是个不折不扣的玩家，他总是带着新人去以非血腥的方式优雅地执行自己的任务，从而大受雇主欢迎。尽管A.I.M对他离开组织而感到遗憾，我们还是很高兴地看到他能够把自己的爱好发展成自己的职业，他最近参加了老年人职业高尔夫巡回赛，并且取得了Pebble Beach第四的优异成绩。 </Bio>
+		<NickName>Weasel</NickName>
+		<Name>Willy "Weasel" Augustin</Name>
+		<Bio>Wee Willy又称“黄鼠狼”或者“大喇叭”，基本上都被雇主当成监视队友的便宜添头。结果，他的“大义灭亲”情结把自己引上了人们预料中的末路。在密告妻子涉嫌福利欺诈之后，她经由保释回到了家里，一枪崩了Augustin。</Bio>
 		<FaceID>28</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Lance -->
 		<uiIndex>15</uiIndex>
-		<NickName>Elroy</NickName>
-		<Name>Elroy B. Tolken</Name>
-		<Bio>He's gone. We didn't ask. We don't care. Does anybody?</Bio>
+		<NickName>Lance</NickName>
+		<Name>Lance Fisher</Name>
+		<Bio>由于与Victoria Waters持续发生口角，我们劝说Lance离开AIM，为此我们提供给他西点军校的一个职务。他接受了，目前是伦理与战术撤退方面的讲师，还在这个领域出了一本书。《淡定地夺路而生》目前在多数军事学院的书店有售。</Bio>
 		<FaceID>30</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Eli -->
 		<uiIndex>16</uiIndex>
-		<NickName>Skitz</NickName>
-		<Name>Bruce "Skitz" Bonner</Name>
-		<Bio> Bruce Bonner走了，遗憾地走了。他虽然是一个合格的爆破专家，但他的精神疾病使他没能度过试用期，他最终被A.I.M开除。尽管尝试了强化治疗和二十一个电击疗程，他还是没能结束在圣马克精神病院的治疗。 </Bio>
+		<NickName>Eli</NickName>
+		<Name>Doctor Eli Summers</Name>
+		<Bio>Summers医生在雇主间的口碑良好，因为他既接受与新人同行的任务，处理个人事务也保持低调。尽管AIM对他离去的决定表示惋惜，不过我们很高心地获悉，这位善良的医师正把他的爱好转为职业：参加老年高尔夫巡回赛，并在Pebble Beach光荣地赢得了第四名。</Bio>
 		<FaceID>32</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Elroy -->
 		<uiIndex>17</uiIndex>
-		<NickName>Wally</NickName>
-		<Name>Walter "Wally" Yuntz</Name>
-		<Bio> 曾经有人说，如果Wally连坏运气都没有的话，那么他就没有什么运气了。在他的视力缺陷被确诊之后，他决定进行激光手术，以提升自己的枪法。但由于编程错误，手术失败，导致他完全失明。他现在成为了老年人高尔夫职业巡回赛大师Golf Tour的球童。 </Bio>
+		<NickName>Elroy</NickName>
+		<Name>Elroy B. Tolken</Name>
+		<Bio>他走了，我们不在乎，也不关心。有人在乎吗？</Bio>
 		<FaceID>33</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Skitz -->
 		<uiIndex>18</uiIndex>
-		<NickName>Turtle</NickName>
-		<Name>Herman "Turtle" Regents</Name>
-		<Bio> 或许， 关于Turtle的离开的原因我们可以从他的辞职信中看出:“我已经无法适应战斗的节奏，它太快了，我必须竭尽全力去战斗，我已疲惫不堪，我发现我除了辞职之外别无选择。”我们听说他现在成为了芝加哥的一名护工。 </Bio>
+		<NickName>Skitz</NickName>
+		<Name>Bruce "Skitz" Bonner</Name>
+		<Bio>Bruce Bonner走了，再也回不来了！多名爆破专家的加入让我们轻松地做出了这个早该做出的决定。在连续停职察看八期后，Skitz终于被我们除名。尽管受到了特别照顾、接受了二十一次电击治疗，被监禁在Saint Michael医院的Skitz依然处于高犯罪倾向的精神错乱之中。</Bio>
 		<FaceID>34</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Wally -->
 		<uiIndex>19</uiIndex>
-		<NickName>Rev</NickName>
-		<Name>Reverend Clyde Potter</Name>
-		<Bio> 由于本组织中众多成员的投诉，战场牧师的职位被取消了，Clyde Potter也因此被淘汰。后来他去了巴尔的摩市中心的一个基督教会任职，并且否认曾经为A.I.M工作。他拒绝了我们给他的养老金支票，并且不接我们的电话。 </Bio>
+		<NickName>Wally</NickName>
+		<Name>Walter "Wally" Yuntz</Name>
+		<Bio>有人说过，要是Wally不走霉运，他就压根没运可走。在确证了视力存在问题后，Wally预定要接受视力矫正手术。这一手术本应永久提高他的瞄准能力，可激光仪的控制程序却运作失常。现在，彻底失明的Wally只好拄着导盲杖，给正在打老年高尔夫巡回赛的Eli Summers医生背球杆。</Bio>
 		<FaceID>35</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Turtle -->
 		<uiIndex>20</uiIndex>
-		<NickName>It</NickName>
-		<Name>Carl "It" Goodman</Name>
-		<Bio>Carl靠强壮的身体取得一席之地，他善于使用撬棍，并且凭借单纯友善的态度备受雇主青睐。离开A.I.M之后，他重回职业摔跤赛场，在那里，他找到了真实的自我，并且取得了不俗的成绩，他的朋友和粉丝经常可以在每周六晚上的蒙面摔跤比赛中找到他。</Bio>
+		<NickName>Turtle</NickName>
+		<Name>Herman "Turtle" Regents</Name>
+		<Bio>或许Turtle的去职可以用他辞呈中的一段文字贴切地说明：“你们派我参战，还不让我停歇。我实在扛不住了，无路可走，只能把这解约书交上来。” 后来我们听说他在芝加哥担任实习警员。</Bio>
 		<FaceID>36</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Rev -->
 		<uiIndex>21</uiIndex>
-		<NickName>Hamous</NickName>
-		<Name>Hamous</Name>
-		<Bio>Hamous在Metavira进行了他职业生涯的第一场战斗，基于客户们的热烈推荐，它被准许来A.I.M中实习，不过实习期满后并没能转为正式佣兵。贫穷的Hamous曾尝试攒钱买一辆小货车但没能成功，于是他便在巴黎郊区偷了一辆(事实上那只是一辆冰激凌车)，最后一次发现他时他正驾驶着那辆车前往伊斯坦布尔。</Bio>
+		<NickName>Rev</NickName>
+		<Name>Reverend Clyde Potter</Name>
+		<Bio>由于组织内部无信仰成员的抱怨日渐升级，AIM撤销了本堂神父这一职位。因此，好传道的Potter作为我们最底层的佣兵，也被开除出队。离开AIM后，Reverend Clyde Potter 在巴尔的摩的Innercity 基督教会找了个差事。他现在彻底否认和AIM有任何关系，并退还了养老金，也不再接我们的电话。</Bio>
 		<FaceID>38</FaceID>
 	</MERC>
 	<MERC>
 		<!-- Sparky -->
 		<uiIndex>22</uiIndex>
-		<NickName>Dyno</NickName>
-		<Name>Roger "Dyno" Wittman</Name>
-		<Bio>Roger总是在不断地努力尝试去成为一个合格的佣兵，不过他似乎没有成为一个合格用兵的能力。大多数队友总是把它当作笑柄，也有一些队友和他有所来往。不过最终他还是意识到他不适合这个行业，我们最后一次听到他的消息的时候，他正在做给河马身上除冰的工作。</Bio>
+		<NickName>Sparky</NickName>
+		<Name>Megan "Sparky" Roachburn</Name>
+		<Bio>作为伟大的Roachburn战争家族中唯一的女性成员，Megan去年选择离开组织，转而从事她一直向往的工作，即K-Mart导购员。虽然她说工作有点无聊，但她还是愿意在商场工作，而不是战场。</Bio>
 		<FaceID>39</FaceID>
 	</MERC>
 	<MERC>
@@ -201,7 +199,7 @@
 		<uiIndex>23</uiIndex>
 		<NickName>It</NickName>
 		<Name>Carl "It" Goodman</Name>
-		<Bio>Carl主要因为他的蛮力而被雇用，他擅长使用撬棍，多年来以其简单、无威胁的态度让雇主满意。在离开A.I.M.后，古德曼重返职业摔跤界，他声称每一个动作都是认真的，风险也是真实的。朋友和粉丝们可以在每周六晚上的付费观看摔跤盛会上看到他作为"蒙面雇佣兵"的表演。</Bio>
+		<Bio>主要因为一身蛮力被看重的Carl看家法宝就是手里的撬棍，他凭简单粗暴的行动方针长年受到雇主偏爱。离开AIM之后，Goodman回归了职业摔跤运动，他说这个行当要步步为营，风险无处不在。他的朋友和粉丝常能在星期六晚上看到“蒙面佣兵”在付费频道的比赛。</Bio>
 		<FaceID>42</FaceID>
 	</MERC>
 	<MERC>
@@ -209,7 +207,7 @@
 		<uiIndex>24</uiIndex>
 		<NickName>Hamous</NickName>
 		<Name>Hamous</Name>
-		<Bio>Hamous在梅塔维拉首次体验了战斗，基于一位重要客户杰克·理查兹的热情推荐，他获得了在这个组织实习的机会，但实习期最近已经结束。遗憾的是，可怜的哈默斯一直没能攒够钱买他梦寐以求的小面包车。所以他做了退而求其次的选择，在巴黎郊外偷了一辆车。事实上，那是一辆冰淇淋车，最后一次有人看到他时，他正开着这辆车前往伊斯坦布尔。</Bio>
+		<Bio>Hamous在Metavira进行了他的处子战。根据一名主顾Jack Richards不遗余力的推荐， 我们给了他试用机会，而眼下试用期将满。遗憾的是，可怜的Hamous还是没能攒够钱去买下那辆他钟爱的小货车。因此他做了力所能及的事——在巴黎城外偷了一辆。实际上，那不过是一辆出售冰激凌的卡车，而他也开着车消失在前往伊斯坦布尔的路上。</Bio>
 		<FaceID>45</FaceID>
 	</MERC>
 	<MERC>
@@ -217,7 +215,7 @@
 		<uiIndex>25</uiIndex>
 		<NickName>Postie</NickName>
 		<Name>Jack "Postie" Durham</Name>
-		<Bio>Postie是A.I.M.为数不多后悔接纳的雇佣兵之一。话虽如此，工会对邮政服务的申诉最终进入了仲裁程序，波斯蒂得以重返岗位。不出所料，没过多久又发生了一起事件，这次就连工会也不愿意帮他。最后一次看到他时，他正在寻找一些比我们要求更低的雇佣兵组织谋求工作。</Bio>
+		<Bio>Postie是A.I.M为数不多后悔接受加入其会员的佣兵之一。尽管如此，工会对其的申诉最终还是进入了仲裁程序，Postie也重新回到了现役岗位。不料，没过多久又发生了一起事件，这次连工会也不愿意帮助他了。他最后一次露面是在那些远不如我们的组织中寻找佣兵工作。</Bio>
 		<FaceID>47</FaceID>
 	</MERC>
 	<MERC>
@@ -225,7 +223,7 @@
 		<uiIndex>26</uiIndex>
 		<NickName>Leon</NickName>
 		<Name>Col. Leon Roachburn</Name>
-		<Bio>Col. Leon Roachburn上校虽然不会是年度最佳父亲的候选人，但他是一位尽责的士兵，也是我们许多成员的良师。去年平安夜，他的房车突发油脂火灾，导致他严重烧伤。由于在可预见的未来无法重返雇佣兵工作，A.I.M.不得不终止了罗奇伯恩上校的会员资格。尽管他对我们的决定表示不满并发表了尖刻的评论，我们仍然祝愿他未来一切顺利。</Bio>
+		<Bio>Col. Leon Roachburn是一名负责任的军人，也是我们许多成员的导师。去年圣诞节前夕，他的房屋拖车在一场突如其来的火灾中被大火吞噬，导致他严重烧伤。由于在可预见的未来无法重返雇佣军工作，A.I.M被迫终止了Col. Leon Roachburn会员资格，尽管他不同意我们的决定并发表了尖锐的评论，但我们还是祝愿他在未来的努力中一切顺利。</Bio>
 		<FaceID>48</FaceID>
 	</MERC>
 	<MERC>
@@ -233,7 +231,7 @@
 		<uiIndex>27</uiIndex>
 		<NickName>Dyno</NickName>
 		<Name>Roger "Dyno" Wittman</Name>
-		<Bio>Roger很努力，真的非常努力。但他似乎就是缺少必要的锐气。可以理解的是，一些人喜欢带着他一起出任务是为了找乐子，而另一些人则喜欢和他一起清理步枪。但最终，他意识到自己并不适合这个职业。据我们最后得到的消息，戴诺正在"冰上动物秀"中担任绿河马的替补演员。</Bio>
+		<Bio>Roger尽过力，连吃奶的劲都用上了，但是他似乎就是缺少天分。可以理解，维护枪械时，总有些人愿意带着他，拿他取乐。不过最终，他意识到自己不适合这一行。我们最后听说他成为了绿河马剧团Animals on Ice剧目的一名候补演员。</Bio>
 		<FaceID>49</FaceID>
 	</MERC>
 </OLD_MERC>

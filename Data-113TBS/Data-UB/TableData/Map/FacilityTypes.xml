@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <FACILITYTYPES>
 	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
-		<szFacilityName>&#x533B;&#x9662;</szFacilityName>
-		<szFacilityShortName>&#x533B;&#x9662;</szFacilityShortName>
+		<szFacilityName>医院</szFacilityName>
+		<szFacilityShortName>医院</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>DOCTOR</ubAssignmentType>
-			<szTooltipText>&#x53EF;&#x4EE5;&#x7ED9;&#x4F60;&#x7684;&#x4F24;&#x5458;&#x63D0;&#x4F9B;&#x6CBB;&#x7597;&#xFF0C;&#x8FD9;&#x91CC;&#x6709;&#x5148;&#x8FDB;&#x7684;&#x533B;&#x7597;&#x8BBE;&#x65BD;&#xFF0C;&#x548C;&#x6280;&#x672F;&#x7CBE;&#x6E5B;&#x7684;&#x533B;&#x5E08;&#x3002; </szTooltipText>
+			<szTooltipText>可以给你的伤员提供治疗，这里有先进的医疗设施，和技术精湛的医师。 </szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usKitDegrade>40</usKitDegrade>
@@ -20,12 +20,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>2</ubIndex>
-		<szFacilityName>&#x5C0F;&#x9152;&#x5427;</szFacilityName>
-		<szFacilityShortName>&#x9152;&#x5427;</szFacilityShortName>
+		<szFacilityName>小酒吧</szFacilityName>
+		<szFacilityShortName>酒吧</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x5728;&#x8FD9;&#x91CC;&#x7684;&#x9152;&#x5427;&#x559D;&#x4E0A;&#x51E0;&#x676F;&#x5427;&#xFF01;&#x548C;&#x9547;&#x5B50;&#x91CC;&#x7684;&#x4EBA;&#x8054;&#x7EDC;&#x8054;&#x7EDC;&#x611F;&#x60C5;&#xFF0C;&#x8FD9;&#x91CC;&#x7684;&#x9152;&#x54C1;&#x7269;&#x7F8E;&#x4EF7;&#x5EC9;&#x3002;</szTooltipText>
+			<szTooltipText>在这里的酒吧喝上几杯吧！和镇子里的人联络联络感情，这里的酒品物美价廉。</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
@@ -56,19 +56,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>3</ubIndex>
-		<szFacilityName>&#x76D1;&#x72F1;</szFacilityName>
-		<szFacilityShortName>&#x76D1;&#x72F1;</szFacilityShortName>
+		<szFacilityName>监狱</szFacilityName>
+		<szFacilityShortName>监狱</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>4</ubIndex>
-		<szFacilityName>&#x5C0F;&#x578B;&#x673A;&#x573A;</szFacilityName>
-		<szFacilityShortName>&#x673A;&#x573A;</szFacilityShortName>
+		<szFacilityName>小型机场</szFacilityName>
+		<szFacilityShortName>机场</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
-			<szTooltipText>&#x53BB;&#x505A;&#x4E9B;&#x642C;&#x8FD0;&#x5DE5;&#x4F5C;&#x5427;&#xFF0C; &#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x953B;&#x70BC;&#x529B;&#x91CF;&#x7684;&#x597D;&#x673A;&#x4F1A;&#x3002;</szTooltipText>
+			<szTooltipText>去做些搬运工作吧， 这是一个锻炼力量的好机会。</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -76,12 +76,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>5</ubIndex>
-		<szFacilityName>&#x519B;&#x5DE5;&#x5382;</szFacilityName>
-		<szFacilityShortName>&#x5DE5;&#x5382;</szFacilityShortName>
+		<szFacilityName>军工厂</szFacilityName>
+		<szFacilityShortName>工厂</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x7684;&#x673A;&#x5668;&#x53EF;&#x4EE5;&#x4FEE;&#x7406;&#x5404;&#x79CD;&#x7269;&#x54C1;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x953B;&#x70BC;&#x4F60;&#x7684;&#x4FEE;&#x7406;&#x6280;&#x672F;&#xFF0C;&#x524D;&#x63D0;&#x662F;&#x4F60;&#x5F97;&#x4F1A;&#x4F7F;&#x7528;&#x8FD9;&#x4E9B;&#x673A;&#x5668;&#x3002;</szTooltipText>
+			<szTooltipText>这里的机器可以修理各种物品，你可以在这里锻炼你的修理技术，前提是你得会使用这些机器。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<usKitDegrade>30</usKitDegrade>
@@ -94,12 +94,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>6</ubIndex>
-		<szFacilityName>&#x519B;&#x8425;</szFacilityName>
-		<szFacilityShortName>&#x8425;&#x623F;</szFacilityShortName>
+		<szFacilityName>军营</szFacilityName>
+		<szFacilityShortName>营房</szFacilityShortName>
 		<ubTotalStaffLimit>10</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x597D;&#x591A;&#x597D;&#x591A;&#x7684;&#x5E8A;&#xFF0C;&#x867D;&#x7136;&#x6709;&#x70B9;&#x7B80;&#x964B;&#xFF0C;&#x4E0D;&#x8FC7;&#x4E5F;&#x6BD4;&#x5728;&#x91CE;&#x5916;&#x4F11;&#x606F;&#x5F3A;&#x5F97;&#x591A;&#x3002;</szTooltipText>
+			<szTooltipText>这里有好多好多的床，虽然有点简陋，不过也比在野外休息强得多。</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>105</usSleep>
@@ -108,12 +108,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>7</ubIndex>
-		<szFacilityName>&#x519B;&#x4E8B;&#x57FA;&#x5730;</szFacilityName>
-		<szFacilityShortName>&#x519B;&#x4E8B;&#x57FA;&#x5730;</szFacilityShortName>
+		<szFacilityName>军事基地</szFacilityName>
+		<szFacilityShortName>军事基地</szFacilityShortName>
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x5404;&#x79CD;&#x6570;&#x7801;&#x4EEA;&#x5668;&#xFF0C;&#x90FD;&#x662F;&#x4E3A;&#x4E86;&#x5E94;&#x5BF9;&#x56FD;&#x5BB6;&#x7684;&#x5404;&#x79CD;&#x7A81;&#x53D1;&#x60C5;&#x51B5;&#x800C;&#x51C6;&#x5907;&#x7684;&#x3002; &#x8FD9;&#x4E9B;&#x4EEA;&#x5668;&#x53EF;&#x4EE5;&#x5E2E;&#x52A9;&#x4F60;&#x5236;&#x5B9A;&#x4F5C;&#x6218;&#x8BA1;&#x5212;&#xFF0C; &#x4E86;&#x89E3;&#x654C;&#x519B;&#x7684;&#x52A8;&#x5411;&#x3002;</szTooltipText>
+			<szTooltipText>这里有各种数码仪器，都是为了应对国家的各种突发情况而准备的。 这些仪器可以帮助你制定作战计划， 了解敌军的动向。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fCountEnemiesInWild>1</fCountEnemiesInWild>
 			<CONDITIONS>
@@ -125,12 +125,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>8</ubIndex>
-		<szFacilityName>&#x9776;&#x573A;</szFacilityName>
-		<szFacilityShortName>&#x9776;&#x573A;</szFacilityShortName>
+		<szFacilityName>靶场</szFacilityName>
+		<szFacilityShortName>靶场</szFacilityShortName>
 		<ubTotalStaffLimit>5</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
-			<szTooltipText>&#x4E3A;&#x4EC0;&#x4E48;&#x4E0D;&#x82B1;&#x70B9;&#x65F6;&#x95F4;&#x8054;&#x7CFB;&#x4F60;&#x7684;&#x67AA;&#x6CD5;&#x5462;&#xFF1F; &#x67AA;&#x9776;&#x6B63;&#x5728;&#x90A3;&#x91CC;&#x7B49;&#x7740;&#x4F60;&#x7528;&#x5B50;&#x5F39;&#x628A;&#x4ED6;&#x4EEC;&#x7ED9;&#x6253;&#x4E0B;&#x6765;&#x5462;&#x3002; &#x8FD9;&#x80AF;&#x5B9A;&#x6BD4;&#x4F60;&#x5728;&#x91CE;&#x5916;&#x8054;&#x7CFB;&#x8981;&#x6709;&#x6548;&#x5F97;&#x591A;&#x3002;</szTooltipText>
+			<szTooltipText>为什么不花点时间联系你的枪法呢？ 枪靶正在那里等着你用子弹把他们给打下来呢。 这肯定比你在野外联系要有效得多。</szTooltipText>
 			<ubStaffLimit>5</ubStaffLimit>
 			<usPerformance>130</usPerformance>
 		</ASSIGNMENT>
@@ -138,12 +138,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>9</ubIndex>
-		<szFacilityName>&#x6D3E;&#x51FA;&#x6240;</szFacilityName>
-		<szFacilityShortName>&#x6D3E;&#x51FA;&#x6240;</szFacilityShortName>
+		<szFacilityName>派出所</szFacilityName>
+		<szFacilityShortName>派出所</szFacilityShortName>
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
-			<szTooltipText>&#x5F53;&#x5730;&#x4EBA;&#x53EF;&#x80FD;&#x613F;&#x610F;&#x4E3A;&#x4F60;&#x6253;&#x63A2;&#x9644;&#x8FD1;&#x5730;&#x533A;&#x7684;&#x60C5;&#x51B5;&#x3002; &#x4F60;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x6536;&#x96C6;&#x4FE1;&#x606F;&#x4EE5;&#x4FBF;&#x66F4;&#x597D;&#x5730;&#x638C;&#x63E1;&#x654C;&#x519B;&#x7684;&#x52A8;&#x5411;&#x3002;</szTooltipText>
+			<szTooltipText>当地人可能愿意为你打探附近地区的情况。 你可以在这里收集信息以便更好地掌握敌军的动向。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
 			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
@@ -157,19 +157,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>10</ubIndex>
-		<szFacilityName>SAM&#x5BFC;&#x5F39;&#x57FA;&#x5730;</szFacilityName>
-		<szFacilityShortName>SAM&#x5BFC;&#x5F39;&#x57FA;&#x5730;</szFacilityShortName>
+		<szFacilityName>SAM导弹基地</szFacilityName>
+		<szFacilityShortName>SAM导弹基地</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>11</ubIndex>
-		<szFacilityName>&#x77FF;&#x4E95;</szFacilityName>
-		<szFacilityShortName>&#x77FF;&#x4E95;</szFacilityShortName>
+		<szFacilityName>矿井</szFacilityName>
+		<szFacilityShortName>矿井</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
-			<szTooltipText>&#x7164;&#x77FF;&#x6B63;&#x7F3A;&#x4E4F;&#x7206;&#x7834;&#x80FD;&#x624B;&#x5462;&#xFF0C; &#x4F60;&#x53EF;&#x4EE5;&#x6765;&#x8FD9;&#x91CC;&#x7EC3;&#x4E60;&#x7206;&#x7834;&#x3002;</szTooltipText>
+			<szTooltipText>煤矿正缺乏爆破能手呢， 你可以来这里练习爆破。</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<CONDITIONS>
@@ -181,12 +181,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>12</ubIndex>
-		<szFacilityName>&#x5C0F;&#x6559;&#x5802;</szFacilityName>
-		<szFacilityShortName>&#x6559;&#x5802;</szFacilityShortName>
+		<szFacilityName>小教堂</szFacilityName>
+		<szFacilityShortName>教堂</szFacilityShortName>
 		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x5728;&#x4E00;&#x4E2A;&#x5B89;&#x9759;&#x7684;&#x5C0F;&#x6559;&#x5802;&#x91CC;&#x5949;&#x732E;&#x81EA;&#x6211;&#x80FD;&#x591F;&#x63D0;&#x5347;&#x4E00;&#x4E2A;&#x4EBA;&#x7684;&#x7CBE;&#x795E;&#x9AD8;&#x5EA6;&#x3002; &#x5F53;&#x5730;&#x4EBA;&#x4E5F;&#x4F1A;&#x5BF9;&#x4F60;&#x4EA7;&#x751F;&#x597D;&#x611F;&#xFF0C;&#x56E0;&#x4E3A;&#x4F60;&#x5C0A;&#x91CD;&#x4ED6;&#x4EEC;&#x7684;&#x751F;&#x6D3B;&#x65B9;&#x5F0F;&#x3002;</szTooltipText>
+			<szTooltipText>在一个安静的小教堂里奉献自我能够提升一个人的精神高度。 当地人也会对你产生好感，因为你尊重他们的生活方式。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<CONDITIONS>
@@ -206,12 +206,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>13</ubIndex>
-		<szFacilityName>&#x62F3;&#x51FB;&#x4FF1;&#x4E50;&#x90E8;</szFacilityName>
-		<szFacilityShortName>&#x62F3;&#x51FB;&#x4FF1;&#x4E50;&#x90E8;</szFacilityShortName>
+		<szFacilityName>拳击俱乐部</szFacilityName>
+		<szFacilityShortName>拳击俱乐部</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x5F88;&#x591A;&#x5065;&#x8EAB;&#x5668;&#x68B0;&#xFF0C; &#x5C31;&#x7B49;&#x7740;&#x4F60;&#x53BB;&#x7528;&#x4E86;&#x3002;&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x4E0D;&#x9519;&#x7684;&#x65B9;&#x6CD5;&#x53BB;&#x4FDD;&#x6301;&#x5065;&#x7F8E;&#xFF0C; &#x5BF9;&#x751F;&#x547D;&#x503C;&#x5F97;&#x953B;&#x70BC;&#x4E5F;&#x5927;&#x6709;&#x5E2E;&#x52A9;&#x3002;</szTooltipText>
+			<szTooltipText>这里有很多健身器械， 就等着你去用了。这是一个不错的方法去保持健美， 对生命值得锻炼也大有帮助。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -224,26 +224,26 @@
 
 	<FACILITYTYPE>
 		<ubIndex>14</ubIndex>
-		<szFacilityName>&#x56FD;&#x5BB6;&#x827A;&#x672F;&#x9986;</szFacilityName>
-		<szFacilityShortName>&#x827A;&#x672F;&#x9986;</szFacilityShortName>
+		<szFacilityName>国家艺术馆</szFacilityName>
+		<szFacilityShortName>艺术馆</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>15</ubIndex>
-		<szFacilityName>&#x5B9E;&#x9A8C;&#x5BA4;</szFacilityName>
-		<szFacilityShortName>&#x5B9E;&#x9A8C;&#x5BA4;</szFacilityShortName>
+		<szFacilityName>实验室</szFacilityName>
+		<szFacilityShortName>实验室</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>16</ubIndex>
-		<szFacilityName>&#x5783;&#x573E;&#x573A;</szFacilityName>
-		<szFacilityShortName>&#x5783;&#x573E;&#x573A;</szFacilityShortName>
+		<szFacilityName>垃圾场</szFacilityName>
+		<szFacilityShortName>垃圾场</szFacilityShortName>
 		<ubTotalStaffLimit>6</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -251,7 +251,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -259,7 +259,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -269,12 +269,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>17</ubIndex>
-		<szFacilityName>&#x6D77;&#x6EE9;&#x5EA6;&#x5047;&#x6751;</szFacilityName>
-		<szFacilityShortName>&#x6D77;&#x6EE9;</szFacilityShortName>
+		<szFacilityName>海滩度假村</szFacilityName>
+		<szFacilityShortName>海滩</szFacilityShortName>
 		<ubTotalStaffLimit>32</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x4EAB;&#x53D7;&#x9633;&#x5149;&#xFF0C;&#x6C99;&#x6EE9;&#xFF0C;&#x51B2;&#x6D6A;&#x3002; &#x8FD9;&#x80AF;&#x5B9A;&#x6BD4;&#x7761;&#x5728;&#x6218;&#x58D5;&#x91CC;&#x8981;&#x5F3A;&#x5F97;&#x591A;&#x3002;</szTooltipText>
+			<szTooltipText>享受阳光，沙滩，冲浪。 这肯定比睡在战壕里要强得多。</szTooltipText>
 			<ubStaffLimit>32</ubStaffLimit>
 			<sCostPerHour>15</sCostPerHour>
 			<usPerformance>200</usPerformance>
@@ -289,19 +289,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>18</ubIndex>
-		<szFacilityName>&#x8001;&#x65E7;&#x7684;&#x58EB;&#x5175;&#x8BAD;&#x7EC3;&#x8BBE;&#x65BD;&#x3002;</szFacilityName>
-		<szFacilityShortName>&#x8BAD;&#x7EC3;&#x573A;</szFacilityShortName>
+		<szFacilityName>老旧的士兵训练设施。</szFacilityName>
+		<szFacilityShortName>训练场</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>19</ubIndex>
-		<szFacilityName>&#x519B;&#x8425;</szFacilityName>
-		<szFacilityShortName>&#x8425;&#x623F;</szFacilityShortName>
+		<szFacilityName>军营</szFacilityName>
+		<szFacilityShortName>营房</szFacilityShortName>
 		<ubTotalStaffLimit>10</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x597D;&#x591A;&#x597D;&#x591A;&#x7684;&#x5E8A;&#xFF0C;&#x867D;&#x7136;&#x6709;&#x70B9;&#x7B80;&#x964B;&#xFF0C;&#x4E0D;&#x8FC7;&#x4E5F;&#x6BD4;&#x5728;&#x91CE;&#x5916;&#x4F11;&#x606F;&#x5F3A;&#x5F97;&#x591A;&#x3002;</szTooltipText>
+			<szTooltipText>这里有好多好多的床，虽然有点简陋，不过也比在野外休息强得多。</szTooltipText>
 			<ubStaffLimit>10</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>105</usSleep>
@@ -310,26 +310,26 @@
 
 	<FACILITYTYPE>
 		<ubIndex>20</ubIndex>
-		<szFacilityName>&#x5546;&#x5E97;</szFacilityName>
-		<szFacilityShortName>&#x5546;&#x5E97;</szFacilityShortName>
+		<szFacilityName>商店</szFacilityName>
+		<szFacilityShortName>商店</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>21</ubIndex>
-		<szFacilityName>&#x9690;&#x85CF;&#x7684;&#x6B66;&#x5668;&#x5E97;</szFacilityName>
-		<szFacilityShortName>&#x6B66;&#x5668;&#x5E97;</szFacilityShortName>
+		<szFacilityName>隐藏的武器店</szFacilityName>
+		<szFacilityShortName>武器店</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>22</ubIndex>
-		<szFacilityName>&#x4F53;&#x80B2;&#x9986;</szFacilityName>
-		<szFacilityShortName>&#x4F53;&#x80B2;&#x9986;</szFacilityShortName>
+		<szFacilityName>体育馆</szFacilityName>
+		<szFacilityShortName>体育馆</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
 		<ASSIGNMENT>
 			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x91CC;&#x6709;&#x5F88;&#x591A;&#x5065;&#x8EAB;&#x5668;&#x68B0;&#xFF0C; &#x5C31;&#x7B49;&#x7740;&#x4F60;&#x53BB;&#x7528;&#x4E86;&#x3002;&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x4E0D;&#x9519;&#x7684;&#x65B9;&#x6CD5;&#x53BB;&#x4FDD;&#x6301;&#x5065;&#x7F8E;&#xFF0C; &#x5BF9;&#x751F;&#x547D;&#x503C;&#x5F97;&#x953B;&#x70BC;&#x4E5F;&#x5927;&#x6709;&#x5E2E;&#x52A9;&#x3002;</szTooltipText>
+			<szTooltipText>这里有很多健身器械， 就等着你去用了。这是一个不错的方法去保持健美， 对生命值得锻炼也大有帮助。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>200</usPerformance>
 			<CONDITIONS>
@@ -342,19 +342,19 @@
 
 	<FACILITYTYPE>
 		<ubIndex>23</ubIndex>
-		<szFacilityName>&#x53D1;&#x7535;&#x5382;</szFacilityName>
-		<szFacilityShortName>&#x53D1;&#x7535;&#x5382;</szFacilityShortName>
+		<szFacilityName>发电厂</szFacilityName>
+		<szFacilityShortName>发电厂</szFacilityShortName>
 		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
 		<ubIndex>24</ubIndex>
-		<szFacilityName>&#x8F66;&#x95F4;</szFacilityName>
-		<szFacilityShortName>&#x8F66;&#x95F4;</szFacilityShortName>
+		<szFacilityName>车间</szFacilityName>
+		<szFacilityShortName>车间</szFacilityShortName>
 		<ubTotalStaffLimit>6</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>120</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -362,7 +362,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -370,7 +370,7 @@
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
-			<szTooltipText>&#x8FD9;&#x4E2A;&#x5730;&#x65B9;&#x6446;&#x6EE1;&#x4E86;&#x5404;&#x79CD;&#x96F6;&#x4EF6;&#xFF0C; &#x8FD9;&#x4E9B;&#x96F6;&#x4EF6;&#x6709;&#x52A9;&#x4E8E;&#x4FEE;&#x7406;&#x5DE5;&#x4F5C;&#x3002;</szTooltipText>
+			<szTooltipText>这个地方摆满了各种零件， 这些零件有助于修理工作。</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usPerformance>175</usPerformance>
 			<usFatigue>120</usFatigue>
@@ -380,12 +380,12 @@
 
 	<FACILITYTYPE>
 		<ubIndex>25</ubIndex>
-		<szFacilityName>&#x9690;&#x85CF;&#x7684;&#x9152;&#x5427;</szFacilityName>
-		<szFacilityShortName>&#x9152;&#x5427;</szFacilityShortName>
+		<szFacilityName>隐藏的酒吧</szFacilityName>
+		<szFacilityShortName>酒吧</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
-			<szTooltipText>&#x5728;&#x8FD9;&#x91CC;&#x7684;&#x9152;&#x5427;&#x559D;&#x4E0A;&#x51E0;&#x676F;&#x5427;&#xFF01;&#x548C;&#x9547;&#x5B50;&#x91CC;&#x7684;&#x4EBA;&#x8054;&#x7EDC;&#x8054;&#x7EDC;&#x611F;&#x60C5;&#xFF0C;&#x8FD9;&#x91CC;&#x7684;&#x9152;&#x54C1;&#x7269;&#x7F8E;&#x4EF7;&#x5EC9;&#x3002;</szTooltipText>
+			<szTooltipText>在这里的酒吧喝上几杯吧！和镇子里的人联络联络感情，这里的酒品物美价廉。</szTooltipText>
 			<ubStaffLimit>4</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<sCostPerHour>15</sCostPerHour>
