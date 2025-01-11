@@ -15,12 +15,12 @@ Fields index:
 <MINERALS>
 	<TYPE>
 		<uiIndex>0</uiIndex>
-		<sNameType>Mine</sNameType>
-		<sMineral>Silver</sMineral>
+		<sNameType>矿井</sNameType>
+		<sMineral>银矿</sMineral>
 	</TYPE>
 	<TYPE>
 		<uiIndex>1</uiIndex>
-		<sNameType>Mine</sNameType>
-		<sMineral>Gold</sMineral>
+		<sNameType>矿井</sNameType>
+		<sMineral>银矿</sMineral>
 	</TYPE>
 </MINERALS>
