@@ -1,0 +1,1024 @@
+A1:SECTOR/szUnexploredName:热带
+A1:SECTOR/szDetailedUnexploredName:热带, 海岸
+A1:SECTOR/szExploredName:热带
+A1:SECTOR/szDetailedExploredName:热带, 海岸
+A2:SECTOR/szUnexploredName:奇岑纳
+A2:SECTOR/szDetailedUnexploredName:奇岑纳
+A2:SECTOR/szExploredName:神庙
+A2:SECTOR/szDetailedExploredName:奇岑纳神庙
+A3:SECTOR/szUnexploredName:平原
+A3:SECTOR/szDetailedUnexploredName:平原
+A3:SECTOR/szExploredName:平原
+A3:SECTOR/szDetailedExploredName:平原
+A4:SECTOR/szUnexploredName:未知
+A4:SECTOR/szDetailedUnexploredName:未知
+A4:SECTOR/szExploredName:未知
+A4:SECTOR/szDetailedExploredName:未知
+A5:SECTOR/szUnexploredName:未知
+A5:SECTOR/szDetailedUnexploredName:未知
+A5:SECTOR/szExploredName:未知
+A5:SECTOR/szDetailedExploredName:未知
+A6:SECTOR/szUnexploredName:山脉
+A6:SECTOR/szDetailedUnexploredName:山脉
+A6:SECTOR/szExploredName:山脉
+A6:SECTOR/szDetailedExploredName:山脉
+A7:SECTOR/szUnexploredName:山脉
+A7:SECTOR/szDetailedUnexploredName:山脉
+A7:SECTOR/szExploredName:山脉
+A7:SECTOR/szDetailedExploredName:山脉
+A8:SECTOR/szUnexploredName:丘陵
+A8:SECTOR/szDetailedUnexploredName:丘陵
+A8:SECTOR/szExploredName:丘陵
+A8:SECTOR/szDetailedExploredName:丘陵
+A9:SECTOR/szUnexploredName:奥梅尔塔
+A9:SECTOR/szDetailedUnexploredName:奥梅尔塔
+A9:SECTOR/szExploredName:奥梅尔塔
+A9:SECTOR/szDetailedExploredName:奥梅尔塔
+A10:SECTOR/szUnexploredName:奥梅尔塔
+A10:SECTOR/szDetailedUnexploredName:奥梅尔塔
+A10:SECTOR/szExploredName:叛军藏身处
+A10:SECTOR/szDetailedExploredName:奥梅尔塔叛军藏身处
+A11:SECTOR/szUnexploredName:农田
+A11:SECTOR/szDetailedUnexploredName:农田
+A11:SECTOR/szExploredName:农田
+A11:SECTOR/szDetailedExploredName:农田
+A12:SECTOR/szUnexploredName:森林
+A12:SECTOR/szDetailedUnexploredName:森林
+A12:SECTOR/szExploredName:森林
+A12:SECTOR/szDetailedExploredName:森林
+A13:SECTOR/szUnexploredName:树林
+A13:SECTOR/szDetailedUnexploredName:树林
+A13:SECTOR/szExploredName:树林
+A13:SECTOR/szDetailedExploredName:树林
+A14:SECTOR/szUnexploredName:平原
+A14:SECTOR/szDetailedUnexploredName:平原
+A14:SECTOR/szExploredName:平原
+A14:SECTOR/szDetailedExploredName:平原
+A15:SECTOR/szUnexploredName:森林
+A15:SECTOR/szDetailedUnexploredName:森林
+A15:SECTOR/szExploredName:森林
+A15:SECTOR/szDetailedExploredName:森林
+A16:SECTOR/szUnexploredName:未知
+A16:SECTOR/szDetailedUnexploredName:未知
+A16:SECTOR/szExploredName:未知
+A16:SECTOR/szDetailedExploredName:未知
+B1:SECTOR/szUnexploredName:热带
+B1:SECTOR/szDetailedUnexploredName:热带, 海岸
+B1:SECTOR/szExploredName:热带
+B1:SECTOR/szDetailedExploredName:热带, 海岸
+B2:SECTOR/szUnexploredName:奇岑纳矿场
+B2:SECTOR/szDetailedUnexploredName:奇岑纳矿场
+B2:SECTOR/szExploredName:奇岑纳矿场
+B2:SECTOR/szDetailedExploredName:奇岑纳矿场
+B3:SECTOR/szUnexploredName:树林
+B3:SECTOR/szDetailedUnexploredName:树林
+B3:SECTOR/szExploredName:树林
+B3:SECTOR/szDetailedExploredName:树林
+B4:SECTOR/szUnexploredName:树林
+B4:SECTOR/szDetailedUnexploredName:树林, 湖泊
+B4:SECTOR/szExploredName:树林
+B4:SECTOR/szDetailedExploredName:树林, 湖泊
+B5:SECTOR/szUnexploredName:农田
+B5:SECTOR/szDetailedUnexploredName:农田
+B5:SECTOR/szExploredName:农田
+B5:SECTOR/szDetailedExploredName:农田
+B6:SECTOR/szUnexploredName:农田
+B6:SECTOR/szDetailedUnexploredName:农田
+B6:SECTOR/szExploredName:农田
+B6:SECTOR/szDetailedExploredName:农田
+B7:SECTOR/szUnexploredName:平原
+B7:SECTOR/szDetailedUnexploredName:平原
+B7:SECTOR/szExploredName:平原
+B7:SECTOR/szDetailedExploredName:平原
+B8:SECTOR/szUnexploredName:农田
+B8:SECTOR/szDetailedUnexploredName:农田
+B8:SECTOR/szExploredName:农田
+B8:SECTOR/szDetailedExploredName:农田
+B9:SECTOR/szUnexploredName:平原, 道路
+B9:SECTOR/szDetailedUnexploredName:平原, 道路
+B9:SECTOR/szExploredName:平原, 道路
+B9:SECTOR/szDetailedExploredName:平原, 道路
+B10:SECTOR/szUnexploredName:树林, 道路
+B10:SECTOR/szDetailedUnexploredName:树林, 道路
+B10:SECTOR/szExploredName:树林, 道路
+B10:SECTOR/szDetailedExploredName:树林, 道路
+B11:SECTOR/szUnexploredName:树林, 道路
+B11:SECTOR/szDetailedUnexploredName:树林, 道路
+B11:SECTOR/szExploredName:树林, 道路
+B11:SECTOR/szDetailedExploredName:树林, 道路
+B12:SECTOR/szUnexploredName:农场, 道路
+B12:SECTOR/szDetailedUnexploredName:农田, 道路
+B12:SECTOR/szExploredName:农场, 道路
+B12:SECTOR/szDetailedExploredName:农田, 道路
+B13:SECTOR/szUnexploredName:德拉森机场
+B13:SECTOR/szDetailedUnexploredName:德拉森机场
+B13:SECTOR/szExploredName:德拉森机场
+B13:SECTOR/szDetailedExploredName:德拉森机场
+B14:SECTOR/szUnexploredName:湖泊
+B14:SECTOR/szDetailedUnexploredName:湖泊
+B14:SECTOR/szExploredName:湖泊
+B14:SECTOR/szDetailedExploredName:湖泊
+B15:SECTOR/szUnexploredName:湖泊
+B15:SECTOR/szDetailedUnexploredName:湖泊, 沼泽
+B15:SECTOR/szExploredName:湖泊
+B15:SECTOR/szDetailedExploredName:湖泊, 沼泽
+B16:SECTOR/szUnexploredName:森林
+B16:SECTOR/szDetailedUnexploredName:森林
+B16:SECTOR/szExploredName:森林
+B16:SECTOR/szDetailedExploredName:森林
+C1:SECTOR/szUnexploredName:热带
+C1:SECTOR/szDetailedUnexploredName:热带, 海岸
+C1:SECTOR/szExploredName:热带
+C1:SECTOR/szDetailedExploredName:热带, 海岸
+C2:SECTOR/szUnexploredName:热带, 道路
+C2:SECTOR/szDetailedUnexploredName:热带, 道路
+C2:SECTOR/szExploredName:热带, 道路
+C2:SECTOR/szDetailedExploredName:热带, 道路
+C3:SECTOR/szUnexploredName:平原, 道路
+C3:SECTOR/szDetailedUnexploredName:平原, 道路
+C3:SECTOR/szExploredName:平原, 道路
+C3:SECTOR/szDetailedExploredName:平原, 道路
+C4:SECTOR/szUnexploredName:树林
+C4:SECTOR/szDetailedUnexploredName:树林
+C4:SECTOR/szExploredName:树林
+C4:SECTOR/szDetailedExploredName:树林
+C5:SECTOR/szUnexploredName:圣莫纳
+C5:SECTOR/szDetailedUnexploredName:圣莫纳
+C5:SECTOR/szExploredName:夜店区
+C5:SECTOR/szDetailedExploredName:圣莫纳夜店区
+C6:SECTOR/szUnexploredName:圣莫纳
+C6:SECTOR/szDetailedUnexploredName:圣莫纳
+C6:SECTOR/szExploredName:圣莫纳
+C6:SECTOR/szDetailedExploredName:圣莫纳
+C7:SECTOR/szUnexploredName:平原, 道路
+C7:SECTOR/szDetailedUnexploredName:平原, 道路
+C7:SECTOR/szExploredName:平原, 道路
+C7:SECTOR/szDetailedExploredName:平原, 道路
+C8:SECTOR/szUnexploredName:树林
+C8:SECTOR/szDetailedUnexploredName:树林, 道路
+C8:SECTOR/szExploredName:树林
+C8:SECTOR/szDetailedExploredName:树林, 道路
+C9:SECTOR/szUnexploredName:平原, 道路
+C9:SECTOR/szDetailedUnexploredName:平原, 道路
+C9:SECTOR/szExploredName:平原, 道路
+C9:SECTOR/szDetailedExploredName:平原, 道路
+C10:SECTOR/szUnexploredName:树林
+C10:SECTOR/szDetailedUnexploredName:树林
+C10:SECTOR/szExploredName:树林
+C10:SECTOR/szDetailedExploredName:树林
+C11:SECTOR/szUnexploredName:森林
+C11:SECTOR/szDetailedUnexploredName:森林
+C11:SECTOR/szExploredName:森林
+C11:SECTOR/szDetailedExploredName:森林
+C12:SECTOR/szUnexploredName:树林
+C12:SECTOR/szDetailedUnexploredName:树林
+C12:SECTOR/szExploredName:树林
+C12:SECTOR/szDetailedExploredName:树林
+C13:SECTOR/szUnexploredName:德拉森
+C13:SECTOR/szDetailedUnexploredName:德拉森
+C13:SECTOR/szExploredName:工厂
+C13:SECTOR/szDetailedExploredName:德拉森工厂
+C14:SECTOR/szUnexploredName:湖泊
+C14:SECTOR/szDetailedUnexploredName:湖泊
+C14:SECTOR/szExploredName:湖泊
+C14:SECTOR/szDetailedExploredName:湖泊
+C15:SECTOR/szUnexploredName:湖泊
+C15:SECTOR/szDetailedUnexploredName:湖泊, 沼泽
+C15:SECTOR/szExploredName:湖泊
+C15:SECTOR/szDetailedExploredName:湖泊, 沼泽
+C16:SECTOR/szUnexploredName:沼泽
+C16:SECTOR/szDetailedUnexploredName:沼泽
+C16:SECTOR/szExploredName:沼泽
+C16:SECTOR/szDetailedExploredName:沼泽
+D1:SECTOR/szUnexploredName:无法通行
+D1:SECTOR/szDetailedUnexploredName:无法通行
+D1:SECTOR/szExploredName:无法通行
+D1:SECTOR/szDetailedExploredName:无法通行
+D2:SECTOR/szUnexploredName:热带
+D2:SECTOR/szDetailedUnexploredName:热带
+D2:SECTOR/szExploredName:SAM站点
+D2:SECTOR/szDetailedExploredName:热带, SAM站点
+D3:SECTOR/szUnexploredName:平原, 道路
+D3:SECTOR/szDetailedUnexploredName:平原, 道路
+D3:SECTOR/szExploredName:平原, 道路
+D3:SECTOR/szDetailedExploredName:平原, 道路
+D4:SECTOR/szUnexploredName:圣莫纳矿场
+D4:SECTOR/szDetailedUnexploredName:圣莫纳矿场
+D4:SECTOR/szExploredName:废弃矿场
+D4:SECTOR/szDetailedExploredName:圣莫纳废弃矿场
+D5:SECTOR/szUnexploredName:圣莫纳
+D5:SECTOR/szDetailedUnexploredName:圣莫纳
+D5:SECTOR/szExploredName:金主的住所
+D5:SECTOR/szDetailedExploredName:圣莫纳金主的住所
+D6:SECTOR/szUnexploredName:农场, 道路
+D6:SECTOR/szDetailedUnexploredName:农田, 道路
+D6:SECTOR/szExploredName:农场, 道路
+D6:SECTOR/szDetailedExploredName:农田, 道路
+D7:SECTOR/szUnexploredName:森林, 道路
+D7:SECTOR/szDetailedUnexploredName:森林, 道路
+D7:SECTOR/szExploredName:森林, 道路
+D7:SECTOR/szDetailedExploredName:森林, 道路
+D8:SECTOR/szUnexploredName:湖泊
+D8:SECTOR/szDetailedUnexploredName:湖泊
+D8:SECTOR/szExploredName:湖泊
+D8:SECTOR/szDetailedExploredName:湖泊
+D9:SECTOR/szUnexploredName:平原, 道路
+D9:SECTOR/szDetailedUnexploredName:平原, 道路
+D9:SECTOR/szExploredName:平原, 道路
+D9:SECTOR/szDetailedExploredName:平原, 道路
+D10:SECTOR/szUnexploredName:树林
+D10:SECTOR/szDetailedUnexploredName:树林, 湖泊
+D10:SECTOR/szExploredName:树林
+D10:SECTOR/szDetailedExploredName:树林, 湖泊
+D11:SECTOR/szUnexploredName:树林
+D11:SECTOR/szDetailedUnexploredName:树林
+D11:SECTOR/szExploredName:树林
+D11:SECTOR/szDetailedExploredName:树林
+D12:SECTOR/szUnexploredName:沼泽
+D12:SECTOR/szDetailedUnexploredName:沼泽
+D12:SECTOR/szExploredName:沼泽
+D12:SECTOR/szDetailedExploredName:沼泽
+D13:SECTOR/szUnexploredName:德拉森矿场
+D13:SECTOR/szDetailedUnexploredName:德拉森矿场
+D13:SECTOR/szExploredName:德拉森矿场
+D13:SECTOR/szDetailedExploredName:德拉森矿场
+D14:SECTOR/szUnexploredName:湖泊
+D14:SECTOR/szDetailedUnexploredName:湖泊
+D14:SECTOR/szExploredName:湖泊
+D14:SECTOR/szDetailedExploredName:湖泊
+D15:SECTOR/szUnexploredName:树林
+D15:SECTOR/szDetailedUnexploredName:树林
+D15:SECTOR/szExploredName:SAM站点
+D15:SECTOR/szDetailedExploredName:树林, SAM站点
+D16:SECTOR/szUnexploredName:森林
+D16:SECTOR/szDetailedUnexploredName:森林
+D16:SECTOR/szExploredName:森林
+D16:SECTOR/szDetailedExploredName:森林
+E1:SECTOR/szUnexploredName:无法通行
+E1:SECTOR/szDetailedUnexploredName:无法通行
+E1:SECTOR/szExploredName:无法通行
+E1:SECTOR/szDetailedExploredName:无法通行
+E2:SECTOR/szUnexploredName:热带
+E2:SECTOR/szDetailedUnexploredName:热带, 海岸
+E2:SECTOR/szExploredName:热带
+E2:SECTOR/szDetailedExploredName:热带, 海岸
+E3:SECTOR/szUnexploredName:平原, 道路
+E3:SECTOR/szDetailedUnexploredName:平原, 道路
+E3:SECTOR/szExploredName:平原, 道路
+E3:SECTOR/szDetailedExploredName:平原, 道路
+E4:SECTOR/szUnexploredName:平原
+E4:SECTOR/szDetailedUnexploredName:平原
+E4:SECTOR/szExploredName:平原
+E4:SECTOR/szDetailedExploredName:平原
+E5:SECTOR/szUnexploredName:山脉
+E5:SECTOR/szDetailedUnexploredName:山脉
+E5:SECTOR/szExploredName:山脉
+E5:SECTOR/szDetailedExploredName:山脉
+E6:SECTOR/szUnexploredName:平原
+E6:SECTOR/szDetailedUnexploredName:平原
+E6:SECTOR/szExploredName:平原
+E6:SECTOR/szDetailedExploredName:平原
+E7:SECTOR/szUnexploredName:农场, 道路
+E7:SECTOR/szDetailedUnexploredName:农场, 道路
+E7:SECTOR/szExploredName:农场, 道路
+E7:SECTOR/szDetailedExploredName:农场, 道路
+E8:SECTOR/szUnexploredName:农田
+E8:SECTOR/szDetailedUnexploredName:农田
+E8:SECTOR/szExploredName:农田
+E8:SECTOR/szDetailedExploredName:农田
+E9:SECTOR/szUnexploredName:湖泊, 道路
+E9:SECTOR/szDetailedUnexploredName:湖泊, 道路
+E9:SECTOR/szExploredName:湖泊, 道路
+E9:SECTOR/szDetailedExploredName:湖泊, 道路
+E10:SECTOR/szUnexploredName:沼泽
+E10:SECTOR/szDetailedUnexploredName:湖泊, 沼泽
+E10:SECTOR/szExploredName:沼泽
+E10:SECTOR/szDetailedExploredName:湖泊, 沼泽
+E11:SECTOR/szUnexploredName:树林
+E11:SECTOR/szDetailedUnexploredName:树林
+E11:SECTOR/szExploredName:树林
+E11:SECTOR/szDetailedExploredName:树林
+E12:SECTOR/szUnexploredName:河流, 道路
+E12:SECTOR/szDetailedUnexploredName:河流, 道路
+E12:SECTOR/szExploredName:河流, 道路
+E12:SECTOR/szDetailedExploredName:河流, 道路
+E13:SECTOR/szUnexploredName:河流, 道路
+E13:SECTOR/szDetailedUnexploredName:河流, 道路
+E13:SECTOR/szExploredName:河流, 道路
+E13:SECTOR/szDetailedExploredName:河流, 道路
+E14:SECTOR/szUnexploredName:河流, 沼泽
+E14:SECTOR/szDetailedUnexploredName:河流, 沼泽
+E14:SECTOR/szExploredName:河流, 沼泽
+E14:SECTOR/szDetailedExploredName:河流, 沼泽
+E15:SECTOR/szUnexploredName:森林, 道路
+E15:SECTOR/szDetailedUnexploredName:森林, 道路
+E15:SECTOR/szExploredName:森林, 道路
+E15:SECTOR/szDetailedExploredName:森林, 道路
+E16:SECTOR/szUnexploredName:未知
+E16:SECTOR/szDetailedUnexploredName:未知
+E16:SECTOR/szExploredName:未知
+E16:SECTOR/szDetailedExploredName:未知
+F1:SECTOR/szUnexploredName:无法通行
+F1:SECTOR/szDetailedUnexploredName:无法通行
+F1:SECTOR/szExploredName:无法通行
+F1:SECTOR/szDetailedExploredName:无法通行
+F2:SECTOR/szUnexploredName:海岸
+F2:SECTOR/szDetailedUnexploredName:海岸, 河流
+F2:SECTOR/szExploredName:海岸
+F2:SECTOR/szDetailedExploredName:海岸, 河流
+F3:SECTOR/szUnexploredName:河流, 道路
+F3:SECTOR/szDetailedUnexploredName:河流, 道路
+F3:SECTOR/szExploredName:河流, 道路
+F3:SECTOR/szDetailedExploredName:河流, 道路
+F4:SECTOR/szUnexploredName:河流, 山脉
+F4:SECTOR/szDetailedUnexploredName:河流, 山脉
+F4:SECTOR/szExploredName:河流, 山脉
+F4:SECTOR/szDetailedExploredName:河流, 山脉
+F5:SECTOR/szUnexploredName:山脉
+F5:SECTOR/szDetailedUnexploredName:山脉
+F5:SECTOR/szExploredName:山脉
+F5:SECTOR/szDetailedExploredName:山脉
+F6:SECTOR/szUnexploredName:山脉
+F6:SECTOR/szDetailedUnexploredName:山脉
+F6:SECTOR/szExploredName:山脉
+F6:SECTOR/szDetailedExploredName:山脉
+F7:SECTOR/szUnexploredName:树林, 道路
+F7:SECTOR/szDetailedUnexploredName:树林, 道路
+F7:SECTOR/szExploredName:树林, 道路
+F7:SECTOR/szDetailedExploredName:树林, 道路
+F8:SECTOR/szUnexploredName:坎布里亚
+F8:SECTOR/szDetailedUnexploredName:坎布里亚
+F8:SECTOR/szExploredName:医院
+F8:SECTOR/szDetailedExploredName:坎布里亚医院
+F9:SECTOR/szUnexploredName:坎布里亚
+F9:SECTOR/szDetailedUnexploredName:坎布里亚
+F9:SECTOR/szExploredName:大学
+F9:SECTOR/szDetailedExploredName:坎布里亚大学
+F10:SECTOR/szUnexploredName:农田
+F10:SECTOR/szDetailedUnexploredName:农田
+F10:SECTOR/szExploredName:希克农场
+F10:SECTOR/szDetailedExploredName:希克农场
+F11:SECTOR/szUnexploredName:平原
+F11:SECTOR/szDetailedUnexploredName:平原
+F11:SECTOR/szExploredName:平原
+F11:SECTOR/szDetailedExploredName:平原
+F12:SECTOR/szUnexploredName:树林, 道路
+F12:SECTOR/szDetailedUnexploredName:树林, 道路
+F12:SECTOR/szExploredName:树林, 道路
+F12:SECTOR/szDetailedExploredName:树林, 道路
+F13:SECTOR/szUnexploredName:河流, 树林
+F13:SECTOR/szDetailedUnexploredName:河流, 树林
+F13:SECTOR/szExploredName:河流, 树林
+F13:SECTOR/szDetailedExploredName:河流, 树林
+F14:SECTOR/szUnexploredName:河流, 道路
+F14:SECTOR/szDetailedUnexploredName:河流, 道路
+F14:SECTOR/szExploredName:河流, 道路
+F14:SECTOR/szDetailedExploredName:河流, 道路
+F15:SECTOR/szUnexploredName:森林, 道路
+F15:SECTOR/szDetailedUnexploredName:森林, 道路
+F15:SECTOR/szExploredName:森林, 道路
+F15:SECTOR/szDetailedExploredName:森林, 道路
+F16:SECTOR/szUnexploredName:未知
+F16:SECTOR/szDetailedUnexploredName:未知
+F16:SECTOR/szExploredName:未知
+F16:SECTOR/szDetailedExploredName:未知
+G1:SECTOR/szUnexploredName:格鲁姆
+G1:SECTOR/szDetailedUnexploredName:格鲁姆
+G1:SECTOR/szExploredName:格鲁姆
+G1:SECTOR/szDetailedExploredName:格鲁姆
+G2:SECTOR/szUnexploredName:格鲁姆
+G2:SECTOR/szDetailedUnexploredName:格鲁姆
+G2:SECTOR/szExploredName:仓库
+G2:SECTOR/szDetailedExploredName:格鲁姆仓库
+G3:SECTOR/szUnexploredName:海岸, 道路
+G3:SECTOR/szDetailedUnexploredName:海岸, 道路
+G3:SECTOR/szExploredName:海岸, 道路
+G3:SECTOR/szDetailedExploredName:海岸, 道路
+G4:SECTOR/szUnexploredName:森林, 道路
+G4:SECTOR/szDetailedUnexploredName:森林, 道路
+G4:SECTOR/szExploredName:森林, 道路
+G4:SECTOR/szDetailedExploredName:森林, 道路
+G5:SECTOR/szUnexploredName:山脉, 道路
+G5:SECTOR/szDetailedUnexploredName:山脉, 道路
+G5:SECTOR/szExploredName:山脉, 道路
+G5:SECTOR/szDetailedExploredName:山脉, 道路
+G6:SECTOR/szUnexploredName:山脉, 道路
+G6:SECTOR/szDetailedUnexploredName:山脉, 道路
+G6:SECTOR/szExploredName:山脉, 道路
+G6:SECTOR/szDetailedExploredName:山脉, 道路
+G7:SECTOR/szUnexploredName:农场, 道路
+G7:SECTOR/szDetailedUnexploredName:农田, 道路
+G7:SECTOR/szExploredName:农场, 道路
+G7:SECTOR/szDetailedExploredName:农田, 道路
+G8:SECTOR/szUnexploredName:坎布里亚
+G8:SECTOR/szDetailedUnexploredName:坎布里亚
+G8:SECTOR/szExploredName:居民区
+G8:SECTOR/szDetailedExploredName:坎布里亚居民区
+G9:SECTOR/szUnexploredName:坎布里亚
+G9:SECTOR/szDetailedUnexploredName:坎布里亚
+G9:SECTOR/szExploredName:居民区
+G9:SECTOR/szDetailedExploredName:坎布里亚居民区
+G10:SECTOR/szUnexploredName:平原, 道路
+G10:SECTOR/szDetailedUnexploredName:平原, 道路
+G10:SECTOR/szExploredName:平原, 道路
+G10:SECTOR/szDetailedExploredName:平原, 道路
+G11:SECTOR/szUnexploredName:沙漠, 道路
+G11:SECTOR/szDetailedUnexploredName:沙漠, 道路
+G11:SECTOR/szExploredName:沙漠, 道路
+G11:SECTOR/szDetailedExploredName:沙漠, 道路
+G12:SECTOR/szUnexploredName:平原, 道路
+G12:SECTOR/szDetailedUnexploredName:平原, 道路
+G12:SECTOR/szExploredName:平原, 道路
+G12:SECTOR/szDetailedExploredName:平原, 道路
+G13:SECTOR/szUnexploredName:平原
+G13:SECTOR/szDetailedUnexploredName:平原
+G13:SECTOR/szExploredName:平原
+G13:SECTOR/szDetailedExploredName:平原
+G14:SECTOR/szUnexploredName:平原, 道路
+G14:SECTOR/szDetailedUnexploredName:平原, 道路
+G14:SECTOR/szExploredName:平原, 道路
+G14:SECTOR/szDetailedExploredName:平原, 道路
+G15:SECTOR/szUnexploredName:河流, 森林
+G15:SECTOR/szDetailedUnexploredName:河流, 森林
+G15:SECTOR/szExploredName:河流, 森林
+G15:SECTOR/szDetailedExploredName:河流, 森林
+G16:SECTOR/szUnexploredName:河流, 沼泽
+G16:SECTOR/szDetailedUnexploredName:河流, 沼泽
+G16:SECTOR/szExploredName:河流, 沼泽
+G16:SECTOR/szDetailedExploredName:河流, 沼泽
+H1:SECTOR/szUnexploredName:格鲁姆
+H1:SECTOR/szDetailedUnexploredName:格鲁姆
+H1:SECTOR/szExploredName:格鲁姆
+H1:SECTOR/szDetailedExploredName:格鲁姆
+H2:SECTOR/szUnexploredName:格鲁姆
+H2:SECTOR/szDetailedUnexploredName:格鲁姆
+H2:SECTOR/szExploredName:工厂
+H2:SECTOR/szDetailedExploredName:格鲁姆工厂
+H3:SECTOR/szUnexploredName:格鲁姆矿场
+H3:SECTOR/szDetailedUnexploredName:格鲁姆矿场
+H3:SECTOR/szExploredName:格鲁姆矿场
+H3:SECTOR/szDetailedExploredName:格鲁姆矿场
+H4:SECTOR/szUnexploredName:森林
+H4:SECTOR/szDetailedUnexploredName:森林
+H4:SECTOR/szExploredName:森林
+H4:SECTOR/szDetailedExploredName:森林
+H5:SECTOR/szUnexploredName:山脉
+H5:SECTOR/szDetailedUnexploredName:山脉
+H5:SECTOR/szExploredName:山脉
+H5:SECTOR/szDetailedExploredName:山脉
+H6:SECTOR/szUnexploredName:山脉, 道路
+H6:SECTOR/szDetailedUnexploredName:山脉, 道路
+H6:SECTOR/szExploredName:山脉, 道路
+H6:SECTOR/szDetailedExploredName:山脉, 道路
+H7:SECTOR/szUnexploredName:平原
+H7:SECTOR/szDetailedUnexploredName:平原
+H7:SECTOR/szExploredName:平原
+H7:SECTOR/szDetailedExploredName:平原
+H8:SECTOR/szUnexploredName:坎布里亚矿场
+H8:SECTOR/szDetailedUnexploredName:坎布里亚矿场
+H8:SECTOR/szExploredName:坎布里亚矿场
+H8:SECTOR/szDetailedExploredName:坎布里亚矿场
+H9:SECTOR/szUnexploredName:平原
+H9:SECTOR/szDetailedUnexploredName:平原
+H9:SECTOR/szExploredName:平原
+H9:SECTOR/szDetailedExploredName:平原
+H10:SECTOR/szUnexploredName:沙漠
+H10:SECTOR/szDetailedUnexploredName:沙漠
+H10:SECTOR/szExploredName:沙漠
+H10:SECTOR/szDetailedExploredName:沙漠
+H11:SECTOR/szUnexploredName:沙漠
+H11:SECTOR/szDetailedUnexploredName:沙漠
+H11:SECTOR/szExploredName:沙漠
+H11:SECTOR/szDetailedExploredName:沙漠
+H12:SECTOR/szUnexploredName:平原, 道路
+H12:SECTOR/szDetailedUnexploredName:平原, 道路
+H12:SECTOR/szExploredName:平原, 道路
+H12:SECTOR/szDetailedExploredName:平原, 道路
+H13:SECTOR/szUnexploredName:阿尔玛
+H13:SECTOR/szDetailedUnexploredName:阿尔玛
+H13:SECTOR/szExploredName:军事总部
+H13:SECTOR/szDetailedExploredName:阿尔玛军事总部
+H14:SECTOR/szUnexploredName:阿尔玛
+H14:SECTOR/szDetailedUnexploredName:阿尔玛
+H14:SECTOR/szExploredName:仓库
+H14:SECTOR/szDetailedExploredName:阿尔玛仓库
+H15:SECTOR/szUnexploredName:河流, 沼泽
+H15:SECTOR/szDetailedUnexploredName:河流, 沼泽
+H15:SECTOR/szExploredName:河流, 沼泽
+H15:SECTOR/szDetailedExploredName:河流, 沼泽
+H16:SECTOR/szUnexploredName:河流, 树林
+H16:SECTOR/szDetailedUnexploredName:河流, 树林
+H16:SECTOR/szExploredName:河流, 树林
+H16:SECTOR/szDetailedExploredName:河流, 树林
+I1:SECTOR/szUnexploredName:无法通行
+I1:SECTOR/szDetailedUnexploredName:无法通行
+I1:SECTOR/szExploredName:无法通行
+I1:SECTOR/szDetailedExploredName:无法通行
+I2:SECTOR/szUnexploredName:无法通行
+I2:SECTOR/szDetailedUnexploredName:无法通行
+I2:SECTOR/szExploredName:无法通行
+I2:SECTOR/szDetailedExploredName:无法通行
+I3:SECTOR/szUnexploredName:海岸, 道路
+I3:SECTOR/szDetailedUnexploredName:海岸, 道路
+I3:SECTOR/szExploredName:海岸, 道路
+I3:SECTOR/szDetailedExploredName:海岸, 道路
+I4:SECTOR/szUnexploredName:湖泊
+I4:SECTOR/szDetailedUnexploredName:湖泊
+I4:SECTOR/szExploredName:湖泊
+I4:SECTOR/szDetailedExploredName:湖泊
+I5:SECTOR/szUnexploredName:树林
+I5:SECTOR/szDetailedUnexploredName:树林
+I5:SECTOR/szExploredName:树林
+I5:SECTOR/szDetailedExploredName:树林
+I6:SECTOR/szUnexploredName:埃斯托尼
+I6:SECTOR/szDetailedUnexploredName:埃斯托尼
+I6:SECTOR/szExploredName:加油站
+I6:SECTOR/szDetailedExploredName:埃斯托尼加油站
+I7:SECTOR/szUnexploredName:树林
+I7:SECTOR/szDetailedUnexploredName:树林
+I7:SECTOR/szExploredName:树林
+I7:SECTOR/szDetailedExploredName:树林
+I8:SECTOR/szUnexploredName:沙漠
+I8:SECTOR/szDetailedUnexploredName:沙漠
+I8:SECTOR/szExploredName:SAM站点
+I8:SECTOR/szDetailedExploredName:沙漠, SAM站点
+I9:SECTOR/szUnexploredName:沙漠
+I9:SECTOR/szDetailedUnexploredName:沙漠
+I9:SECTOR/szExploredName:沙漠
+I9:SECTOR/szDetailedExploredName:沙漠
+I10:SECTOR/szUnexploredName:沙漠
+I10:SECTOR/szDetailedUnexploredName:沙漠
+I10:SECTOR/szExploredName:沙漠
+I10:SECTOR/szDetailedExploredName:沙漠
+I11:SECTOR/szUnexploredName:平原
+I11:SECTOR/szDetailedUnexploredName:平原
+I11:SECTOR/szExploredName:平原
+I11:SECTOR/szDetailedExploredName:平原
+I12:SECTOR/szUnexploredName:平原
+I12:SECTOR/szDetailedUnexploredName:平原
+I12:SECTOR/szExploredName:平原
+I12:SECTOR/szDetailedExploredName:平原
+I13:SECTOR/szUnexploredName:阿尔玛
+I13:SECTOR/szDetailedUnexploredName:阿尔玛
+I13:SECTOR/szExploredName:监狱
+I13:SECTOR/szDetailedExploredName:阿尔玛监狱
+I14:SECTOR/szUnexploredName:阿尔玛矿场
+I14:SECTOR/szDetailedUnexploredName:阿尔玛矿场
+I14:SECTOR/szExploredName:阿尔玛矿场
+I14:SECTOR/szDetailedExploredName:阿尔玛矿场
+I15:SECTOR/szUnexploredName:河流, 树林
+I15:SECTOR/szDetailedUnexploredName:河流, 树林
+I15:SECTOR/szExploredName:河流, 树林
+I15:SECTOR/szDetailedExploredName:河流, 树林
+I16:SECTOR/szUnexploredName:树林
+I16:SECTOR/szDetailedUnexploredName:树林
+I16:SECTOR/szExploredName:血猫巢穴
+I16:SECTOR/szDetailedExploredName:血猫巢穴
+J1:SECTOR/szUnexploredName:无法通行
+J1:SECTOR/szDetailedUnexploredName:无法通行
+J1:SECTOR/szExploredName:无法通行
+J1:SECTOR/szDetailedExploredName:无法通行
+J2:SECTOR/szUnexploredName:海岸, 道路
+J2:SECTOR/szDetailedUnexploredName:海岸, 道路
+J2:SECTOR/szExploredName:海岸, 道路
+J2:SECTOR/szDetailedExploredName:海岸, 道路
+J3:SECTOR/szUnexploredName:海岸, 道路
+J3:SECTOR/szDetailedUnexploredName:海岸, 道路
+J3:SECTOR/szExploredName:海岸, 道路
+J3:SECTOR/szDetailedExploredName:海岸, 道路
+J4:SECTOR/szUnexploredName:沼泽
+J4:SECTOR/szDetailedUnexploredName:沼泽
+J4:SECTOR/szExploredName:沼泽
+J4:SECTOR/szDetailedExploredName:沼泽
+J5:SECTOR/szUnexploredName:沼泽
+J5:SECTOR/szDetailedUnexploredName:沼泽
+J5:SECTOR/szExploredName:沼泽
+J5:SECTOR/szDetailedExploredName:沼泽
+J6:SECTOR/szUnexploredName:树林, 道路
+J6:SECTOR/szDetailedUnexploredName:树林, 道路
+J6:SECTOR/szExploredName:树林, 道路
+J6:SECTOR/szDetailedExploredName:树林, 道路
+J7:SECTOR/szUnexploredName:树林
+J7:SECTOR/szDetailedUnexploredName:树林
+J7:SECTOR/szExploredName:树林
+J7:SECTOR/szDetailedExploredName:树林
+J8:SECTOR/szUnexploredName:沙漠, 道路
+J8:SECTOR/szDetailedUnexploredName:沙漠, 道路
+J8:SECTOR/szExploredName:沙漠, 道路
+J8:SECTOR/szDetailedExploredName:沙漠, 道路
+J9:SECTOR/szUnexploredName:沙漠
+J9:SECTOR/szDetailedUnexploredName:沙漠
+J9:SECTOR/szExploredName:提克萨
+J9:SECTOR/szDetailedExploredName:提克萨
+J10:SECTOR/szUnexploredName:沙漠
+J10:SECTOR/szDetailedUnexploredName:沙漠
+J10:SECTOR/szExploredName:沙漠
+J10:SECTOR/szDetailedExploredName:沙漠
+J11:SECTOR/szUnexploredName:平原
+J11:SECTOR/szDetailedUnexploredName:平原
+J11:SECTOR/szExploredName:平原
+J11:SECTOR/szDetailedExploredName:平原
+J12:SECTOR/szUnexploredName:树林
+J12:SECTOR/szDetailedUnexploredName:树林
+J12:SECTOR/szExploredName:树林
+J12:SECTOR/szDetailedExploredName:树林
+J13:SECTOR/szUnexploredName:树林
+J13:SECTOR/szDetailedUnexploredName:树林
+J13:SECTOR/szExploredName:树林
+J13:SECTOR/szDetailedExploredName:树林
+J14:SECTOR/szUnexploredName:农场, 道路
+J14:SECTOR/szDetailedUnexploredName:农田, 道路
+J14:SECTOR/szExploredName:农场, 道路
+J14:SECTOR/szDetailedExploredName:农田, 道路
+J15:SECTOR/szUnexploredName:树林
+J15:SECTOR/szDetailedUnexploredName:树林
+J15:SECTOR/szExploredName:树林
+J15:SECTOR/szDetailedExploredName:树林
+J16:SECTOR/szUnexploredName:未知
+J16:SECTOR/szDetailedUnexploredName:未知
+J16:SECTOR/szExploredName:未知
+J16:SECTOR/szDetailedExploredName:未知
+K1:SECTOR/szUnexploredName:无法通行
+K1:SECTOR/szDetailedUnexploredName:无法通行
+K1:SECTOR/szExploredName:无法通行
+K1:SECTOR/szDetailedExploredName:无法通行
+K2:SECTOR/szUnexploredName:海岸, 道路
+K2:SECTOR/szDetailedUnexploredName:海岸, 道路
+K2:SECTOR/szExploredName:海岸, 道路
+K2:SECTOR/szDetailedExploredName:海岸, 道路
+K3:SECTOR/szUnexploredName:沼泽
+K3:SECTOR/szDetailedUnexploredName:沼泽
+K3:SECTOR/szExploredName:沼泽
+K3:SECTOR/szDetailedExploredName:沼泽
+K4:SECTOR/szUnexploredName:沼泽
+K4:SECTOR/szDetailedUnexploredName:沼泽
+K4:SECTOR/szExploredName:奥尔塔
+K4:SECTOR/szDetailedExploredName:奥尔塔军事基地
+K5:SECTOR/szUnexploredName:沼泽
+K5:SECTOR/szDetailedUnexploredName:沼泽
+K5:SECTOR/szExploredName:沼泽, 道路
+K5:SECTOR/szDetailedExploredName:沼泽, 道路
+K6:SECTOR/szUnexploredName:平原, 道路
+K6:SECTOR/szDetailedUnexploredName:平原, 道路
+K6:SECTOR/szExploredName:平原, 道路
+K6:SECTOR/szDetailedExploredName:平原, 道路
+K7:SECTOR/szUnexploredName:沙漠, 道路
+K7:SECTOR/szDetailedUnexploredName:沙漠, 道路
+K7:SECTOR/szExploredName:沙漠, 道路
+K7:SECTOR/szDetailedExploredName:沙漠, 道路
+K8:SECTOR/szUnexploredName:沙漠, 道路
+K8:SECTOR/szDetailedUnexploredName:沙漠, 道路
+K8:SECTOR/szExploredName:沙漠, 道路
+K8:SECTOR/szDetailedExploredName:沙漠, 道路
+K9:SECTOR/szUnexploredName:沙漠, 道路
+K9:SECTOR/szDetailedUnexploredName:沙漠, 道路
+K9:SECTOR/szExploredName:沙漠, 道路
+K9:SECTOR/szDetailedExploredName:沙漠, 道路
+K10:SECTOR/szUnexploredName:平原, 道路
+K10:SECTOR/szDetailedUnexploredName:平原, 道路
+K10:SECTOR/szExploredName:平原, 道路
+K10:SECTOR/szDetailedExploredName:平原, 道路
+K11:SECTOR/szUnexploredName:平原, 道路
+K11:SECTOR/szDetailedUnexploredName:平原, 道路
+K11:SECTOR/szExploredName:平原, 道路
+K11:SECTOR/szDetailedExploredName:平原, 道路
+K12:SECTOR/szUnexploredName:平原, 道路
+K12:SECTOR/szDetailedUnexploredName:平原, 道路
+K12:SECTOR/szExploredName:平原, 道路
+K12:SECTOR/szDetailedExploredName:平原, 道路
+K13:SECTOR/szUnexploredName:树林, 道路
+K13:SECTOR/szDetailedUnexploredName:树林, 道路
+K13:SECTOR/szExploredName:树林, 道路
+K13:SECTOR/szDetailedExploredName:树林, 道路
+K14:SECTOR/szUnexploredName:树林, 道路
+K14:SECTOR/szDetailedUnexploredName:树林, 道路
+K14:SECTOR/szExploredName:树林, 道路
+K14:SECTOR/szDetailedExploredName:树林, 道路
+K15:SECTOR/szUnexploredName:森林
+K15:SECTOR/szDetailedUnexploredName:森林
+K15:SECTOR/szExploredName:森林
+K15:SECTOR/szDetailedExploredName:森林
+K16:SECTOR/szUnexploredName:未知
+K16:SECTOR/szDetailedUnexploredName:未知
+K16:SECTOR/szExploredName:未知
+K16:SECTOR/szDetailedExploredName:未知
+L1:SECTOR/szUnexploredName:海岸
+L1:SECTOR/szDetailedUnexploredName:海岸
+L1:SECTOR/szExploredName:海岸
+L1:SECTOR/szDetailedExploredName:海岸
+L2:SECTOR/szUnexploredName:河流, 道路
+L2:SECTOR/szDetailedUnexploredName:河流, 道路
+L2:SECTOR/szExploredName:河流, 道路
+L2:SECTOR/szDetailedExploredName:河流, 道路
+L3:SECTOR/szUnexploredName:沼泽
+L3:SECTOR/szDetailedUnexploredName:沼泽
+L3:SECTOR/szExploredName:沼泽
+L3:SECTOR/szDetailedExploredName:沼泽
+L4:SECTOR/szUnexploredName:沼泽
+L4:SECTOR/szDetailedUnexploredName:沼泽
+L4:SECTOR/szExploredName:沼泽
+L4:SECTOR/szDetailedExploredName:沼泽
+L5:SECTOR/szUnexploredName:森林
+L5:SECTOR/szDetailedUnexploredName:森林
+L5:SECTOR/szExploredName:森林
+L5:SECTOR/szDetailedExploredName:森林
+L6:SECTOR/szUnexploredName:树林, 道路
+L6:SECTOR/szDetailedUnexploredName:树林, 道路
+L6:SECTOR/szExploredName:树林, 道路
+L6:SECTOR/szDetailedExploredName:树林, 道路
+L7:SECTOR/szUnexploredName:平原
+L7:SECTOR/szDetailedUnexploredName:平原
+L7:SECTOR/szExploredName:平原
+L7:SECTOR/szDetailedExploredName:平原
+L8:SECTOR/szUnexploredName:沙漠
+L8:SECTOR/szDetailedUnexploredName:沙漠
+L8:SECTOR/szExploredName:沙漠
+L8:SECTOR/szDetailedExploredName:沙漠
+L9:SECTOR/szUnexploredName:平原
+L9:SECTOR/szDetailedUnexploredName:平原
+L9:SECTOR/szExploredName:平原
+L9:SECTOR/szDetailedExploredName:平原
+L10:SECTOR/szUnexploredName:平原, 道路
+L10:SECTOR/szDetailedUnexploredName:平原, 道路
+L10:SECTOR/szExploredName:服务站
+L10:SECTOR/szDetailedExploredName:服务站
+L11:SECTOR/szUnexploredName:巴利姆
+L11:SECTOR/szDetailedUnexploredName:巴利姆
+L11:SECTOR/szExploredName:巴利姆
+L11:SECTOR/szDetailedExploredName:巴利姆
+L12:SECTOR/szUnexploredName:巴利姆
+L12:SECTOR/szDetailedUnexploredName:巴利姆
+L12:SECTOR/szExploredName:巴利姆博物馆
+L12:SECTOR/szDetailedExploredName:巴利姆博物馆
+L13:SECTOR/szUnexploredName:海岸
+L13:SECTOR/szDetailedUnexploredName:海岸
+L13:SECTOR/szExploredName:海岸
+L13:SECTOR/szDetailedExploredName:海岸
+L14:SECTOR/szUnexploredName:沼泽
+L14:SECTOR/szDetailedUnexploredName:湖泊, 沼泽
+L14:SECTOR/szExploredName:沼泽
+L14:SECTOR/szDetailedExploredName:湖泊, 沼泽
+L15:SECTOR/szUnexploredName:树林
+L15:SECTOR/szDetailedUnexploredName:树林
+L15:SECTOR/szExploredName:树林
+L15:SECTOR/szDetailedExploredName:树林
+L16:SECTOR/szUnexploredName:未知
+L16:SECTOR/szDetailedUnexploredName:未知
+L16:SECTOR/szExploredName:未知
+L16:SECTOR/szDetailedExploredName:未知
+M1:SECTOR/szUnexploredName:无法通行
+M1:SECTOR/szDetailedUnexploredName:无法通行
+M1:SECTOR/szExploredName:无法通行
+M1:SECTOR/szDetailedExploredName:无法通行
+M2:SECTOR/szUnexploredName:海岸, 道路
+M2:SECTOR/szDetailedUnexploredName:海岸, 道路
+M2:SECTOR/szExploredName:海岸, 道路
+M2:SECTOR/szDetailedExploredName:海岸, 道路
+M3:SECTOR/szUnexploredName:沼泽, 道路
+M3:SECTOR/szDetailedUnexploredName:沼泽, 道路
+M3:SECTOR/szExploredName:检查站
+M3:SECTOR/szDetailedExploredName:检查站
+M4:SECTOR/szUnexploredName:农田
+M4:SECTOR/szDetailedUnexploredName:农田
+M4:SECTOR/szExploredName:农田
+M4:SECTOR/szDetailedExploredName:农田
+M5:SECTOR/szUnexploredName:森林, 道路
+M5:SECTOR/szDetailedUnexploredName:森林, 道路
+M5:SECTOR/szExploredName:检查站
+M5:SECTOR/szDetailedExploredName:检查站
+M6:SECTOR/szUnexploredName:森林, 道路
+M6:SECTOR/szDetailedUnexploredName:森林, 道路
+M6:SECTOR/szExploredName:森林, 道路
+M6:SECTOR/szDetailedExploredName:森林, 道路
+M7:SECTOR/szUnexploredName:平原
+M7:SECTOR/szDetailedUnexploredName:平原
+M7:SECTOR/szExploredName:平原
+M7:SECTOR/szDetailedExploredName:平原
+M8:SECTOR/szUnexploredName:平原
+M8:SECTOR/szDetailedUnexploredName:平原
+M8:SECTOR/szExploredName:平原
+M8:SECTOR/szDetailedExploredName:平原
+M9:SECTOR/szUnexploredName:平原
+M9:SECTOR/szDetailedUnexploredName:平原
+M9:SECTOR/szExploredName:平原
+M9:SECTOR/szDetailedExploredName:平原
+M10:SECTOR/szUnexploredName:热带, 道路
+M10:SECTOR/szDetailedUnexploredName:热带, 道路
+M10:SECTOR/szExploredName:热带, 道路
+M10:SECTOR/szDetailedExploredName:热带, 道路
+M11:SECTOR/szUnexploredName:无法通行
+M11:SECTOR/szDetailedUnexploredName:无法通行
+M11:SECTOR/szExploredName:无法通行
+M11:SECTOR/szDetailedExploredName:无法通行
+M12:SECTOR/szUnexploredName:无法通行
+M12:SECTOR/szDetailedUnexploredName:无法通行
+M12:SECTOR/szExploredName:无法通行
+M12:SECTOR/szDetailedExploredName:无法通行
+M13:SECTOR/szUnexploredName:树林
+M13:SECTOR/szDetailedUnexploredName:树林
+M13:SECTOR/szExploredName:树林
+M13:SECTOR/szDetailedExploredName:树林
+M14:SECTOR/szUnexploredName:沼泽
+M14:SECTOR/szDetailedUnexploredName:湖泊, 沼泽
+M14:SECTOR/szExploredName:沼泽
+M14:SECTOR/szDetailedExploredName:湖泊, 沼泽
+M15:SECTOR/szUnexploredName:未知
+M15:SECTOR/szDetailedUnexploredName:未知
+M15:SECTOR/szExploredName:未知
+M15:SECTOR/szDetailedExploredName:未知
+M16:SECTOR/szUnexploredName:未知
+M16:SECTOR/szDetailedUnexploredName:未知
+M16:SECTOR/szExploredName:未知
+M16:SECTOR/szDetailedExploredName:未知
+N1:SECTOR/szUnexploredName:无法通行
+N1:SECTOR/szDetailedUnexploredName:无法通行
+N1:SECTOR/szExploredName:无法通行
+N1:SECTOR/szDetailedExploredName:无法通行
+N2:SECTOR/szUnexploredName:无法通行
+N2:SECTOR/szDetailedUnexploredName:无法通行
+N2:SECTOR/szExploredName:无法通行
+N2:SECTOR/szDetailedExploredName:无法通行
+N3:SECTOR/szUnexploredName:梅杜纳机场
+N3:SECTOR/szDetailedUnexploredName:梅杜纳机场
+N3:SECTOR/szExploredName:梅杜纳机场
+N3:SECTOR/szDetailedExploredName:梅杜纳机场
+N4:SECTOR/szUnexploredName:梅杜纳
+N4:SECTOR/szDetailedUnexploredName:梅杜纳
+N4:SECTOR/szExploredName:SAM站点
+N4:SECTOR/szDetailedExploredName:梅杜纳SAM站点
+N5:SECTOR/szUnexploredName:梅杜纳
+N5:SECTOR/szDetailedUnexploredName:梅杜纳
+N5:SECTOR/szExploredName:竞技场
+N5:SECTOR/szDetailedExploredName:梅杜纳竞技场
+N6:SECTOR/szUnexploredName:热带, 道路
+N6:SECTOR/szDetailedUnexploredName:热带, 道路
+N6:SECTOR/szExploredName:检查站
+N6:SECTOR/szDetailedExploredName:检查站
+N7:SECTOR/szUnexploredName:海岸, 道路
+N7:SECTOR/szDetailedUnexploredName:海岸, 道路
+N7:SECTOR/szExploredName:战俘营
+N7:SECTOR/szDetailedExploredName:战俘营
+N8:SECTOR/szUnexploredName:热带, 道路
+N8:SECTOR/szDetailedUnexploredName:热带, 道路
+N8:SECTOR/szExploredName:热带, 道路
+N8:SECTOR/szDetailedExploredName:热带, 道路
+N9:SECTOR/szUnexploredName:热带, 道路
+N9:SECTOR/szDetailedUnexploredName:热带, 道路
+N9:SECTOR/szExploredName:热带, 道路
+N9:SECTOR/szDetailedExploredName:热带, 道路
+N10:SECTOR/szUnexploredName:热带, 道路
+N10:SECTOR/szDetailedUnexploredName:热带, 道路
+N10:SECTOR/szExploredName:热带, 道路
+N10:SECTOR/szDetailedExploredName:热带, 道路
+N11:SECTOR/szUnexploredName:无法通行
+N11:SECTOR/szDetailedUnexploredName:无法通行
+N11:SECTOR/szExploredName:无法通行
+N11:SECTOR/szDetailedExploredName:无法通行
+N12:SECTOR/szUnexploredName:无法通行
+N12:SECTOR/szDetailedUnexploredName:无法通行
+N12:SECTOR/szExploredName:无法通行
+N12:SECTOR/szDetailedExploredName:无法通行
+N13:SECTOR/szUnexploredName:未知
+N13:SECTOR/szDetailedUnexploredName:未知
+N13:SECTOR/szExploredName:未知
+N13:SECTOR/szDetailedExploredName:未知
+N14:SECTOR/szUnexploredName:未知
+N14:SECTOR/szDetailedUnexploredName:未知
+N14:SECTOR/szExploredName:未知
+N14:SECTOR/szDetailedExploredName:未知
+N15:SECTOR/szUnexploredName:未知
+N15:SECTOR/szDetailedUnexploredName:未知
+N15:SECTOR/szExploredName:未知
+N15:SECTOR/szDetailedExploredName:未知
+N16:SECTOR/szUnexploredName:未知
+N16:SECTOR/szDetailedUnexploredName:未知
+N16:SECTOR/szExploredName:未知
+N16:SECTOR/szDetailedExploredName:未知
+O1:SECTOR/szUnexploredName:无法通行
+O1:SECTOR/szDetailedUnexploredName:无法通行
+O1:SECTOR/szExploredName:无法通行
+O1:SECTOR/szDetailedExploredName:无法通行
+O2:SECTOR/szUnexploredName:无法通行
+O2:SECTOR/szDetailedUnexploredName:无法通行
+O2:SECTOR/szExploredName:无法通行
+O2:SECTOR/szDetailedExploredName:无法通行
+O3:SECTOR/szUnexploredName:梅杜纳
+O3:SECTOR/szDetailedUnexploredName:梅杜纳
+O3:SECTOR/szExploredName:迷宫
+O3:SECTOR/szDetailedExploredName:梅杜纳迷宫
+O4:SECTOR/szUnexploredName:梅杜纳
+O4:SECTOR/szDetailedUnexploredName:梅杜纳
+O4:SECTOR/szExploredName:梅杜纳
+O4:SECTOR/szDetailedExploredName:梅杜纳
+O5:SECTOR/szUnexploredName:无法通行
+O5:SECTOR/szDetailedUnexploredName:无法通行
+O5:SECTOR/szExploredName:无法通行
+O5:SECTOR/szDetailedExploredName:无法通行
+O6:SECTOR/szUnexploredName:无法通行
+O6:SECTOR/szDetailedUnexploredName:无法通行
+O6:SECTOR/szExploredName:无法通行
+O6:SECTOR/szDetailedExploredName:无法通行
+O7:SECTOR/szUnexploredName:无法通行
+O7:SECTOR/szDetailedUnexploredName:无法通行
+O7:SECTOR/szExploredName:无法通行
+O7:SECTOR/szDetailedExploredName:无法通行
+O8:SECTOR/szUnexploredName:热带
+O8:SECTOR/szDetailedUnexploredName:热带, 海岸
+O8:SECTOR/szExploredName:热带
+O8:SECTOR/szDetailedExploredName:热带, 海岸
+O9:SECTOR/szUnexploredName:热带
+O9:SECTOR/szDetailedUnexploredName:热带, 海岸
+O9:SECTOR/szExploredName:热带
+O9:SECTOR/szDetailedExploredName:热带, 海岸
+O10:SECTOR/szUnexploredName:无法通行
+O10:SECTOR/szDetailedUnexploredName:无法通行
+O10:SECTOR/szExploredName:无法通行
+O10:SECTOR/szDetailedExploredName:无法通行
+O11:SECTOR/szUnexploredName:无法通行
+O11:SECTOR/szDetailedUnexploredName:无法通行
+O11:SECTOR/szExploredName:无法通行
+O11:SECTOR/szDetailedExploredName:无法通行
+O12:SECTOR/szUnexploredName:无法通行
+O12:SECTOR/szDetailedUnexploredName:无法通行
+O12:SECTOR/szExploredName:无法通行
+O12:SECTOR/szDetailedExploredName:无法通行
+O13:SECTOR/szUnexploredName:无法通行
+O13:SECTOR/szDetailedUnexploredName:无法通行
+O13:SECTOR/szExploredName:无法通行
+O13:SECTOR/szDetailedExploredName:无法通行
+O14:SECTOR/szUnexploredName:未知
+O14:SECTOR/szDetailedUnexploredName:未知
+O14:SECTOR/szExploredName:未知
+O14:SECTOR/szDetailedExploredName:未知
+O15:SECTOR/szUnexploredName:未知
+O15:SECTOR/szDetailedUnexploredName:未知
+O15:SECTOR/szExploredName:未知
+O15:SECTOR/szDetailedExploredName:未知
+O16:SECTOR/szUnexploredName:未知
+O16:SECTOR/szDetailedUnexploredName:未知
+O16:SECTOR/szExploredName:未知
+O16:SECTOR/szDetailedExploredName:未知
+P1:SECTOR/szUnexploredName:无法通行
+P1:SECTOR/szDetailedUnexploredName:无法通行
+P1:SECTOR/szExploredName:无法通行
+P1:SECTOR/szDetailedExploredName:无法通行
+P2:SECTOR/szUnexploredName:无法通行
+P2:SECTOR/szDetailedUnexploredName:无法通行
+P2:SECTOR/szExploredName:无法通行
+P2:SECTOR/szDetailedExploredName:无法通行
+P3:SECTOR/szUnexploredName:梅杜纳
+P3:SECTOR/szDetailedUnexploredName:梅杜纳
+P3:SECTOR/szExploredName:宫殿
+P3:SECTOR/szDetailedExploredName:女王戴德兰娜的宫殿
+P4:SECTOR/szUnexploredName:无法通行
+P4:SECTOR/szDetailedUnexploredName:无法通行
+P4:SECTOR/szExploredName:无法通行
+P4:SECTOR/szDetailedExploredName:无法通行
+P5:SECTOR/szUnexploredName:无法通行
+P5:SECTOR/szDetailedUnexploredName:无法通行
+P5:SECTOR/szExploredName:无法通行
+P5:SECTOR/szDetailedExploredName:无法通行
+P6:SECTOR/szUnexploredName:无法通行
+P6:SECTOR/szDetailedUnexploredName:无法通行
+P6:SECTOR/szExploredName:无法通行
+P6:SECTOR/szDetailedExploredName:无法通行
+P7:SECTOR/szUnexploredName:无法通行
+P7:SECTOR/szDetailedUnexploredName:无法通行
+P7:SECTOR/szExploredName:无法通行
+P7:SECTOR/szDetailedExploredName:无法通行
+P8:SECTOR/szUnexploredName:无法通行
+P8:SECTOR/szDetailedUnexploredName:无法通行
+P8:SECTOR/szExploredName:无法通行
+P8:SECTOR/szDetailedExploredName:无法通行
+P9:SECTOR/szUnexploredName:无法通行
+P9:SECTOR/szDetailedUnexploredName:无法通行
+P9:SECTOR/szExploredName:无法通行
+P9:SECTOR/szDetailedExploredName:无法通行
+P10:SECTOR/szUnexploredName:无法通行
+P10:SECTOR/szDetailedUnexploredName:无法通行
+P10:SECTOR/szExploredName:无法通行
+P10:SECTOR/szDetailedExploredName:无法通行
+P11:SECTOR/szUnexploredName:无法通行
+P11:SECTOR/szDetailedUnexploredName:无法通行
+P11:SECTOR/szExploredName:无法通行
+P11:SECTOR/szDetailedExploredName:无法通行
+P12:SECTOR/szUnexploredName:无法通行
+P12:SECTOR/szDetailedUnexploredName:无法通行
+P12:SECTOR/szExploredName:无法通行
+P12:SECTOR/szDetailedExploredName:无法通行
+P13:SECTOR/szUnexploredName:无法通行
+P13:SECTOR/szDetailedUnexploredName:无法通行
+P13:SECTOR/szExploredName:无法通行
+P13:SECTOR/szDetailedExploredName:无法通行
+P14:SECTOR/szUnexploredName:未知
+P14:SECTOR/szDetailedUnexploredName:未知
+P14:SECTOR/szExploredName:未知
+P14:SECTOR/szDetailedExploredName:未知
+P15:SECTOR/szUnexploredName:未知
+P15:SECTOR/szDetailedUnexploredName:未知
+P15:SECTOR/szExploredName:未知
+P15:SECTOR/szDetailedExploredName:未知
+P16:SECTOR/szUnexploredName:未知
+P16:SECTOR/szDetailedUnexploredName:未知
+P16:SECTOR/szExploredName:未知
+P16:SECTOR/szDetailedExploredName:未知

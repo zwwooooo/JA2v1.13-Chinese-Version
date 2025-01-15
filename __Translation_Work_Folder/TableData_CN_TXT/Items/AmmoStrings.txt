@@ -1,0 +1,110 @@
+0:AMMO/AmmoCaliber:0
+0:AMMO/BRCaliber:0
+1:AMMO/AmmoCaliber:.38 Spc（特种弹）
+1:AMMO/BRCaliber:.38 Spc（特种弹）
+2:AMMO/AmmoCaliber:9x19毫米
+2:AMMO/BRCaliber:9x19毫米
+3:AMMO/AmmoCaliber:.45 ACP
+3:AMMO/BRCaliber:.45 ACP
+4:AMMO/AmmoCaliber:.357 马格南
+4:AMMO/BRCaliber:.357 马格南
+5:AMMO/AmmoCaliber:12号口径
+5:AMMO/BRCaliber:12号口径
+6:AMMO/AmmoCaliber:CAWS
+6:AMMO/BRCaliber:CAWS
+7:AMMO/AmmoCaliber:5.45x39毫米
+7:AMMO/BRCaliber:5.45x39毫米
+8:AMMO/AmmoCaliber:5.56x45毫米
+8:AMMO/BRCaliber:5.56x45毫米
+9:AMMO/AmmoCaliber:7.62x51毫米
+9:AMMO/BRCaliber:7.62x51毫米
+10:AMMO/AmmoCaliber:7.62x39毫米
+10:AMMO/BRCaliber:7.62x39毫米
+11:AMMO/AmmoCaliber:4.7x33毫米
+11:AMMO/BRCaliber:4.7x33毫米
+12:AMMO/AmmoCaliber:5.7x28毫米
+12:AMMO/BRCaliber:5.7x28毫米
+13:AMMO/AmmoCaliber:怪物
+13:AMMO/BRCaliber:怪物
+14:AMMO/AmmoCaliber:火箭
+14:AMMO/BRCaliber:火箭
+15:AMMO/AmmoCaliber:飞镖
+15:AMMO/BRCaliber:飞镖
+16:AMMO/AmmoCaliber:火焰
+16:AMMO/BRCaliber:火焰
+17:AMMO/AmmoCaliber:.50 BMG
+17:AMMO/BRCaliber:.50 BMG
+18:AMMO/AmmoCaliber:9x39毫米
+18:AMMO/BRCaliber:9x39毫米
+19:AMMO/AmmoCaliber:4.6x30毫米
+19:AMMO/BRCaliber:4.6x30毫米
+20:AMMO/AmmoCaliber:7.62x25毫米
+20:AMMO/BRCaliber:7.62x25毫米
+21:AMMO/AmmoCaliber:12.7毫米
+21:AMMO/BRCaliber:12.7毫米
+22:AMMO/AmmoCaliber:9x18毫米
+22:AMMO/BRCaliber:9x18毫米
+23:AMMO/AmmoCaliber:.40 S&W
+23:AMMO/BRCaliber:.40 S&W
+24:AMMO/AmmoCaliber:7.62x54R
+24:AMMO/BRCaliber:7.62x54R
+25:AMMO/AmmoCaliber:.338 拉普阿
+25:AMMO/BRCaliber:.338 拉普阿
+26:AMMO/AmmoCaliber:.44 马格南
+26:AMMO/BRCaliber:.44 马格南
+27:AMMO/AmmoCaliber:10毫米
+27:AMMO/BRCaliber:10毫米
+28:AMMO/AmmoCaliber:12.3x50毫米
+28:AMMO/BRCaliber:12.3x50毫米
+29:AMMO/AmmoCaliber:9x21毫米
+29:AMMO/BRCaliber:9x21毫米
+30:AMMO/AmmoCaliber:.300 低语
+30:AMMO/BRCaliber:.300 低语
+31:AMMO/AmmoCaliber:9毫米 SP-5
+31:AMMO/BRCaliber:9毫米 SP-5
+32:AMMO/AmmoCaliber:9毫米 SP-6
+32:AMMO/BRCaliber:9毫米 SP-6
+33:AMMO/AmmoCaliber:5.45x18毫米
+33:AMMO/BRCaliber:5.45x18毫米
+34:AMMO/AmmoCaliber:9毫米 MS
+34:AMMO/BRCaliber:9毫米 MS
+35:AMMO/AmmoCaliber:.50 AE
+35:AMMO/BRCaliber:.50 AE
+36:AMMO/AmmoCaliber:.454 卡苏尔
+36:AMMO/BRCaliber:.454 卡苏尔
+37:AMMO/AmmoCaliber:.45 温彻斯特马格南
+37:AMMO/BRCaliber:.45 温彻斯特马格南
+38:AMMO/AmmoCaliber:.50 贝奥武夫
+38:AMMO/BRCaliber:.50 贝奥武夫
+39:AMMO/AmmoCaliber:.300 温彻斯特马格南
+39:AMMO/BRCaliber:.300 温彻斯特马格南
+40:AMMO/AmmoCaliber:7.92x57毫米
+40:AMMO/BRCaliber:7.92x57毫米
+41:AMMO/AmmoCaliber:12.7x55毫米 亚音速
+41:AMMO/BRCaliber:12.7x55毫米
+42:AMMO/AmmoCaliber:6.8x43毫米 SPC
+42:AMMO/BRCaliber:6.8x43毫米
+43:AMMO/AmmoCaliber:5.56x45毫米 SCF
+43:AMMO/BRCaliber:5.56毫米 SCF
+44:AMMO/AmmoCaliber:.41 AE
+44:AMMO/BRCaliber:.41 AE
+45:AMMO/AmmoCaliber:.30 卡宾
+45:AMMO/BRCaliber:.30 卡宾
+46:AMMO/AmmoCaliber:.30-06
+46:AMMO/BRCaliber:.30-06
+47:AMMO/AmmoCaliber:6x35毫米
+47:AMMO/BRCaliber:6x35毫米
+48:AMMO/AmmoCaliber:炮弹
+48:AMMO/BRCaliber:炮弹
+49:AMMO/AmmoCaliber:胡椒喷雾
+49:AMMO/BRCaliber:胡椒喷雾
+50:AMMO/AmmoCaliber:25x40毫米 空爆弹
+50:AMMO/BRCaliber:25x40毫米 空爆弹
+51:AMMO/AmmoCaliber:20毫米 空爆弹
+51:AMMO/BRCaliber:20毫米 空爆弹
+52:AMMO/AmmoCaliber:6.5x38毫米
+52:AMMO/BRCaliber:6.5x38毫米
+53:AMMO/AmmoCaliber:7.62x35毫米
+53:AMMO/BRCaliber:7.62x35毫米
+54:AMMO/AmmoCaliber:14.5x114毫米
+54:AMMO/BRCaliber:14.5x114毫米

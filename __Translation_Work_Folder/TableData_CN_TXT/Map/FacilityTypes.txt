@@ -1,0 +1,160 @@
+1:FACILITYTYPE/szFacilityName:医院
+1:FACILITYTYPE/szFacilityShortName:医院
+1:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:医生
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:在这里治疗你的受伤佣兵。你必须先赢得当地人的信任才能使用这家医院。此外，你还需要支付额外的物资费用。 人员数量: 2, 每日/每小时费用: 2400/100$, 医生效率200%, 医疗包持续时间延长60%, 需求: 医疗-60 智慧-75 忠诚度-60%
+1:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:医疗实践
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:穿上手术服，向当地医生学习。但你必须先赢得这个城镇的信任，培训和额外的医疗物资将花费你一些钱。 人员数量: 2, 每日/每小时费用: 1200/50$, 医疗实践效率200%, 5%几率提升敏捷, 需求: 医疗-30 智慧-70 忠诚度-60%
+2:FACILITYTYPE/szFacilityName:小型破旧酒吧
+2:FACILITYTYPE/szFacilityShortName:酒吧
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:休息
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:在当地的酒吧喝一杯！稍微提高这个城镇的忠诚度，但需要支付费用，并且有可能喝醉。饮酒也可能影响你的士气（正面或负面）。 人员数量: 6, 每日/每小时费用: 360/15$, 休息效率150%
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:收集谣言
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:在酒吧喝一杯... 是的，你希望如此！只需为别人买饮料，并立即报告他们可能泄露的任何信息。检测全国范围内的敌人，但可能会给出不准确的区域位置。 人员数量: 1, 每日/每小时费用: 360/15$
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:设施用餐
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:从当地酒吧安排一些外卖。
+3:FACILITYTYPE/szFacilityName:监狱综合体
+3:FACILITYTYPE/szFacilityShortName:监狱
+3:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:审讯囚犯
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里设有适当的单独监禁设施。提供审讯工具，以从囚犯那里获取你需要的信息。他们可以加入你，或者透露巡逻位置。 人员数量: 4, 审讯效率120%
+3:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:监狱线人
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:伪装成囚犯之一，赢得他们的信任，以便轻松收集信息并防止叛乱企图。然而，每小时都有线人暴露的风险。 人员数量: 4, 大幅提升审讯效率和警卫强度
+4:FACILITYTYPE/szFacilityName:小型机场
+4:FACILITYTYPE/szFacilityShortName:机场
+4:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+4:FACILITYTYPE/ASSIGNMENT/szTooltipText:当地机场的工作机会：需要2个人来卸货。赚取一些钱，并稍微提高力量。 人员数量: 2, 每日/每小时收入: 480/20$, 5%几率提升力量, 需求: 力量-70
+5:FACILITYTYPE/szFacilityName:军火工厂
+5:FACILITYTYPE/szFacilityShortName:工厂
+5:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:修理物品
+5:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里的机器可以制造各种替换零件，这将提高你的修理效率。额外的材料将花费你一些钱。 人员数量: 2, 每日/每小时费用: 1200/50$, 修理效率200%, 工具包持续时间延长70%, 需求: 机械-60 敏捷-70
+6:FACILITYTYPE/szFacilityName:兵营
+6:FACILITYTYPE/szFacilityShortName:兵营
+6:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:休息
+6:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有很多床铺。虽然有点简陋，但肯定比在外面休息要好！ 人员数量: 10, 休息效率110%, 睡眠效率120%
+7:FACILITYTYPE/szFacilityName:军事总部
+7:FACILITYTYPE/szFacilityShortName:军事总部
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个作战室配备了高科技通信设备，用于你的战略意识。需要高技能的操作员。 人员数量: 1, 检测5个区域内的确切敌人群体以及移动民兵巡逻的区域, 需求: 领导-80 智慧-80 等级-6
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:领导力训练
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个军事设施旨在帮助训练新军官。 人员数量: 2, 每日/每小时费用: 360/15$, 领导力训练效率175%, 需求: 领导-50 智慧-75
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:领导力学习
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:在专门为此目的设计的环境中学习领导艺术要容易得多。 人员数量: 4, 每日/每小时费用: 240/10$, 领导力学习效率150%, 需求: 领导-30 智慧-70
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:全球宣传
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:控制当地信息渠道，控制整个地区的新闻流动。 人员数量: 1, 每小时增加城镇忠诚度并降低城镇忠诚度下降的高度, 需求: 领导-50 智慧-60
+8:FACILITYTYPE/szFacilityName:射击场
+8:FACILITYTYPE/szFacilityShortName:射击场
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:射击实践
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:为什么不花点时间练习你的瞄准呢？这里有6个目标供你的佣兵练习准确性，但额外的弹药和武器需要花费。 人员数量: 6, 每日/每小时费用: 1680/70$, 射击实践效率200%, 5%几率提升敏捷
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:射击训练
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:有了这里的适当设备，一个熟练的射手和训练员在教授如何更准确地射击方面会表现得更好。训练员要求加薪。 人员数量: 1, 每日/每小时费用: 4800/200$, 射击训练效率250%, 需求: 射击-90 领导-40 智慧-60
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:射击学习
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:向熟练的射手学习如何将你的射击命中目标。 人员数量: 6, 每日/每小时费用: 1680/70$, 射击学习效率250%, 10%几率提升敏捷
+9:FACILITYTYPE/szFacilityName:A.C.A大楼
+9:FACILITYTYPE/szFacilityShortName:A.C.A
+9:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:由熟练的指挥官协调，当地民兵能够为你侦察周围区域。 人员数量: 1, 检测2个区域内的确切敌人群体, 需求: 领导-30 智慧-75 忠诚度-60%
+9:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:宣传
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:将这个小型地方办公室变成一个运转良好的宣传机器，压制任何到达城镇的坏消息，并以最好的方式展示我们的行动。 人员数量: 1, 每小时增加城镇忠诚度并降低城镇忠诚度下降的高度, 需求: 领导-20 智慧-60 忠诚度-20%
+10:FACILITYTYPE/szFacilityName:SAM站点
+10:FACILITYTYPE/szFacilityShortName:SAM站点
+10:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+10:FACILITYTYPE/ASSIGNMENT/szTooltipText:通过驻守这个设施，你可以确保你上空的天空没有敌机。 人员数量: 2, 每日/每小时费用: 2400/100$, 每经过一个区域减少直升机飞行员费用100$, 需求: 智慧-70
+11:FACILITYTYPE/szFacilityName:矿井
+11:FACILITYTYPE/szFacilityShortName:矿井
+11:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:爆炸物实践
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:支付费用后，矿井爆破手将教你“东西爆炸”的技能。 人员数量: 4, 每日/每小时费用: 1200/50$, 爆炸物实践效率200%, 需求: 爆炸物-30 忠诚度-60%
+12:FACILITYTYPE/szFacilityName:小教堂
+12:FACILITYTYPE/szFacilityShortName:教堂
+12:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:休息
+12:FACILITYTYPE/ASSIGNMENT/szTooltipText:在安静的小教堂里进行一小时的祈祷和奉献可以帮助提升任何人的精神。这也可能让当地人相信你尊重他们的生活方式。 人员数量: 6, 休息效率110%, 士气/忠诚度提升几率
+13:FACILITYTYPE/szFacilityName:拳击俱乐部
+13:FACILITYTYPE/szFacilityShortName:俱乐部
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:健康实践
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有很多健身器材，等待被使用。这是进行平衡锻炼的好方法，可能会显著改善你的体型。 人员数量: 6, 每日/每小时费用: 3840/160$, 健康实践效率200%, 需求: 健康-60 敏捷-40 力量-40
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:敏捷实践
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里的健身房配备了训练全能战士的设备。踢拳训练将提高你的速度和反应能力。 人员数量: 6, 每日/每小时费用: 4800/200$, 敏捷实践效率300%, 需求: 健康-60 敏捷-40 力量-40
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:力量实践
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里的健身房有自由重量、阻力带、重量机... 一切都在这里，等待你增加力量。 人员数量: 6, 每日/每小时费用: 3840/160$, 力量实践效率300%, 需求: 健康-60 敏捷-40 力量-40
+14:FACILITYTYPE/szFacilityName:国家博物馆
+14:FACILITYTYPE/szFacilityShortName:博物馆
+14:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+14:FACILITYTYPE/ASSIGNMENT/szTooltipText:研究阿鲁科的历史和艺术，扩展你的思维。 人员数量: 2, 每日/每小时费用: 8400/350$, 20%几率提升智慧, 需求: 智慧-40
+15:FACILITYTYPE/szFacilityName:实验室
+15:FACILITYTYPE/szFacilityShortName:实验室
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:医疗训练
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里的优越条件使训练员能够表现出色。需要顶级医生。 人员数量: 1, 医疗训练效率250%, 需求: 医疗-90 智慧-90
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:医疗学习
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个高科技实验室拥有进行医学研究所需的所有设备和书籍。女王科学家在医学方面取得了一些惊人的突破，因此预计会有高度的知识增益。 人员数量: 2, 医疗学习效率250%, 需求: 医疗-30 智慧-60
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:爆炸物训练
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个高科技实验室拥有进行爆炸物研究所需的所有设备和书籍。条件一流，因此预计学生会有高度的知识增益。需要顶级专家。 人员数量: 1, 爆炸物训练效率400%, 需求: 爆炸物-90 智慧-90
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:爆炸物学习
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:女王实验室拥有进行顶级爆炸物实验的所有条件。尽管这是一个受控环境，但仍然有很小的几率会出现问题。 人员数量: 2, 爆炸物学习效率250%, 需求: 爆炸物-30 智慧-60
+16:FACILITYTYPE/szFacilityName:废品场
+16:FACILITYTYPE/szFacilityShortName:废品场
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:修理物品
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方几乎堆满了你能想象到的任何备用零件。这肯定会让修理物品变得更容易。 人员数量: 6, 修理效率120%, 工具包持续时间延长40%, 分配中的佣兵疲劳速度加快20%
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:修理车辆
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方几乎堆满了你能想象到的任何备用零件。这肯定会让你的车辆修理变得更容易。 人员数量: 2, 修理效率110%, 工具包持续时间延长25%, 分配中的佣兵疲劳速度加快20%
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:修理机器人
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方几乎堆满了你能想象到的任何备用零件...R2D2的小天堂... 人员数量: 1, 修理效率175%, 工具包持续时间延长10%, 分配中的佣兵疲劳速度加快20%
+17:FACILITYTYPE/szFacilityName:海滩度假村
+17:FACILITYTYPE/szFacilityShortName:海滩
+17:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:休息
+17:FACILITYTYPE/ASSIGNMENT/szTooltipText:阳光、沙滩、海浪。这肯定比睡在战壕里好。 人员数量: 32, 每日/每小时费用: 360/15$, 休息效率160%, 睡眠效率200%, 士气提升几率
+18:FACILITYTYPE/szFacilityName:传统民兵训练设施
+18:FACILITYTYPE/szFacilityShortName:传统
+19:FACILITYTYPE/szFacilityName:战斗支援医院
+19:FACILITYTYPE/szFacilityShortName:营地医院
+19:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:医生
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:在野战条件下对你的受伤佣兵进行紧急救生治疗。 人员数量: 2, 医生效率150%, 医疗包持续时间延长40%, 需求: 医疗-60 智慧-60
+20:FACILITYTYPE/szFacilityName:军队兵营食堂
+20:FACILITYTYPE/szFacilityShortName:食堂
+20:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:设施用餐
+20:FACILITYTYPE/ASSIGNMENT/szTooltipText:通过接管军队兵营，你也接管了里面的食堂。你的佣兵可以在这里用餐。 人员数量: 10, 每日/每小时费用: 480/20$, 食物系数1000, 士气提升和醉酒效果几率
+21:FACILITYTYPE/szFacilityName:军事监狱
+21:FACILITYTYPE/szFacilityShortName:监狱
+21:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:审讯囚犯
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:比监狱综合体小，但足以容纳相当数量的囚犯。别忘了审讯他们，因为他们可能会加入你的民兵队伍或提供有用的信息。 人员数量: 3, 审讯效率110%
+21:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:监狱线人
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:伪装成囚犯之一，赢得他们的信任，以便轻松收集信息并防止叛乱企图。然而，每小时都有线人暴露的风险。 人员数量: 3, 基本审讯效率90%, 大幅提升审讯效率和监狱警卫强度
+22:FACILITYTYPE/szFacilityName:城镇监狱
+22:FACILITYTYPE/szFacilityShortName:监狱
+22:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:审讯囚犯
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:当地城镇监狱。在这里审讯战俘，让他们加入你，或者透露一些敌人的巡逻位置。但不要对这个小型设施期望过高。 人员数量: 1, 审讯效率90%
+22:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:监狱线人
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:伪装成囚犯之一，赢得他们的信任，以便轻松收集信息并防止叛乱企图。 人员数量: 1, 基本审讯效率70%, 大幅提升审讯效率和监狱警卫强度
+23:FACILITYTYPE/szFacilityName:弗雷多的工作室
+23:FACILITYTYPE/szFacilityShortName:工作室
+23:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:敏捷实践
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:支付费用后，弗雷多愿意教你修理精密电子设备。精细的工作使手更稳。 人员数量: 1, 每日/每小时费用: 4320/180$, 敏捷实践效率200%, 5%几率提升机械, 需求: 敏捷-40 智慧-50
+24:FACILITYTYPE/szFacilityName:阿尼的工作室
+24:FACILITYTYPE/szFacilityShortName:工作室
+24:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:机械实践
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:阿尼愿意教你修理方法。不过，他要求支付费用。 人员数量: 1, 每日/每小时费用: 1320/55$, 机械实践效率200%, 5%几率提升敏捷, 需求: 机械-40 智慧-50
+25:FACILITYTYPE/szFacilityName:加油站
+25:FACILITYTYPE/szFacilityShortName:加油站
+25:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+25:FACILITYTYPE/ASSIGNMENT/szTooltipText:让这个老加油站重新运转起来。阿鲁科需要汽油，如果你能供应，当地人将为此付费。 人员数量: 1, 每日/每小时收入: 4800/200$, 需求: 领导-40 智慧-80
+26:FACILITYTYPE/szFacilityName:军事仓库
+26:FACILITYTYPE/szFacilityShortName:仓库
+26:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+26:FACILITYTYPE/ASSIGNMENT/szTooltipText:你发现了一个装满军事装备的巨大仓库。一个有组织的经理可以出售军队剩余物资，带来一些额外收入。 人员数量: 1, 每日/每小时收入: 2400/100$, 需求: 领导-40 智慧-80
+27:FACILITYTYPE/szFacilityName:卫星扫描 - 有限
+27:FACILITYTYPE/szFacilityShortName:有限扫描
+27:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:访问有限的卫星成像。仅检测已访问区域内的敌人，无法检测城市驻军的数量。 人员数量: 1, 每小时费用: 8000$, 检测已访问区域内的敌人巡逻, 需求: 领导-80 智慧-80 等级-6
+28:FACILITYTYPE/szFacilityName:卫星扫描 - 全面
+28:FACILITYTYPE/szFacilityShortName:全面扫描
+28:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+28:FACILITYTYPE/ASSIGNMENT/szTooltipText:访问全面的卫星成像，以检测阿鲁科的所有敌人。红外和热成像甚至可以检测到城市中隐藏良好的敌人。 人员数量: 1, 每小时费用: 20000$, 检测整个地图上的确切敌人位置和数量, 需求: 领导-80 智慧-80 等级-6
+29:FACILITYTYPE/szFacilityName:港口
+29:FACILITYTYPE/szFacilityShortName:港口
+29:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:工作人员
+29:FACILITYTYPE/ASSIGNMENT/szTooltipText:迪德兰纳的政策帮助在这个港口建立了一个繁荣的黑市。你可以分享利润。 人员数量: 2, 每日/每小时收入: 2400/100$, 5%几率提升力量, 需求: 力量-70 领导-30 智慧-75
+30:FACILITYTYPE/szFacilityName:友好的农民
+30:FACILITYTYPE/szFacilityShortName:农场
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:休息
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:许多农村人支持你的努力，这位农民愿意让你在谷仓里睡觉，无论何时你路过。增加恢复速度，并提升士气。
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:健康实践
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:良好的农场工作对你的整体健康非常有益，帮助普通农民肯定会让人们谈论你。提升士气和全球忠诚度！
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:设施用餐
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:良好的新鲜农场食物对身体和灵魂都有益。提升士气。

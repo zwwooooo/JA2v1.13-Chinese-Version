@@ -1,0 +1,94 @@
+0:POCKET/pName:无
+1:POCKET/pName:枪套
+2:POCKET/pName:刀
+3:POCKET/pName:车辆
+4:POCKET/pName:通用大型 - 1.13 标准
+5:POCKET/pName:战斗包 - 1.13 标准
+6:POCKET/pName:弹药带 - 1.13 标准
+7:POCKET/pName:冲锋枪套 - 1.13 标准
+8:POCKET/pName:中型通用 - 1.13 标准
+9:POCKET/pName:大弹匣袋 - 1.13 标准
+10:POCKET/pName:突击步枪弹匣 - 1.13 标准
+11:POCKET/pName:手枪套 - 1.13 标准
+12:POCKET/pName:冲锋枪弹匣 - 1.13 标准
+13:POCKET/pName:步枪榴弹 - 1.13 标准
+14:POCKET/pName:手榴弹 - 1.13 标准
+15:POCKET/pName:手枪弹匣 - 1.13 标准
+16:POCKET/pName:微型通用 - 1.13 标准
+17:POCKET/pName:小型通用 - 1.13 标准
+18:POCKET/pName:腰带夹 - 1.13 标准
+19:POCKET/pName:快速装弹器 - 1.13 标准
+20:POCKET/pName:医疗袋 - 1.13 标准
+21:POCKET/pName:注射器袋 - 1.13 标准
+22:POCKET/pName:双腰带 - 1.13 标准
+23:POCKET/pName:当前未使用 #1 - 1.13 标准
+24:POCKET/pName:当前未使用 #2 - 1.13 标准
+25:POCKET/pName:当前未使用 #3 - 1.13 标准
+26:POCKET/pName:超大号枪
+27:POCKET/pName:背包
+28:POCKET/pName:迫击炮弹
+29:POCKET/pName:迫击炮组件
+30:POCKET/pName:大型战斗包
+31:POCKET/pName:战斗包
+32:POCKET/pName:大型通用包
+33:POCKET/pName:铲子
+34:POCKET/pName:中型环
+35:POCKET/pName:登山扣
+36:POCKET/pName:中型通用包
+37:POCKET/pName:小型通用包
+38:POCKET/pName:微型通用包
+39:POCKET/pName:瓶子
+40:POCKET/pName:2x急救包
+41:POCKET/pName:10x注射器
+42:POCKET/pName:迫击炮管
+43:POCKET/pName:枪套
+44:POCKET/pName:长步枪
+45:POCKET/pName:短步枪
+46:POCKET/pName:MP枪套
+47:POCKET/pName:MP弹匣
+48:POCKET/pName:MP弹匣
+49:POCKET/pName:霰弹枪套
+50:POCKET/pName:4x口径
+51:POCKET/pName:大型手枪套
+52:POCKET/pName:手枪+消音器
+53:POCKET/pName:大型左轮手枪套
+54:POCKET/pName:左轮手枪套
+55:POCKET/pName:3x快速装弹器
+56:POCKET/pName:快速装弹器
+57:POCKET/pName:手枪套
+58:POCKET/pName:刀
+59:POCKET/pName:3x投掷刀
+60:POCKET/pName:爆炸物
+61:POCKET/pName:3x圆柱形手榴弹
+62:POCKET/pName:2x圆柱形手榴弹
+63:POCKET/pName:圆柱形手榴弹
+64:POCKET/pName:闪光弹
+65:POCKET/pName:2x手榴弹
+66:POCKET/pName:手榴弹
+67:POCKET/pName:双腰带
+68:POCKET/pName:双腰带
+69:POCKET/pName:大腰带
+70:POCKET/pName:中腰带
+71:POCKET/pName:通用轻机枪弹匣
+72:POCKET/pName:2x轻机枪弹匣
+73:POCKET/pName:2x螺旋弹匣
+74:POCKET/pName:螺旋弹匣
+75:POCKET/pName:大型通用突击步枪弹匣
+76:POCKET/pName:3x突击步枪弹匣
+77:POCKET/pName:通用突击步枪弹匣
+78:POCKET/pName:2x突击步枪弹匣
+79:POCKET/pName:通用AK弹匣
+80:POCKET/pName:2xAK弹匣
+81:POCKET/pName:通用步枪弹匣
+82:POCKET/pName:4x步枪弹匣
+83:POCKET/pName:2x双步枪弹匣
+84:POCKET/pName:2x步枪弹匣
+85:POCKET/pName:通用冲锋枪弹匣
+86:POCKET/pName:3x冲锋枪弹匣
+87:POCKET/pName:散装弹药
+88:POCKET/pName:3x手枪弹匣
+89:POCKET/pName:2x手枪弹匣
+90:POCKET/pName:手枪弹匣
+91:POCKET/pName:水袋
+92:POCKET/pName:反坦克火箭
+93:POCKET/pName:半鞘

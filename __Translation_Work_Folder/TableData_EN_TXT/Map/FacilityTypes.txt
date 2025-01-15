@@ -1,0 +1,160 @@
+1:FACILITYTYPE/szFacilityName:Hospital
+1:FACILITYTYPE/szFacilityShortName:Hospital
+1:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:DOCTOR
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:Heal your wounded mercs here. You'll first have to earn the trust of the locals before you can use this hospital. Also you'll have to pay for the extra supplies needed.  Staff#: 2, Cost d/h: 2400/100$, 200% Doctor effectiveness, Medkits lasts 60% longer, Req.: MED-60 WIS-75 Loyalty-60%
+1:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_MEDICAL
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:Put on your scrubs and learn from the local doctors. But you'll first have to earn the trust of this town, and the training and extra medical supplies will cost you.  Staff#: 2, Cost d/h: 1200/50$, 200% Practice Medical effectiveness, 5% chance of DEX gain, Req.: MED-30 WIS-70 Loyalty-60%
+2:FACILITYTYPE/szFacilityName:Small Sleazy Bar
+2:FACILITYTYPE/szFacilityShortName:Bar
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REST
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Slightly increases loyalty in this town, for a price and a chance to get drunk. The drinking also might influence your morale (positive or negative).  Staff#: 6, Cost d/h: 360/15$, 150% Rest effectiveness
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:GATHER_RUMOURS
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the... Yeah, you wish! Just buy drinks to others and immediately report any info they may spill. Detects enemies countrywide, but may give inaccuracte sector locations.  Staff#: 1, Cost d/h: 360/15$
+2:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:FACILITY_EAT
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Arrange some takeout from the local bar.
+3:FACILITYTYPE/szFacilityName:Prison Complex
+3:FACILITYTYPE/szFacilityShortName:Prison
+3:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:INTERROGATE_PRISONERS
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:The slammer featuring proper solitary confinement. Provides interrogation tools to get what you need from your prisoners. They can join you, or rat out on patrol locations.  Staff#: 4, 120% Interrogate effectiveness
+3:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRISON_SNITCH
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts. However, every hour there's a risk that snitch will be exposed.  Staff#: 4, Massive Boost to Interrogate effectiveness and guard strength
+4:FACILITYTYPE/szFacilityName:Small Airport
+4:FACILITYTYPE/szFacilityShortName:Airport
+4:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+4:FACILITYTYPE/ASSIGNMENT/szTooltipText:Job offer at local airport: 2 guys needed for unloading of aircraft. Earn a few bucks and a slight increase in strength.  Staff#: 2, Income d/h: 480/20$, 5% chance of STR gain, Req.: STR-70
+5:FACILITYTYPE/szFacilityName:Munitions Factory
+5:FACILITYTYPE/szFacilityShortName:Factory
+5:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REPAIR_ITEMS
+5:FACILITYTYPE/ASSIGNMENT/szTooltipText:The machinery here can manufacture all sorts of replacements parts, which will increase your repair efficiency. The extra materials needed will cost you a bit.  Staff#: 2, Cost d/h: 1200/50$,  200% Repair effectiveness, Toolkit lasts 70% longer, Req.: MEC-60 DEX-70
+6:FACILITYTYPE/szFacilityName:Barracks
+6:FACILITYTYPE/szFacilityShortName:Barracks
+6:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REST
+6:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!  Staff#: 10, 110% Rest effectivness, 120% Sleep effectiveness
+7:FACILITYTYPE/szFacilityName:Military Headquarters
+7:FACILITYTYPE/szFacilityShortName:Mil. HQ
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:The war room with hi-tech communications equipment for your strategic awareness. Highly skilled operative required.  Staff#: 1, Detects exact enemy groups in radius of 5 sectors and in sectors patrolled by Mobile Militia, Req.: LDR-80 WIS-80 LVL-6
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:TRAINER_LEADERSHIP
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:This military facility was designed to aid train new officers.  Staff#: 2, Cost d/h: 360/15$, 175% Train Leadership effectiveness, Req.: LDR-50 WIS-75
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STUDENT_LEADERSHIP
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:Studying the art of leadership is much easier in an environment specifically designed for that purpose.  Staff#: 4, Cost d/h: 240/10$, 150% Student Leadership effectiveness, Req.: LDR-30 WIS-70
+7:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:SPREAD_PROPAGANDA_GLOBAL
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take control of local information channels and control the flow of news in entire region.  Staff#: 1, Increases town loyalty hourly and lowers hight of town loyalty drops, Req.: LDR-50 WIS-60
+8:FACILITYTYPE/szFacilityName:Shooting Range
+8:FACILITYTYPE/szFacilityShortName:Range
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_MARKSMANSHIP
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:Why not spend some time practicing your aim? There are 6 targets available for your mercs to practice their accuracy, but the extra ammo and weapons have a cost.  Staff#: 6, Cost d/h: 1680/70$, 200% Practice Marksmanship effectiveness, 5% chance of DEX gain
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:TRAINER_MARKSMANSHIP
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:With the appropriate equipment here, a skilled marksman and trainer will perform better in teaching how to shoot more accurately. The trainer asks for a raise.  Staff#: 1, Cost d/h: 4800/200$, 250% Train Marksmanship effectiveness, Req.: MRK-90 LDR-40 WIS-60
+8:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STUDENT_MARKSMANSHIP
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from a skilled marksman how to place your shots where they're supposed to hit.  Staff#: 6, Cost d/h: 1680/70$, 250% Student Marksmanship effectiveness, 10% chance of DEX gain
+9:FACILITYTYPE/szFacilityName:A.C.A Building
+9:FACILITYTYPE/szFacilityShortName:A.C.A
+9:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:Coordinated by a skilled commander, local militia are able to scout out the surrounding area for you.  Staff#: 1, Detects exact enemy groups in radius of 2 sectors, Req.: LDR-30 WIS-75 Loyalty-60%
+9:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:SPREAD_PROPAGANDA
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing our actions in the best possible light.  Staff#: 1, Increases town loyalty hourly and lowers hight of town loyalty drops, Req.: LDR-20 WIS-60 Loyalty-20%
+10:FACILITYTYPE/szFacilityName:SAM Site
+10:FACILITYTYPE/szFacilityShortName:SAM Site
+10:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+10:FACILITYTYPE/ASSIGNMENT/szTooltipText:By manning this facility, you can ensure that the sky above you remains clear of enemy aircraft.  Staff#: 2, Cost d/h: 2400/100$, Reduces helicopter pilot fee by 100$ per sector traveled, Req.: WIS-70
+11:FACILITYTYPE/szFacilityName:Mine
+11:FACILITYTYPE/szFacilityShortName:Mine
+11:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_EXPLOSIVES
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:For a fee, the mine demolitioners will teach you "stuff go boom" skills.  Staff#: 4, Cost d/h: 1200/50$, 200% Practice Explosives effectiveness, Req.: EXP-30 Loyalty-60%
+12:FACILITYTYPE/szFacilityName:Small Church
+12:FACILITYTYPE/szFacilityShortName:Church
+12:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REST
+12:FACILITYTYPE/ASSIGNMENT/szTooltipText:A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.  Staff#: 6, 110% Rest effectivness, Chance of Morale/Loyalty increase
+13:FACILITYTYPE/szFacilityName:Boxing Club
+13:FACILITYTYPE/szFacilityShortName:Club
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_HEALTH
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably.  Staff#: 6, Cost d/h: 3840/160$, 200% Practice Health effectiveness, Req.: HLT-60 AGI-40 STR-40
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_AGILITY
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:The gym here is equipped to train full-fledged fighters. Kick-box training will improve your speed and reflexes.  Staff#: 6, Cost d/h: 4800/200$, 300% Practice Agility effectiveness, Req.: HLT-60 AGI-40 STR-40
+13:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_STRENGTH
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:The gym here has free weights, resistance bands, weight machines... It's all here, waiting for you to increase your power.  Staff#: 6, Cost d/h: 3840/160$, 300% Practice Strength effectiveness, Req.: HLT-60 AGI-40 STR-40
+14:FACILITYTYPE/szFacilityName:National Museum
+14:FACILITYTYPE/szFacilityShortName:Museum
+14:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+14:FACILITYTYPE/ASSIGNMENT/szTooltipText:Study the history and arts of Arulco to expand your mind.  Staff#: 2, Cost d/h: 8400/350$, 20% chance of WIS gain, Req.: WIS-40
+15:FACILITYTYPE/szFacilityName:Laboratory
+15:FACILITYTYPE/szFacilityShortName:Lab
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:TRAINER_MEDICAL
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:The great conditions here allow for the trainer to give superb performance. Top class doctor required.  Staff#: 1, 250% Train Medical effectiveness, Req.: MED-90 WIS-90
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STUDENT_MEDICAL
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:This high-tech lab has all the equipment and books necessary for medical studies. The queen's scientist made a few asstonishing breakthroughs in medicine, so expect a high degree of knowledge gain.  Staff#: 2, 250% Student Medical effectiveness, Req.: MED-30 WIS-60
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:TRAINER_EXPLOSIVES
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:This high-tech lab has all the equipment and books necessary for the study of explosives. The conditions are top-notch so expect a high degree of knowledge gain for the STUDENTs. Top class expert required.  Staff#: 1, 400% Train Explosives effectiveness, Req.: EXP-90 WIS-90
+15:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STUDENT_EXPLOSIVES
+15:FACILITYTYPE/ASSIGNMENT/szTooltipText:The queen's lab here has all the condition for top class explosive experiments. Although it's a controlled environment there's still a small chance for the things to go wrong.  Staff#: 2, 250% Student Explosives effectiveness, Req.: EXP-30 WIS-60
+16:FACILITYTYPE/szFacilityName:Junkyard
+16:FACILITYTYPE/szFacilityShortName:Junkyard
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REPAIR_ITEMS
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make repairing of items considerably easier.  Staff#: 6, 120% Repair effectiveness, Toolkit lasts 40% longer, Merc on assignmet gets tired 20% faster
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REPAIR_VEHICLE
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make for easier repairs to your vehicle.  Staff#: 2, 110% Repair effectiveness, Toolkit lasts 25% longer, Merc on assignmet gets tired 20% faster
+16:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REPAIR_ROBOT
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine...R2D2's little paradise...  Staff#: 1, 175% Repair effectiveness, Toolkit lasts 10% longer, Merc on assignmet gets tired 20% faster
+17:FACILITYTYPE/szFacilityName:Beach Resort
+17:FACILITYTYPE/szFacilityShortName:Beach
+17:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REST
+17:FACILITYTYPE/ASSIGNMENT/szTooltipText:Sun, sand, surf. This sure as hell beats sleeping in a trench.  Staff#: 32, Cost d/h: 360/15$, 160% Rest effectiveness, 200% Sleep effectivness, Chance of Morale increase
+18:FACILITYTYPE/szFacilityName:Legacy Militia Training Facility
+18:FACILITYTYPE/szFacilityShortName:Legacy
+19:FACILITYTYPE/szFacilityName:Combat Support Hospital
+19:FACILITYTYPE/szFacilityShortName:Camp Hospital
+19:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:DOCTOR
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform urgent life-saving treatment on your wounded mercs in field conditions.  Staff#: 2, 150% Doctor effectiveness, Medkits lasts 40% longer, Req.: MED-60 WIS-60
+20:FACILITYTYPE/szFacilityName:Army Barracks Cantina
+20:FACILITYTYPE/szFacilityShortName:Cantina
+20:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:FACILITY_EAT
+20:FACILITYTYPE/ASSIGNMENT/szTooltipText:By taking over the armies barracks, you've also taken over the cantina inside. Your mercs can eat here.  Staff#: 10, Cost d/h: 480/20$, Food Modifier 1000, Chance of Morale increase and drunk effect
+21:FACILITYTYPE/szFacilityName:Military Prison
+21:FACILITYTYPE/szFacilityShortName:Prison
+21:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:INTERROGATE_PRISONERS
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Smaller then a prison complex, but suffices for a fair amount of prisoners. Don't forget to interrogate them, as they might join your militia ranks or give out helpful info.  Staff#: 3, 110% Interrogate effectiveness
+21:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRISON_SNITCH
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts. However, every hour there's a risk that snitch will be exposed.  Staff#: 3, 90% basic Interrogate effectiveness, Massive additional boost to Interrogate effectiveness and prison guard strength
+22:FACILITYTYPE/szFacilityName:Town Prison
+22:FACILITYTYPE/szFacilityShortName:Prison
+22:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:INTERROGATE_PRISONERS
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:The local town prison. Interrogate prisoners of war here to make them join you, or rat out on some enemy patrol locations. But don't expect to much from this small facility.  Staff#: 1, 90% Interrogate effectiveness
+22:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRISON_SNITCH
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.  Staff#: 1, 70% basic Interrogate effectiveness, Massive additional boost to Interrogate effectiveness and prison guard strength
+23:FACILITYTYPE/szFacilityName:Fredo's Workshop
+23:FACILITYTYPE/szFacilityShortName:Workshop
+23:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_DEXTERITY
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:For a price Fredo is willing to teach you in repairs of fine electronics. The delicate work makes for a steadier hand. Staff#: 1, Cost d/h: 4320/180$, 200% Practice Dexterity effectiveness, 5% chance of MEC gain, Req.: DEX-40 WIS-50
+24:FACILITYTYPE/szFacilityName:Arnie's Workshop
+24:FACILITYTYPE/szFacilityShortName:Workshop
+24:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_MECHANICAL
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:Arnie is willing to teach you in repair methods. He ask for a fee, though.  Staff#: 1, Cost d/h: 1320/55$, 200% Practice Mechanical effectiveness, 5% chance of DEX gain, Req.: MEC-40 WIS-50
+25:FACILITYTYPE/szFacilityName:Gas Station
+25:FACILITYTYPE/szFacilityShortName:Gas Station
+25:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+25:FACILITYTYPE/ASSIGNMENT/szTooltipText:Get this old gas station up and running. Arulco is in need of gas, and if you can supply it, the locals will pay for it.  Staff#: 1, Income d/h: 4800/200$ Req.: LDR-40 WIS-80
+26:FACILITYTYPE/szFacilityName:Military Warehouse
+26:FACILITYTYPE/szFacilityShortName:Warehouse
+26:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+26:FACILITYTYPE/ASSIGNMENT/szTooltipText:You've found a huge warehouse full of military gear. An organized manager here can sell the army surplus to bring in some extra cash.  Staff#: 1, Income d/h: 2400/100$, Req.: LDR-40 WIS-80
+27:FACILITYTYPE/szFacilityName:Satellite Scan - Limited
+27:FACILITYTYPE/szFacilityShortName:Limited Scan
+27:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:Access limited satellite imaging. Detects enemies only in visited sectors and the number of city garrisons cannot be detected.  Staff#: 1 Cost/h: 8000$, Detects enemy patrols in visited sectors, Req.: LDR-80 WIS-80 LVL-6
+28:FACILITYTYPE/szFacilityName:Satellite Scan - Full
+28:FACILITYTYPE/szFacilityShortName:Full Scan
+28:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+28:FACILITYTYPE/ASSIGNMENT/szTooltipText:Access full satellite imaging to detect enemies in all of Arulco. Infra-red and thermo imaging detects even well hidden enemies within cities.  Staff#: 1 Cost/h: 20000$, Detects exact enemy locations and numbers on the whole map, Req.: LDR-80 WIS-80 LVL-6
+29:FACILITYTYPE/szFacilityName:Port
+29:FACILITYTYPE/szFacilityShortName:Port
+29:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:STAFF
+29:FACILITYTYPE/ASSIGNMENT/szTooltipText:Deidranna's policy helped creating a thriving black market in this port. You can take a share of the profits.  Staff#: 2, Income d/h: 2400/100$, 5% chance of STR gain, Req.: STR-70 LDR-30 WIS-75
+30:FACILITYTYPE/szFacilityName:Friendly Farmer
+30:FACILITYTYPE/szFacilityShortName:Farm
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:REST
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:Many of the rural people are in solidarity with your efforts, and this farmer is willing to let you sleep in the barn whenever you stop by. Increases recuperation, and Increases Morale.
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:PRACTICE_HEALTH
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:Good, hard farm work is great for your general health, and helping out common farm folk is sure to get people talking about you. Increases Morale and Global Loyalty!
+30:FACILITYTYPE/ASSIGNMENT/ubAssignmentType:FACILITY_EAT
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:Good, fresh farm food is good for the body and soul. Increases Morale.
