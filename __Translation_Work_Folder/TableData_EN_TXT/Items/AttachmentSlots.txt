@@ -1,0 +1,74 @@
+0:ATTACHMENTSLOT/szSlotName:Don't touch me
+1:ATTACHMENTSLOT/szSlotName:Default slot 1
+2:ATTACHMENTSLOT/szSlotName:Default slot 2
+3:ATTACHMENTSLOT/szSlotName:Default slot 3
+4:ATTACHMENTSLOT/szSlotName:Default slot 4
+5:ATTACHMENTSLOT/szSlotName:Muzzle Attachments
+6:ATTACHMENTSLOT/szSlotName:Laser Attachments
+7:ATTACHMENTSLOT/szSlotName:Co-Witness Sights
+8:ATTACHMENTSLOT/szSlotName:Combat Optics/Sights - If you can read this, use the item transformation on the weapon! If the problem persists, then please report this bug.
+9:ATTACHMENTSLOT/szSlotName:Stock Attachments
+10:ATTACHMENTSLOT/szSlotName:Magazine Adapters
+11:ATTACHMENTSLOT/szSlotName:Internal Attachments
+12:ATTACHMENTSLOT/szSlotName:External: Trigger Group
+13:ATTACHMENTSLOT/szSlotName:Underbarrel Attachments
+14:ATTACHMENTSLOT/szSlotName:Rifle Grenade, Single
+15:ATTACHMENTSLOT/szSlotName:Rocket Launcher, Single
+16:ATTACHMENTSLOT/szSlotName:Rifle Grenade 1
+17:ATTACHMENTSLOT/szSlotName:Rifle Grenade 2
+18:ATTACHMENTSLOT/szSlotName:Rifle Grenade 3
+19:ATTACHMENTSLOT/szSlotName:Rifle Grenade 4
+20:ATTACHMENTSLOT/szSlotName:Rifle Grenade 5
+21:ATTACHMENTSLOT/szSlotName:Rifle Grenade 6
+22:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot 1
+23:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot 2
+24:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot 3
+25:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot 4
+26:ATTACHMENTSLOT/szSlotName:Iron Sights - You shouldn't be able to read this. Use an itemtransformation of this item to recreate the attachment. If that's not feasible, then please report this bug.
+27:ATTACHMENTSLOT/szSlotName:Emergency Sights - You shouldn't be able to read this. Use an itemtransformation of this item to recreate the attachment. If that's not feasible, then please report this bug.
+28:ATTACHMENTSLOT/szSlotName:Nested Attachments (Scope)
+29:ATTACHMENTSLOT/szSlotName:Scope Magnification Factor Slot 1 - If you can read this, use the item transformation on the scope! If the problem persists, then please report this bug.
+30:ATTACHMENTSLOT/szSlotName:Scope Magnification Factor Slot 2 - If you can read this, use the item transformation on the scope! If the problem persists, then please report this bug.
+31:ATTACHMENTSLOT/szSlotName:Scope Magnification Factor Slot 3 - If you can read this, use the item transformation on the scope! If the problem persists, then please report this bug.
+32:ATTACHMENTSLOT/szSlotName:Knife Slot
+33:ATTACHMENTSLOT/szSlotName:Rifle Sling
+34:ATTACHMENTSLOT/szSlotName:Cleaning Kit
+35:ATTACHMENTSLOT/szSlotName:Batteries
+36:ATTACHMENTSLOT/szSlotName:MOLLE Thigh Rig Upper Left
+37:ATTACHMENTSLOT/szSlotName:MOLLE Thigh Rig Upper Right
+38:ATTACHMENTSLOT/szSlotName:MOLLE Thigh Rig Lower Left
+39:ATTACHMENTSLOT/szSlotName:MOLLE Thigh Rig Lower Right
+40:ATTACHMENTSLOT/szSlotName:MOLLE Thigh Rig Bottom Medium
+41:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 1
+42:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 2
+43:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 3
+44:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 4
+45:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 5
+46:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 6 Medium
+47:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 1
+48:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 2
+49:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 3
+50:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 4
+51:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 5
+52:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 6 Medium
+53:ATTACHMENTSLOT/szSlotName:MOLLE Belt First Column 1
+54:ATTACHMENTSLOT/szSlotName:MOLLE Belt First Column 2
+55:ATTACHMENTSLOT/szSlotName:MOLLE Belt Second Column 1
+56:ATTACHMENTSLOT/szSlotName:MOLLE Belt Second Column 2
+57:ATTACHMENTSLOT/szSlotName:MOLLE Belt Third Column 1 Medium
+58:ATTACHMENTSLOT/szSlotName:MOLLE Belt Third Column 2
+59:ATTACHMENTSLOT/szSlotName:MOLLE Belt Third Column 3
+60:ATTACHMENTSLOT/szSlotName:MOLLE Backpack First Column 1
+61:ATTACHMENTSLOT/szSlotName:MOLLE Backpack First Column 2
+62:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Second Column 1
+63:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Second Column 2
+64:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Third Column 1 Medium
+65:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Third Column 2 Medium
+66:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Third Column 3 Medium
+67:ATTACHMENTSLOT/szSlotName:MOLLE Backpack Third Column 4 Medium
+68:ATTACHMENTSLOT/szSlotName:Helmet Attachment: Sight Devices
+69:ATTACHMENTSLOT/szSlotName:Helmet Attachment: Camo Cover
+70:ATTACHMENTSLOT/szSlotName:Helmet Attachment: Face Protection
+71:ATTACHMENTSLOT/szSlotName:Vest Attachment: Armour Plating
+72:ATTACHMENTSLOT/szSlotName:Vest Attachment: Camo Shirt
+73:ATTACHMENTSLOT/szSlotName:Leggings Attachment: Leg Protectors
