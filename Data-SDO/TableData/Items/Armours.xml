@@ -1,0 +1,1487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARMOURLIST>
+	<ARMOUR>	<!-- Flak Jacket -->
+		<uiIndex>0</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Flak Jacket -->	
+		<uiIndex>1</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>17</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Flak Jacket -->	
+		<uiIndex>2</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>19</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Kevlar Vest -->	
+		<uiIndex>3</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Kevlar Vest -->	
+		<uiIndex>4</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Kevlar Vest -->	
+		<uiIndex>5</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>24</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Spectra Vest -->
+		<uiIndex>6</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>7</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>8</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Kevlar Leggings -->	
+		<uiIndex>9</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>18</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Kevlar Leggings -->	
+		<uiIndex>10</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Kevlar Leggings -->	
+		<uiIndex>11</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Spectra Leggings -->		
+		<uiIndex>12</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Spectra Leggings -->		
+		<uiIndex>13</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Spectra Leggings -->		
+		<uiIndex>14</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Steel Helmet -->	
+		<uiIndex>15</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Kevlar Helmet -->	
+		<uiIndex>16</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>18</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Kevlar Helmet -->	
+		<uiIndex>17</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Kevlar Helmet -->	
+		<uiIndex>18</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>19</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>20</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>21</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Ceramic Plates -->
+		<uiIndex>22</uiIndex>
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>45</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>23</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>24</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>25</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>6</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>26</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>27</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>2</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Leather &amp; Kevlar Jacket -->	
+		<uiIndex>28</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Leather &amp; Kevlar Jacket -->	
+		<uiIndex>29</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>18</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Leather &amp; Kevlar Jacket -->	
+		<uiIndex>30</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>24</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>31</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>7</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>32</uiIndex>
+		<ubArmourClass>4</ubArmourClass>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>33</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>34</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Guardian Vest -->
+		<uiIndex>35</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Guardian Vest -->	
+		<uiIndex>36</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Guardian Vest -->	
+		<uiIndex>37</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Black Cap -->
+		<uiIndex>38</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>45</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>39</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>40</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Field Uniform -->	
+		<uiIndex>41</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>18</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Woodland Hat -->
+		<uiIndex>42</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>43</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR> 	<!-- Officer's Hat -->
+		<uiIndex>44</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Red Beret -->
+		<uiIndex>45</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Russian Cap -->
+		<uiIndex>46</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Fur Hat -->
+		<uiIndex>47</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Officer's Coat -->
+		<uiIndex>48</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Officer's Hat -->
+		<uiIndex>49</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SWAT Helmet -->		
+		<uiIndex>50</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SWAT Leggings -->
+		<uiIndex>51</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SWAT Vest -->
+		<uiIndex>52</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>53</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Camo Steel Helmet -->
+		<uiIndex>54</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>55</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>56</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>57</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>58</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>59</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>60</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Ghillie Helmet (OIV) -->
+		<uiIndex>61</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Ghillie Pants (OIV) -->
+		<uiIndex>62</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Ghillie Suit (OIV)	-->
+		<uiIndex>63</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Twaron Helmet -->	
+		<uiIndex>64</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>21</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Twaron Leggings -->
+		<uiIndex>65</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>21</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Twaron Vest -->
+		<uiIndex>66</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>67</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>68</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>69</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>70</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>71</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>4</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>72</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>4</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>73</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>74</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>75</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Twaron Helmet -->	
+		<uiIndex>76</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Twaron Leggings -->	
+		<uiIndex>77</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Twaron Vest -->	
+		<uiIndex>78</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>79</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>80</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>81</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>82</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>83</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>3</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>84</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>60</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>3</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>85</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>60</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>86</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>87</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Twaron Helmet -->	
+		<uiIndex>88</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>55</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Twaron Leggings -->	
+		<uiIndex>89</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Twaron Vest -->	
+		<uiIndex>90</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Titanium Plating -->
+		<uiIndex>91</uiIndex>
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Leg Protectors -->
+		<uiIndex>92</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO Helmet (OIV) -->
+		<uiIndex>93</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO Vest (OIV) -->
+		<uiIndex>94</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>12</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO Leggings (OIV) -->
+		<uiIndex>95</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>18</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>12</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Recon Kevlar Vest (OIV) -->
+		<uiIndex>96</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Recon Guardian Vest (OIV) -->
+		<uiIndex>97</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Recon Twaron Vest (OIV) -->
+		<uiIndex>98</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Recon Kevlar Leggings (OIV) -->
+		<uiIndex>99</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Recon Twaron leggings (OIV) -->
+		<uiIndex>100</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Kevlar Vest (OIV) -->
+		<uiIndex>101</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Guardian Vest (OIV) -->
+		<uiIndex>102</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Twaron Vest (OIV) -->
+		<uiIndex>103</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Spectra Vest (OIV) -->
+		<uiIndex>104</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Dyneema Vest (OIV) -->
+		<uiIndex>105</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Kevlar Leggings (OIV) -->
+		<uiIndex>106</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Twaron Leggings (OIV) -->
+		<uiIndex>107</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Spectra Leggings (OIV) -->
+		<uiIndex>108</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Medic Dyneema Leggings (OIV) -->
+		<uiIndex>109</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Kevlar Vest (OIV) -->
+		<uiIndex>110</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Guardian Vest (OIV) -->
+		<uiIndex>111</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Twaron Vest (OIV) -->
+		<uiIndex>112</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Spectra Vest (OIV) -->
+		<uiIndex>113</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Dyneema Vest (OIV) -->
+		<uiIndex>114</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Kevlar Leggings (OIV) -->
+		<uiIndex>115</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>23</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Twaron Leggings (OIV) -->
+		<uiIndex>116</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Mechanic Spectra Leggings (OIV) -->
+		<uiIndex>117</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR> 	<!-- Mechanic Dyneema Leggings (OIV) -->
+		<uiIndex>118</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Kevlar Vest (OIV) -->
+		<uiIndex>119</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Guardian Vest (OIV) -->
+		<uiIndex>120</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Twaron Vest (OIV) -->
+		<uiIndex>121</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Spectra Vest (OIV) -->
+		<uiIndex>122</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Dyneema Vest (OIV) -->
+		<uiIndex>123</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Kevlar Leggings (OIV) -->
+		<uiIndex>124</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Twaron Leggings (OIV) -->
+		<uiIndex>125</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Spectra Leggings (OIV) -->
+		<uiIndex>126</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- FO Dyneema Leggings (OIV) -->
+		<uiIndex>127</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO-18 Helmet (OIV) -->
+		<uiIndex>128</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>17</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO-18 Vest (OIV) -->
+		<uiIndex>129</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- SO-18 Leggings (OIV) -->
+		<uiIndex>130</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Recon Kevlar Vest (OIV) -->
+		<uiIndex>131</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Recon Guardian Vest (OIV) -->
+		<uiIndex>132</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Recon Twaron Vest (OIV) -->
+		<uiIndex>133</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Recon Kevlar Leggings (OIV) -->
+		<uiIndex>134</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Recon Twaron Leggings (OIV) -->
+		<uiIndex>135</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Kevlar Vest (OIV) -->
+		<uiIndex>136</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Guardian Vest (OIV) -->
+		<uiIndex>137</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Twaron Vest (OIV) -->
+		<uiIndex>138</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Spectra Vest (OIV) -->
+		<uiIndex>139</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Dyneema Vest (OIV) -->
+		<uiIndex>140</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Kevlar Leggings (OIV) -->
+		<uiIndex>141</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Twaron Leggings (OIV) -->
+		<uiIndex>142</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Spectra Leggings (OIV) -->
+		<uiIndex>143</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Medic Dyneema Leggings (OIV) -->
+		<uiIndex>144</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Kevlar Vest (OIV) -->
+		<uiIndex>145</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Guardian Vest (OIV) -->
+		<uiIndex>146</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Twaron Vest (OIV) -->
+		<uiIndex>147</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Spectra Vest (OIV) -->
+		<uiIndex>148</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Dyneema Vest (OIV) -->
+		<uiIndex>149</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Kevlar Leggings (OIV) -->
+		<uiIndex>150</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Twaron Leggings (OIV) -->
+		<uiIndex>151</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Spectra Leggings (OIV) -->
+		<uiIndex>152</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Mechanic Dyneema Leggings (OIV) -->
+		<uiIndex>153</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Operative Kevlar Vest (OIV) -->
+		<uiIndex>154</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Operative Guardian Vest (OIV) -->
+		<uiIndex>155</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Operative Twaron Vest (OIV) -->
+		<uiIndex>156</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Operative Spectra Vest (OIV) -->
+		<uiIndex>157</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Operative Dyneema Vest (OIV) -->
+		<uiIndex>158</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Ops Kevlar Leggings (OIV) -->
+		<uiIndex>159</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Ops Twaron Leggings (OIV) -->
+		<uiIndex>160</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Ops Spectra Leggings (OIV) -->
+		<uiIndex>161</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Treated Field Ops Dyneema Leggings (OIV) -->
+		<uiIndex>162</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Stealth Ops Helmet (OIV) -->
+		<uiIndex>163</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>19</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Stealth Ops Vest (OIV) -->
+		<uiIndex>164</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>24</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Stealth Ops Leggings (OIV) -->
+		<uiIndex>165</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>22</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Recon Kevlar Vest (OIV) -->
+		<uiIndex>166</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Recon Guardian Vest (OIV) -->
+		<uiIndex>167</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Recon Twaron Vest (OIV) -->
+		<uiIndex>168</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Recon Kevlar Leggings (OIV) -->
+		<uiIndex>169</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Recon Twaron Leggings (OIV) -->
+		<uiIndex>170</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Kevlar Vest (OIV) -->
+		<uiIndex>171</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Guardian Vest (OIV) -->
+		<uiIndex>172</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Twaron Vest (OIV) -->
+		<uiIndex>173</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Spectra Vest (OIV) -->
+		<uiIndex>174</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Dyneema Vest (OIV) -->
+		<uiIndex>175</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Kevlar Leggings (OIV) -->
+		<uiIndex>176</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Twaron Leggings (OIV) -->
+		<uiIndex>177</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Spectra Leggings (OIV) -->
+		<uiIndex>178</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Medic Dyneema Leggings (OIV) -->
+		<uiIndex>179</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Kevlar Vest (OIV) -->
+		<uiIndex>180</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Guardian Vest (OIV) -->
+		<uiIndex>181</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Twaron Vest (OIV) -->
+		<uiIndex>182</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Spectra Vest (OIV) -->
+		<uiIndex>183</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Dyneema Vest (OIV) -->
+		<uiIndex>184</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Kevlar Leggings (OIV) -->
+		<uiIndex>185</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>27</ubProtection>
+		<ubCoverage>65</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Twaron Leggings (OIV) -->
+		<uiIndex>186</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Spectra Leggings (OIV) -->
+		<uiIndex>187</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Mechanic Dyneema Leggings (OIV) -->
+		<uiIndex>188</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Operative Kevlar Vest (OIV) -->
+		<uiIndex>189</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Operative Guardian Vest (OIV) -->
+		<uiIndex>190</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Operative Twaron Vest (OIV) -->
+		<uiIndex>191</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Operative Spectra Vest (OIV) -->
+		<uiIndex>192</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Operative Dyneema Vest (OIV) -->
+		<uiIndex>193</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR> 	<!-- Coated Field Ops Kevlar Leggings (OIV) -->
+		<uiIndex>194</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Ops Twaron Leggings (OIV) -->
+		<uiIndex>195</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Ops Spectra Leggings (OIV) -->
+		<uiIndex>196</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Coated Field Ops Dyneema Leggings (OIV) -->
+		<uiIndex>197</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>198</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>199</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>200</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>201</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>28</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>202</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>	
+	<ARMOUR>
+		<uiIndex>203</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Wood Camo Uniform -->		
+		<uiIndex>204</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>	
+	<ARMOUR>	<!-- Wood Camo Leggings -->		
+		<uiIndex>205</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>206</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Face Mask -->
+		<uiIndex>207</uiIndex>
+		<ubArmourClass>3</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>30</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Balaclava -->
+		<uiIndex>208</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Woodland Balaclava -->
+		<uiIndex>209</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Army Cap -->
+		<uiIndex>210</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>45</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>	<!-- Baseball Cap -->
+		<uiIndex>211</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>1</ubProtection>
+		<ubCoverage>45</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+</ARMOURLIST>

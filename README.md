@@ -4,3 +4,8 @@ SDO（Stock Data Overhaul）汉化包：2014 Stable 版（即 7609）
 
 汉化包是基于 sevenfm 的 7609en+Modpack.7z 整合包里面的 Data-SDO 文件夹的版本
 - 我会根据 7609en+Modpack.7z 的日期来区分版本：例如 2024-11-17 的 7609en+Modpack.7z，那么 git 日志 241117v1，就是此压缩包里面的 Data-SDO 汉化包 v1 版本
+
+目录说明
+- Data-SDO：sevenfm 的 7609en+Modpack.7z 里面的 SDO 版本
+- Data-SDO_2014_ChsPatch：针对 Data-SDO 的中文补丁
+- \_\_Translation_Work_Folder：这是翻译工作目录，直接放这里，方便后期更新和跟踪

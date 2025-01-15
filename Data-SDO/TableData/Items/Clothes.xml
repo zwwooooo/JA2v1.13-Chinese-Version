@@ -1,0 +1,488 @@
+<!--
+	Possible vests:
+		YELLOWVEST
+		BLACKSHIRT
+		REDVEST
+		GREENVEST
+		JEANVEST
+		BLUEVEST
+		greyVEST  :: note capitalization here
+		GYELLOWSHIRT
+		WHITEVEST
+		PURPLESHIRT
+		BLUEVEST
+		BROWNVEST
+	
+	Possible pants:
+		GREENPANTS
+		BLACKPANTS
+		BEIGEPANTS
+		TANPANTS
+		JEANPANTS
+		BLUEPANTS
+-->
+
+<!--
+	Extended vests:
+		BROWNVEST
+		greyVEST
+		GREENVEST
+		JEANVEST
+		REDVEST
+		BLUEVEST
+		YELLOWVEST
+		WHITEVEST
+		BLACKSHIRT
+		GYELLOWSHIRT
+		PURPLESHIRT
+
+		TANWEST
+		SandWest
+		GreyBlueWest
+		CamoWestSand
+		CamoWestGreen2
+		CamoWestBrown2
+		CamoWestBlakBlue
+		CamoWestTropic
+		CamoWestGreenBrown
+		CamoWestFall2
+		CamoWestGrayGreen
+		CamoWestNew
+		CamoWestBrowmGreen
+		CamoWestNATO
+		CamoWestNATO2
+		CamoWestNATO3
+		camoWestWinter
+
+	Extended pants:
+		GREENPANTS
+		GREENPANTS2
+		JEANPANTS
+		TANPANTS
+		BLACKPANTS
+		BLUEPANTS
+		REDPANTS
+		greyPANTS
+		BROWNPANTS
+		YELLOWPANTS
+		BEIGEPANTS
+		SandPants
+		PURPLESPANTS
+		GreyBluePants
+		CamoPantsSand
+		CamoPantsGreen
+		CamoPantsGreen2
+		CamoPantsBrown
+		CamoPantsBrown2
+		CamoPantsBlack
+		CamoPantsBlackBlue
+		CamoPantsGrey
+		CamoPantsTropic
+		CamoPantsTropic2
+		CamoPantsGreenBrown
+		CamoPantsFall
+		CamoPantsFall2
+		CamoPantsGrayGreen
+		CamoPantsNew
+		CamoPantsBrowmGreen
+		CamoPantsNATO
+		CamoPantsNATO2
+		CamoPantsNATO3
+		camoPantsWinter
+		BlackBluePants
+-->
+
+
+<CLOTHESLIST>
+	<CLOTHES>
+		<uiIndex>0</uiIndex>
+		<szName>None</szName>
+		<Vest />
+		<Pants />
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>1</uiIndex>
+		<szName>Admin Vest</szName>
+		<Vest>YELLOWVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>2</uiIndex>
+		<szName>BLACKSHIRT</szName>
+		<Vest>BLACKSHIRT</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>3</uiIndex>
+		<szName>REDVEST</szName>
+		<Vest>REDVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>4</uiIndex>
+		<szName>Elite Vest</szName>
+		<Vest>GREENVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>5</uiIndex>
+		<szName>JEANVEST</szName>
+		<Vest>JEANVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>6</uiIndex>
+		<szName>BLUEVEST</szName>
+		<Vest>BLUEVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>7</uiIndex>
+		<szName>grey shirt</szName>
+		<Vest>greyVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>8</uiIndex>
+		<szName>light green</szName>
+		<Vest>GYELLOWSHIRT</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>9</uiIndex>
+		<szName>WHITEVEST</szName>
+		<Vest>WHITEVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>10</uiIndex>
+		<szName>PURPLESHIRT</szName>
+		<Vest>PURPLESHIRT</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>11</uiIndex>
+		<szName>Regular Army Vest</szName>
+		<Vest>BROWNVEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>12</uiIndex>
+		<szName>Elite Trousers</szName>
+		<Pants>GREENPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>13</uiIndex>
+		<szName>BLACKPANTS</szName>
+		<Pants>BLACKPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>14</uiIndex>
+		<szName>BEIGEPANTS</szName>
+		<Pants>BEIGEPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>15</uiIndex>
+		<szName>Admin + Regular Trousers</szName>
+		<Pants>TANPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>16</uiIndex>
+		<szName>JEANPANTS</szName>
+		<Pants>JEANPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>17</uiIndex>
+		<szName>Bluejeans</szName>
+		<Pants>BLUEPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>18</uiIndex>
+		<szName>white t-shirt and jeans</szName>
+		<Vest>WHITEVEST</Vest>
+		<Pants>BLUEPANTS</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>19</uiIndex>
+		<szName>REDPANTS</szName>
+		<Pants>REDPANTS</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>20</uiIndex>
+		<szName>greyPANTS</szName>
+		<Pants>greyPANTS</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>21</uiIndex>
+		<szName>BROWNPANTS</szName>
+		<Pants>BROWNPANTS</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>22</uiIndex>
+		<szName>YELLOWPANTS</szName>
+		<Pants>YELLOWPANTS</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>23</uiIndex>
+		<szName>unused</szName>
+		<Pants>unused</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>24</uiIndex>
+		<szName>SandPants</szName>
+		<Pants>SandPants</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>25</uiIndex>
+		<szName>PURPLESPANTS</szName>
+		<Pants>PURPLESPANTS</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>26</uiIndex>
+		<szName>GreyBluePants</szName>
+		<Pants>GreyBluePants</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>27</uiIndex>
+		<szName>BlackBluePants</szName>
+		<Pants>BlackBluePants</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>28</uiIndex>
+		<szName>CamoPantsSand</szName>
+		<Pants>CamoPantsSand</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>29</uiIndex>
+		<szName>CamoPantsGreen</szName>
+		<Pants>CamoPantsGreen</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>30</uiIndex>
+		<szName>CamoPantsGreen2</szName>
+		<Pants>CamoPantsGreen2</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>31</uiIndex>
+		<szName>CamoPantsBrown</szName>
+		<Pants>CamoPantsBrown</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>32</uiIndex>
+		<szName>CamoPantsBrown2</szName>
+		<Pants>CamoPantsBrown2</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>33</uiIndex>
+		<szName>CamoPantsBlack</szName>
+		<Pants>CamoPantsBlack</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>34</uiIndex>
+		<szName>CamoPantsBlackBlue</szName>
+		<Pants>CamoPantsBlackBlue</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>35</uiIndex>
+		<szName>CamoPantsGrey</szName>
+		<Pants>CamoPantsGrey</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>36</uiIndex>
+		<szName>CamoPantsTropic</szName>
+		<Pants>CamoPantsTropic</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>37</uiIndex>
+		<szName>CamoPantsTropic2</szName>
+		<Pants>CamoPantsTropic2</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>38</uiIndex>
+		<szName>CamoPantsGreenBrown</szName>
+		<Pants>CamoPantsGreenBrown</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>39</uiIndex>
+		<szName>CamoPantsFall</szName>
+		<Pants>CamoPantsFall</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>40</uiIndex>
+		<szName>CamoPantsFall2</szName>
+		<Pants>CamoPantsFall2</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>41</uiIndex>
+		<szName>CamoPantsGrayGreen</szName>
+		<Pants>CamoPantsGrayGreen</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>42</uiIndex>
+		<szName>CamoPantsNew</szName>
+		<Pants>CamoPantsNew</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>43</uiIndex>
+		<szName>CamoPantsBrowmGreen</szName>
+		<Pants>CamoPantsBrowmGreen</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>44</uiIndex>
+		<szName>CamoPantsNATO</szName>
+		<Pants>CamoPantsNATO</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>45</uiIndex>
+		<szName>CamoPantsNATO2</szName>
+		<Pants>CamoPantsNATO2</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>46</uiIndex>
+		<szName>CamoPantsNATO3</szName>
+		<Pants>CamoPantsNATO3</Pants>
+	</CLOTHES>
+
+	<CLOTHES>
+		<uiIndex>47</uiIndex>
+		<szName>camoPantsWinter</szName>
+		<Pants>camoPantsWinter</Pants>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>48</uiIndex>
+		<szName>TANWEST</szName>
+		<Vest>TANWEST</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>49</uiIndex>
+		<szName>SandWest</szName>
+		<Vest>SandWest</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>50</uiIndex>
+		<szName>GreyBlueWest</szName>
+		<Vest>GreyBlueWest</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>51</uiIndex>
+		<szName>CamoWestSand</szName>
+		<Vest>CamoWestSand</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>52</uiIndex>
+		<szName>CamoWestGreen2</szName>
+		<Vest>CamoWestGreen2</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>53</uiIndex>
+		<szName>CamoWestBrown2</szName>
+		<Vest>CamoWestBrown2</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>54</uiIndex>
+		<szName>CamoWestBlakBlue</szName>
+		<Vest>CamoWestBlakBlue</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>55</uiIndex>
+		<szName>CamoWestTropic</szName>
+		<Vest>CamoWestTropic</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>56</uiIndex>
+		<szName>CamoWestGreenBrown</szName>
+		<Vest>CamoWestGreenBrown</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>57</uiIndex>
+		<szName>CamoWestFall2</szName>
+		<Vest>CamoWestFall2</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>58</uiIndex>
+		<szName>CamoWestGrayGreen</szName>
+		<Vest>CamoWestGrayGreen</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>59</uiIndex>
+		<szName>CamoWestNew</szName>
+		<Vest>CamoWestNew</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>60</uiIndex>
+		<szName>CamoWestBrowmGreen</szName>
+		<Vest>CamoWestBrowmGreen</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>61</uiIndex>
+		<szName>CamoWestNATO</szName>
+		<Vest>CamoWestNATO</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>62</uiIndex>
+		<szName>CamoWestNATO2</szName>
+		<Vest>CamoWestNATO2</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>63</uiIndex>
+		<szName>CamoWestNATO3</szName>
+		<Vest>CamoWestNATO3</Vest>
+	</CLOTHES>
+	
+	<CLOTHES>
+		<uiIndex>64</uiIndex>
+		<szName>camoWestWinter</szName>
+		<Vest>camoWestWinter</Vest>
+	</CLOTHES>
+</CLOTHESLIST>

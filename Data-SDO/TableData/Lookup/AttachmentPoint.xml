@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<AttachmentPoint>
+		<id>0</id>
+		<name>None</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1</id>
+		<name>Sights - Iron Sights                             -----Open Sights, Aperture Sights, Backup Sights, Bad Pistol Sights, Pistol Sights, Good Pistol Sights*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2</id>
+		<name>Sights - Reflex Sight RMR (Standalone)*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>3</id>
+		<name>1 Sights - Pistol - Reflex Sight                 -----Iron Sights, Reflex Sight RMR</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4</id>
+		<name>Sights - Match Sights*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>7</id>
+		<name>1 Sights - Pistol - Reflex/Match Sights          -----Iron Sights, Reflex Sight RMR, Match Sights</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>8</id>
+		<name>Sights - Reflex Sight RMR (Cowittness)*</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>16</id>
+		<name>Sights - Scope 2x*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>27</id>
+		<name>1 Sights - SMG - No ITL MARS                     -----Iron Sights, Reflex Sight RMR, Scope 2x</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>32</id>
+		<name>Sights - Rifle Scope 3x*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>59</id>
+		<name>1 Sights - Short-Range Rifle                     -----Iron Sights, Reflex Sight RMR, Scope 2x, Rifle Scope 3x</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>64</id>
+		<name>Sights - Holo Sight*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>128</id>
+		<name>Sights - Aimpoint CompM2*</name>
+	</AttachmentPoint>				
+	<AttachmentPoint>
+		<id>256</id>
+		<name>Sights - Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>385</id>
+		<name>1 Sights - Old AR                                -----Iron Sights, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>512</id>
+		<name>Sights - EOTech STS Magnifier 3.2x*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1024</id>
+		<name>Sights - ACOG 4x, Dual Role Optic*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>2048</id>
+		<name>Sights - EOTech Magnifier 6x, ACOG 5.5x*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>4096</id>
+		<name>Sights - Battle Scope 7x*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>4225</id>
+		<name>1 Sights - Old Battle Rifle                      -----Iron Sights, Aimpoint CompM2, Battle Scope 7x</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>8192</id>
+		<name>Sights - Sniper Scope 9x*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>12289</id>
+		<name>1 Sights - Sniper Rifle                         -----Iron Sights, Battle Scope 7x, Sniper Scope 9x</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>16384</id>
+		<name>Sights - AN/PVS-24*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>18369</id>
+		<name>1 Sights - Carbine AR - No ITL MARS             -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x, ACOG 4x, Dual Role Optic, AN/PVS-24</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>20417</id>
+		<name>1 Sights - Mid-Range AR - No ITL MARS           -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x+6x, ACOG 4x+5.5x, Dual Role Optic, AN/PVS-24</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>24513</id>
+		<name>1 Sights - Battle Rifle - No ITL MARS           -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x+6x, ACOG 4x+5.5x, Dual Role Optic, Battle Scope 7x, AN/PVS-24</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>32768</id>
+		<name>Sights - ISM-V-IR, ITL MARS*</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>33491</id>
+		<name>1 Sights - Modern MP                            -----Iron Sights, Reflex Sight RMR (Standalone), Scope 2x, Holo Sight, Aimpoint CompM2, EOTech STS Magnifier 3.2x, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>33499</id>
+		<name>1 Sights - SMG - All                            -----Iron Sights, Reflex Sight RMR, Scope 2x, Holo Sight, Aimpoint CompM2, EOTech STS Magnifier 3.2x, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>51137</id>
+		<name>1 Sights - Carbine AR - All                     -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x, ACOG 4x, Dual Role Optic, AN/PVS-24, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>51179</id>
+		<name>1 Sights - Modern Rifle - All                   -----Iron Sights, Reflex Sight RMR, Rifle Scope 3x, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x, ACOG 4x, Dual Role Optic, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>53185</id>
+		<name>1 Sights - Mid-Range AR - All                   -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x+6x, ACOG 4x+5.5x, Dual Role Optic, AN/PVS-24, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>57281</id>
+		<name>1 Sights - Battle Rifle - All                   -----Iron Sights, Holo Sight, Aimpoint CompM2, Elcan C79 4x, AN/PVS-2 4x, AN/PVS-4 3.8x, EOTech STS Magnifier 3.2x+6x, ACOG 4x+5.5x, Dual Role Optic, Battle Scope 7x, AN/PVS-24, ISM-V-IR, ITL MARS</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>65536</id>
+		<name>Sights - Side Mount - Scopes/Sights             -----PK-A, Kobra, PSO-1, PO 3.5x21P, 1PN34 3.5x, 1PN51 3x*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>131072</id>
+		<name>Sights - Side Mount - Sniper Scopes             -----PKS-07, PSO-3, 1P21 Minuta, 1P59 Giperon 10x*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>262144</id>
+		<name>Laser - UB - KORSAK LAM*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>262145</id>
+		<name>1 Sights - Side Mount - No Scopes/Sights        -----Iron Sights, KORSAK LAM</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>327681</id>
+		<name>1 Sights - Side Mount - AK                      -----Iron Sights, PK-A, Kobra, PSO-1, PO 3.5x21P, 1PN34 3.5x, 1PN51 3x, KORSAK LAM</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>458753</id>
+		<name>1 Sights - Side Mount - All                     -----Iron Sights, PK-A, Kobra, PSO-1, PO 3.5x21P, 1PN34 3.5x, 1PN51 3x, PKS-07, PSO-3, 1P21 Minuta, KORSAK LAM</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>524288</id>
+		<name>Laser - Laser Sight*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>524289</id>
+		<name>1 Sights/Laser - No Scopes or Sights/No LAM     -----Iron Sights, Laser Sight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>524307</id>
+		<name>0 Large Pistol/Revolver - No Muzzle Attachments -----Iron Sights, Reflex Sight RMR (Standalone), Scope 2x, Laser Sight</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>1048576</id>
+		<name>Laser - RIS - Small LAM                         -----LAM-200, LAM-1000*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1572864</id>
+		<name>Laser - Small - All                             -----Laser Sight, LAM-200, LAM-1000*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>2097152</id>
+		<name>Laser - RIS - Medium LAM                        -----Rifle LAM, Rifle LAM-Flashlight-Combo*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>3145728</id>
+		<name>Laser - RIS - All/No Laser Sight                -----LAM-200/1000, Rifle LAM, Rifle LAM-Flashlight-Combo</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>3670016</id>
+		<name>Laser - All                                     -----Laser Sight, LAM-200/1000, Rifle LAM, Rifle LAM-Flashlight-Combo</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>4194304</id>
+		<name>Muzzle - Flash Suppressor*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4718611</id>
+		<name>0 Large Pistol - No Sound Suppressor            -----Iron Sights, Reflex Sight RMR (Standalone), Scope 2x, Laser Sight, Flash Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>8388608</id>
+		<name>Muzzle - Muzzle Brake*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16777216</id>
+		<name>Muzzle - Gun Barrel Extender*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>29884416</id>
+		<name>2 Laser/Muzzle - No LAM/No Sound Suppressor     -----Laser Sight, Flash Suppressor, Muzzle Brake, Gun Barrel Extender</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>33554432</id>
+		<name>Muzzle - Pistol Suppressor*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>38273024</id>
+		<name>2 Laser/Muzzle - Pistol - No LAM/No Extender    -----Laser Sight, Flash Suppressor, Pistol Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>38273027</id>
+		<name>0 Regular Pistol - No Match Sights/No UB LAM    -----[Sights - Pistol - Reflex Sight][Laser/Muzzle - Pistol - No LAM/No Extender]</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>38273031</id>
+		<name>0 Regular Pistol - No UB LAM                    -----[Sights - Pistol - Reflex/Match Sights][Laser/Muzzle - Pistol - No LAM/No Extender]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>39321603</id>
+		<name>0 Regular Pistol - No Match Sights              -----[Sights - Pistol - Reflex Sight][Laser - RIS - Small LAM][Laser/Muzzle - Pistol - No LAM/No Extender]</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>39321607</id>
+		<name>0 Regular Pistol - All                          -----[Sights - Pistol - Reflex/Match Sights][Laser - RIS - Small LAM][Laser/Muzzle - Pistol - No LAM/No Extender]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>55050240</id>
+		<name>2 Laser/Muzzle - SMG - No LAM/All               -----Laser Sight, Flash Suppressor, Gun Barrel Extender, Pistol Suppressor</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>55050243</id>
+		<name>0 Machine Pistol                                -----[Sights - Pistol - Reflex Sight][Laser/Muzzle - SMG - No LAM/All]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>56098816</id>
+		<name>2 Laser/Muzzle - SMG - Small/All                -----Laser Sight, LAM-200/1000, Flash Suppressor, Gun Barrel Extender, Pistol Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>67108864</id>
+		<name>Muzzle - AR Suppressor*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>80216064</id>
+		<name>2 Laser/Muzzle - AR - No LAM/No Extender        -----Laser Sight, Flash Suppressor, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>83361792</id>
+		<name>2 Laser/Muzzle - AR - All/No Extender           -----Laser Sight, LAM-200/1000, Rifle LAM, Rifle LAM-Flashlight-Combo, Flash Suppressor, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>95944704</id>
+		<name>2 Laser/Muzzle - AR - All/Integr. Flash Supp.   -----Laser Sight, LAM-200/1000, Rifle LAM, Rifle LAM-Flashlight-Combo, Gun Barrel Extender, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>96993280</id>
+		<name>2 Laser/Muzzle - AR - No LAM/All                -----Laser Sight, Flash Suppressor, Gun Barrel Extender, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>98041856</id>
+		<name>2 Laser/Muzzle - AR - Small/All                 -----Laser Sight, LAM-200/1000, Flash Suppressor, Gun Barrel Extender, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>100139008</id>
+		<name>2 Laser/Muzzle - AR - All                       -----Laser Sight, LAM-200/1000, Rifle LAM, Rifle LAM-Flashlight-Combo, Flash Suppressor, Gun Barrel Extender, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>134217728</id>
+		<name>Muzzle - Sniper Suppressor*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>268435456</id>
+		<name>Sights/Laser - Old Aimpoint Proj./Fero          -----Old Aimpoint Projector, Fero Z-24 4x*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>365428736</id>
+		<name>2 Sights/Laser/Muzzle - Old HK AR               -----Laser Sight, Old Aimpoint Projector, Fero Z-24 4x, Flash Suppressor, Gun Barrel Extender, Muzzle Brake, AR Suppressor</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>536870912</id>
+		<name>Muzzle - Shotgun - Duckbill*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>537395259</id>
+		<name>0 Shotgun - No Chokes/No Extender               -----[Sights - SMG - No ITL MARS][Sights - Rifle Scope 3x][Laser - Laser Sight][Muzzle - Shotgun - Duckbill]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>554172475</id>
+		<name>0 Shotgun - No Chokes                           -----[Sights - SMG - No ITL MARS][Sights - Rifle Scope 3x][Laser - Laser Sight][Muzzle - Gun Barrel Extender][Muzzle - Shotgun - Duckbill]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1073741824</id>
+		<name>Muzzle - Shotgun - Chokes                       -----Full Choke, Imp. Mod. Choke, Rifled Choke, Shotgun Suppressor*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1627914299</id>
+		<name>0 Shotgun - All                                 -----[Sights - SMG - No ITL MARS][Sights - Rifle Scope 3x][Laser - Laser Sight][Muzzle - Gun Barrel Extender][Muzzle - Shotgun - Duckbill][Muzzle - Shotgun - Chokes]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>2147483648</id>
+		<name>Underbarrel - Foregrip*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2202533915</id>
+		<name>0 SMG                                           -----[Sights - SMG - No ITL MARS][Laser/Muzzle - SMG - No LAM/All][Underbarrel - Foregrip]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>4294967296</id>
+		<name>Underbarrel - Integral Foregrip or Bipod        -----Integral Foregrip, Integral Bipod, Integral Heavy Bipod, Built-in Bipod*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4350017563</id>
+		<name>0 SMG - Integral Foregrip                       -----[Sights - SMG - No ITL MARS][Laser/Muzzle - SMG - No LAM/All][Underbarrel - Integral Foregrip or Bipod]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>8589934592</id>
+		<name>Underbarrel - Bipod*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>10737418240</id>
+		<name>3 UB - AR - No Grippod/No GL/No UB Shotgun      -----Foregrip, Bipod</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>17179869184</id>
+		<name>Underbarrel - Bayonet                           -----KCB Knife</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>19327352832</id>
+		<name>3 UB - No Bipod/No Grippod/No GL/No UB Shotgun  -----Foregrip, KCB Knife</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>25769803776</id>
+		<name>3 UB - No Foregrip/No Grippod/No GL/No UB Shotgun -----Bipod, KCB Knife</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>34359738368</id>
+		<name>Underbarrel - Grippod*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>45097156608</id>
+		<name>3 UB - AR - No Bayonet/No GL/No UB Shotgun      -----Foregrip, Bipod, Grippod</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>68719476736</id>
+		<name>Underbarrel - M203 GL                           -----M203 Underbarrel Grenade Launcher*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>96636764160</id>
+		<name>3 UB - AR - No Grippod/No UB Shotgun            -----Foregrip, Bipod, Bayonet, M203 Underbarrel Grenade Launcher</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>137438953472</id>
+		<name>Underbarrel - AG36 GL                           -----HK AG36 Underbarrel Grenade Launcher*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>148176371712</id> 
+		<name>3 UB - HK AR - No Bayonet/No Grippod/No UB Shotgun -----Foregrip, Bipod, HK AG36 Underbarrel Grenade Launcher</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>274877906944</id>
+		<name>Underbarrel - GP-30 GL                          -----GP-30 Underbarrel Grenade Launcher*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>302795194368</id>
+		<name>3 UB - AK                                       -----Foregrip, Bipod, Bayonet, GP-30 Underbarrel Grenade Launcher</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>302892449793</id>
+		<name>0 Old AK - Side Mount - Stock folded            -----[Sights - Side Mount - No Scopes/Sights][Laser/Muzzle - AR - No LAM/All][UB - AK]</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>302892515329</id>
+		<name>0 Old AK - Side Mount - Stock unfolded          -----[Sights - Side Mount - AK][Laser/Muzzle - AR - No LAM/All][UB - AK]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>549755813888</id>
+		<name>Underbarrel - UB Shotgun                        -----Kac Masterkey, M26 MASS*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>592705486848</id>
+		<name>3 UB - AK-12 - Full-Size Rifle                  -----Bipod, Grippod, Kac Masterkey, M26 MASS</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>620622774272</id>
+		<name>3 UB - HK MP5                                   -----Foregrip, M203 Underbarrel Grenade Launcher, Kac Masterkey, M26 MASS</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>646392578048</id>
+		<name>3 UB - AR - No Grippod                          -----Foregrip, Bipod, Bayonet, M203 Underbarrel Grenade Launcher, Kac Masterkey, M26 MASS</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>672162381824</id>
+		<name>3 UB - AR - No Bipod                            -----Foregrip, Grippod, Bayonet, M203 Underbarrel Grenade Launcher, Kac Masterkey, M26 MASS</name>
+	</AttachmentPoint> 
+	<AttachmentPoint>
+		<id>680752316416</id>
+		<name>3 UB - AR - All                                 -----Foregrip, Bipod, Grippod, Bayonet, M203 Underbarrel Grenade Launcher, Kac Masterkey, M26 MASS</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>697932185600</id>
+		<name>3 UB - HK AR - No Bayonet/No Grippod            -----Foregrip, Bipod, HK AG36 Underbarrel Grenade Launcher</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>715112054784</id>
+		<name>3 UB - HK AR - No Grippod                       -----Foregrip, Bipod, Bayonet, HK AG36 Underbarrel Grenade Launcher</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>1099511627776</id>
+		<name>Misc - Trigger Group*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2199023255552</id>
+		<name>Misc - Rod and Spring*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4398046511104</id>
+		<name>Misc - 9x19mm C-Mag Adapter*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8796093022208</id>
+		<name>Misc - 7.62x39mm Drum Adapter*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>9895604649984</id>
+		<name>4 Misc - AK-10X 7.62x39mm                       -----Trigger Group, 7.62x39mm Drum Adapter</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>17592186044416</id>
+		<name>Misc - 5.56mm C-Mag Adapter*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>35184372088832</id>
+		<name>Misc - 6.8mm C-Mag Adapter*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>70368744177664</id>
+		<name>Misc - Gun Cleaning Kit*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>70373039669249</id>
+		<name>0 Anti-Material Rifle                           -----[Sights - Iron Sights][Laser - Laser Sight][Underbarrel - Integral Foregrip or Bipod][Misc - Gun Cleaning Kit]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>72567767433216</id>
+		<name>4 Misc - No Trigger/No Adapter/No Stock/No Sling -----Rod and Spring, Gun Cleaning Kit</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>72572071313408</id>
+		<name>0 Light Machine Gun                             -----[Laser - Laser Sight][Muzzle - Muzzle Brake][Underbarrel - Integral Foregrip or Bipod][No Trigger/No Adapter/No Stock/No Sling]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>73667279060992</id>
+		<name>4 Misc - All/No Adapter/No Stock/No Flashlight  -----Trigger Group, Rod and Spring, Gun Cleaning Kit</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>140737488355328</id>
+		<name>Misc - Rifle Sling, Flashlight*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>211106232532992</id>
+		<name>4 Misc - No Internal/No Adapter/No Stock        -----Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>211107861529331</id>
+		<name>0 Modern Single Tube Shotgun                    -----[Sights - Rifle Scope 3x][Sights - Modern MP][Laser - Small - All][Muzzle - Gun Barrel Extender][Muzzle - Shotgun - Duckbill][Muzzle - Shotgun - Chokes][No Internal/No Adapter/No Stock]</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>211114827198465</id>
+		<name>0 Sniper Rifle - No Sound Suppressor            -----[Sights - Sniper Rifle][Laser - Laser Sight][Muzzle - Flash Suppressor][Underbarrel - Bipod][Misc - Gun Cleaning Kit][Misc - Rifle Sling, Flashlight]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>211114827644929</id>
+		<name>0 Russian Designated Marksman Rifle             -----[Sights - Side Mount - All][Laser - Laser Sight][Muzzle - Flash Suppressor][Underbarrel - Bipod][Misc - No Internal/No Adapter/No Stock]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>211114961416193</id>
+		<name>0 Sniper Rifle                                  -----[Sights - Sniper Rifle][Laser - Laser Sight][Muzzle - Flash Suppressor][Muzzle - Sniper Suppressor][Underbarrel - Bipod][Misc - Gun Cleaning Kit][Misc - Rifle Sling, Flashlight]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>211123417120769</id>
+		<name>0 World War II Rifle                            -----[Sights - Iron Sights][Laser - Laser Sight][Muzzle - Flash Suppressor][Underbarrel - Bayonet][Misc - Gun Cleaning Kit][Misc - Rifle Sling, Flashlight]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>212205744160768</id>
+		<name>4 Misc - No Rod 'n Spring/No Adapter/No Stock   -----Trigger Group, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>213305255788544</id>
+		<name>4 Misc - No Trigger/No Adapter/No Stock         -----Rod and Spring, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>213305256312859</id>
+		<name>0 SMG - No Muzzle Attachments/No Trigger Group  -----[Sights - SMG - No ITL MARS][Laser - Laser Sight][Misc - No Trigger/No Adapter/No Stock]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>213305352832961</id>
+		<name>0 Modern AK - Top Mount - Retract. Stock        -----[Sights - Carbine AR - All][Laser/Muzzle - AR - No LAM/All][Misc - No Trigger/No Adapter/No Stock]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>213305353043969</id>
+		<name>0 Modern AK - Side Mount - Stock folded         -----[Sights - Side Mount - No Scopes/Sights][Laser/Muzzle - AR - No LAM/All][Misc - No Trigger/No Adapter/No Stock]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>213305353109505</id>
+		<name>0 Modern AK - Side Mount - Retract. Stock       -----[Sights - Side Mount - AK][Laser/Muzzle - AR - No LAM/All][Misc - No Trigger/No Adapter/No Stock]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>213668280715201</id>
+		<name>0 AK-12                                         -----[Sights - Carbine AR - All][Laser/Muzzle - AR - All][Underbarrel - Foregrip][Underbarrel - Bayonet][Underbarrel - M203 GL][Underbarrel - GP-30 GL][Misc - No Trigger/No Adapter/No Stock]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>214404767416320</id>
+		<name>4 Misc - All/No Adapter/No Stock                -----Trigger Group, Rod and Spring, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>215085603151809</id>
+		<name>0 6.8 SPC/6.5 Gren Assault Rifle                -----[Sights - Battle Rifle - All][Laser/Muzzle - AR - All/No Extender][UB - AR - All][Misc - All/No Adapter/No Stock]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>217703302299648</id>
+		<name>4 Misc - No Trigger/9mm Adapter/No Stock        -----Rod and Spring, 9x19mm C-Mag Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>218802813927424</id>
+		<name>4 Misc - All/9mm Adapter/No Stock               -----Trigger Group, Rod and Spring, 9x19mm C-Mag Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>223200860438528</id>
+		<name>4 Misc - All/7.62mm Adapter/No Stock            -----Trigger Group, Rod and Spring, 7.62x39mm Drum Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>230897441832960</id>
+		<name>4 Misc - No Trigger/5.56mm Adapter/No Stock     -----Rod and Spring, 5.56mm C-Mag Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>231996953460736</id>
+		<name>4 Misc - All/5.56mm Adapter/No Stock            -----Trigger Group, Rod and Spring, 5.56mm C-Mag Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>232265472331713</id>
+		<name>0 HK 416 5.56mm                                 -----[Sights - Mid-Range AR - All][Laser/Muzzle - AR - All/No Extender][Underbarrel - Grippod][UB - AR - No Grippod/No UB Shotgun][Underbarrel - AG36 GL][Misc - All/5.56mm Adapter/No Stock]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>281474976710656</id>
+		<name>Misc - Folding Stock*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>492581209243648</id>
+		<name>4 Misc - No Internal/No Adapter/Folding         -----Gun Cleaning Kit, Rifle Sling, Flashlight, Folding Stock</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>494780232499200</id>
+		<name>4 Misc - No Trigger/No Adapter/Folding          -----Rod and Spring, Gun Cleaning Kit, Rifle Sling, Flashlight, Folding Stock</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>495879744126976</id>
+		<name>4 Misc - All/No Adapter/Folding                 -----Trigger Group, Rod and Spring, Gun Cleaning Kit, Rifle Sling, Flashlight, Folding Stock</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>504675837149184</id>
+		<name>4 Misc - All/7.62mm Adapter/Folding             -----Trigger Group, Rod and Spring, 7.62x39mm Drum Adapter, Gun Cleaning Kit, Rifle Sling, Flashlight, Folding Stock</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>562949953421312</id>
+		<name>Misc - Retracted Stock*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>776255209209856</id>
+		<name>4 Misc - No Trigger/No Adapter/Retracted        -----Rod and Spring, Gun Cleaning Kit, Rifle Sling, Flashlight, Retracted Stock</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>776255306254273</id>
+		<name>0 Modern AK - Top Mount - Stock folded          -----[Sights - Carbine AR - All][Laser/Muzzle - AR - No LAM/All][Misc - No Trigger/No Adapter/Retracted]</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>776255306530817</id>
+		<name>0 Modern AK - Side Mount - Stock unfolded       -----[Sights - Side Mount - AK][Laser/Muzzle - AR - No LAM/All][Misc - No Trigger/No Adapter/Retracted]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1125899906842624</id>
+		<name>z_currently unused*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2251799813685248</id>
+		<name>z_currently unused*</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>4503599627370496</id>
+		<name>Underbarrel - FN SCAR                           -----FN EGLM Underbarrel Grenade Launcher*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4718599347949505</id>
+		<name>0 FN SCAR                                       -----[Sights - Mid-Range AR - All][Laser/Muzzle - AR - All][UB - AR - No Bayonet/No GL/No UB Shotgun][Underbarrel - UB Shotgun][Misc - All/No Adapter/No Stock][Underbarrel - FN SCAR]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>9007199254740992</id>
+		<name>Sights - Integral                               -----Integral Scopes, G36 Reflex Scope*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>18014398509481984</id>
+		<name>Misc - 5.45x39mm RPK-Mag Adapter*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>36028797018963968</id>
+		<name>Armour - Helmet - Face Gear                      -----Night Vision Goggles, Sun Goggles, Ballistic Face Mask*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>72057594037927936</id>
+		<name>Armour - Helmet - Camo Helmet Covers*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>108086391056891904</id>
+		<name>5 Armour - Helmet - All                          -----Night Vision Goggles, Sun Goggles, Ballistic Face Mask, Camo Helmet Covers</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>144115188075855872</id>
+		<name>Armour - Vest - Armour Plating                   -----Ceramic Plates, Titanium Plating*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>288230376151711744</id>
+		<name>Armour - Vest - Camo Underarmor Shirt*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>432345564227567616</id>
+		<name>5 Armour - Vest - All                            -----Ceramic Plates, Titanium Plating, Camo Underarmour Shirt</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>576460752303423488</id>
+		<name>6 MOLLE Pouches*</name>
+	</AttachmentPoint>			
+	<AttachmentPoint>
+		<id>1152921504606846976</id>
+		<name>Misc - AAC Blackout C-Mag Adapter*</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>1153136177893134273</id>
+		<name>0 HK 416 BLK                                     -----[Sights - Mid-Range AR - All][Laser/Muzzle - AR - All/No Extender][Underbarrel - Grippod][UB - AR - No Grippod/No UB Shotgun][Underbarrel - AG36 GL][Misc - All/No Adapter/No Stock][Misc - AAC Blackout C-Mag Adapter]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>2305843009213693952</id>
+		<name>Misc - AR-15/HK 416 Lower Receiver (All/Retract. Stock)*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>4611686018427387904</id>
+		<name>z_currently unused*</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9223372036854775808</id>
+		<name>Misc - Trigger Group (G36)*</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>9223585524746864577</id>
+		<name>0 G36 RAS Variant                                 -----[Sights - Carbine AR - All][Laser/Muzzle - AR - All][Underbarrel - Grippod][UB - HK AR - No Bayonet/No Grippod/No UB Shotgun][Misc - No Trigger/No Adapter/No Stock][Misc - Trigger Group (G36)]</name>
+	</AttachmentPoint>	
+	<AttachmentPoint>
+		<id>9232592689638670336</id>
+		<name>0 G36 Non-RAS Variant                             -----[Sights - Integral][Laser/Muzzle - AR - No LAM/All][UB - HK AR - No Bayonet/No Grippod/No UB Shotgun][Misc - No Trigger/No Adapter/No Stock][Misc - Trigger Group (G36)]</name>
+	</AttachmentPoint>		
+	<AttachmentPoint>
+		<id>18446744073709551615</id>
+		<name>********************************Upper Limit</name>
+	</AttachmentPoint>
+</JA2Data>

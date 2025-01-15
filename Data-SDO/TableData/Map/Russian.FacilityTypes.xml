@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<FACILITYTYPES>
+	<FACILITYTYPE>
+		<ubIndex>1</ubIndex>
+		<szFacilityName>Госпиталь</szFacilityName>
+		<szFacilityShortName>Госпиталь</szFacilityShortName>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>DOCTOR</ubAssignmentType>
+			<szTooltipText>Здесь можно исцелить раненых наемников.Необходимо завоевать доверие местных жителей, чтобы использовать эту больницу. Также необходимо заплатить за лекарства. Бойцы-2, Стоимость день/час: 2400/100$, Эффективность медиков 200%, Медкомплекты служат дольше на 60%, Требования: МЕД-60 ИНТ-75 Лояльность-60%</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>100</sCostPerHour>
+			<usPerformance>200</usPerformance>
+			<usKitDegrade>40</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMedical>60</ubMinimumMedical>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLoyaltyHere>60</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Попрактикуйтесь в медицине с помошью местных медиков. Вам необходимо предварительно завоевать доверие жителей этого города, а так же оплатить необходимые медикаменты.  Бойцы-2, Стоимость день/час: 1200/50$, эффективность медицинской практики-200%, 5% шанс повысить ловкость, Требования: МЕД-30 ИНТ-70 Лояльность-60%</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>50</sCostPerHour>
+			<usPerformance>150</usPerformance>
+			<CONDITIONS>
+				<ubMinimumMedical>30</ubMinimumMedical>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLoyaltyHere>60</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+			<DEXTERITY>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DEXTERITY>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>2</ubIndex>
+		<szFacilityName>Небольшой грязный бар</szFacilityName>
+		<szFacilityShortName>Бар</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText> Выпейте в местном баре. Немного повысит лояльность в этом городе, ваши бойцы могут опъянеть. Это может повлият на их мораль(как положительно, так и отрицательно). Бойцы-6, Стоимость день/час: 360/15$, 150% эффективность отдыха </szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>40</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>500</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
+			<szTooltipText>Хотите выпить? Конечно! Угостите местных выпивкой, и они поделятся с вами слухами. Вы узнаете, где находятся вражеские патрули, хотя сведения могут быть неточными.  Бойцы-1, Стоимость день/час: 360/15$</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>700</usChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>10</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+			<DRUNK>
+				<ubChance>100</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Еда на вынос из местного бара</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>10</sCostPerHour>
+			<sCantinaFoodModifier>500</sCantinaFoodModifier>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>500</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</MORALE>
+			<DRUNK>
+				<ubChance>400</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>3</ubIndex>
+		<szFacilityName>Тюремный комплекс</szFacilityName>
+		<szFacilityShortName>Тюрьма</szFacilityShortName>
+		<ubTotalStaffLimit>8</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Тут можно допросить пленных. Они могут рассказать вам о маршрутах патрулирования или присоединиться к вам. Бойцы-4, эффективность допроса 120%</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<usPrisonBaseLimit>60</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Завоюйте доверие заключённых, прикинувшись одним из них. Так будет проще собрать информацию и пресечь попытки мятежа. Но помните - местная публика не любит стукачей. Бойцы-4</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>		
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>4</ubIndex>
+		<szFacilityName>Небольшой аэропорт</szFacilityName>
+		<szFacilityShortName>Аэропорт</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>		
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Местному аэропорту требуется 2 грузчика для разгрузки самолётов. Заработайте немного денег и, возможно, станьте сильнее. Бойцы-2, Доход день/час: 480/20$, 5% шанс увеличить силу, Требования.: СИЛ-70</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>-20</sCostPerHour>
+			<usPerformance>200</usPerformance>
+		<CONDITIONS>
+		<ubMinimumStrength>70</ubMinimumStrength>
+		</CONDITIONS>
+			<STRENGTH>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</STRENGTH>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>5</ubIndex>
+		<szFacilityName>Завод боеприпасов</szFacilityName>
+		<szFacilityShortName>Завод</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>Ваши механики могут использовать местные станки и материалы,что повысит эффективность ремонта. Конечно, за это придется заплатить. Бойцы-2, Стоимость день/час: 1200/50$,  200% Repair effectiveness, Toolkit lasts 70% longer, Req.: MEC-60 DEX-70</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>50</sCostPerHour>
+			<usPerformance>200</usPerformance>
+			<usKitDegrade>30</usKitDegrade>
+			<CONDITIONS>
+				<ubMinimumMechanical>60</ubMinimumMechanical>
+				<ubMinimumDexterity>70</ubMinimumDexterity>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>6</ubIndex>
+		<szFacilityName>Казарма</szFacilityName>
+		<szFacilityShortName>Казарма</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Здесь есть кровати. Много кроватей. Никакой роскоши, и всё же здесь намного уютнее, чем под открытым небом. Бойцы-10, Эффективность отдыха 110%, Эффективность сна 120%</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<usSleep>120</usSleep>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>7</ubIndex>
+		<szFacilityName>Военный штаб</szFacilityName>
+		<szFacilityShortName>Штаб</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Помещение штаба, оснащённое оборудованием для связи. Вы сможете полчить немало информации о противнике, если сладите с этой техникой.  Бойцы-1, Обнаруживает вражеские отряды в радиусе 5 секторов от патрулей вашего мобильного ополчения, Требования: ЛИД-80 ИНТ-80 Уровень-6</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<fDetectEnemiesDynamic>1</fDetectEnemiesDynamic>
+			<ubDetectEnemiesImmediate>5</ubDetectEnemiesImmediate>
+			<CONDITIONS>
+				<ubMinimumLeadership>80</ubMinimumLeadership>
+				<ubMinimumWisdom>80</ubMinimumWisdom>
+				<ubMinimumLevel>6</ubMinimumLevel>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Некоторые помещения этой базы прекрасно подходят для обучения офицеров.  Бойцы-2, Стоимость день/час: 360/15$, Эффективность лидерства тренера 175%, Требования: ЛДР-50 ИНТ-75</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>175</usPerformance>
+			<sCostPerHour>15</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Часть учебных помещений этой базы предназначена для обучения инструкторов. Бойцы-4, Стоимость день/час: 240/10$, Эффективность развития лидерства 150%, Требования: ЛДР-30 ИНТ-70</szTooltipText>
+			<ubStaffLimit>4</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<sCostPerHour>10</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>		
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Возьмите под свой контроль местные средства массовой информации и контролируйте новости во всём регионе.  Бойцы-1, Ежечасно увеличивает лояльность в городе, Требования: ЛДР-50 ИНТ-60</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<usPerformance>80</usPerformance>
+			</CONDITIONS>
+		</ASSIGNMENT>			
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>8</ubIndex>
+		<szFacilityName>Shooting Range</szFacilityName>
+		<szFacilityShortName>Range</szFacilityShortName>
+		<ubTotalStaffLimit>7</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Почему бы не потратить немного времени на развитие меткости? Местное стрельбище вмещает 6 стрелков. Ваши бойцы могут воспользоваться им, необходимо только оплатить боеприпасы. Бойцы-6, Стоимость день/час: 1680/70$, Эффективность практики меткости 200% , 5% шанс улучшить ловкость</szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<sCostPerHour>70</sCostPerHour>
+			<DEXTERITY>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DEXTERITY>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Тренер может использовать здешнее стрельбище, чтобы повысить эффективность своей работы. Конечно, за это придётся заплатить.  Бойцы-1, Стоимость день/час: 4800/200$, Эффективность работы тренера по меткости 250%, Требования: МТК-90 ЛДР-40 WIS-60</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>250</usPerformance>
+			<sCostPerHour>200</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumMarksmanship>90</ubMinimumMarksmanship>
+				<ubMinimumLeadership>40</ubMinimumLeadership>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Под руководством хорошего тренера ваши бойцы будут обучаться намного быстрее. Бойцы-6, Стоимость день/час: 1680/70$, эффективность обучения меткости для учеников 250%, 10% шанс улучшить ловкость</szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>250</usPerformance>
+			<sCostPerHour>70</sCostPerHour>
+			<DEXTERITY>
+				<ubChance>100</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DEXTERITY>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>9</ubIndex>
+		<szFacilityName>Служба A.C.A</szFacilityName>
+		<szFacilityShortName>A.C.A</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Местное ополчение может разведать окресности, если немного помочь им.  Бойцы-1, Посогает обнаружить вражеские отряды на расстоянии 2 секторов, Требования: ЛДР-30 ИНТ-75 Лояльность-60%</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<ubDetectEnemiesImmediate>2</ubDetectEnemiesImmediate>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLoyaltyHere>60</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
+			<szTooltipText>Превратите этот офис в машину пропаганды. Расскажите о подвигах вашей команды, а если есть плохие новости - подайте их в выгодном для себя свете. Бойцы-1, Увеличивает лояльность городов, снижает её падение, Требования: ЛДР-20 ИНТ-60 Лояльность-20%</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>20</ubMinimumLoyaltyHere>
+				<usPerformance>150</usPerformance>
+			</CONDITIONS>
+		</ASSIGNMENT>		
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>10</ubIndex>
+		<szFacilityName>SAM Site</szFacilityName>
+		<szFacilityShortName>SAM Site</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
+		<usMilitiaTraining>20</usMilitiaTraining>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Если данный объект будет работать, то над вами гарантировано не появится ни одного вражеского самолёта.  Бойцы-2, Стоимость день/час: 2400/100$, Уменьшает плату пилоту вертолёта на 100$ за сектор, Требования: ИНТ-70</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>100</sCostPerHour>
+			<sSkyriderCostModifier>-100</sSkyriderCostModifier>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
+
+	<FACILITYTYPE>
+		<ubIndex>11</ubIndex>
+		<szFacilityName>Шахта</szFacilityName>
+		<szFacilityShortName>Шахта</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>За дополнительную плату здешние сотрудники обучат вас тонкостям взрывного дела.  Бойцы-4, Стоимость день/час: 1200/50$, эффективность обучения взрывному делу 200%, Требования: ВЗР-30 Лояльность-60%</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>50</sCostPerHour>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>30</ubMinimumExplosives>
+				<ubMinimumLoyaltyHere>60</ubMinimumLoyaltyHere>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>12</ubIndex>
+		<szFacilityName>Церковь</szFacilityName>
+		<szFacilityShortName>Церковь</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Посещение службы в местной церквушке может укрепить чей то дух, и убедит местных жителей в том, что вы уважаете их традиции.  Бойцы-6, Эффективность отдыха-110%, Шанс повышения морали и лояльности</szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<ubChance>200</ubChance>
+				<bBaseEffect>10</bBaseEffect>
+				<ubRange>10</ubRange>
+			</MORALE>
+			<LOYALTY_LOCAL>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_LOCAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>13</ubIndex>
+		<szFacilityName>Боксерский клуб</szFacilityName>
+		<szFacilityShortName>Клуб</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
+			<szTooltipText>Занятие в здешнем тренажёрном зале поможет вам улучшить свою спортивную форму и повысить живучесть.  Бойцы-6, Стоимость день/час: 3840/160$, эффективность развития здоровья 200%, Требования: ЗДР-60 ЛВК-40 СИЛ-40</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>160</sCostPerHour>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumHealth>60</ubMinimumHealth>
+				<ubMinimumAgility>40</ubMinimumAgility>
+				<ubMinimumStrength>40</ubMinimumStrength>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_AGILITY</ubAssignmentType>
+			<szTooltipText>Посетите местную секцию кикбоксинга, поработайте над своей скоростью и рефлексами.  Бойцы-6, Стоимость день/час: 4800/200$, Эффективность развития ловкости 300%, Требования: ЗДР-60 ЛВК-40 СИЛ-40</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>200</sCostPerHour>
+			<usPerformance>300</usPerformance>
+			<CONDITIONS>
+				<ubMinimumHealth>60</ubMinimumHealth>
+				<ubMinimumAgility>40</ubMinimumAgility>
+				<ubMinimumStrength>40</ubMinimumStrength>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>В местной качалке есть всё необходимое для развития силы.  Бойцы-6, Стоимость день/час: 3840/160$, Эффективность развития силы 300%, Требования: ЗДР-60 ЛВК-40 СИЛ-40</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>160</sCostPerHour>
+			<usPerformance>300</usPerformance>
+			<CONDITIONS>
+				<ubMinimumHealth>60</ubMinimumHealth>
+				<ubMinimumAgility>40</ubMinimumAgility>
+				<ubMinimumStrength>40</ubMinimumStrength>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>14</ubIndex>
+		<szFacilityName>Национальный музей</szFacilityName>
+		<szFacilityShortName>Музей</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Эдесь можно изучить историю и искусство Арулько. Это полезно для ума.  Бойцы-2, Стоимость день/час: 8400/350$, 20% шанс улучшения интеллекта, Требования: ИНТ-40</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>350</sCostPerHour>
+			<usPerformance>300</usPerformance>
+			<CONDITIONS>
+				<ubMinimumWisdom>40</ubMinimumWisdom>
+			</CONDITIONS>
+			<WISDOM>
+				<ubChance>200</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</WISDOM>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>15</ubIndex>
+		<szFacilityName>Лаборатория</szFacilityName>
+		<szFacilityShortName>Lab</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Эта лаборатория является прекрасной аудиторией, о которой мечтает любой преподаватель медицины. Хотя далеко не все из них сами смогли бы разобраться со сдешним оборудованием и прочесть здешние справочники. Бойцы-1, Эффективность работы тренера по медицине 250%, Требования: МЕД-90 ИНТ-90</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>250</usPerformance>
+			<CONDITIONS>
+				<ubMinimumMedical>90</ubMinimumMedical>
+				<ubMinimumWisdom>90</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Эта лаборатория - настоящая находка для тех, кто хотел бы обучаться медицине. Необходим опытный наставник. Бойцы-2, Эффективность обучения медицине для учеников 250%, Требования: МЕД-30 МУД-60</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>250</usPerformance>
+			<CONDITIONS>
+				<ubMinimumMedical>30</ubMinimumMedical>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Инструктор по работе со взрывчатыми веществами, найдет в этой лаборатории и оборудование, и литературу. Правда, сперва праподавателю надо самому понять этот материал и не взорвать хрупкое оборудование, что требует хорошего навыка.  Бойцы-1, Эффективность работы тренера взрывного дела - 400%, Требования: ВЗР-90 ИНТ-90</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>400</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>90</ubMinimumExplosives> 
+				<ubMinimumWisdom>90</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Здешнее оборудование и материалы будут хорошим подспорьем в обучении взрывному делу. Конечно, понадобится опытный инструктор.  Бойцы-2, Эффективность обучения работы со взрывчатыми веществами для учеников - 250%, Req.: EXP-30 WIS-60</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>250</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>30</ubMinimumExplosives> 
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>16</ubIndex>
+		<szFacilityName>Свалка</szFacilityName>
+		<szFacilityShortName>Свалка</szFacilityShortName>
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>На этой свалке можно найти любые запчасти. Хорошее подспорье при ремноте. Бойцы-6. Эффективность ремонта-120%. Ваши наборы инструментов служат на 40% дольше. Занятый ремонтом боец устаёт на 20% быстрее.  </szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<usPerformance>120</usPerformance>
+			<usFatigue>120</usFatigue>
+			<usKitDegrade>60</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>Здесь есть немало останков автомобилей, с которых можно позаимствовать запчасти. Это поможет отремонтировать ваше авто. Бойцы-2, эффективность ремонта 110%, Ваши наборы инструментов служат на 25% дольше, Занятый ремонтом боец устаёт на 20% быстрее</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>110</usPerformance>
+			<usFatigue>120</usFatigue>
+			<usKitDegrade>75</usKitDegrade>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>В этом месте немало разнообразных запчастей. Маленький рай для R2-D2...  Бойцы-1, Эффективность ремонта 175%, Ваши наборы инструментов служат на 10% дольше, Занятый ремонтом боец устаёт на 20% быстрее</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>175</usPerformance>
+			<usFatigue>120</usFatigue>
+			<usKitDegrade>90</usKitDegrade>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>17</ubIndex>
+		<szFacilityName>Городской пляж</szFacilityName>
+		<szFacilityShortName>Пляж</szFacilityShortName>
+		<ubTotalStaffLimit>32</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Солнце, песок и морской прибой. Рай для тех, кто ещё вчера ночевал в дождливом лесу.  Бойцы-32, Стоимость день/час: 360/15$, Эффективность отдыха 160%, Эффективность сна 200%, Шанс увеличить мораль</szTooltipText>
+			<ubStaffLimit>32</ubStaffLimit>
+			<sCostPerHour>15</sCostPerHour>
+			<usPerformance>160</usPerformance>
+			<usSleep>200</usSleep>
+			<MORALE>
+				<ubChance>500</ubChance>
+				<bBaseEffect>10</bBaseEffect>
+				<ubRange>15</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>18</ubIndex>
+		<szFacilityName>Legacy Militia Training Facility</szFacilityName>
+		<szFacilityShortName>Legacy</szFacilityShortName>
+		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
+		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE> 
+		<ubIndex>19</ubIndex>  
+		<szFacilityName>Военный госпиталь</szFacilityName>  
+		<szFacilityShortName>Госпиталь</szFacilityShortName>  
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>DOCTOR</ubAssignmentType>  
+			<szTooltipText>Помещение полевого госпиталя прекрасно подходят для оперирования ваших бойцов.  Бойцы-2, Эффективность врачей 150%, Медкомплекты служат на 40% дольше, Требования: МЕД-60 ИНТ-60</szTooltipText>  
+			<ubStaffLimit>2</ubStaffLimit>  
+			<usPerformance>150</usPerformance>  
+			<usKitDegrade>60</usKitDegrade>  
+			<CONDITIONS> 
+				<ubMinimumMedical>60</ubMinimumMedical>  
+				<ubMinimumWisdom>60</ubMinimumWisdom>  
+			</CONDITIONS> 
+		</ASSIGNMENT> 
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>20</ubIndex>
+		<szFacilityName>Армейская столовая</szFacilityName>
+		<szFacilityShortName>Столовая</szFacilityShortName>
+		<ubTotalStaffLimit>10</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Ваши бойцы могут пообедать в местной армейской столовой. Бойцы-10, Стоимость день/час: 480/20$, модификатор еды 1000, Шанс увеличить мораль и напиться.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCostPerHour>20</sCostPerHour>
+			<sCantinaFoodModifier>1000</sCantinaFoodModifier>
+			<CONDITIONS>
+			</CONDITIONS>
+			<MORALE>
+				<usChance>500</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</MORALE>
+			<DRUNK>
+				<ubChance>400</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DRUNK>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>21</ubIndex>
+		<szFacilityName>Военная тюрьма</szFacilityName>
+		<szFacilityShortName>Тюрьма</szFacilityShortName>
+		<ubTotalStaffLimit>3</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Меньше обычной тюрьмы, н достаточно, чтобы содержать ваших пленных. Не забудьте допросить их.  Бойцы-3, Эффективность допроса 110%</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>100</usPerformance>
+			<usPrisonBaseLimit>20</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Завоюйте доверие заключённых, прикинувшись одним из них. Это поможет получить информацию и предотвратить мятеж. Но не забывайте - сокамерники могут раскрыть вашего бойца.  Бойцы-3, Эффективность добычи информации-90%, Повышает эффективность допросов тюремной охраны</szTooltipText>
+			<ubStaffLimit>3</ubStaffLimit>
+			<usPerformance>90</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>22</ubIndex>
+		<szFacilityName>Городская тюрьма</szFacilityName>
+		<szFacilityShortName>Тюрьма</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>В этом городе есть тюрьма. Поместите сюда своих военнопленных, чтобы убедить их присоединиться к вам или получить от них информацию. Но учтите - данный объект не предназначен для допросов и не стоит ожидать от него слишком многого. Бойцы-1, Эффективность допроса 90%</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>90</usPerformance>
+			<usPrisonBaseLimit>5</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Попробуйте прикинуться одним из заключённых и втереться в доверие к сокамерникам. .Бойцы-1, Эффективность добычи информации-70%, Повышает эффективность допросов тюремной охраны</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<usPerformance>70</usPerformance>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>		
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>23</ubIndex>
+		<szFacilityName>Мастерская Фреда</szFacilityName>
+		<szFacilityShortName>Мастерская</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_DEXTERITY</ubAssignmentType>
+			<szTooltipText>За небольшие деньги Фред готов обучить вас работе с мелкй электроникой. Бойцы-1, Стоимость день/час: 4320/180$, Эффективность тренировки ловкости 200%, 5% улучшить навык механики, Требования: ЛОВ-40 ИНТ-50</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>180</sCostPerHour>
+			<usPerformance>300</usPerformance>
+			<CONDITIONS>
+				<ubMinimumDexterity>40</ubMinimumDexterity>
+				<ubMinimumWisdom>50</ubMinimumWisdom>
+			</CONDITIONS>
+			<MECHANICAL>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</MECHANICAL>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>24</ubIndex>
+		<szFacilityName>Мастерская Арни</szFacilityName>
+		<szFacilityShortName>Мастерская</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Арни может улучшить ваш навык ремонта. За небольшую плату, естественно. Бойцы-1, Стоимость день/час: 1320/55$, Эффективность тренировки механики 200%, 5% шанс улучшить ловкость, ,Требования: МЕХ-40 ИНТ-50</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>55</sCostPerHour>
+			<usPerformance>200</usPerformance>
+			<CONDITIONS>
+				<ubMinimumMechanical>40</ubMinimumMechanical>
+				<ubMinimumWisdom>50</ubMinimumWisdom>
+			</CONDITIONS>
+			<DEXTERITY>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</DEXTERITY>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>25</ubIndex>
+		<szFacilityName>Заправочная станция</szFacilityName>
+		<szFacilityShortName>Заправка</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Местные жители нуждаются в топливе. Если эта заправка станет вашей, они будут платить вам.  Бойцы-1, Прибыль день/час: 4800/200$ Требования: ЛДР-30 ИНТ-75</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>-200</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>26</ubIndex>
+		<szFacilityName>Военный склад</szFacilityName>
+		<szFacilityShortName>Склад</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Мы нашли военный склад, полный различных товаров. Мы могли бы продать армии те товары, в которых сами не нуждаемся.  Боец-1, Прибыль день/час: 2400/100$, Требования: ЛДР-30 ИНТ-75</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>-100</sCostPerHour>
+			<CONDITIONS>
+				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+			</CONDITIONS>
+		</ASSIGNMENT>	
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>27</ubIndex>
+		<szFacilityName>Частичное спутниковое сканирование</szFacilityName>
+		<szFacilityShortName>Частичное сканирование</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Здесь можно получить спутниковую съемку некоторых мест. Помогает обнаружить вражеские отряды в посещённых ранее секторах. Гарнизоны многих городов останутся скрытыми.  Бойцы-1 Стоимость за час: 8000$, Показывает вражеские отряды в посещённых секторах, Требования: ЛДР-80 ИНТ-80 Уровень-6</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>8000</sCostPerHour>
+			<fDetectEnemiesLongrange>1</fDetectEnemiesLongrange>
+			<fCountEnemiesInWild>1</fCountEnemiesInWild>
+			<CONDITIONS>
+				<ubMinimumLeadership>80</ubMinimumLeadership>
+				<ubMinimumWisdom>80</ubMinimumWisdom>
+				<ubMinimumLevel>6</ubMinimumLevel>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>28</ubIndex>
+		<szFacilityName>Полное спутниковое сканирование</szFacilityName>
+		<szFacilityShortName>Полное сканирование</szFacilityShortName>
+		<ubTotalStaffLimit>1</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Полное сканирование со спутника. Позволяет обнаружить враОбозначает точное местоположение и численность всех вражеских отрядов на карте Требования: ЛДР-80 ИНТ-80 Уровень-6</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>20000</sCostPerHour>
+			<fDetectEnemiesAnywhere>1</fDetectEnemiesAnywhere>
+			<fCountEnemiesInWild>1</fCountEnemiesInWild>
+			<fCountEnemiesInCities>1</fCountEnemiesInCities>
+			<CONDITIONS>
+				<ubMinimumLeadership>80</ubMinimumLeadership>
+				<ubMinimumWisdom>80</ubMinimumWisdom>
+				<ubMinimumLevel>6</ubMinimumLevel>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>29</ubIndex>
+		<szFacilityName>Порт</szFacilityName>
+		<szFacilityShortName>Порт</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Дейдрана создала в этом порту процветающий черный рынок. Вы можете получить долю с его прибыли.  Бойцы-2, Прибыль день/час: 2400/100$, 5% шанс улучшения силы, Требования: СИЛ-70 ЛДР-30 ИНТ-75</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>-100</sCostPerHour>
+			<usPerformance>200</usPerformance>
+		<CONDITIONS>
+		        <ubMinimumStrength>70</ubMinimumStrength>
+		        <ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>		
+		</CONDITIONS>
+			<STRENGTH>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</STRENGTH>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
+
+	<FACILITYTYPE>
+		<ubIndex>30</ubIndex>
+		<szFacilityName>Фермер</szFacilityName>
+		<szFacilityShortName>Ферма</szFacilityShortName>
+		<ubTotalStaffLimit>32</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Многие сельские жители поддерживают вашу борьбу, и этот фермер готов позволить вам переночевать в сарае, когда бы вы ни зашли. Увеличивает восстановление и повышает моральный дух.</szTooltipText>
+			<ubStaffLimit>32</ubStaffLimit>
+			<usPerformance>166</usPerformance>
+			<usSleep>133</usSleep>
+			<usFatigue>66</usFatigue>
+			<MORALE>
+				<usChance>333</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
+			<szTooltipText>Тяжелая физическая работа на ферме полезна для здоровья, а помощь простым фермерам расположит людей к вам. Повышает моральный дух и глобальную лояльность!</szTooltipText>
+			<ubStaffLimit>12</ubStaffLimit>
+			<usPerformance>200</usPerformance>
+			<usFatigue>85</usFatigue>
+			<MORALE>
+				<ubChance>111</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+			<LOYALTY_GLOBAL>
+				<usChance>99</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LOYALTY_GLOBAL>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>Свежая фермерская еда полезна для тела и души. Повышает моральный дух.</szTooltipText>
+			<ubStaffLimit>10</ubStaffLimit>
+			<sCantinaFoodModifier>750</sCantinaFoodModifier>
+			<MORALE>
+				<usChance>500</usChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>3</ubRange>
+			</MORALE>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+			
+</FACILITYTYPES>
