@@ -1,4 +1,4 @@
-SDO（Stock Data Overhaul）汉化包
+SDO（Stock Data Overhaul）汉化包：2014 Stable 版（即 7609）
 - SDO 原作者：Strohmann，发布贴 http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=20708&start=0
 - 后续应该是有人做兼容优化，但具体不清楚
 
