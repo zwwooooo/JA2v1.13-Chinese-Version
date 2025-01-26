@@ -1,0 +1,89 @@
+<!--
+
+This file defines towns in game.
+
+Fields index:
+	uiIndex 		- it is UNIQUE number of town, used in town table (end of this xml).
+                          	  Value 0 is reserved and stands for "no town here".
+	townName		- it's simple. Town name (Max 31 char).
+	townUsesLoyalty 	- defines whether town maintains (and displays) loyalty or not.
+			  	  Possible values: 0 - no loyalty, 1 - use loyalty in this town.
+	townRebelSentiment	- this is a measure of how much each town hates the Queen's
+				  opression & is willing to stand against it. It primarily controls
+				  the RATE of loyalty change in each town: the loyalty effect of
+				  the same events depends on it. Scale of 1-100.
+	townMilitiaAllowed	- defines the ability to have and train militia in town.
+				  Possible values: 0 - no militia, 1 - allow train militia in this town.
+	baseSector		- this is co-ordinates of the top left corner of the 3x3 town
+				  tiles cutouts in Interface/MilitiaMaps.sti!
+	townPoint		- position of town names on the map. These are 10 * (X, Y) position
+				  in SECTORS (fractions possible) to the X-CENTER of the town
+
+There is town table at the end on this file. The table represent town placement on the world map.
+
+NOTE: Town rows 0 and 17, and also columns 0 and 17 CANNOT BE USED.
+      It is world borders.
+
+Changes do not require starting of a new game.
+
+-->
+<CITY_INFO>
+	<CITYLIST>
+		<CITY>
+			<uiIndex>1</uiIndex>
+			<townName>Омерта</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>2</uiIndex>
+			<townName>Драссен</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>3</uiIndex>
+			<townName>Альма</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>4</uiIndex>
+			<townName>Доран</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>5</uiIndex>
+			<townName>Тикса</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>6</uiIndex>
+			<townName>Салинас</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>7</uiIndex>
+			<townName>Сан Мона</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>8</uiIndex>
+			<townName>Остров Паласио</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>9</uiIndex>
+			<townName>Орта</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>10</uiIndex>
+			<townName>Малино</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>11</uiIndex>
+			<townName>Бертон</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>12</uiIndex>
+			<townName>Оронегро</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>13</uiIndex>
+			<townName>Эстони</townName>
+		</CITY>
+		<CITY>
+			<uiIndex>14</uiIndex>
+			<townName>Аэродром</townName>
+		</CITY>
+	</CITYLIST>
+</CITY_INFO>

@@ -1,0 +1,866 @@
+<FACILITYTYPES>
+	<FACILITYTYPE>
+		<ubIndex>0</ubIndex>
+		<szFacilityName>Default</szFacilityName>
+		<szFacilityShortName>Default</szFacilityShortName>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>1</ubIndex>
+		<szFacilityName>Field Hospital</szFacilityName>
+		<szFacilityShortName>Field Hosp.</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>DOCTOR</ubAssignmentType>
+			<szTooltipText>Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>2</ubIndex>
+		<szFacilityName>Small Sleazy Bar</szFacilityName>
+		<szFacilityShortName>Bar</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Have a drink at the local bar. Increases loyalty in this town, for a price and a chance to get drunk.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
+			<szTooltipText>Have a drink at the...yeah, you wish! Just buy drinks for others and immediately report any info they spill.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>3</ubIndex>
+		<szFacilityName>Prison Complex</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can interrogate prisoners of war here. They might join your cause, or give you helpful intel.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>4</ubIndex>
+		<szFacilityName>Small Airport</szFacilityName>
+		<szFacilityShortName>Airport</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>5</ubIndex>
+		<szFacilityName>Munitions Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>You can manufacture all sorts of replacement parts here, which will increase efficiency at repairing items, assuming you know how to use the complex machinery.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>6</ubIndex>
+		<szFacilityName>Military Barracks</szFacilityName>
+		<szFacilityShortName>Barracks</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>7</ubIndex>
+		<szFacilityName>Military Headquarters</szFacilityName>
+		<szFacilityShortName>Mil. HQ</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements elsewhere.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Take control of local information channels and control the flow of news in the region.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>8</ubIndex>
+		<szFacilityName>Shooting Range</szFacilityName>
+		<szFacilityShortName>Range</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Spend some time practicing your aim, the dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>9</ubIndex>
+		<szFacilityName>A.C.A Building</szFacilityName>
+		<szFacilityShortName>A.C.A</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The locals here may be willing to scout the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
+			<szTooltipText>Turn this small local office into well-oiled propaganda machine, suppress any bad news reaching town and show your actions in the best possible light.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>10</ubIndex>
+		<szFacilityName>SAM Site</szFacilityName>
+		<szFacilityShortName>SAM Site</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>11</ubIndex>
+		<szFacilityName>Mine</szFacilityName>
+		<szFacilityShortName>Mine</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>MANAGE_MINE</ubAssignmentType>
+			<szTooltipText>Making mines run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Train your mercs in the finer points of blowing things up... so they only blow up the right things.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of blowing things up without blowing yourself up.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mining they just might think better of you.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>12</ubIndex>
+		<szFacilityName>Small Church</szFacilityName>
+		<szFacilityShortName>Church</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>13</ubIndex>
+		<szFacilityName>Boxing Club</szFacilityName>
+		<szFacilityShortName>Club</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_HEALTH</ubAssignmentType>
+			<szTooltipText>A great place to get a balanced work-out that will improve your fitness. Increases the efficiency of HEALTH training.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_HEALTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to its best potential to provide some HEALTH training to the scrawniest member of your squad.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_HEALTH</ubAssignmentType>
+			<szTooltipText>Tired of being tired? Learn some HEALTH training from the most fit member of your team.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your STRENGTH.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_STRENGTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from the musclebound member in your squad.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_AGILITY</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your AGILITY.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_AGILITY</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some AGILITY training to the slowest member of your squad.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_AGILITY</ubAssignmentType>
+			<szTooltipText>Condition your reflexes! Learn some AGILITY training from the most agile member in your squad.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>14</ubIndex>
+		<szFacilityName>National Museum</szFacilityName>
+		<szFacilityShortName>Museum</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>15</ubIndex>
+		<szFacilityName>Laboratory</szFacilityName>
+		<szFacilityShortName>Lab</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>16</ubIndex>
+		<szFacilityName>Junkyard</szFacilityName>
+		<szFacilityShortName>Junkyard</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair work considerably easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>This place is a vehicle graveyard. This will certainly make vehicle repairs easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>This place is a great source of mechanical odds and ends. This will certainly make robot repairs easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical... maybe then you can keep your own gear in better shape.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>17</ubIndex>
+		<szFacilityName>Beach Resort</szFacilityName>
+		<szFacilityShortName>Beach</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Sun, sand, surf. This sure as hell beats sleeping in a trench.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>18</ubIndex>
+		<szFacilityName>Legacy Militia Training Facility</szFacilityName>
+		<szFacilityShortName>Legacy</szFacilityShortName>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE> 
+		<ubIndex>19</ubIndex>  
+		<szFacilityName>Combat Support Hospital</szFacilityName>  
+		<szFacilityShortName>Camp Hospital</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>DOCTOR</ubAssignmentType>  
+			<szTooltipText>Perform urgent life-saving treatment on your wounded in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.</szTooltipText>  
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Take the time to staff this field hospital and improve your medical skills.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Train your mercs in the finer points of combat medicine... their life, and yours, may depend on it.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine in this field hospital... your life, and theirs, may depend on it.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>20</ubIndex>
+		<szFacilityName>Army Barracks Cantina</szFacilityName>
+		<szFacilityShortName>Cantina</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>FACILITY_EAT</ubAssignmentType>
+			<szTooltipText>By taking over the army's barracks, you've also taken over the cantina inside. Your mercs can eat here.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>21</ubIndex>
+		<szFacilityName>Military Prison</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can interrogate prisoners of war here. Prisoners might join your cause, or provide useful intel.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Masquerade as one of the prisoners and gain their trust to gather information and prevent mutiny attempts.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>22</ubIndex>
+		<szFacilityName>Town Prison</szFacilityName>
+		<szFacilityShortName>Prison</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join your cause, or give you helpful info.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRISON_SNITCH</ubAssignmentType>
+			<szTooltipText>Masquerade as one of the prisoners and gain their trust to easily gather information and prevent mutiny attempts.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE> 
+		<ubIndex>23</ubIndex>  
+		<szFacilityName>Town Pharmacy</szFacilityName>  
+		<szFacilityShortName>Pharmacy</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>DOCTOR</ubAssignmentType>  
+			<szTooltipText>Loot the pharmaceutical resources here to aid in treating your wounded. Enhances your DOCTOR skill.</szTooltipText>  
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Take the time to refresh your pharmaceutical knowledge by availing yourself of the resources here.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MEDICAL</ubAssignmentType>
+			<szTooltipText>Train your mercs in the finer points of combat medicine using the supplies of the pharmacy... their life, and yours, may depend on it.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MEDICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of combat medicine... your life, and theirs, may depend on it.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>24</ubIndex>
+		<szFacilityName>Public Aid Station</szFacilityName>
+		<szFacilityShortName>Aid Stn</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MEDICAL</ubAssignmentType>
+			<szTooltipText>Spread goodwill and help the poor by setting up a free medical clinic with supplies flown in to the airport from your funds ($50/hr and no kit degrade). News of this might spread throughout Arulco.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>25</ubIndex>
+		<szFacilityName>Snack and Shack</szFacilityName>
+		<szFacilityShortName>Motel</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Take over the Snack and Shack by intimidation and get some rest and relaxation. Local loyalty may suffer.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>26</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>27</ubIndex>
+		<szFacilityName>Dave's Race Course</szFacilityName>
+		<szFacilityShortName>Race Trk</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>A race track workshop with tools and spare parts. This will make any repair tasks easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>A race workshop complete with tools and spare parts is ideal for fixing-up your ride.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>A race course with a workshop complete with tools and spare parts. This will make robot repairs a little easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals are a great aid for enhancing your mechanical skill.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	<FACILITYTYPE>
+		<ubIndex>28</ubIndex>
+		<szFacilityName>Hunting Lodge</szFacilityName>
+		<szFacilityShortName>Lodge</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>A rustic lodge for hunters in the foothills. A chance to clean up and sleep indoors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>29</ubIndex>
+		<szFacilityName>Friendly Farmer</szFacilityName>
+		<szFacilityShortName>Farm</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Many of the rural people are in solidarity with your efforts, and this farmer is willing to feed you and let you sleep in the barn whenever you stop by.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>30</ubIndex>
+		<szFacilityName>Smuggler Hideout</szFacilityName>
+		<szFacilityShortName>Hideout</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is obviously a hideout and transfer location for smugglers. It's a bit dangerous to stay here, but it is a chance to clean up, eat and rest indoors.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>31</ubIndex>
+		<szFacilityName>Friendly Fisherman</szFacilityName>
+		<szFacilityShortName>Fisherman</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Many of the rural people are in solidarity with you, and this fisherman is willing to feed you whenever you stop by.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>32</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>33</ubIndex>
+		<szFacilityName>Diner</szFacilityName>
+		<szFacilityShortName>Diner</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Chow down on some good old, greasy, soul, comfort food here... and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>34</ubIndex>
+		<szFacilityName>Occupied Territory</szFacilityName>
+		<szFacilityShortName>Occupied</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The people here overwhelmingly believe you can defeat the Queen. Basic comforts are readily available to you if you spend some time mingling. Eat, sleep, and be merry for tomorrow you may die.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>35</ubIndex>
+		<szFacilityName>Clothing Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The clothing factory equipment can be useful in helping with some basic repairs, assuming you are at least a junior MacGyver.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This manufacturing facility and the service manuals here are a great aid for enhancing your mechanical skill.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>36</ubIndex>
+		<szFacilityName>Rebel Base</szFacilityName>
+		<szFacilityShortName>Base</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Organizing the revolution from the Rebel Base can help secure the loyalty of the people in the countryside, or alienate them completely. Be careful who you select for the job, Gringo.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>37</ubIndex>
+		<szFacilityName>General Stores</szFacilityName>
+		<szFacilityShortName>Stores</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>Loot the local stores of supplies to help make basic repairs a bit easier. However this might not exactly endear you to the locals.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+
+	<FACILITYTYPE>
+		<ubIndex>38</ubIndex>
+		<szFacilityName>Regional Liquor Store</szFacilityName>
+		<szFacilityShortName>Liquor Store</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>Booze, booze, and MORE booze! They sell beer in kegs! Lucky for you your Mercs will spend their own cash if they decide to paint the town red!</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>39</ubIndex>
+		<szFacilityName>Wine Shop</szFacilityName>
+		<szFacilityShortName>Wine</szFacilityShortName>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>40</ubIndex>
+		<szFacilityName>Residential Neighborhoods</szFacilityName>
+		<szFacilityShortName>Residential</szFacilityShortName>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>41</ubIndex>
+		<szFacilityName>Massacre Site</szFacilityName>
+		<szFacilityShortName>Massacre Site</szFacilityShortName>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>42</ubIndex>
+		<szFacilityName>University Ruins</szFacilityName>
+		<szFacilityShortName>Uni-Ruins</szFacilityShortName>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>43</ubIndex>
+		<szFacilityName>Alma Garage</szFacilityName>
+		<szFacilityShortName>Garage</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>A vehicle repair station used by the military making any repairs easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>A vehicle repair station complete with tools and spare parts. This will help make vehicle repairs easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>A vehicle repair station with tools and spare parts which could be used for robot repairs and maintenance.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals here are a great aid for enhancing your mechanical skill.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>44</ubIndex>
+		<szFacilityName>Liquor Shop</szFacilityName>
+		<szFacilityShortName>Liquor</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>A small but well-stocked liquor shop. If your Mercs decide to imbibe they will spend their own cash.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE>
+		<ubIndex>45</ubIndex>
+		<szFacilityName>Placeholder</szFacilityName>
+		<szFacilityShortName>Not Used Yet</szFacilityShortName>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>46</ubIndex>
+		<szFacilityName>Meduna Nightclub</szFacilityName>
+		<szFacilityShortName>Club</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Have a drink at the local nightclub. It might help you out in this town, for a price, but then again... it might not be safe to get drunk here.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>GATHER_RUMOURS</ubAssignmentType>
+			<szTooltipText>Have a drink at the... yeah, you wish! Just buy drinks for others and immediately report any info they may spill.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE> 
+		<ubIndex>47</ubIndex>  
+		<szFacilityName>Toxic Waste Site</szFacilityName>  
+		<szFacilityShortName>Toxic</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>The oil and poisonous waste that coat everything here is not exactly healthy... the smell in the air actually makes you feel queasy and is hard to breathe.</szTooltipText>  
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+
+	<FACILITYTYPE> 
+		<ubIndex>48</ubIndex>  
+		<szFacilityName>Killing Fields</szFacilityName>  
+		<szFacilityShortName>Graves</szFacilityShortName>  
+		<ASSIGNMENT> 
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is the scene of a desperate pitched battle between government and rebel forces. Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen.</szTooltipText>  
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>49</ubIndex>
+		<szFacilityName>Waldo's Airport Workshop</szFacilityName>
+		<szFacilityShortName>Workshop</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including repairing your items.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>50</ubIndex>
+		<szFacilityName>Military Warehouse</szFacilityName>
+		<szFacilityShortName>Warehouse</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The military warehouse here also has tools and spare parts for the repair of all types of military hardware, making your repairs easier.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>51</ubIndex>
+		<szFacilityName>Oil Rig</szFacilityName>
+		<szFacilityShortName>Oil Rig</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>MANAGE_OIL_RIG</ubAssignmentType>
+			<szTooltipText>Making an oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>This facility and the service manuals are a great aid for enhancing your mechanical skill.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>52</ubIndex>
+		<szFacilityName>Elite Barracks</szFacilityName>
+		<szFacilityShortName>Barracks</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the local region.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds and food here. It's got almost all the comforts of home.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This military installation has the necessary tools and materials for the quick repair of all military gear.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>53</ubIndex>
+		<szFacilityName>H and B Distribution Ctr</szFacilityName>
+		<szFacilityShortName>HB Distro</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Increase oil rig and mine profits by supervising distribution of supplies. Also receive reports of enemy movements in the local region.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This corporate installation has the necessary tools and materials for the quick repair of all kinds of gear.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>This corporate transport center makes vehicle repairs a whole lot easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>This industrial complex is a great source of quality parts and fittings. This will make robot repairs considerably easier.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics, including the tricks of the trade.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>The distribution center has its fair share of technical documentation and literature providing good theory material to brush up on your skills.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this corporate installation to instill a sense of order and efficiency into your operations.</szTooltipText>
+		</ASSIGNMENT>	
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Join the roustabouts and roughnecks to shoot the shit and sink a cold one at the works bar. Get your fill and getting pally with the locals may increase town loyalty, as long as you avoid the bar fights.</szTooltipText>
+		</ASSIGNMENT>
+		</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>54</ubIndex>
+		<szFacilityName>Training Camp</szFacilityName>
+		<szFacilityShortName>Camp</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the region.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>There are plenty of beds here, even if it is missing a few walls! You just need to provide the mosquito nets.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>This camp has the basic tools and materials for the quick repair of military gear.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_LEADERSHIP</ubAssignmentType>
+			<szTooltipText>Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>A great place to plink away all afternoon! Increases the efficiency of MARKSMANSHIP training.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Teach these recruits how to hit what they aim at with some MARKSMANSHIP lessons.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MARKSMANSHIP</ubAssignmentType>
+			<szTooltipText>Learn how to conserve ammo by hitting your target the first time.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Use the equipment here to focus on increasing your STRENGTH.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_STRENGTH</ubAssignmentType>
+			<szTooltipText>Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_STRENGTH</ubAssignmentType>
+			<szTooltipText>Build up those biceps! Learn some STRENGTH training from a musclebound member in your squad.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>55</ubIndex>
+		<szFacilityName>Dam</szFacilityName>
+		<szFacilityShortName>Dam</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>The people in the region would probably like someone competent managing this Dam so they don't get flooded.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ITEMS</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_VEHICLE</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, including repairing vehicles.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>REPAIR_ROBOT</ubAssignmentType>
+			<szTooltipText>The Dam workshop has many of the tools necessary for all types of repair work, even robots.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>TRAINER_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Train mercs in the finer points of mechanics.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STUDENT_MECHANICAL</ubAssignmentType>
+			<szTooltipText>Learn from the expert on your squad about the finer points of everything mechanical.</szTooltipText>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_MECHANICAL</ubAssignmentType>
+			<szTooltipText>The dam facility has a wealth of technical literature and service manuals that provide a good source of info to brush up on your mechanical and engineering skills.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>56</ubIndex>
+		<szFacilityName>Church</szFacilityName>
+		<szFacilityShortName>Church</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>REST</ubAssignmentType>
+			<szTooltipText>Whether you are religious or not, there's something to be said about spending a quiet moment of contemplation in the peaceful confines of an old church.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>57</ubIndex>
+		<szFacilityName>Drug Lab</szFacilityName>
+		<szFacilityShortName>Drug Lab</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>This is a drug lab and transfer depot for narcos. It's a bit dangerous to stay here, not only due to the unstable chemicals but also if the bad guys return.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>58</ubIndex>
+		<szFacilityName>Sketchy Neighborhood</szFacilityName>
+		<szFacilityShortName>Sketchy Neighborhood</szFacilityShortName>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<szTooltipText>You might want to avoid this place after dusk.</szTooltipText>
+		</ASSIGNMENT>
+	</FACILITYTYPE>	
+</FACILITYTYPES>
