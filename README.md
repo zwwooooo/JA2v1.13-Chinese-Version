@@ -2,7 +2,7 @@ VR（Vengeance Reloaded）汉化包
 - 汉化包是基于 sevenfm 的网盘 http://yadi.sk/d/Fj_B0WEKNjRQJ 里面的 SCI 目录下的 Vengeance_Reloaded_Jan_2025_English_Full.7z（2025.01.01）制作的，另外加了些俄文版（VengeanceReloaded_ru.7z）里面的 Data-VR 目录的内容。
 
 Vengeance Reloaded 简介
-- 欢迎来到我们新发布的 JA2 Vengeance: Reloaded 1.13 模组介绍页面。这是继 Arulco 第一场战役之后的 JA2 非官方续集。
+- 这是继 Arulco 第一场战役之后的 JA2 非官方续集
 - Hawkeye 在熊窝的发布贴 http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=23256&start=0&
 
 目录说明
