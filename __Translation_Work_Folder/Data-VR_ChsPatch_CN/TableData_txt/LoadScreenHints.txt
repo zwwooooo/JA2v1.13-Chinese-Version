@@ -1,0 +1,138 @@
+0:LOADSCREENHINT/szName:此模板不应显示
+1:LOADSCREENHINT/szName:大多数专用机枪都有可更换的枪管。在战斗中使用它来快速冷却你的枪。
+2:LOADSCREENHINT/szName:使用刀在尸体上可以取回其制服或捡起尸体。
+3:LOADSCREENHINT/szName:间谍可以使用敌方制服伪装成对方部队。
+4:LOADSCREENHINT/szName:你可以通过按下 [.] 键在不同的瞄准镜和瞄具之间切换。
+5:LOADSCREENHINT/szName:将新鲜食物放置几天会使其变质，变得不健康。
+6:LOADSCREENHINT/szName:你可以通过服用解毒剂或使用医生任务来治愈中毒。
+7:LOADSCREENHINT/szName:如果你的枪上出现“M”标志，表示它当前被架设或放置在某个物体上，射击时稳定性更好。
+8:LOADSCREENHINT/szName:按下 [CTRL]+[Z] 可以在窗口模式下锁定/释放鼠标光标。在战术界面退出区域时很有用。
+9:LOADSCREENHINT/szName:门口被堵住了？站在某人旁边按下 [X] 可以交换位置。
+10:LOADSCREENHINT/szName:需要帮助吗？在战略界面按下 [H] 自助。并访问 www.bears-pit.com 上的热心熊们。
+11:LOADSCREENHINT/szName:转动命运之轮。使用 [鼠标滚轮] 增加所有射击模式的命中率（CtH）。[ALT]+[鼠标滚轮] 设置自动射击的子弹数量。
+12:LOADSCREENHINT/szName:某些区域提供酒吧或矿井等设施，你可以在战略界面指派佣兵前往。指派佣兵时，工具提示会显示设施的功能。
+13:LOADSCREENHINT/szName:盗贼公会。使用手形光标 [CTRL]+[左键] 偷取对手的枪。如果敌人被击倒但未死亡，你可以剥光他们的一切。
+14:LOADSCREENHINT/szName:EOD 标志信号。你放置的蓝色标志用于标记你发现的地雷或陷阱，如果不移除，敌人也能看到。
+15:LOADSCREENHINT/szName:在战术界面按住 [END] 键显示当前选中佣兵的详细视野范围，从红色（无法发现任何人）到绿色（发现俯卧的人）。
+16:LOADSCREENHINT/szName:红色警报！在战术界面按住 [DEL] 键显示已知敌人对你选中佣兵的可见度，从红色（即使俯卧也会被发现）到绿色（隐藏）。
+17:LOADSCREENHINT/szName:破窗而入。通过射击或投掷物品打破窗户玻璃后，面对打开的窗户按下 [SHIFT]+[J] 可以爬进去。
+18:LOADSCREENHINT/szName:在区域库存中，点击佣兵的空库存槽位可以查看可以放入的物品列表。
+19:LOADSCREENHINT/szName:在区域库存中，点击物品的空附件槽位可以查看兼容的附件列表。
+20:LOADSCREENHINT/szName:在区域库存中，[CTRL]+[左键] 点击佣兵的空库存槽位可以查看该区域物品的分类列表。
+21:LOADSCREENHINT/szName:通过弹出菜单选择物品时（通过点击空库存/附件槽位访问），会选择损坏最少的物品。
+22:LOADSCREENHINT/szName:按下 [CTRL]+[SHIFT]+[X] 启用实时潜行。激活后，如果你发现敌方士兵但未被察觉，不会进入回合制模式。
+23:LOADSCREENHINT/szName:在实时潜行激活时按下 [CTRL]+[X] 进入回合制模式。仅在你看到敌方士兵时有效。
+24:LOADSCREENHINT/szName:使用照明弹照亮夜间敌人，增加射击他们的机会。
+25:LOADSCREENHINT/szName:如果你的佣兵被火力压制且无法撤退，使用烟雾弹掩护他们或敌人的视线。
+26:LOADSCREENHINT/szName:根据你的设置，完全修理枪支也会清洁它。
+27:LOADSCREENHINT/szName:一些商店不仅出售物品，还收购物品。不过他们可能很挑剔。
+28:LOADSCREENHINT/szName:担心敌人会打断你？射击他们的腿，希望他们倒下。
+29:LOADSCREENHINT/szName:移动的目标更难击中。如果可能，考虑等待敌人停止奔跑后再射击。
+30:LOADSCREENHINT/szName:按下 [CTRL]+[.] 打开有用的区域菜单。
+31:LOADSCREENHINT/szName:使用 [右键] 增加自动射击的子弹数量。
+32:LOADSCREENHINT/szName:将酒精与破布结合制作燃烧瓶。加入油可以制作更危险的燃烧瓶。
+33:LOADSCREENHINT/szName:一些NPC可以被贿赂...
+34:LOADSCREENHINT/szName:跑步时潜行似乎不直观，但它有效，也可能通过练习提高你的敏捷性。
+35:LOADSCREENHINT/szName:完成任务！你可以用刀快速杀死俯卧的敌人。
+36:LOADSCREENHINT/szName:如果敌人被警报，他们可能会呼叫增援...
+37:LOADSCREENHINT/szName:一旦你找到接收货物的地点，Bobby Ray 的网站就会可用。
+38:LOADSCREENHINT/szName:在未察觉的敌人附近潜行可以训练你的敏捷性，但有风险。
+39:LOADSCREENHINT/szName:拳击可以增加你的敏捷和力量。
+40:LOADSCREENHINT/szName:医疗和安装炸弹会增加你的智慧。
+41:LOADSCREENHINT/szName:遥控炸弹可以用遥控引爆器引爆 - 将其拿在手中并按下 [右键]。
+42:LOADSCREENHINT/szName:如果你想自动移动物品，可以在城市内使用 MOVEITEM 任务。
+43:LOADSCREENHINT/szName:你可以使用 [B] 键切换射击模式。
+44:LOADSCREENHINT/szName:在战术界面按下 [SHIFT]+[R] 命令你的整个队伍重新装填。
+45:LOADSCREENHINT/szName:按下 [S] 站立行走，[C] 蹲下，[P] 俯卧，[R] 站立奔跑。
+46:LOADSCREENHINT/szName:按下 [Z] 切换潜行模式。
+47:LOADSCREENHINT/szName:如果敌人没有预料到攻击，投掷刀可以瞬间杀死他们。
+48:LOADSCREENHINT/szName:你可以通过点击物品的 [右键] 打开有用的描述框。
+49:LOADSCREENHINT/szName:长期雇佣合同更便宜...如果你有足够的资金。
+50:LOADSCREENHINT/szName:不支付 M.E.R.C. 账单可能会有后果...
+51:LOADSCREENHINT/szName:如果敌人占领了你的区域，他们可能会拿走你的物品。
+52:LOADSCREENHINT/szName:医生可以通过手术立即恢复一些生命值 - 但这会大幅消耗你的医疗物资。
+53:LOADSCREENHINT/szName:服用过多药物会有后果。
+54:LOADSCREENHINT/szName:如果你在空中飞行，别忘了那些 SAM 站点。
+55:LOADSCREENHINT/szName:在战斗开始时使用 [SHIFT]+[B] 快捷键丢弃所有佣兵携带的背包。战斗结束时使用 [CTRL]+[SHIFT]+[F] 快捷键重新拾取它们。
+56:LOADSCREENHINT/szName:你可以通过投掷手榴弹摧毁地雷上的蓝色标志。敌人可能会踩到未标记的地雷。当然，你也可能踩到。
+57:LOADSCREENHINT/szName:按下 [L] 查看方向。再次按下 [L] 准备武器并通过瞄准镜查看（如果你的枪有瞄准镜或机械瞄具）。
+58:LOADSCREENHINT/szName:尽量以至少蹲下的状态结束回合。这可以保护你免受意外的友军火力伤害。
+59:LOADSCREENHINT/szName:你可以用自动射击扫射一个区域。只需选择自动射击，选择要发射的子弹数量，按住 [左键] 在第一个目标上并拖动到所需区域。
+60:LOADSCREENHINT/szName:Salinas 有一个野战医院，你可以在那里治疗你的佣兵。
+61:LOADSCREENHINT/szName:两脚架只有在俯卧或枪被架设时才会提供加成。
+62:LOADSCREENHINT/szName:重型武器在站立时射击或准备会消耗大量能量。俯卧以节省能量。
+63:LOADSCREENHINT/szName:尽可能使用掩护。
+64:LOADSCREENHINT/szName:叛军民兵可以吸引一些敌人的火力。不过，不要指望他们完成所有工作。
+65:LOADSCREENHINT/szName:移动民兵可以在地图上跟随佣兵，只要佣兵小组离他们一个区域。等待他们到达你的位置。
+66:LOADSCREENHINT/szName:在民兵重新分配菜单中，按住 [CTRL] 会移动 5 个民兵。[SHIFT] 会移动一个区域中的所有民兵。
+67:LOADSCREENHINT/szName:如果你让他们跟随你并在战斗前呼叫他们作为增援，移动民兵可以在你攻击城镇时帮助你。
+68:LOADSCREENHINT/szName:在区域库存界面的顶部，有一些按钮可以帮助排序和过滤物品。将鼠标悬停在每个按钮上会显示该按钮的信息。
+69:LOADSCREENHINT/szName:HP 弹药伤害高但容易被防弹衣阻挡。AP 弹药可以穿透防弹衣但伤害较低。
+70:LOADSCREENHINT/szName:对无装甲目标（如血猫）使用空尖弹或格拉泽弹。
+71:LOADSCREENHINT/szName:民心所向 - 帮助当地人会赢得他们的信任和忠诚。与他们交谈有时也会揭示一些有用的信息。
+72:LOADSCREENHINT/szName:你需要在一个城镇达到一定的忠诚度才能在那里训练民兵。
+73:LOADSCREENHINT/szName:具有教学技能的佣兵训练民兵和其他佣兵更快。
+74:LOADSCREENHINT/szName:按下 [O] 打开游戏中的选项菜单。
+75:LOADSCREENHINT/szName:按下 [ALT]+[S] 快速保存游戏到快速保存槽。[ALT]+[L] 会从快速保存槽快速加载游戏。
+76:LOADSCREENHINT/szName:按下 [CTRL]+[S] 打开保存菜单。
+77:LOADSCREENHINT/szName:在主菜单中按住 [ALT] 同时点击“继续保存游戏”选项会立即加载最后一个保存的游戏。
+78:LOADSCREENHINT/szName:黄衣是行政部队和警察，装备和武器较差，在你到达 Arulco 后不久就会被正规军取代。
+79:LOADSCREENHINT/szName:红衣是 Deidranna 的正规军，将是你最常见的对手。
+80:LOADSCREENHINT/szName:黑衣是 Deidranna 雇佣的精英佣兵。他们拥有最好的装备、武器和属性。更高的难度级别会增加他们的数量。
+81:LOADSCREENHINT/szName:绿色民兵可以进一步训练成为正规民兵。正规民兵更有用但训练和雇佣成本更高。
+82:LOADSCREENHINT/szName:老兵民兵无法训练。民兵在战斗后如果表现良好可以成为老兵。
+83:LOADSCREENHINT/szName:尽量尽快包扎严重受伤的佣兵，否则他们可能会因失血过多而死。
+84:LOADSCREENHINT/szName:尽量给你的狙击手配备手枪。狙击手在近战情况下用处有限。
+85:LOADSCREENHINT/szName:震撼弹可以帮助你使敌人无力反抗。你可以从无力反抗的敌人身上偷取装备。
+86:LOADSCREENHINT/szName:在投掷催泪弹之前尽量使敌人眩晕或压制。这会阻止他们逃离毒气云或使用防毒面具。
+87:LOADSCREENHINT/szName:在使用催泪弹之前始终检查敌人是否有防毒面具。按住 [ALT] 键同时瞄准敌人以查看其详细信息。详细程度取决于所选佣兵的距离。
+88:LOADSCREENHINT/szName:确保你的枪始终装满弹药，使用 [ALT]+[R]。
+89:LOADSCREENHINT/szName:避免被敌人发现，如果被发现，使用掩护。
+90:LOADSCREENHINT/szName:如果树木挡住了你的视线，按下 [T] 以获得更清晰的视野。你可以按下 [DELETE] 键以更好地感受周围环境。
+91:LOADSCREENHINT/szName:L.B.E. 代表 Load Bearing Equipment（负重装备）。
+92:LOADSCREENHINT/szName:使用 [TAB] 键在地面和屋顶目标之间切换。
+93:LOADSCREENHINT/szName:从掩护后射击，并知道再次蹲下需要多少 AP。
+94:LOADSCREENHINT/szName:注意佣兵听到的声音，如果你知道他们从哪里来，可以避免很多麻烦！
+95:LOADSCREENHINT/szName:你会在战术界面中看到任何听到的声音的位置上出现白色的“Ping”闪烁。
+96:LOADSCREENHINT/szName:开火可以吸引一些火力远离受伤的佣兵或陷入困境的人！
+97:LOADSCREENHINT/szName:夜间远离光源并尝试利用它们。
+98:LOADSCREENHINT/szName:按下 [ALT]+[Z] 命令所有佣兵进入潜行模式，[=] 选择所有佣兵。
+99:LOADSCREENHINT/szName:依赖声音在夜间更为重要。没有适当的装备，你会听到的比看到的更多。
+100:LOADSCREENHINT/szName:如果你依赖射程有限的武器，夜间行动可能是你早期的最佳选择。
+101:LOADSCREENHINT/szName:按下 [G] 切换佣兵周围的人工光源。
+102:LOADSCREENHINT/szName:如果你遇到雷雨，保持警惕，闪电可能会暴露你的位置，雨水会使你更难看到已经发现你的敌人。
+103:LOADSCREENHINT/szName:不要挤在一起，一发流弹或手榴弹可能会消灭你的整个小队。
+104:LOADSCREENHINT/szName:你的每一个动作都决定了战斗的进程。
+105:LOADSCREENHINT/szName:没有医疗物资就开始行动是灾难的配方。
+106:LOADSCREENHINT/szName:在屋顶移动时，尽量直线移动，斜向移动可能会减慢你的速度。
+107:LOADSCREENHINT/szName:弹珠在拳击战中出奇地有用。
+108:LOADSCREENHINT/szName:如果你需要快速到达某个地方，确保不要让佣兵负重超过 100%。这会减慢整个小队的速度。
+109:LOADSCREENHINT/szName:在战斗中数子弹很困难。当佣兵忘记他们还剩多少子弹时，不要惊讶。
+110:LOADSCREENHINT/szName:每个佣兵在与 NPC 交谈时有不同的效果。不同的背景也可能对他们产生影响。不要指望 Biff 能有效地威胁别人。
+111:LOADSCREENHINT/szName:每个佣兵有不同的睡眠模式，从 3 到 12 小时不等，以完全恢复能量。“夜间行动”特质会减少这个时间。
+112:LOADSCREENHINT/szName:每个佣兵对佣兵死亡次数和你在 Arulco 的整体声誉有不同的容忍度。
+113:LOADSCREENHINT/szName:避免让两个不喜欢对方的人在同一区域停留超过一小时。
+114:LOADSCREENHINT/szName:某些佣兵无法获得任何属性。你无法教老狗新把戏。
+115:LOADSCREENHINT/szName:游戏手册、快捷键列表、地图编辑器教程等有用文档可以在“Docs”文件夹中找到。
+116:LOADSCREENHINT/szName:游戏分辨率和开场动画的播放可以在“Ja2.ini”中调整。
+117:LOADSCREENHINT/szName:熟悉滋生轻视 - Arulco 第二次并不那么友好。
+118:LOADSCREENHINT/szName:按下 [CTRL]+[ALT]+[G] 切换佣兵编队移动。当开启时，如果你选择多个佣兵，他们会保持当前的编队。
+119:LOADSCREENHINT/szName:按下 [CTRL]+[SHIFT]+[S] 一次性出售当前区域库存中的所有物品。
+120:LOADSCREENHINT/szName:按下 [CTRL]+[SHIFT]+[E] 从当前区域尽可能多地装载车辆。[SHIFT]+[E] 会将所有物品从车辆卸载到当前区域。
+121:LOADSCREENHINT/szName:如果佣兵无法从当前位置击中目标，尝试用自动射击压制敌人，然后换到更好的位置。
+122:LOADSCREENHINT/szName:探索农场和城市区域可以发现许多有用的物品，比如车辆的燃料。
+123:LOADSCREENHINT/szName:在战术界面中，按住 [右键] 在佣兵上会打开一个类似于战略界面的菜单。
+124:LOADSCREENHINT/szName:按下 [CTRL]+[C] 打开掩护显示菜单。
+125:LOADSCREENHINT/szName:按下 [CTRL]+[V] 打开有用的库存操作菜单。
+126:LOADSCREENHINT/szName:按下 [D] 立即进入回合制模式，如果区域内有敌人。
+127:LOADSCREENHINT/szName:按下 [CTRL]+[D] 结束你的中断，直到下一回合不会有中断。
+128:LOADSCREENHINT/szName:[ALT]+[右键] 打开技能菜单，无线电操作员可以在那里呼叫增援或炮击。
+129:LOADSCREENHINT/szName:防御性地雷可以安全地放置在已占领的城镇和 SAM 站点，因为佣兵和民兵会避开它们。
+130:LOADSCREENHINT/szName:你可以在尝试拆除陷阱之前检查它。如果你对当前的四肢数量满意，建议这样做。
+131:LOADSCREENHINT/szName:用手形光标点击蓝色标志，可以使用有用的拆除菜单移除标志或检查陷阱。
+132:LOADSCREENHINT/szName:放置地雷、铁丝网或沙袋时按住 [SHIFT] 键更方便，无需手动从佣兵库存中取出新物品。
+133:LOADSCREENHINT/szName:如果你选择多个佣兵并按住 [SHIFT] 命令移动，他们会保持相对位置移动。
+134:LOADSCREENHINT/szName:按下 [SHIFT]+[T] 快速转换手中的物品。
+135:LOADSCREENHINT/szName:按下 [SHIFT]+[O] 快速转换武器上的瞄准镜。
+136:LOADSCREENHINT/szName:按下 [SHIFT]+[Y] 快速转换武器上的激光。
+137:LOADSCREENHINT/szName:按下 [SHIFT]+[L] 快速转换手中的手电筒。
