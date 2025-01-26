@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+This file defines the text used for various history events.
+
+These are the "history log" strings. Their length is very limited, especially with '%s'
+One way to test is to use the replacement strings on <uiIndex> 1 & 5.
+
+NOTE:
+Will only work if there's an accompanying trigger in sourcecode;
+	does not work by simply adding more lines.
+Strings containing combinations of % characters are special format characters to insert
+	a parameter as specified in code. % characters can be rearranged/removed;
+	inserting new ones will just print garbled text.
+-->
+<STRINGS>
+  <TEXT>
+	<!-- HISTORY_ENTERED_HISTORY_MODE - leave this line blank -->
+	<uiIndex>0</uiIndex>
+    <sHistory>无</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_HIRED_MERC_FROM_AIM -->
+	<uiIndex>1</uiIndex>
+    <sHistory>%s 从 A.I.M. 雇佣。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_HIRED_MERC_FROM_MERC -->
+	<uiIndex>2</uiIndex>
+    <sHistory>%s 从 M.E.R.C. 雇佣。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MERC_KILLED -->
+	<uiIndex>3</uiIndex>
+    <sHistory>%s 死亡。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_SETTLED_ACCOUNTS_AT_MERC -->
+	<uiIndex>4</uiIndex>
+    <sHistory>在 M.E.R.C. 结清账目。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_ACCEPTED_ASSIGNMENT_FROM_ENRICO -->
+	<uiIndex>5</uiIndex>
+    <sHistory>接受了机构的任务。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_CHARACTER_GENERATED -->
+	<uiIndex>6</uiIndex>
+    <sHistory>生成了 IMP 档案。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_PURCHASED_INSURANCE -->
+	<uiIndex>7</uiIndex>
+    <sHistory>为 %s 购买了保险合同。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_CANCELLED_INSURANCE -->
+	<uiIndex>8</uiIndex>
+    <sHistory>取消了 %s 的保险合同。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_INSURANCE_CLAIM_PAYOUT -->
+	<uiIndex>9</uiIndex>
+    <sHistory>为 %s 支付了保险赔偿金。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_1_DAY -->
+	<uiIndex>10</uiIndex>
+    <sHistory>将 %s 的合同延长了一天。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_1_WEEK -->
+	<uiIndex>11</uiIndex>
+    <sHistory>将 %s 的合同延长了一周。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_EXTENDED_CONTRACT_2_WEEK -->
+	<uiIndex>12</uiIndex>
+    <sHistory>将 %s 的合同延长了两周。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MERC_FIRED -->
+	<uiIndex>13</uiIndex>
+    <sHistory>%s 被解雇。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MERC_QUIT -->
+	<uiIndex>14</uiIndex>
+    <sHistory>%s 辞职。</sHistory>
+  </TEXT>
+  <TEXT>
+  	<!-- HISTORY_QUEST_STARTED - strings from BINARYDATA\quests.edt -->
+	<uiIndex>15</uiIndex>
+    <sHistory>任务开始。</sHistory>
+  </TEXT>
+  <TEXT>
+  	<!-- HISTORY_QUEST_FINISHED - strings from BINARYDATA\quests.edt -->
+	<uiIndex>16</uiIndex>
+    <sHistory>任务完成。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_TALKED_TO_MINER -->
+	<uiIndex>17</uiIndex>
+    <sHistory>与 %s 的工头交谈。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_LIBERATED_TOWN -->
+	<uiIndex>18</uiIndex>
+    <sHistory>解放了 %s。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_CHEAT_ENABLED -->
+	<uiIndex>19</uiIndex>
+    <sHistory>使用了作弊。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_TALKED_TO_FATHER_WALKER -->
+	<uiIndex>20</uiIndex>
+    <sHistory>食物应该明天到达 Omerta。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MERC_MARRIED_OFF -->
+	<uiIndex>21</uiIndex>
+    <sHistory>%s 非柏拉图式地帮助了 Babyface。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MERC_CONTRACT_EXPIRED -->
+	<uiIndex>22</uiIndex>
+    <sHistory>%s 的合同到期。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_RPC_JOINED_TEAM -->
+	<uiIndex>23</uiIndex>
+    <sHistory>%s 被招募。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_ENRICO_COMPLAINED -->
+	<uiIndex>24</uiIndex>
+    <sHistory>机构抱怨缺乏进展。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_WONBATTLE -->
+	<uiIndex>25</uiIndex>
+    <sHistory>战斗胜利。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MINE_RUNNING_OUT -->
+	<uiIndex>26</uiIndex>
+    <sHistory>%s 矿开始耗尽矿石。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MINE_RAN_OUT -->
+	<uiIndex>27</uiIndex>
+    <sHistory>%s 矿耗尽矿石。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MINE_SHUTDOWN -->
+	<uiIndex>28</uiIndex>
+    <sHistory>%s 矿被关闭。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MINE_REOPENED -->
+	<uiIndex>29</uiIndex>
+    <sHistory>%s 矿重新开放。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_DISCOVERED_TIXA -->
+	<uiIndex>30</uiIndex>
+    <sHistory>发现了一个叫 Tixa 的监狱。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_DISCOVERED_ORTA -->
+	<uiIndex>31</uiIndex>
+    <sHistory>听说了一个叫 Orta 的秘密武器工厂。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_GOT_ROCKET_RIFLES -->
+	<uiIndex>32</uiIndex>
+    <sHistory>Orta 的科学家捐赠了一批火箭步枪。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_DEIDRANNA_DEAD_BODIES -->
+	<uiIndex>33</uiIndex>
+    <sHistory>Queen Deidranna 需要尸体。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_BOXING_MATCHES -->
+	<uiIndex>34</uiIndex>
+    <sHistory>Frank 谈到了 San Mona 的战斗比赛。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_SOMETHING_IN_MINES -->
+	<uiIndex>35</uiIndex>
+    <sHistory>一个病人认为他在矿井里看到了什么。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_DEVIN -->
+	<uiIndex>36</uiIndex>
+    <sHistory>遇到了一个叫 TNT 的人 - 他卖炸药。</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_MIKE -->
+	<uiIndex>37</uiIndex>
+    <sHistory>遇到了著名的前 AIM 佣兵 Mike！</sHistory>
+  </TEXT>
+  <TEXT>
+	<!-- HISTORY_TONY -->
+	<uiIndex>38</uiIndex>
+    <sHistory>遇到了 Tony - 他经营军火生意。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KROTT -->
+	<uiIndex>39</uiIndex>
+    <sHistory>从 Sergeant Krott 那里得到了一把轨道炮。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KYLE -->
+	<uiIndex>40</uiIndex>
+    <sHistory>把 Angel 的皮革店契约给了 Kyle。</sHistory>
+  </TEXT>  
+  <TEXT>
+	<!-- HISTORY_MADLAB -->
+	<uiIndex>41</uiIndex>
+    <sHistory>Madlab 提出要建造一个机器人。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_GABBY -->
+	<uiIndex>42</uiIndex>
+    <sHistory>Gabby 可以制作隐形药剂。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KEITH_OUT_OF_BUSINESS -->
+	<uiIndex>43</uiIndex>
+    <sHistory>Hank 停业了。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_HOWARD_CYANIDE -->
+	<uiIndex>44</uiIndex>
+    <sHistory>Howard 向 Queen Deidranna 提供了氰化物。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KEITH -->
+	<uiIndex>45</uiIndex>
+    <sHistory>遇到了 Hank - Salinas 的万能商人。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_HOWARD -->
+	<uiIndex>46</uiIndex>
+    <sHistory>遇到了 Howard - 在 Malino 经营药品生意。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_PERKO -->
+	<uiIndex>47</uiIndex>
+    <sHistory>遇到了 Perko - 经营一家小型修理店。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_SAM -->
+	<uiIndex>48</uiIndex>
+    <sHistory>遇到了 Sam - 在 Malino 经营一家五金店。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_FRANZ -->
+	<uiIndex>49</uiIndex>
+    <sHistory>Franz 经营电子和其他商品。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_ARNOLD -->
+	<uiIndex>50</uiIndex>
+    <sHistory>Arnold 在 Doran 经营一家修理店。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_FREDO -->
+	<uiIndex>51</uiIndex>
+    <sHistory>Fredo 在 Doran 修理电子产品。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_RICHGUY_BALIME -->
+	<uiIndex>52</uiIndex>
+    <sHistory>收到了 Malino 富人的捐赠。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_JAKE -->
+	<uiIndex>53</uiIndex>
+    <sHistory>遇到了一个叫 Jake 的废品商人。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_BUM_KEYCARD -->
+	<uiIndex>54</uiIndex>
+    <sHistory>某个流浪汉给了我们一张电子钥匙卡。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_WALTER -->
+	<uiIndex>55</uiIndex>
+    <sHistory>贿赂了守卫以打开囚犯的门。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_DAVE -->
+	<uiIndex>56</uiIndex>
+    <sHistory>如果 Dave 有汽油，他会免费提供加油。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_PABLO -->
+	<uiIndex>57</uiIndex>
+    <sHistory>贿赂了 Pablo。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KINGPIN_MONEY -->
+	<uiIndex>58</uiIndex>
+    <sHistory>Kingpin 把钱藏在 San Mona 的矿井里。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_WON_BOXING -->
+	<uiIndex>59</uiIndex>
+    <sHistory>%s 赢得了极限战斗比赛。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_LOST_BOXING -->
+	<uiIndex>60</uiIndex>
+    <sHistory>%s 输掉了极限战斗比赛。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_DISQUALIFIED_BOXING -->
+	<uiIndex>61</uiIndex>
+    <sHistory>%s 在极限战斗中被取消资格。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_FOUND_MONEY -->
+	<uiIndex>62</uiIndex>
+    <sHistory>在废弃的矿井里发现了大量藏匿的钱。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_ASSASSIN -->
+	<uiIndex>63</uiIndex>
+    <sHistory>遇到了 Kingpin 派来的刺客。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_LOSTTOWNSECTOR -->
+	<uiIndex>64</uiIndex>
+    <sHistory>失去了对区域的控制。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_DEFENDEDTOWNSECTOR -->
+	<uiIndex>65</uiIndex>
+    <sHistory>防御了区域。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_LOSTBATTLE -->
+	<uiIndex>66</uiIndex>
+    <sHistory>战斗失败。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_FATALAMBUSH -->
+	<uiIndex>67</uiIndex>
+    <sHistory>致命的伏击。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_WIPEDOUTENEMYAMBUSH -->
+	<uiIndex>68</uiIndex>
+    <sHistory>消灭了敌人的伏击。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_UNSUCCESSFULATTACK -->
+	<uiIndex>69</uiIndex>
+    <sHistory>攻击失败。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_SUCCESSFULATTACK -->
+	<uiIndex>70</uiIndex>
+    <sHistory>攻击成功！</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_CREATURESATTACKED -->
+	<uiIndex>71</uiIndex>
+    <sHistory>生物攻击。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_KILLEDBYBLOODCATS -->
+	<uiIndex>72</uiIndex>
+    <sHistory>被血猫杀死。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_SLAUGHTEREDBLOODCATS -->
+	<uiIndex>73</uiIndex>
+    <sHistory>屠杀了血猫。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_NPC_KILLED -->
+	<uiIndex>74</uiIndex>
+    <sHistory>%s 被杀。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_GAVE_CARMEN_HEAD -->
+	<uiIndex>75</uiIndex>
+    <sHistory>给了 Carmen 一个恐怖分子的头。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_SLAY_MYSTERIOUSLY_LEFT -->
+	<uiIndex>76</uiIndex>
+    <sHistory>Slay 离开。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_MERC_KILLED_CHARACTER -->
+	<uiIndex>77</uiIndex>
+    <sHistory>杀死了 %s。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_WALDO -->
+	<uiIndex>78</uiIndex>
+    <sHistory>遇到了 Waldo - 飞机机械师。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_HELICOPTER_REPAIR_STARTED -->
+	<uiIndex>79</uiIndex>
+    <sHistory>直升机修理开始。预计时间：%d 小时。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_ENRICO -->
+	<uiIndex>80</uiIndex>
+    <sHistory>在 Malino 宫殿救了 Enrico Chivaldori。</sHistory>
+  </TEXT> 
+  <TEXT>
+	<!-- HISTORY_TRACONA_ACCESS -->
+	<uiIndex>81</uiIndex>
+    <sHistory>获得了对计划中的 Tracona 攻击的炮火支援。</sHistory>
+  </TEXT> 
+    <TEXT>
+	<!-- HISTORY_SCUD_ACCESS -->
+	<uiIndex>82</uiIndex>
+    <sHistory>获得了对计划中的 Alma 基地攻击的 SCUD 支援。</sHistory>
+  </TEXT> 
+</STRINGS>
