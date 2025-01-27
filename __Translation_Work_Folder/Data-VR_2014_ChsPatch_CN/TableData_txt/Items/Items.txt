@@ -5901,285 +5901,285 @@
 2065:ITEM/szLongItemName:AEK-973S
 2065:ITEM/szItemDesc:这款俄罗斯MOD制造的AK变种使用7.62mm WP子弹。它非常轻，但在全自动模式下相对难以控制。
 2065:ITEM/szBRDesc:直接来自俄罗斯国防部，这款AK变种在性能和重量上对经典AK步枪平台进行了现代化改进。
-2066:ITEM/szLongItemName:Barrett M82A1M
-2066:ITEM/szItemDesc:只需一颗子弹放在合适的位置，一个人就可以改变世界。巴雷特M107是一款.50口径的肩射式半自动狙击步枪。与其前身一样，这款步枪由于枪管结构本身吸收了力量，因此在如此重型武器中仍然可以保持可控后坐。
-2066:ITEM/szBRDesc:M107半自动长期狙击步枪（LRSR）是一款商业化的反材料和反狙击手的半自动直视.50口径步枪。
-2067:ITEM/szLongItemName:定制的MAC-10
-2067:ITEM/szItemDesc:我看见了人，却没有人性，开火吧！这把破旧的MAC-10装配有消声器、步枪瞄准镜和安装在消声器上的支架。这把枪一定已经射击了成千上万的弹药。它打有“USPF”的印记，握把上还有“SP”的缩写。
-2067:ITEM/szBRDesc:军事武器公司型号10是一款高度紧凑的机动手枪，由戈登·B·英格拉姆在1964年发展而成。它在“闪电行动”游戏机柜外部显得十分致命。
-2068:ITEM/szLongItemName:AMT Hardballer Longslide
-2068:ITEM/szItemDesc:这款全不锈钢的AMT Hardballer Longslide配备了SureFire的激光瞄准器，激光束打开后，您只需在想要子弹击中位置放置红点。
-2068:ITEM/szBRDesc:这款AMT的潜在最爱采用了7英寸的延长枪管，配备了受欢迎的SureFire激光瞄准器。与阿尼不同，一旦这些消失，就不会再回来了。
-2069:ITEM/szLongItemName:施泰尔IWS 2000
-2069:ITEM/szItemDesc:用施泰尔IWS 2000“不要让傻瓜毁了你的一天”。这种武器的设计更接近于榴弹炮而非步枪，确实能造成毁灭性的伤害。
-2069:ITEM/szBRDesc:是的，我们做到了，我们真的拥有了这些IWS 2000的宝贝！施泰尔步兵武器系统是一种奥地利半自动反材料步枪。抓紧购买吧，免得太晚了！
-2070:ITEM/szLongItemName:轨道炮
-2070:ITEM/szItemDesc:生活并没有绕过你，它试图冲撞你！轨道炮是一种电动电磁发射器。它由一对平行导电轨道组成，电流在一条轨道上流动，进入铸铁结构然后回流到另一条轨道。
-2070:ITEM/szBRDesc:不通过BR出售。
-2071:ITEM/szLongItemName:AKM刺刀
-2071:ITEM/szItemDesc:用于AKM的经典刺刀。其众多实用功能之一是锯齿边缘可以充当切线。
-2071:ITEM/szBRDesc:这种二型刺刀在首次发布时远远领先于时代，实用塑料和耐腐蚀的不锈钢刀片相结合。
-2072:ITEM/szLongItemName:厄尔玛MP40
-2072:ITEM/szItemDesc:由于较低的射速，这款枪在全自动状态下可以很容易地控制。虽然配件选择相对有限，但MP40依然是一款优秀的枪械。
-2072:ITEM/szBRDesc:这款经典的二战冲锋枪来自纳粹德国，具有较低的射速，使得该枪在全自动状态下很容易控制。
-2073:ITEM/szLongItemName:诺斯短剑
-2073:ITEM/szItemDesc:“削头不再图谋。”维京人的剑是用极高质量的钢材制作的，这把老剑似乎还有许多战斗十数年。上面也刻有“+VLFBERH+T”的铭文。
-2073:ITEM/szBRDesc:不出售。
-2074:ITEM/szLongItemName:IMBEL MD2
-2074:ITEM/szItemDesc:巴西军队的主要突击步枪，它是一款FN FAL步枪，采用M16类型的旋转栓。
-2074:ITEM/szBRDesc:巴西军队的主要突击步枪，它是一款FN FAL步枪，采用M16类型的旋转栓。
-2075:ITEM/szLongItemName:FMK-3
-2075:ITEM/szItemDesc:由阿根廷军工厂设计的FMK-3是一个采用回缩操作的选择性火力冲锋枪，起源于美国M3A1。
-2075:ITEM/szBRDesc:不通过BR出售。
-2076:ITEM/szLongItemName:M3A1
-2076:ITEM/szItemDesc:“油脂枪”是一款相对便宜且可控制的冲锋枪，受益于二战的教训。弹夹井的形状可以作为握把使用。
-2076:ITEM/szBRDesc:便宜且易于控制，M3A1借鉴了二战总结的经验，特别是在冲锋枪的使用上，结束了战争期间的应用，特別是由坦克乘员或狭窄空间的战斗人员使用。多年来由于它的可靠性而一直被使用，甚至在海湾战争中再度受到了坦克乘员的青睐。
-2077:ITEM/szLongItemName:陶露斯MT-9 SMG
-2077:ITEM/szItemDesc:这款巴西警察使用的紧凑型武器是全球化的经典例子，采取经过验证的瑞士设计并在智利的缝纫厂以更低的价格生产。
-2077:ITEM/szBRDesc:以南美价格获取瑞士设计。如果它足够适合巴西警察，它也应该足够适合你。
-2078:ITEM/szLongItemName:陶露斯MT-40 SMG
-2078:ITEM/szItemDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2078:ITEM/szBRDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2079:ITEM/szLongItemName:陶露斯CT-30
-2079:ITEM/szItemDesc:这种智利卡宾枪由巴西公司陶露斯生产，但基于SIG-540平台，发射.30卡宾枪弹药。在放松之前仔细检查弹夹是否有缺陷。
-2079:ITEM/szBRDesc:这款智利卡宾枪由巴西公司陶露斯生产。基于瑞士SIG-540平台，发射经典.30弹药。
-2080:ITEM/szLongItemName:Type 56
-2080:ITEM/szItemDesc:似乎世界上没有足够便宜的中国仿制品，这款AK-47克隆证明了便宜也可以快乐，获得了中国人民解放军和收藏家的高度尊重。
-2080:ITEM/szBRDesc:我们中国制作的AK-47的复制品仍然受到革命者和收藏家的欢迎。全球销量达到1500万的成就不容小觑。
-2081:ITEM/szLongItemName:瓦尔特P22
-2081:ITEM/szItemDesc:这款紧凑轻便的半自动手枪是最早一批采用聚合物框架的手枪之一，发射.22子弹。
-2081:ITEM/szBRDesc:这是一款非常适合隐蔽携带的武器。瓦尔特P22轻巧、紧凑且舒适，使用过程中还具备双手弹夹释放和滑动安全装置的功能。
-2082:ITEM/szLongItemName:Hi-Standard HD
-2082:ITEM/szItemDesc:作为美国的经典，高标准HD被用于训练多代士兵与比赛射手。
-2082:ITEM/szBRDesc:这是中央情报局的最爱，这款.22 LR半自动手枪非常适合快速消灭近距离目标。
-2083:ITEM/szLongItemName:PTRD
-2083:ITEM/szItemDesc:这是一款苏联二战时期的重型反坦克步枪。在反坦克效果不佳后，PTRD最终于1943年被降低到反材料的职责，因其仍能有效对付装甲较弱的车辆。
-2083:ITEM/szBRDesc:不通过BR出售。
-2084:ITEM/szLongItemName:IMI乌兹MP2
-2084:ITEM/szItemDesc:由以色列国防军的乌兹·加尔设计，乌兹是第一批采用光滑扭杆和将弹夹装入手柄内的枪支，使得在完全黑暗中重新装填如同自然般简单。
-2084:ITEM/szBRDesc:在这些乌兹的德军版中囤积一些吧，旧物带木质握把带来真正的摇滚魅力。
-2085:ITEM/szLongItemName:马林营地卡宾枪9
-2085:ITEM/szItemDesc:正如名字所示，营地卡宾枪设计为一种效用枪，供狩猎营使用，以供觅食或防御。
-2085:ITEM/szBRDesc:正如名字所示，营地卡宾枪设计为一种效用枪，供狩猎营使用，以供觅食或防御。
-2086:ITEM/szLongItemName:MAS-49
-2086:ITEM/szItemDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2086:ITEM/szBRDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2087:ITEM/szLongItemName:Bataan Modelo 71
-2087:ITEM/szItemDesc:如果模仿是最好的称赞，这款恶搞阿根廷版本的伊萨卡37霰弹枪，那就要让约翰·布朗宁在坟墓里脸红了。
-2087:ITEM/szBRDesc:在保护自己的同时节省200美金，并让另一个阿根廷人拥有稳定的工作。
-2088:ITEM/szLongItemName:陶露斯CT-40
-2088:ITEM/szItemDesc:这款.40 S&W口径的卡宾枪是为巴西警察创造的，需要具有射程来打击危险的罪犯，而不需要使用不同于手枪的弹药。
-2088:ITEM/szBRDesc:基于MT-40 SMG，这款卡宾枪是为巴西的执法部门开发的，在还需保持同款手枪口径的同时，提供了更远的射程。
-2089:ITEM/szLongItemName:SKS PU
-2089:ITEM/szItemDesc:SKS的受欢迎程度和价格促使了许多改装，这款使用复刻PU瞄准镜以增强准确度的型号。
-2089:ITEM/szBRDesc:SKS半自动卡宾枪一向在爱好者和猎人之间是不错的选择，增加PU瞄准镜是一种流行的改装。购买我们配备高质量复刻瞄准镜的型号，无需钻孔或组装。
-2090:ITEM/szLongItemName:俄罗斯猎枪刀
-2090:ITEM/szItemDesc:俄罗斯猎枪刀。
-2090:ITEM/szBRDesc:俄罗斯猎枪刀。
-2091:ITEM/szLongItemName:M1加兰德T26
-2091:ITEM/szItemDesc:这款M1加兰德变种的枪管较标准加兰德短6英寸。
-2091:ITEM/szBRDesc:也称为坦克手加兰德，T26是在各类陆军作战指挥请求下诞生的，旨在使用于丛林或机动战。
-2092:ITEM/szLongItemName:AKMSU
-2092:ITEM/szItemDesc:AKMS的短款变体，供特种部队使用。后托的U型设计允许在弹夹仍在位时折叠/展开。
-2092:ITEM/szBRDesc:这种更加缩短的AKM变种配有一个可以在弹夹在弹的情况下折叠的折叠托。设计用于伞兵和特种部队单位，尽管前握把有些不寻常，但非常实用。
-2093:ITEM/szLongItemName:柯尔特M16A2 M203
-2093:ITEM/szItemDesc:自越南战争以来，这是美国部队的标准配发步枪。准确且轻便，虽然有效射程相对较低。该变体配备M203单发40mm榴弹发射器。通过它的叶片瞄准器，榴弹可以准确瞄准200米远的目标。
-2093:ITEM/szBRDesc:“塑料神奇”无需介绍，但加上M203榴弹发射器后，将会实现全面覆盖。现场库存有限，购买后附赠“惩罚者”骷髅T恤。
-2094:ITEM/szLongItemName:温彻斯特1300防御型
-2094:ITEM/szItemDesc:这把破旧的黑色温彻斯特1300防御型上有很多血迹和把手处的磨损，并有后市场配备的前Tacstar手柄，侧面还有一个核能警示符号。即使你最终发现这个世界仍在沉睡，你依然有它。
-2094:ITEM/szBRDesc:1300型和1200型是温彻斯特-奥林公司制造的美国泵动式霰弹枪。虽然有些轻微的磨损，但凭借前任所有者的出色手柄使得其弥补了一切。
-2095:ITEM/szLongItemName:巴雷特M107
-2095:ITEM/szItemDesc:一个人只需在适当的位置打出一颗子弹就能改变世界。巴雷特M107是一款.50口径的肩射式半自动狙击步枪。与其前身一样，这款步枪因其枪管组件可以吸收冲击而能提供可控后座力。
-2095:ITEM/szBRDesc:M107半自动长程狙击步枪（LRSR）是一款商用的反材料和反狙击手的半自动直视.50口径步枪。
-2096:ITEM/szLongItemName:定制MAC-10
-2096:ITEM/szItemDesc:我看到人，但没有人性，开火吧！这款破旧的MAC-10配有消声器、步枪瞄准镜和附加在消声器上面的支架。这把枪一定已经射击了成千上万的子弹。手柄上打有“USPF”标志，且有“S.P.”字母缩写。
-2096:ITEM/szBRDesc:军事装备公司型号10是一款高度紧凑的机动手枪，由戈登·B·英格拉姆在1964年发展。它是“闪电行动”游戏机柜外部显得极为致命。
-2097:ITEM/szLongItemName:AMT Hardballer Longslide
-2097:ITEM/szItemDesc:这把全不锈钢的AMT Hardballer Longslide配备了SureFire的激光瞄准器，激光束打开后，您只需在想要子弹击中位置放置红点。
-2097:ITEM/szBRDesc:这款AMT的潜在最爱采用了7英寸的延长枪管，配备了受欢迎的SureFire激光瞄准器。与阿尔尼不同，一旦这些消失，就不会再回来了。
-2098:ITEM/szLongItemName:施泰尔IWS 2000
-2098:ITEM/szItemDesc:用施泰尔IWS 2000“不要让傻人毁了你的一天”。这种武器在设计上更接近于榴弹炮而非步枪，确实带来了毁灭性的打击。
-2098:ITEM/szBRDesc:是的，我们做到了，我们真的拥有了这些IWS 2000的宝贝！施泰尔步兵武器系统是一种奥地利半自动反材质步枪。抓紧购买吧，免得太晚了！
-2099:ITEM/szLongItemName:轨道炮
-2099:ITEM/szItemDesc:生活并没有绕过你，它试图冲撞你！轨道炮是一种电动电磁发射器。由一对平行的导电轨道组成，电流在一根轨道上流过，进入铸铁结构，然后回到另一根轨道。
-2099:ITEM/szBRDesc:不通过BR出售。
-2100:ITEM/szLongItemName:AKM刺刀
-2100:ITEM/szItemDesc:用于AKM的经典刺刀。其众多实用功能之一是锯齿边缘可以充当切线。
-2100:ITEM/szBRDesc:这种二型刺刀在首次发布时远远领先于时代，实用塑料和耐腐蚀的不锈钢刀片相结合。
-2101:ITEM/szLongItemName:厄尔玛MP40
-2101:ITEM/szItemDesc:由于较低的射速，这款枪在全自动状态下可以很容易地控制。虽然配件选择相对有限，但MP40依然是一款优秀的枪械。
-2101:ITEM/szBRDesc:这款经典的二战冲锋枪来自纳粹德国，具有较低的射速，使得该枪在全自动状态下很容易控制。
-2102:ITEM/szLongItemName:诺斯短剑
-2102:ITEM/szItemDesc:“削头不再图谋。”维京人的剑是用极高质量的钢材制作的，这把老剑似乎还有许多战斗十数年。上面也刻有“+VLFBERH+T”的铭文。
-2102:ITEM/szBRDesc:不出售。
-2103:ITEM/szLongItemName:IMBEL MD2
-2103:ITEM/szItemDesc:巴西军队的主要突击步枪，其特点是FN FAL步枪与M16类旋转栓设计。
-2103:ITEM/szBRDesc:巴西军队的主要突击步枪，其特点是FN FAL步枪与M16类旋转栓设计。
-2104:ITEM/szLongItemName:FMK-3
-2104:ITEM/szItemDesc:由阿根廷军工厂设计的FMK-3是一个选择性火力冲锋枪，作击发时使用美国M3A1的设计。
-2104:ITEM/szBRDesc:不通过BR出售。
-2105:ITEM/szLongItemName:M3A1
-2105:ITEM/szItemDesc:“油脂枪”是一款相对便宜且可控制的冲锋枪，受益于二战的教训。弹夹井的形状可以作为握把使用。
-2105:ITEM/szBRDesc:便宜且易于控制，M3A1借鉴了二战总结的经验，特别是在冲锋枪的使用上，结束了战争期间的应用，特別是由坦克乘员或狭窄空间的战斗人员使用。多年来由于它的可靠性而一直被使用，甚至在海湾战争中再度受到了坦克乘员的青睐。
-2106:ITEM/szLongItemName:陶露斯MT-9 SMG
-2106:ITEM/szItemDesc:这款巴西警察使用的紧凑型武器是全球化的经典例子，采取经过验证的瑞士设计并在智利的缝纫厂以更低的价格生产。
-2106:ITEM/szBRDesc:以南美价格获取瑞士设计。如果它足够适合巴西警察，它也应该足够适合你。
-2107:ITEM/szLongItemName:陶露斯MT-40 SMG
-2107:ITEM/szItemDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2107:ITEM/szBRDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2108:ITEM/szLongItemName:陶露斯CT-30
-2108:ITEM/szItemDesc:这种智利卡宾枪由巴西公司陶露斯生产，但基于SIG-540平台，发射.30卡宾枪弹药。在放松之前仔细检查弹夹是否有缺陷。
-2108:ITEM/szBRDesc:这款智利卡宾枪由巴西公司陶露斯生产。基于瑞士SIG-540平台，发射经典.30弹药。
-2109:ITEM/szLongItemName:Type 56
-2109:ITEM/szItemDesc:似乎世界上没有足够便宜的中国仿制品，这款AK-47克隆证明了便宜也可以快乐，并在中国人民解放军和收藏家的高度尊重中得以广泛流行。
-2109:ITEM/szBRDesc:我们中国制作的AK-47的复制品仍然受到革命者和收藏家的欢迎。全球销量达到1500万的成就不容小觑。
-2110:ITEM/szLongItemName:瓦尔特P22
-2110:ITEM/szItemDesc:这款紧凑轻便的半自动手枪是最早一批采用聚合物框架的手枪之一，发射.22子弹。
-2110:ITEM/szBRDesc:这是一款非常适合隐蔽携带的武器。瓦尔特P22轻巧、紧凑且舒适，使用过程中还具备双手弹夹释放和滑动安全装置的功能。
-2111:ITEM/szLongItemName:高标准HD
-2111:ITEM/szItemDesc:作为美国的经典，高标准HD被用于训练多代士兵与比赛射手。
-2111:ITEM/szBRDesc:这是中央情报局的最爱，这款.22 LR半自动手枪非常适合快速消灭近距离目标。
-2112:ITEM/szLongItemName:PTRD
-2112:ITEM/szItemDesc:这是一款苏联二战时期的重型反坦克步枪。在反坦克效果不佳后，PTRD最终于1943年被降低到反材料的职责，因其仍能有效对付装甲较弱的车辆。
-2112:ITEM/szBRDesc:不通过BR出售。
-2113:ITEM/szLongItemName:IMI乌兹MP2
-2113:ITEM/szItemDesc:由以色列国防军的乌兹·加尔设计，乌兹是第一批采用光滑扭杆和将弹夹装入手柄内的枪支，使得在完全黑暗中重新装填如同自然般简单。
-2113:ITEM/szBRDesc:在这些乌兹的德军版中囤积一些吧，旧物带木质握把带来真正的摇滚魅力。
-2114:ITEM/szLongItemName:马林营地卡宾枪9
-2114:ITEM/szItemDesc:正如名字所示，营地卡宾枪设计为一种效用枪，用于狩猎营使用，为觅食或防御提供支持。
-2114:ITEM/szBRDesc:正如名字所示，营地卡宾枪设计为一种效用枪，用于狩猎营使用，为觅食或防御提供支持。
-2115:ITEM/szLongItemName:MAS-49
-2115:ITEM/szItemDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2115:ITEM/szBRDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2116:ITEM/szLongItemName:Bataan Modelo 71
-2116:ITEM/szItemDesc:如果模仿是最好的称赞，这款恶搞阿根廷版本的伊萨卡37霰弹枪，那就要让约翰·布朗宁在坟墓里脸红了。
-2116:ITEM/szBRDesc:在保护自己的同时节省200美金，并让另一个阿根廷人拥有稳定的工作。
-2117:ITEM/szLongItemName:陶露斯CT-40
-2117:ITEM/szItemDesc:这款.40 S&W口径的卡宾枪是为巴西警察创造的，需要具有射程来打击危险的罪犯，而不需要使用不同于手枪的弹药。
-2117:ITEM/szBRDesc:基于MT-40 SMG，这款卡宾枪是为巴西的执法部门开发的，在还需保持同款手枪口径的同时，提供了更远的射程。
-2118:ITEM/szLongItemName:SKS PU
-2118:ITEM/szItemDesc:SKS的受欢迎程度和价格促使了许多改装，这款使用复刻PU瞄准镜以增强准确度的型号。
-2118:ITEM/szBRDesc:SKS半自动卡宾枪一向在爱好者和猎人之间是不错的选择，增加PU瞄准镜是一种流行的改装。购买我们配备高质量复刻瞄准镜的型号，无需钻孔或组装。
-2119:ITEM/szLongItemName:俄罗斯猎枪刀
-2119:ITEM/szItemDesc:俄罗斯猎枪刀。
-2119:ITEM/szBRDesc:俄罗斯猎枪刀。
-2120:ITEM/szLongItemName:M1加兰德T26
-2120:ITEM/szItemDesc:这款M1加兰德变种的枪管较标准加兰德短6英寸。
-2120:ITEM/szBRDesc:也称为坦克手加兰德，T26是在各类陆军作战指挥请求下诞生的，旨在使用于丛林或机动战。
-2121:ITEM/szLongItemName:AKMSU
-2121:ITEM/szItemDesc:AKMS的短款变体，供特种部队使用。后托的U型设计允许在弹夹仍在位时折叠/展开。
-2121:ITEM/szBRDesc:这种更加缩短的AKM变种配有一个可以在弹夹在弹的情况下折叠的折叠托。设计用于伞兵和特种部队单位，尽管前握把有些不寻常，但非常实用。
-2122:ITEM/szLongItemName:柯尔特M16A2 M203
-2122:ITEM/szItemDesc:自越南战争以来，这是美国部队的标准配发步枪。准确且轻便，虽然有效射程相对较低。该变体配备M203单发40mm榴弹发射器。通过它的叶片瞄准器，榴弹可以准确瞄准200米远的目标。
-2122:ITEM/szBRDesc:“塑料神奇”无需介绍，但加上M203榴弹发射器后，将会实现全面覆盖。现场库存有限，购买后附赠“惩罚者”骷髅T恤。
-2123:ITEM/szLongItemName:温彻斯特1300防御型
-2123:ITEM/szItemDesc:这把破旧的黑色温彻斯特1300防御型上有很多血迹和把手处的磨损，并有后市场配备的前Tacstar手柄，侧面还有一个核能警示符号。即使你最终发现这个世界仍在沉睡，你依然有它。
-2123:ITEM/szBRDesc:1300型和1200型是温彻斯特-奥林公司制造的美国泵动式霰弹枪。虽然有些轻微的磨损，但凭借前任所有者的出色手柄使得其弥补了一切。
-2124:ITEM/szLongItemName:巴雷特M107
-2124:ITEM/szItemDesc:一个人只需在适当的位置打出一颗子弹就能改变世界。巴雷特M107是一款.50口径的肩射式半自动狙击步枪。与其前身一样，这款步枪因其枪管组件可以吸收冲击而能提供可控后座力。
-2124:ITEM/szBRDesc:M107半自动长程狙击步枪（LRSR）是一款商用的反材料和反狙击手的半自动直视.50口径步枪。
-2125:ITEM/szLongItemName:定制MAC-10
-2125:ITEM/szItemDesc:我看到人，但没有人性，开火吧！这款破旧的MAC-10配有消声器、步枪瞄准镜和附加在消声器上面的支架。这把枪一定已经射击了成千上万的子弹。手柄上打有“USPF”标志，且有“S.P.”字母缩写。
-2125:ITEM/szBRDesc:军事装备公司型号10是一款高度紧凑的机动手枪，由戈登·B·英格拉姆在1964年发展。它是“闪电行动”游戏机柜外部显得极为致命。
-2126:ITEM/szLongItemName:AMT Hardballer Longslide
-2126:ITEM/szItemDesc:这把全不锈钢的AMT Hardballer Longslide配备了SureFire的激光瞄准器，激光束打开后，您只需在想要子弹击中位置放置红点。
-2126:ITEM/szBRDesc:这款AMT的潜在最爱采用了7英寸的延长枪管，配备了受欢迎的SureFire激光瞄准器。与阿尔尼不同，一旦这些消失，就不会再回来了。
-2127:ITEM/szLongItemName:施泰尔IWS 2000
-2127:ITEM/szItemDesc:用施泰尔IWS 2000“不要让傻瓜毁了你的一天”。这种武器在设计上更接近于榴弹炮而非步枪，确实带来了毁灭性的打击。
-2127:ITEM/szBRDesc:是的，我们做到了，我们真的拥有了这些IWS 2000的宝贝！施泰尔步兵武器系统是一种奥地利半自动反材料步枪。抓紧购买吧，免得太晚了！
-2128:ITEM/szLongItemName:轨道炮
-2128:ITEM/szItemDesc:生活并没有绕过你，它试图冲撞你！轨道炮是一种电动电磁发射器。由一对平行的导电轨道组成，电流在一根轨道上流过，进入铸铁结构，然后回到另一根轨道。
-2128:ITEM/szBRDesc:不通过BR出售。
-2129:ITEM/szLongItemName:AKM刺刀
-2129:ITEM/szItemDesc:用于AKM的经典刺刀。其众多实用功能之一是锯齿边缘可以充当切线。
-2129:ITEM/szBRDesc:这种二型刺刀在首次发布时远远领先于时代，实用塑料和耐腐蚀的不锈钢刀片相结合。
-2130:ITEM/szLongItemName:厄尔玛MP40
-2130:ITEM/szItemDesc:由于较低的射速，这款枪在全自动状态下可以很容易地控制。虽然配件选择相对有限，但MP40依然是一款优秀的枪械。
-2130:ITEM/szBRDesc:这款经典的二战冲锋枪来自纳粹德国，具有较低的射速，使得该枪在全自动状态下很容易控制。
-2131:ITEM/szLongItemName:诺斯短剑
-2131:ITEM/szItemDesc:“削头不再图谋。”维京人的剑是用极高质量的钢材制作的，这把老剑似乎还有许多战斗十数年。上面也刻有“+VLFBERH+T”的铭文。
-2131:ITEM/szBRDesc:不出售。
-2132:ITEM/szLongItemName:IMBEL MD2
-2132:ITEM/szItemDesc:巴西军队的主要突击步枪，它是一款FN FAL步枪，采用M16类型的旋转栓。
-2132:ITEM/szBRDesc:巴西军队的主要突击步枪，它是一款FN FAL步枪，采用M16类型的旋转栓。
-2133:ITEM/szLongItemName:FMK-3
-2133:ITEM/szItemDesc:由阿根廷军工厂设计的FMK-3是一个选择性火力冲锋枪，作击发时使用美国M3A1的设计。
-2133:ITEM/szBRDesc:不通过BR出售。
-2134:ITEM/szLongItemName:M3A1
-2134:ITEM/szItemDesc:“油脂枪”是一款相对便宜且可控制的冲锋枪，受益于二战的教训。弹夹井的形状可以作为握把使用。
-2134:ITEM/szBRDesc:便宜且易于控制，M3A1借鉴了二战总结的经验，特别是在冲锋枪的使用上，结束了战争期间的应用，特別是由坦克乘员或狭窄空间的战斗人员使用。多年来由于它的可靠性而一直被使用，甚至在海湾战争中再度受到了坦克乘员的青睐。
-2135:ITEM/szLongItemName:陶露斯MT-9 SMG
-2135:ITEM/szItemDesc:这款巴西警察使用的紧凑型武器是全球化的经典例子，采取经过验证的瑞士设计并在智利的缝纫厂以更低的价格生产。
-2135:ITEM/szBRDesc:以南美价格获取瑞士设计。如果它足够适合巴西警察，它也应该足够适合你。
-2136:ITEM/szLongItemName:陶露斯MT-40 SMG
-2136:ITEM/szItemDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2136:ITEM/szBRDesc:由陶露斯许可建造的MT-40基本上是FAMAE SAF的.40 S&W口径转换版本，并附有额外的Picatinny导轨。
-2137:ITEM/szLongItemName:陶露斯CT-30
-2137:ITEM/szItemDesc:这种智利卡宾枪由巴西公司陶露斯生产，但基于SIG-540平台，发射.30卡宾枪弹药。在放松之前仔细检查弹夹是否有缺陷。
-2137:ITEM/szBRDesc:这款智利卡宾枪由巴西公司陶露斯生产。基于瑞士SIG-540平台，发射经典.30弹药。
-2138:ITEM/szLongItemName:Type 56
-2138:ITEM/szItemDesc:似乎世界上没有足够便宜的中国仿制品，这款AK-47克隆证明了便宜也可以快乐，并在中国人民解放军和收藏家的高度尊重中得以广泛流行。
-2138:ITEM/szBRDesc:我们中国制作的AK-47的复制品仍然受到革命者和收藏家的欢迎。全球销量达到1500万的成就不容小觑。
-2139:ITEM/szLongItemName:瓦尔特P22
-2139:ITEM/szItemDesc:这款紧凑轻便的半自动手枪是最早一批采用聚合物框架的手枪之一，发射.22子弹。
-2139:ITEM/szBRDesc:这是一款非常适合隐蔽携带的武器。瓦尔特P22轻巧、紧凑且舒适，使用过程中还具备双手弹夹释放和滑动安全装置的功能。
-2140:ITEM/szLongItemName:高标准HD
-2140:ITEM/szItemDesc:作为美国的经典，高标准HD被用于训练多代士兵与比赛射手。
-2140:ITEM/szBRDesc:这是中央情报局的最爱，这款.22 LR半自动手枪非常适合快速消灭近距离目标。
-2141:ITEM/szLongItemName:PTRD
-2141:ITEM/szItemDesc:这是一款苏联二战时期的重型反坦克步枪。在反坦克效果不佳后，PTRD最终于1943年被降低到反材料的职责，因其仍能有效对付装甲较弱的车辆。
-2141:ITEM/szBRDesc:不通过BR出售。
-2142:ITEM/szLongItemName:IMI乌兹MP2
-2142:ITEM/szItemDesc:由以色列国防军的乌兹·加尔设计，乌兹是第一批采用光滑扭杆和将弹夹装入手柄内的枪支，使得在完全黑暗中重新装填如同自然般简单。
-2142:ITEM/szBRDesc:在这些乌兹的德军版中囤积一些吧，旧物带木质握把带来真正的摇滚魅力。
-2143:ITEM/szLongItemName:马林营地卡宾枪9
-2143:ITEM/szItemDesc:正如名字所示，营地卡宾枪设计为一种效用枪，供狩猎营使用，以供觅食或防御。
-2143:ITEM/szBRDesc:正如名字所示，营地卡宾枪设计为一种效用枪，供狩猎营使用，以供觅食或防御。
-2144:ITEM/szLongItemName:MAS-49
-2144:ITEM/szItemDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2144:ITEM/szBRDesc:这款半自动步枪一直是法国军队的标准issue服务步枪。
-2145:ITEM/szLongItemName:Bataan Modelo 71
-2145:ITEM/szItemDesc:如果模仿是最好的称赞，这款恶搞阿根廷版本的伊萨卡37霰弹枪，那就要让约翰·布朗宁在坟墓里脸红了。
-2145:ITEM/szBRDesc:在保护自己的同时节省200美金，并让另一个阿根廷人拥有稳定的工作。
-2146:ITEM/szLongItemName:陶露斯CT-40
-2146:ITEM/szItemDesc:这款.40 S&W口径的卡宾枪是为巴西警察创造的，需要具有射程来打击危险的罪犯，而不需要使用不同于手枪的弹药。
-2146:ITEM/szBRDesc:基于MT-40 SMG，这款卡宾枪是为巴西的执法部门开发的，在还需保持同款手枪口径的同时，提供了更远的射程。
-2147:ITEM/szLongItemName:SKS PU
-2147:ITEM/szItemDesc:SKS的受欢迎程度和价格促使了许多改装，这款使用复刻PU瞄准镜以增强准确度的型号。
-2147:ITEM/szBRDesc:SKS半自动卡宾枪一向在爱好者和猎人之间是不错的选择，增加PU瞄准镜是一种流行的改装。购买我们配备高质量复刻瞄准镜的型号，无需钻孔或组装。
-2148:ITEM/szLongItemName:俄罗斯猎枪刀
-2148:ITEM/szItemDesc:俄罗斯猎枪刀。
-2148:ITEM/szBRDesc:俄罗斯猎枪刀。
-2149:ITEM/szLongItemName:M1加兰德T26
-2149:ITEM/szItemDesc:这款M1加兰德变种的枪管较标准加兰德短6英寸。
-2149:ITEM/szBRDesc:也称为坦克手加兰德，T26是在各类陆军作战指挥请求下诞生的，旨在使用于丛林或机动战。
-2150:ITEM/szLongItemName:AKMSU
-2150:ITEM/szItemDesc:AKMS的短款变体，供特种部队使用。后托的U型设计允许在弹夹仍在位时折叠/展开。
-2150:ITEM/szBRDesc:这种更加缩短的AKM变种配有一个可以在弹夹在弹的情况下折叠的折叠托。设计用于伞兵和特种部队单位，尽管前握把有些不寻常，但非常实用。
-2151:ITEM/szLongItemName:柯尔特M16A2 M203
-2151:ITEM/szItemDesc:自越南战争以来，这是美国部队的标准配发步枪。准确且轻便，虽然有效射程相对较低。该变体配备M203单发40mm榴弹发射器。通过它的叶片瞄准器，榴弹可以准确瞄准200米远的目标。
-2151:ITEM/szBRDesc:“塑料神奇”无需介绍，但加上M203榴弹发射器后，将会实现全面覆盖。现场库存有限，购买后附赠“惩罚者”骷髅T恤。
-2152:ITEM/szLongItemName:温彻斯特1300防御型
-2152:ITEM/szItemDesc:这把破旧的黑色温彻斯特1300防御型上有很多血迹和把手处的磨损，并有后市场配备的前Tacstar手柄，侧面还有一个核能警示符号。即使你最终发现这个世界仍在沉睡，你依然有它。
-2152:ITEM/szBRDesc:1300型和1200型是温彻斯特-奥林公司制造的美国泵动式霰弹枪。虽然有些轻微的磨损，但凭借前任所有者的出色手柄使得其弥补了一切。
-2153:ITEM/szLongItemName:巴雷特M107
-2153:ITEM/szItemDesc:一个人只需在适当的位置打出一颗子弹就能改变世界。巴雷特M107是一款.50口径的肩射式半自动狙击步枪。与其前身一样，这款步枪因其枪管组件可以吸收冲击而能提供可控后座力。
-2153:ITEM/szBRDesc:M107半自动长程狙击步枪（LRSR）是一款商用的反材料和反狙击手的半自动直视.50口径步枪。
-2154:ITEM/szLongItemName:定制MAC-10
-2154:ITEM/szItemDesc:我看到人，但没有人性，开火吧！这款破旧的MAC-10配有消声器、步枪瞄准镜和附加在消声器上面的支架。这把枪一定已经射击了成千上万的子弹。手柄上打有“USPF”标志，且有“S.P.”字母缩写。
-2154:ITEM/szBRDesc:军事装备公司型号10是一款高度紧凑的机动手枪，由戈登·B·英格拉姆在1964年发展。它在“闪电行动”游戏机柜外部显得极为致命。
-2155:ITEM/szLongItemName:AMT Hardballer Longslide
-2155:ITEM/szItemDesc:这把全不锈钢的AMT Hardballer Longslide配备了SureFire的激光瞄准器，激光束打开后，您只需在想要子弹击中位置放置红点。
-2155:ITEM/szBRDesc:这款AMT的潜在最爱采用了7英寸的延长枪管，配备了受欢迎的SureFire激光瞄准器。与阿尔尼不同，一旦这些消失，就不会再回来了。
-2156:ITEM/szLongItemName:施泰尔IWS 2000
-2156:ITEM/szItemDesc:用施泰尔IWS 2000“不要让傻瓜毁了你的一天”。这种武器在设计上更接近于榴弹炮而非步枪，确实带来了毁灭性的打击。
-2156:ITEM/szBRDesc:是的，我们做到了，我们真的拥有了这些IWS 2000的宝贝！施泰尔步兵武器系统是一种奥地利半自动反材料步枪。抓紧购买吧，免得太晚了！
-2157:ITEM/szLongItemName:轨道炮
-2157:ITEM/szItemDesc:生活并没有绕过你，它试图冲撞你！轨道炮是一种电动电磁发射器。由一对平行的导电轨道组成，电流在一根轨道上流过，进入铸铁结构，然后回到另一根轨道。
-2157:ITEM/szBRDesc:不通过BR出售。
-2158:ITEM/szLongItemName:AKM刺刀
-2158:ITEM/szItemDesc:用于AKM的经典刺刀。其众多实用功能之一是锯齿边缘可以充当切线。
-2158:ITEM/szBRDesc:这种二型刺刀在首次发布时远远领先于时代，实用塑料和耐腐蚀的不锈钢刀片相结合。
+2066:ITEM/szLongItemName:巴雷特 M82A1M
+2066:ITEM/szItemDesc:“轻型 50”是一款坚固的半自动步枪。尽管设计目的是用于反器材，但它也能用来完成惊人的任务。
+2066:ITEM/szBRDesc:82A1M型是你对巴雷特的期望。可靠。值得信赖。设计精良。
+2067:ITEM/szLongItemName:HK 417 16" 侦察型
+2067:ITEM/szItemDesc:这是HK 417的基本突击版本。
+2067:ITEM/szBRDesc:用这款黑克勒-科赫的新HK 417的突击版本来补充你的HK收藏，相较于以前的型号，提供了更高的射击精度。
+2068:ITEM/szLongItemName:HK 417 20" 狙击型
+2068:ITEM/szItemDesc:这是HK 417的指定射手版本，配有更长的20英寸枪管。
+2068:ITEM/szBRDesc:我们的全尺寸HK 417配备更长的20英寸精确枪管，让你的狙击手从日落到黎明都能保持满意。
+2069:ITEM/szLongItemName:AR57 16"
+2069:ITEM/szItemDesc:这是一款经过改装的AR15，配有备受期待的AR57上机匣，允许你发射FNH 5.7弹药。由于几乎6英寸的枪管更长，射程略高于P90。
+2069:ITEM/szBRDesc:刚刚离开原型阶段，现已上市！这是一款经过改装的AR15，配有备受期待的AR57上机匣，允许你发射FNH 5.7弹药。这是16英寸枪管版本。
+2070:ITEM/szLongItemName:AR57 11"
+2070:ITEM/szItemDesc:这是一款经过改装的AR15，配有备受期待的AR57上机匣，允许你发射FNH 5.7弹药。这是11英寸枪管版本。
+2070:ITEM/szBRDesc:全新改装的AR15变体，配有能够发射FNH 5.7毫米弹药的上机匣。这是11英寸枪管版本。
+2071:ITEM/szLongItemName:AR57 6" 消声型
+2071:ITEM/szItemDesc:这是AR57卡宾枪的消声版本。
+2071:ITEM/szBRDesc:这是AR57卡宾枪的消声版本。
+2072:ITEM/szLongItemName:德利斯卡尔卡宾枪
+2072:ITEM/szItemDesc:这是一款基于李-恩菲尔德步枪的特殊消声.45 ACP手动卡宾枪，具有极其安静的动作。
+2072:ITEM/szBRDesc:这是一件稀有的收藏品。这样的特殊作战消声手动卡宾枪生产数量极少。
+2073:ITEM/szLongItemName:雷明顿710型
+2073:ITEM/szItemDesc:一款经过改装的雷明顿700，发射.30-06斯普林菲尔德弹药。
+2073:ITEM/szBRDesc:经过改装的雷明顿700，发射.30-06斯普林菲尔德弹药。适合猎鹿。
+2074:ITEM/szLongItemName:M1918A2 BAR
+2074:ITEM/szItemDesc:BAR是一款相对陈旧的轻机枪，然而它由于使用.30-06弹药而威力十足。
+2074:ITEM/szBRDesc:布朗宁自动步枪由著名美国武器设计师约翰·摩西·布朗宁在第一次世界大战末期设计，受美国远征军在欧洲的请求。配有双脚架。
+2075:ITEM/szLongItemName:Gepard M6 Lynx
+2075:ITEM/szItemDesc:一款制作精良的反器材步枪，来自匈牙利人民军军事技术研究所。
+2075:ITEM/szBRDesc:这款匈牙利的气步枪反器材步枪威力巨大。
+2076:ITEM/szLongItemName:HK G11 ACOG
+2076:ITEM/szItemDesc:如果突击步枪的“保时捷”需要更多性能，何不选择这个配备了基本G36光学瞄准镜的例子，以增加精度。
+2076:ITEM/szBRDesc:不出售。
+2077:ITEM/szLongItemName:HK CAWS ACOG
+2077:ITEM/szItemDesc:来自HK的实验性近距离攻击武器系统。它使用奥林/温彻斯特开发的特殊12号口径带弹壳弹药，比传统霰弹枪具有更好的射程。它能够进行半自动和全自动操作，并配备了G36光学瞄准镜。
+2077:ITEM/szBRDesc:不出售。
+2078:ITEM/szLongItemName:布朗宁BAR Mk. II
+2078:ITEM/szItemDesc:布朗宁BAR Mark II是所有半自动猎枪中最受欢迎的之一。
+2078:ITEM/szBRDesc:它既可靠又精准，是一款与手动枪一样能射击的自动装填步枪。
+2079:ITEM/szLongItemName:Bren Ten
+2079:ITEM/szItemDesc:非常精准，但不可靠。Bren Ten在10毫米自动口径中仍然是一把可怕的手枪。
+2079:ITEM/szBRDesc:想要重温80年代的迈阿密警察风格吗？不妨尝试玩一下索尼·克罗基特使用的枪。Bren Ten在10毫米自动口径中是一款强劲的小武器。
+2080:ITEM/szLongItemName:HK紧急信号发射器
+2080:ITEM/szItemDesc:其字面德语翻译是“紧急信号工具”。在国外被称为紧急信号发射器，EFL是一款便携的发射器，配备五发弹夹。
+2080:ITEM/szBRDesc:能够将19毫米信号弹发射到65米的高度，这款信号发射器非常适合在复杂地形中向空中人员示警。
+2081:ITEM/szLongItemName:Carl-Gustaf M3
+2081:ITEM/szItemDesc:对于一个中立国家，思考瑞典如何创造出如此致命的反坦克、反人员武器，有时令人不解。
+2081:ITEM/szBRDesc:Carl-Gustaf无后座步枪是一种致命的反坦克、反人员武器，发射84毫米火箭弹。
+2082:ITEM/szLongItemName:Blaser R93 7.62
+2082:ITEM/szItemDesc:这款7.62x51毫米的手动步枪利用直拉技术使装填新弹药的速度更快。
+2082:ITEM/szBRDesc:Blaser R93 Tactical是另一款未来派德国设计。它具有快速可互换的枪管系统，允许在无需重新瞄准的情况下更换枪管。此版本使用7.62x51毫米弹药。
+2083:ITEM/szLongItemName:Blaser R93 .30-06
+2083:ITEM/szItemDesc:这款手动步枪采用直拉技术，使得装填新弹药的速度更快。
+2083:ITEM/szBRDesc:Blaser R93 Tactical是另一款未来派德国设计。它具有快速可互换的枪管系统，允许在无需重新瞄准的情况下更换枪管。此版本使用.30-06弹药。
+2084:ITEM/szLongItemName:OTs 33 Pernach
+2084:ITEM/szItemDesc:OTs 33将取代过时的斯捷奇金APS。它设计为降低后坐力和更好的准确性，因此轻松超越APS。由于滑动枪管，OTs 33无法使用消声器或闪光抑制器。
+2084:ITEM/szBRDesc:不出售。
+2085:ITEM/szLongItemName:L86A2
+2085:ITEM/szItemDesc:L86A2/LSW可以被视为设计失败。它不是轻型支援武器，更像是一款重型指定射手步枪，但其L85前身的问题至少得到了缓解。
+2085:ITEM/szBRDesc:L85A2的“大哥”。这条枪是真正的小队支援武器。如果你喜欢L85，但需要更多火力，不妨尝试一下L86。
+2086:ITEM/szLongItemName:FN SCAR-WP 狙击型
+2086:ITEM/szItemDesc:这款黑市SCAR变体能够发射7.62x54R弹药。
+2086:ITEM/szBRDesc:不出售。
+2087:ITEM/szLongItemName:斯普林菲尔德M1903A4
+2087:ITEM/szItemDesc:M1903A4是美国陆军首次尝试标准化狙击武器，并从第一次世界大战服役至越南战争。
+2087:ITEM/szBRDesc:尽管年代久远，这款军事训练步枪不仅仅是个装饰品。配有M84瞄准镜。
+2088:ITEM/szLongItemName:塔布克DMR
+2088:ITEM/szItemDesc:无论你该感激斯洛博丹·米洛舍维奇，还是萨达姆·侯赛因，这款由南斯拉夫零件制成的伊拉克DMR应能提供那些想要比平均WP突击步枪更远射程的选择。
+2088:ITEM/szBRDesc:由于其使用苏联7.62x39毫米子弹，按照我们的标准，它在技术上不能被归类为狙击步枪，但有效射程为600米，因此应该被视为指定射手步枪。
+2089:ITEM/szLongItemName:柯尔特SMG .45
+2089:ITEM/szItemDesc:这款经过改装的9毫米柯尔特SMG使用了更大的.45 ACP弹药。
+2089:ITEM/szBRDesc:这款经过改装的9毫米柯尔特SMG使用了更大的.45 ACP弹药。
+2090:ITEM/szLongItemName:费尔伯恩-西克斯战斗刀
+2090:ITEM/szItemDesc:若有一把看起来让人害怕的战斗刀，那就是费尔伯恩-西克斯指挥刀。它是一款双刃刀设计，带有箔型握柄，刀刃长度超过7英寸。
+2090:ITEM/szBRDesc:不出售。
+2091:ITEM/szLongItemName:莫洛特Vepr
+2091:ITEM/szItemDesc:基于可靠的AK-47，并以7.62x51毫米口径发射，这款猎枪能够满足甚至最高的期望。
+2091:ITEM/szBRDesc:莫洛特Vepr是一种坚固的野兽，继承了俄罗斯RPK机枪的DNA。这把步枪有一些美国产件以帮助符合规定，但毫无疑问，俄罗斯的劲旅也依然存在。
+2092:ITEM/szLongItemName:HK 33KE
+2092:ITEM/szItemDesc:这款突击步枪是与G3共享同一基因库的5.56毫米中间变体。
+2092:ITEM/szBRDesc:我们的出口HK33提供G3的火力，且形式更加紧凑，非常适合警卫和警察部门。与其哥哥HK 33的众多尺寸和口径相比，这款枪是可信赖的5.56x45毫米的30发夹子。
+2093:ITEM/szLongItemName:HK 33KE C-MAG
+2093:ITEM/szItemDesc:这款突击步枪是G3的5.56毫米变体，配有可适配C-Mag的转换器。
+2093:ITEM/szBRDesc:不出售。
+2094:ITEM/szLongItemName:40mm 迫击炮
+2094:ITEM/szItemDesc:这种非常轻的迫击炮缩小了手榴弹发射器与60mm突击迫击炮之间的射程差距。可以使用NATO或VOG手榴弹，采用特殊弹壳。
+2094:ITEM/szBRDesc:这种非常轻的迫击炮缩小了手榴弹发射器与60mm突击迫击炮之间的射程差距。可以使用NATO或VOG手榴弹，采用特殊弹壳。
+2095:ITEM/szLongItemName:.50 Beowulf步枪C-Mag
+2095:ITEM/szItemDesc:设计用于一击“杀死”怪物，亚历山大武器公司的.50 Beowulf步枪将使你名垂千史；英雄的事迹只需瞬间挥手可及。
+2095:ITEM/szBRDesc:不出售。
+2096:ITEM/szLongItemName:仿制柯尔特M203PI UGL
+2096:ITEM/szItemDesc:改进版的M203适合多种步枪，感谢附带的几个巧妙适配器。可提供特别前握把。无法发射超过标准长度的手榴弹。
+2096:ITEM/szBRDesc:不出售。
+2097:ITEM/szLongItemName:仿制FN EGLM UGL
+2097:ITEM/szItemDesc:FN赫斯塔尔的下挂式手榴弹发射器，专为SCAR设计。显然，这一发射器以F2000的发射器为基础开发。
+2097:ITEM/szBRDesc:不出售。
+2098:ITEM/szLongItemName:仿制GP-30 Obuvka UGL
+2098:ITEM/szItemDesc:一款为俄罗斯制造的突击步枪下挂式手榴弹发射器。GP-30 Obuvka发射40mm VOG-25和VOG-25P手榴弹。
+2098:ITEM/szBRDesc:不出售。
+2099:ITEM/szLongItemName:仿制HK 79 UGL
+2099:ITEM/szItemDesc:一个不知名但未知的下挂式手榴弹发射器，适用于黑克勒-科赫的老款步枪。下挂式的枪管可以使用任何长度的NATO手榴弹。
+2099:ITEM/szBRDesc:不出售。
+2100:ITEM/szLongItemName:仿制HK AG36 UGL
+2100:ITEM/szItemDesc:Anbau-Granatwerfer 36是HK现代步枪的大多数下挂式手榴弹发射器。但不适用于短款G36C。
+2100:ITEM/szBRDesc:不出售。
+2101:ITEM/szLongItemName:Armalon手枪卡宾枪
+2101:ITEM/szItemDesc:一款在重型手枪口径.50 AE中采用手动枪机的卡宾枪。
+2101:ITEM/szBRDesc:Armalon的PC是一款手动操作的手动枪机卡宾枪，使用.50 AE手枪口径。非常适合那些在禁止使用半自动武器的国家生活的人。
+2102:ITEM/szLongItemName:沙漠科技SRS
+2102:ITEM/szItemDesc:由沙漠科技制造的美国隐形侦察狙击步枪采用了步兵布局，使用手动枪机以获得更好的平衡性和准确性。
+2102:ITEM/szBRDesc:沙漠科技利用巧妙的步兵和手动枪机配置发射7.62x51毫米子弹。这一创新设计附带制造商提供的0.5 MOA精度保证。
+2103:ITEM/szLongItemName:厄尔玛MP40 折叠型
+2103:ITEM/szItemDesc:由于相对较低的射速，这款枪在全自动模式下易于控制。尽管可选配件相对有限，MP40仍然是一款优秀的武器。
+2103:ITEM/szBRDesc:这款经典的二战纳粹冲锋枪由于相对较低的射速，使得其在全自动模式下易于控制。
+2104:ITEM/szLongItemName:罗西Puma .357
+2104:ITEM/szItemDesc:这款巴西的温彻斯特克隆看起来像一款复古玩具，但没有玩具能像.357一样威力十足！
+2104:ITEM/szBRDesc:罗西已经制造步枪和手枪115年。这款温彻斯特克隆使用.357弹药，重仅4.8磅。
+2105:ITEM/szLongItemName:Puma .454
+2105:ITEM/szItemDesc:这款巴西的温彻斯特克隆使用.454 Casull弹药。这款大口径步枪正是猎杀大型熊或大象的理想武器。
+2105:ITEM/szBRDesc:老派水牛猎人的梦想，亦或许是老开拓者，捕兽者或印第安战争士兵的救星。这是一款可用于300 - 500码的丛林步枪，容量为8发的马格南步枪子弹。
+2106:ITEM/szLongItemName:嗨-标准HDM
+2106:ITEM/szItemDesc:这款特殊服务的.22 LR手枪配有内置消声器，能让它在近距离解决守卫狗和人。
+2106:ITEM/szBRDesc:因在对付守卫狗时使用而被称为“安静小狗”。这款.22 LR手枪曾被OSS、CIA特工和海军海豹突击队使用。
+2107:ITEM/szLongItemName:美国-180
+2107:ITEM/szItemDesc:虽然它看起来像个醉了的表亲鼓筒汤普森冲锋枪，但在运转1200 RPM的全自动模式下，它的目标在满负荷时会像狗的晚餐一样。
+2107:ITEM/szBRDesc:这款源自60年代的奇特冲锋枪使用的是相对较弱的.22 LR子弹，但以其令人疯狂的射速弥补了不足。
+2108:ITEM/szLongItemName:阿马利特AR-7生存步枪
+2108:ITEM/szItemDesc:由尤金·斯通戈设计，最初为美国空军飞行员创造的AR-7非常适合打靶，尽管由于它的轻量和极易拆卸的枪管，准确性稍有欠缺。
+2108:ITEM/szBRDesc:这款非常轻且价格实惠的.22步枪在飞行员和越过艰难险阻的情况下很受欢迎。非常适合打靶。附赠一个小型瞄准镜。
+2109:ITEM/szLongItemName:鲁格10/22
+2109:ITEM/szItemDesc:自1964年起，这款全美经典的步枪发射.22 LR边缘发火子弹。弹匣释放的设计有点奇怪，并且使用起来相对复杂。
+2109:ITEM/szBRDesc:我们全美的经典步枪价格实惠，可靠，并准备发射.22 LR。很适合打靶，这款步枪在年轻学习者和成年人中都很受欢迎。
+2110:ITEM/szLongItemName:Bizon PP-19
+2110:ITEM/szItemDesc:这款Bizon冲锋枪可发射9x18mm Makarov盒装弹匣。
+2110:ITEM/szBRDesc:我们在目录中有一些这种令人印象深刻的轻型冲锋枪，这是9x18mm Makarov版本。
+2111:ITEM/szLongItemName:IMI Magal
+2111:ITEM/szItemDesc:Magal是一款紧凑且可靠的.30口径冲锋枪，借鉴了加利尔突击步枪的设计，广泛使用于以色列街头。
+2111:ITEM/szBRDesc:我们有限数量的以色列小型冲锋枪源于最初发往巴西Para州军事警察的多余货物。赶紧在它们消失之前购买这种紧凑的城市冲锋枪。
+2112:ITEM/szLongItemName:IMI Negev
+2112:ITEM/szItemDesc:十六磅半以色列的聪明才智可以提供包括改变枪管的能力在内的所有Minimi所能实现的效果，而无需太多的麻烦。
+2112:ITEM/szBRDesc:对于所有M249的拥有者来说，这是一个常识性升级，这款以色列轻机枪在各个方面有所改进，包括重量以及在野外使用标准弹匣的能力。
+2113:ITEM/szLongItemName:OTs 48K
+2113:ITEM/szItemDesc:利用多余的莫辛-纳甘步枪，俄罗斯人在2000年组装了这款更新的狙击步枪，配有新的步兵枪托。重新装弹有点困难，但OTs 48K非常精准。
+2113:ITEM/szBRDesc:我们的东欧合作伙伴再次成功找到了基本上是可以负担得起且精确的步枪，这些步枪基于莫辛-纳甘。
+2114:ITEM/szLongItemName:CheyTac干预M200
+2114:ITEM/szItemDesc:基于EDM Arms Windrunner，这款相对紧凑和轻便的步枪保持了最佳组的世界纪录, 以3发子弹在距离2122米时达到42厘米内的聚集。
+2114:ITEM/szBRDesc:结合了其在2500码内轻松打击目标的能力和CheyTac的专利平衡飞行弹，您得到一支准确度优于世界上任何其他步枪的步枪。
+2115:ITEM/szLongItemName:Vepr 12战术型
+2115:ITEM/szItemDesc:Vepr 12战术霰弹枪是Saiga 12k霰弹枪的直接竞争对手。由于附加的皮卡丁尼导轨，可以搭配更多的配件，但也比Saiga 12k略重。
+2115:ITEM/szBRDesc:一款半自动AK风格霰弹枪，非常适合家庭自卫。这款莫洛特在最后一发后枪机保持开启，您无需猜测何时需要重新装填。
+2116:ITEM/szLongItemName:欧文.38
+2116:ITEM/szItemDesc:来自这里的一部分和那里的部分，加上一些澳大利亚的横向思维，造就了这款相对简单但坚固的复古冲锋枪。
+2116:ITEM/szBRDesc:将这款澳大利亚制造的.38 SPC手枪冲锋枪添加到你的复古收藏中。伙计，这没问题。
+2117:ITEM/szLongItemName:M2卡宾枪
+2117:ITEM/szItemDesc:从二战、朝鲜、越南一直到现在，M2卡宾枪一直在执行M1卡宾枪的职能，但具有全自动能力。
+2117:ITEM/szBRDesc:M1更活跃的兄弟，具有全自动能力，只需记住，如果联邦调查局拦截它，不要告诉任何人你是从我们这里购买的。
+2118:ITEM/szLongItemName:瑞士AC-556
+2118:ITEM/szItemDesc:像汉尼拔·史密斯和B.A.巴拉库斯一样，使用这款全自动版本的流行Mini-14步枪。
+2118:ITEM/szBRDesc:这款全自动版本的流行Mini-14步枪，旨在供军方和执法部门使用。我喜欢计划得到实现的感觉。
+2119:ITEM/szLongItemName:瑞士AC-762
+2119:ITEM/szItemDesc:瑞士Mini-30的全自动变体。
+2119:ITEM/szBRDesc:瑞士Mini-30的全自动变体。
+2120:ITEM/szLongItemName:Calico M-900A
+2120:ITEM/szItemDesc:Calico M-900卡宾枪的改装版。
+2120:ITEM/szBRDesc:Calico提供的火器为专业人士在容量、重量和性能上相对于传统卡宾枪设计提供了独特优势。
+2121:ITEM/szLongItemName:M1 Garand EBR
+2121:ITEM/szItemDesc:一把老而可靠的M1 Garand，采用新枪托以便于更多配件的使用。
+2121:ITEM/szBRDesc:不出售。
+2122:ITEM/szLongItemName:Calico M-100
+2122:ITEM/szItemDesc:Calico的.22 LR卡宾步枪使用类似的螺旋弹匣与其他Calico枪。
+2122:ITEM/szBRDesc:Calico的.22 LR卡宾步枪使用类似的螺旋弹匣与其他Calico枪。
+2123:ITEM/szLongItemName:HK AG3 F1 MOD
+2123:ITEM/szItemDesc:凭借这种猎获巨大构造的突击步枪，发射7.62毫米口径的毁灭性弹药并夯实40毫米的炸药，可以说：“在错误的地方，正确的人可以改变世界的每一个细节。”
+2123:ITEM/szBRDesc:这款AG-3F1：AG-3带有G3A4式的可伸缩枪托。由Kongsberg Vaapenfabrikk制造。某些挪威军队的小组需使用可伸缩枪托。此枪附加40毫米HK79榴弹发射器。将其抵抗力当早餐吃掉！
+2124:ITEM/szLongItemName:柯尔特M16A2 M203
+2124:ITEM/szItemDesc:自越南战争以来，美国军队的标准配发步枪。准确且轻便，但有效射程不足。此变体配备M203单发40毫米榴弹发射器。使用其叶片瞄准器，榴弹可在200米外进行精确瞄准。
+2124:ITEM/szBRDesc:这款“塑料奇迹”无需介绍，但配有单发M203榴弹发射器，你会全面覆盖。在此枪的库存有限时，附赠自选的惩罚者骷髅T恤。
+2125:ITEM/szLongItemName:温彻斯特1300捍卫者
+2125:ITEM/szItemDesc:这把受损的黑色温彻斯特1300捍卫者上满是血迹，握把磨损严重，配有后期安装的前Tacstar手把，侧面还有一个核符号。即使有一天你可能醒来发现世界依旧沉睡，你依然拥有它。
+2125:ITEM/szBRDesc:1200型和1300型是由温彻斯特-西部分公司制造的两款美国泵动霰弹枪。即使有些轻微磨损，它依然被前任拥有者配备了卓越的手把，弥补了不足之处。
+2126:ITEM/szLongItemName:巴雷特M107
+2126:ITEM/szItemDesc:一个人可以用一颗子弹改变世界。巴雷特M107是一款.50口径的肩射式半自动狙击步枪。与其前身一样，这款步枪据说具有可控的后坐力，由于枪管组件本身能够吸收力道。
+2126:ITEM/szBRDesc:M107半自动远程狙击步枪（LRSR）是一种商业现货的反器材和反狙击手半自动直视射击.50口径步枪。
+2127:ITEM/szLongItemName:定制MAC-10
+2127:ITEM/szItemDesc:我看到人类，但没有人性，开火吧！这把破旧、磨损的MAC-10配有消声器，步枪瞄准镜和附加在消声器上的支架。这把枪可能已经发射了成千上万的子弹。它刻有“USPF”且握把上有“SP”字母缩写。
+2127:ITEM/szBRDesc:军事武器公司型号10是一款高度紧凑的机动手枪，由戈登·B·英格拉姆于1964年开发。与“暴风雷霆”游戏机外面，这枪能更致命。
+2128:ITEM/szLongItemName:AMT Hardballer Longslide
+2128:ITEM/szItemDesc:这款全不锈钢的AMT Hardballer Longslide配有来自SureFire的激光锁定瞄准镜，光束开启后，您可以将红点放在想要射击的地方。
+2128:ITEM/szBRDesc:这款来自AMT的邪教经典配有扩展的7英寸枪管及其受欢迎的SureFire激光锁定瞄准镜。与阿诺相反，一旦这些东西消失，就再也不会回来了。
+2129:ITEM/szLongItemName:斯德尔IWS 2000
+2129:ITEM/szItemDesc:“不要让傻瓜毁掉你的日子”搭配斯德尔IWS 2000。其设计更接近榴弹炮而非步枪，使得这款武器确实具备毁灭性。
+2129:ITEM/szBRDesc:是的，我们做到了，我们实际上得到了几把IWS 2000！斯德尔步兵武器系统是一款奥地利半自动反器材步枪。在太晚之前快来购买吧！
+2130:ITEM/szLongItemName:电轨炮
+2130:ITEM/szItemDesc:生活并没有抛弃你，而是在试图撞倒你！电轨炮是一种电力驱动的电磁弹射器。它由一对平行导体轨道组成，电流流经其中一条轨道，进入电枢，然后再回到另一条轨道。
+2130:ITEM/szBRDesc:不通过BR出售。
+2131:ITEM/szLongItemName:AKM刺刀
+2131:ITEM/szItemDesc:用于AKM的经典刺刀。其众多有用功能之一就是其锯齿，可以充当切线器。
+2131:ITEM/szBRDesc:这种类型II刺刀在首次问世时远远领先于其时代，实际使用了塑料以及抗腐蚀和生锈的不锈钢刀片。
+2132:ITEM/szLongItemName:厄尔玛MP40
+2132:ITEM/szItemDesc:由于相对较低的射速，这款枪在全自动模式下易于控制。尽管可选配件相对有限，MP40仍然是一款优秀的武器。
+2132:ITEM/szBRDesc:这款经典的二战纳粹冲锋枪由于相对较低的射速，使得其在全自动模式下易于控制。
+2133:ITEM/szLongItemName:北欧短剑
+2133:ITEM/szItemDesc:“一个被劈开的头再也无法谋划。”维京剑由极其优质的钢制成，这把古老的剑似乎还有许多好的战斗年代。它上面还铭刻着“+VLFBERH+T”
+2133:ITEM/szBRDesc:不出售。
+2134:ITEM/szLongItemName:IMBEL MD2
+2134:ITEM/szItemDesc:巴西军队的主要突击步枪，是一款带有M16型旋转锁的FN FAL步枪。
+2134:ITEM/szBRDesc:巴西军队的主要突击步枪，是一款带有M16型旋转锁的FN FAL步枪。
+2135:ITEM/szLongItemName:FMK-3
+2135:ITEM/szItemDesc:由阿根廷制造公司Fabricaciones Militares设计。FMK-3是一款采用后座式操作的选择性发射冲锋枪，源自美国M3A1。
+2135:ITEM/szBRDesc:不通过BR出售。
+2136:ITEM/szLongItemName:M3A1
+2136:ITEM/szItemDesc:“油脂枪”是一款便宜且相对可控的冲锋枪，汲取了二战经验教训。其弹匣井形状适合用作握把。
+2136:ITEM/szBRDesc:便宜且相对容易控制，M3A1吸取了二战的经验教训，并在冲突末期被广泛使用，尤其适合装甲车上的人员。多年来，它的可靠性使它被有些部队使用至海湾战争。
+2137:ITEM/szLongItemName:塔罗斯MT-9 SMG
+2137:ITEM/szItemDesc:这款巴西警方的紧凑武器是全球化的经典例子，采用成熟的瑞士设计并在智利的血汗工厂生产。
+2137:ITEM/szBRDesc:以南美价格获得瑞士设计。如果它足够好用于 巴西警方，它也一定足够好用于你。
+2138:ITEM/szLongItemName:塔罗斯MT-40 SMG
+2138:ITEM/szItemDesc:由塔罗斯许可证生产，MT-40基本上是FAMAE SAF的.40 S&W口径转换。
+2138:ITEM/szBRDesc:由塔罗斯许可证建造，MT-40基本上是FAMAE SAF的.40 S&W口径转换。
+2139:ITEM/szLongItemName:塔罗斯CT-30
+2139:ITEM/szItemDesc:这款智利卡宾枪由巴西的塔罗斯制造，基于SIG-540平台，使用.30卡宾弹药。发射前请检查弹匣是否有缺陷。
+2139:ITEM/szBRDesc:这款智利卡宾枪由巴西的塔罗斯制造。基于瑞士SIG-540平台，使用经典的.30口径子弹。
+2140:ITEM/szLongItemName:56式
+2140:ITEM/szItemDesc:就好像世界上还不够便宜的中国仿制品一样，这款AK-47克隆证明了便宜可以与民众解放军和收藏家一起愉快地共存，并让这成为一款备受尊敬的步枪。
+2140:ITEM/szBRDesc:我们对AK-47的中国复制品仍然受到革命者和收藏家的欢迎。全球销量达1500万台不容小觑。
+2141:ITEM/szLongItemName:瓦尔特P22
+2141:ITEM/szItemDesc:这款紧凑且轻便的半自动手枪是最早采用聚合物框架的手枪之一，发射.22子弹。
+2141:ITEM/szBRDesc:这是一把非常适合隐蔽携带的优秀手枪。瓦尔特P22轻便、紧凑且舒适，有双手可用的弹匣释放和滑动安全装置。
+2142:ITEM/szLongItemName:嗨-标准HD
+2142:ITEM/szItemDesc:美国经典，嗨标准HD多年来一直被用来训练一代又一代的士兵和比赛射手。
+2142:ITEM/szBRDesc:这款.22半自动枪深受CIA的喜爱，适合轻松消灭近距离目标。
+2143:ITEM/szLongItemName:PTRD
+2143:ITEM/szItemDesc:一款重型苏联二战时期的反坦克步枪。在对坦克效果不佳后，PTRD在1943年最终被降级为反器材任务，因为它仍然对较少装甲的车辆相当有效。
+2143:ITEM/szBRDesc:不通过BR出售。
+2144:ITEM/szLongItemName:IMI乌兹MP2
+2144:ITEM/szItemDesc:由以色列国防军的乌兹尔·加尔设计的乌兹是第一批使用伸缩枪机、将弹匣放在手柄内部的枪械之一，这样在完全黑暗中装填也变得如同握手般自然。
+2144:ITEM/szBRDesc:在他们消失之前，储备这些臭名昭著的乌兹德意志联邦军版，配备1950年代的木制枪托，带来真正的摇滚与滚动魅力。
+2145:ITEM/szLongItemName:马林营地卡宾枪9
+2145:ITEM/szItemDesc:顾名思义，营地卡宾枪旨在用作在狩猎营地进行觅食或防卫的实用火器。
+2145:ITEM/szBRDesc:顾名思义，营地卡宾枪旨在用作在狩猎营地进行觅食或防卫的实用火器。
+2146:ITEM/szLongItemName:MAS-49
+2146:ITEM/szItemDesc:这款半自动步枪是法国军队的标准配发服务步枪。
+2146:ITEM/szBRDesc:这款半自动步枪是法国军队的标准配发服务步枪。
+2147:ITEM/szLongItemName:巴丹Modelo 71
+2147:ITEM/szItemDesc:如果模仿是最好的赞美，那这款俏皮的阿根廷仿制品伊萨卡37散弹枪中的复制足以让约翰·布朗宁在坟墓中羞愧。
+2147:ITEM/szBRDesc:让你在伊萨卡37上获得所有你期待的功能，同时节省200美元，并能让另一位阿根廷人有工作。
+2148:ITEM/szLongItemName:塔罗斯CT-40
+2148:ITEM/szItemDesc:这款.40 S&W的卡宾枪是为巴西警方创造的，他们需要足够的射程以打击危险的罪犯，而无需使用与手枪不同的弹药。
+2148:ITEM/szBRDesc:基于MT-40 SMG，这款卡宾枪专为巴西执法机构开发，要求更远的射程，同时仍使用同样的手枪口径。
+2149:ITEM/szLongItemName:SKS PU
+2149:ITEM/szItemDesc:SKS的流行和价格导致许多改装；这款使用复刻PU瞄准镜以增强准确性的枪。
+2149:ITEM/szBRDesc:SKS半自动卡宾枪已被证实是爱好者和猎人出色的选择，添加PU瞄准镜是比较受欢迎的改装。购买我们的已经配置好的高质量仿制瞄准镜，无需钻孔或组装。
+2150:ITEM/szLongItemName:俄罗斯猎人刀
+2150:ITEM/szItemDesc:俄罗斯猎人刀。
+2150:ITEM/szBRDesc:俄罗斯猎人刀。
+2151:ITEM/szLongItemName:M1 Garand T26
+2151:ITEM/szItemDesc:这款M1 Garand变体的枪管比标准Garand短6英寸。
+2151:ITEM/szBRDesc:也叫做坦克员Garand，T26是因各军队作战指挥部要求在丛林或机动战中使用的标准M1步枪的短版而诞生。
+2152:ITEM/szLongItemName:AKMSU
+2152:ITEM/szItemDesc:这是AKMS的短款变体，供特种部队使用。U型枪托允许在夹子放置时折叠/展开。
+2152:ITEM/szBRDesc:这款更短的AKM变体配有可折叠枪托，可允许在枪中卡住弹匣时折叠/展开。为伞兵和特殊部队单位设计，尽管前握把相对少见，它依然相当实用。
+2153:ITEM/szLongItemName:贝雷塔ARX160
+2153:ITEM/szItemDesc:意大利人也许以他们的风格更为知名，但这一新武器系统为他们的未来士兵计划提供了一系列现代实用功能。
+2153:ITEM/szBRDesc:专为意大利的Soldato Futuro计划创造，这一模块化武器系统采用了聚合物，轻量镀铬枪管以及短行程活塞系统来减少后坐力。
+2154:ITEM/szLongItemName:Blaser R8远程型
+2154:ITEM/szItemDesc:这款顶级猎枪将让目标在意识到他们成为目标之前就失去意识。
+2154:ITEM/szBRDesc:配备27英寸枪管，这把.338子弹猎枪将其致命潜力充分释放，结合Blaser传奇的无枪托直拉设计。
+2155:ITEM/szLongItemName:CA-15侦察型
+2155:ITEM/szItemDesc:尽管这款现代巡逻卡宾枪轻便到足以进行DMR任务。
+2155:ITEM/szBRDesc:基于碳纤维定制枪管，Christensen Arms CA-15节省了重量，但没有损害可靠性或准确性，还提供了次MOA的保证。
+2156:ITEM/szLongItemName:CZ 805 Bren
+2156:ITEM/szItemDesc:不要把它和二战时期的老英式轻MG搞混，更糟糕的是，不要用它的原型车拉达的名字来称呼它，因为这款步枪远不是便宜的东欧破车。
+2156:ITEM/szBRDesc:现代模块化突击步枪平台805 Bren是与捷克军队共同开发的，具备所有现代化的配件，以及内置导轨、折叠枪托及可适配各种可选配件。
+2157:ITEM/szLongItemName:Mossberg MVP-LC
+2157:ITEM/szItemDesc:一种精准、坚固但又轻便的AR灵感步枪，既对钱包也对肩膀友好。
+2157:ITEM/szBRDesc:Mossberg & Sons的MVP LC（轻型底盘）为远程战术射手或轻便移动的猎人提供了一个经济实惠且便携的工具。它拥有AR风格的节省重量特征以及高度可调节的闪电扳机系统。
+2158:ITEM/szLongItemName:Galil ACE
+2158:ITEM/szItemDesc:Galil ACE是受到尊敬的步枪血统的一款值得称道的新品，继续提供出色的可靠性和持续的精准度。
+2158:ITEM/szBRDesc:作为原始战斗测试过的Galil的演进，这款突击步枪现在更轻、更可靠、更准确、更致命。
 2159:ITEM/szLongItemName:Auto-generated Nothing Item
 2159:ITEM/szItemDesc:Index 2159
 2160:ITEM/szLongItemName:Auto-generated Nothing Item
