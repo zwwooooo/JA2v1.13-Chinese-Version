@@ -1,4 +1,4 @@
-VR（Vengeance Reloaded）汉化包
+VR（Vengeance Reloaded）汉化包：自玩自翻版
 
 - 汉化包是基于 sevenfm 的网盘 http://yadi.sk/d/Fj_B0WEKNjRQJ 里面的 SCI 目录下的 Vengeance_Reloaded_Jan_2025_English_Full.7z（2025.01.01）制作的，另外加了些俄文版（VengeanceReloaded_ru.7z）里面的 Data-VR 目录的内容。
 
