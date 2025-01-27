@@ -1,0 +1,187 @@
+0:FACILITYTYPE/szFacilityName:Default
+1:FACILITYTYPE/szFacilityName:Field Hospital
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.
+2:FACILITYTYPE/szFacilityName:Small Sleazy Bar
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local bar. Increases loyalty in this town, for a price and a chance to get drunk.
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the...yeah, you wish! Just buy drinks for others and immediately report any info they spill.
+3:FACILITYTYPE/szFacilityName:Prison Complex
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can interrogate prisoners of war here. They might join your cause, or give you helpful intel.
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of the prisoners and gain their trust to gather information and prevent mutiny attempts.
+4:FACILITYTYPE/szFacilityName:Small Airport
+4:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.
+5:FACILITYTYPE/szFacilityName:Munitions Factory
+5:FACILITYTYPE/ASSIGNMENT/szTooltipText:You can manufacture all sorts of replacement parts here, which will increase efficiency at repairing items, assuming you know how to use the complex machinery.
+6:FACILITYTYPE/szFacilityName:Military Barracks
+6:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside.
+7:FACILITYTYPE/szFacilityName:Military Headquarters
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements elsewhere.
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take control of local information channels and control the flow of news in the region.
+8:FACILITYTYPE/szFacilityName:Shooting Range
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time practicing your aim, the dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.
+9:FACILITYTYPE/szFacilityName:A.C.A Building
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:The locals here may be willing to scout the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:Turn this small local office into well-oiled propaganda machine, suppress any bad news reaching town and show your actions in the best possible light.
+10:FACILITYTYPE/szFacilityName:SAM Site
+11:FACILITYTYPE/szFacilityName:Mine
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Making mines run efficiently is not an easy task. Without anyone competent at this position, mine income will drop.
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train your mercs in the finer points of blowing things up... so they only blow up the right things.
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of blowing things up without blowing yourself up.
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time lugging ore from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from mining they just might think better of you.
+12:FACILITYTYPE/szFacilityName:Small Church
+12:FACILITYTYPE/ASSIGNMENT/szTooltipText:A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.
+13:FACILITYTYPE/szFacilityName:Boxing Club
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:A great place to get a balanced work-out that will improve your fitness. Increases the efficiency of HEALTH training.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Utilize this gym to its best potential to provide some HEALTH training to the scrawniest member of your squad.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Tired of being tired? Learn some HEALTH training from the most fit member of your team.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the equipment here to focus on increasing your STRENGTH.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Build up those biceps! Learn some STRENGTH training from the musclebound member in your squad.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the equipment here to focus on increasing your AGILITY.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Utilize this gym to provide some AGILITY training to the slowest member of your squad.
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:Condition your reflexes! Learn some AGILITY training from the most agile member in your squad.
+14:FACILITYTYPE/szFacilityName:National Museum
+15:FACILITYTYPE/szFacilityName:Laboratory
+16:FACILITYTYPE/szFacilityName:Junkyard
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair work considerably easier.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is a vehicle graveyard. This will certainly make vehicle repairs easier.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is a great source of mechanical odds and ends. This will certainly make robot repairs easier.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical... maybe then you can keep your own gear in better shape.
+17:FACILITYTYPE/szFacilityName:Beach Resort
+17:FACILITYTYPE/ASSIGNMENT/szTooltipText:Sun, sand, surf. This sure as hell beats sleeping in a trench.
+18:FACILITYTYPE/szFacilityName:Legacy Militia Training Facility
+19:FACILITYTYPE/szFacilityName:Combat Support Hospital
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform urgent life-saving treatment on your wounded in this medical field station. Increases the DOCTOR's efficiency. Doesn't use up your kit.
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take the time to staff this field hospital and improve your medical skills.
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train your mercs in the finer points of combat medicine... their life, and yours, may depend on it.
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of combat medicine in this field hospital... your life, and theirs, may depend on it.
+20:FACILITYTYPE/szFacilityName:Army Barracks Cantina
+20:FACILITYTYPE/ASSIGNMENT/szTooltipText:By taking over the army's barracks, you've also taken over the cantina inside. Your mercs can eat here.
+21:FACILITYTYPE/szFacilityName:Military Prison
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can interrogate prisoners of war here. Prisoners might join your cause, or provide useful intel.
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of the prisoners and gain their trust to gather information and prevent mutiny attempts.
+22:FACILITYTYPE/szFacilityName:Town Prison
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can Interrogate prisoners of war here. Prisoners might join your cause, or give you helpful info.
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of the prisoners and gain their trust to easily gather information and prevent mutiny attempts.
+23:FACILITYTYPE/szFacilityName:Town Pharmacy
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:Loot the pharmaceutical resources here to aid in treating your wounded. Enhances your DOCTOR skill.
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take the time to refresh your pharmaceutical knowledge by availing yourself of the resources here.
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train your mercs in the finer points of combat medicine using the supplies of the pharmacy... their life, and yours, may depend on it.
+23:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of combat medicine... your life, and theirs, may depend on it.
+24:FACILITYTYPE/szFacilityName:Public Aid Station
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spread goodwill and help the poor by setting up a free medical clinic with supplies flown in to the airport from your funds ($50/hr and no kit degrade). News of this might spread throughout Arulco.
+25:FACILITYTYPE/szFacilityName:Snack and Shack
+25:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take over the Snack and Shack by intimidation and get some rest and relaxation. Local loyalty may suffer.
+26:FACILITYTYPE/szFacilityName:Placeholder
+27:FACILITYTYPE/szFacilityName:Dave's Race Course
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:A race track workshop with tools and spare parts. This will make any repair tasks easier.
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:A race workshop complete with tools and spare parts is ideal for fixing-up your ride.
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:A race course with a workshop complete with tools and spare parts. This will make robot repairs a little easier.
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+27:FACILITYTYPE/ASSIGNMENT/szTooltipText:This facility and the service manuals are a great aid for enhancing your mechanical skill.
+28:FACILITYTYPE/szFacilityName:Hunting Lodge
+28:FACILITYTYPE/ASSIGNMENT/szTooltipText:A rustic lodge for hunters in the foothills. A chance to clean up and sleep indoors.
+29:FACILITYTYPE/szFacilityName:Friendly Farmer
+29:FACILITYTYPE/ASSIGNMENT/szTooltipText:Many of the rural people are in solidarity with your efforts, and this farmer is willing to feed you and let you sleep in the barn whenever you stop by.
+30:FACILITYTYPE/szFacilityName:Smuggler Hideout
+30:FACILITYTYPE/ASSIGNMENT/szTooltipText:This is obviously a hideout and transfer location for smugglers. It's a bit dangerous to stay here, but it is a chance to clean up, eat and rest indoors.
+31:FACILITYTYPE/szFacilityName:Friendly Fisherman
+31:FACILITYTYPE/ASSIGNMENT/szTooltipText:Many of the rural people are in solidarity with you, and this fisherman is willing to feed you whenever you stop by.
+32:FACILITYTYPE/szFacilityName:Placeholder
+33:FACILITYTYPE/szFacilityName:Diner
+33:FACILITYTYPE/ASSIGNMENT/szTooltipText:Chow down on some good old, greasy, soul, comfort food here... and maybe a beer or two! If your Mercs decide to pig out they will spend their own money here.
+34:FACILITYTYPE/szFacilityName:Occupied Territory
+34:FACILITYTYPE/ASSIGNMENT/szTooltipText:The people here overwhelmingly believe you can defeat the Queen. Basic comforts are readily available to you if you spend some time mingling. Eat, sleep, and be merry for tomorrow you may die.
+35:FACILITYTYPE/szFacilityName:Clothing Factory
+35:FACILITYTYPE/ASSIGNMENT/szTooltipText:The clothing factory equipment can be useful in helping with some basic repairs, assuming you are at least a junior MacGyver.
+35:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+35:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+35:FACILITYTYPE/ASSIGNMENT/szTooltipText:This manufacturing facility and the service manuals here are a great aid for enhancing your mechanical skill.
+36:FACILITYTYPE/szFacilityName:Rebel Base
+36:FACILITYTYPE/ASSIGNMENT/szTooltipText:Organizing the revolution from the Rebel Base can help secure the loyalty of the people in the countryside, or alienate them completely. Be careful who you select for the job, Gringo.
+37:FACILITYTYPE/szFacilityName:General Stores
+37:FACILITYTYPE/ASSIGNMENT/szTooltipText:Loot the local stores of supplies to help make basic repairs a bit easier. However this might not exactly endear you to the locals.
+38:FACILITYTYPE/szFacilityName:Regional Liquor Store
+38:FACILITYTYPE/ASSIGNMENT/szTooltipText:Booze, booze, and MORE booze! They sell beer in kegs! Lucky for you your Mercs will spend their own cash if they decide to paint the town red!
+39:FACILITYTYPE/szFacilityName:Wine Shop
+39:FACILITYTYPE/ASSIGNMENT/szTooltipText:A quaint wine shop, even has the local variety... it's the cheapest wine in the shop! If your Mercs decide to imbibe they will spend their own cash.
+40:FACILITYTYPE/szFacilityName:Residential Neighborhoods
+40:FACILITYTYPE/ASSIGNMENT/szTooltipText:The homeowners around these parts can get a bit nervous when mercenaries are walking around like they own the place, and Mercs can get a bit nervous 'cause everybody around them is nervous... too many fingers, too many triggers, too many civilians.
+41:FACILITYTYPE/szFacilityName:Massacre Site
+41:FACILITYTYPE/ASSIGNMENT/szTooltipText:An example of the ruthlessness of the regime... death and destruction are everywhere. Staying here will either steel your resolve to overthrow this regime, or give you thoughts of how soon you can leave.
+42:FACILITYTYPE/szFacilityName:University Ruins
+42:FACILITYTYPE/ASSIGNMENT/szTooltipText:The Queen doesn't want an educated citizenry... on this site the teachers and students of the National University of Arulco were massacred, and the university grounds looted and bombed. At least there's a few good walls and roofs to keep the rain and wind at bay.
+43:FACILITYTYPE/szFacilityName:Alma Garage
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:A vehicle repair station used by the military making any repairs easier.
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:A vehicle repair station complete with tools and spare parts. This will help make vehicle repairs easier.
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:A vehicle repair station with tools and spare parts which could be used for robot repairs and maintenance.
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical. . . maybe then you can keep your own gear in better shape.
+43:FACILITYTYPE/ASSIGNMENT/szTooltipText:This facility and the service manuals here are a great aid for enhancing your mechanical skill.
+44:FACILITYTYPE/szFacilityName:Liquor Shop
+44:FACILITYTYPE/ASSIGNMENT/szTooltipText:A small but well-stocked liquor shop. If your Mercs decide to imbibe they will spend their own cash.
+45:FACILITYTYPE/szFacilityName:Placeholder
+46:FACILITYTYPE/szFacilityName:Meduna Nightclub
+46:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local nightclub. It might help you out in this town, for a price, but then again... it might not be safe to get drunk here.
+46:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the... yeah, you wish! Just buy drinks for others and immediately report any info they may spill.
+47:FACILITYTYPE/szFacilityName:Toxic Waste Site
+47:FACILITYTYPE/ASSIGNMENT/szTooltipText:The oil and poisonous waste that coat everything here is not exactly healthy... the smell in the air actually makes you feel queasy and is hard to breathe.
+48:FACILITYTYPE/szFacilityName:Killing Fields
+48:FACILITYTYPE/ASSIGNMENT/szTooltipText:This is the scene of a desperate pitched battle between government and rebel forces. Evidence of mass carnage is everywhere. Being here will either alarm your fear of death, or reinforce your determination to kill the Queen.
+49:FACILITYTYPE/szFacilityName:Waldo's Airport Workshop
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Waldo's airport workshop has many of the tools necessary for all types of repair work.
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing vehicles.
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Waldo's airport workshop has many of the tools necessary for all types of repair work, including repairing robots.
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including repairing your items.
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+49:FACILITYTYPE/ASSIGNMENT/szTooltipText:Waldo's knowledge and service manuals are a great way to increase your own mechanical knowledge. Having long discussions with Waldo can be a little slow and frustrating, though.
+50:FACILITYTYPE/szFacilityName:Military Warehouse
+50:FACILITYTYPE/ASSIGNMENT/szTooltipText:The military warehouse here also has tools and spare parts for the repair of all types of military hardware, making your repairs easier.
+51:FACILITYTYPE/szFacilityName:Oil Rig
+51:FACILITYTYPE/ASSIGNMENT/szTooltipText:Making an oil rig run efficiently is not an easy task. Without anyone competent at this position, rig income will drop.
+51:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+51:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+51:FACILITYTYPE/ASSIGNMENT/szTooltipText:This facility and the service manuals are a great aid for enhancing your mechanical skill.
+51:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time lugging barrels from here to there. Increases the efficiency of STRENGTH practice, and when the citizens see you sweaty and dirty from rig work they just might think better of you.
+52:FACILITYTYPE/szFacilityName:Elite Barracks
+52:FACILITYTYPE/ASSIGNMENT/szTooltipText:The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the local region.
+52:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds and food here. It's got almost all the comforts of home.
+52:FACILITYTYPE/ASSIGNMENT/szTooltipText:This military installation has the necessary tools and materials for the quick repair of all military gear.
+52:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.
+53:FACILITYTYPE/szFacilityName:H and B Distribution Ctr
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:Increase oil rig and mine profits by supervising distribution of supplies. Also receive reports of enemy movements in the local region.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:This corporate installation has the necessary tools and materials for the quick repair of all kinds of gear.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:This corporate transport center makes vehicle repairs a whole lot easier.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:This industrial complex is a great source of quality parts and fittings. This will make robot repairs considerably easier.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics, including the tricks of the trade.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:The distribution center has its fair share of technical documentation and literature providing good theory material to brush up on your skills.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the environment and facilities within this corporate installation to instill a sense of order and efficiency into your operations.
+53:FACILITYTYPE/ASSIGNMENT/szTooltipText:Join the roustabouts and roughnecks to shoot the shit and sink a cold one at the works bar. Get your fill and getting pally with the locals may increase town loyalty, as long as you avoid the bar fights.
+54:FACILITYTYPE/szFacilityName:Training Camp
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:The military equipment and infrastructure in place here allows you to maintain surveillance of enemy troop movements in the region.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here, even if it is missing a few walls! You just need to provide the mosquito nets.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:This camp has the basic tools and materials for the quick repair of military gear.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the environment and facilities within this military installation to instill a sense of order and discipline into your operations.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:A great place to plink away all afternoon! Increases the efficiency of MARKSMANSHIP training.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Teach these recruits how to hit what they aim at with some MARKSMANSHIP lessons.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn how to conserve ammo by hitting your target the first time.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Use the equipment here to focus on increasing your STRENGTH.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Utilize this gym to provide some STRENGTH training to the scrawniest member of your squad.
+54:FACILITYTYPE/ASSIGNMENT/szTooltipText:Build up those biceps! Learn some STRENGTH training from a musclebound member in your squad.
+55:FACILITYTYPE/szFacilityName:Dam
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:The people in the region would probably like someone competent managing this Dam so they don't get flooded.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:The Dam workshop has many of the tools necessary for all types of repair work.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:The Dam workshop has many of the tools necessary for all types of repair work, including repairing vehicles.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:The Dam workshop has many of the tools necessary for all types of repair work, even robots.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:Train mercs in the finer points of mechanics.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:Learn from the expert on your squad about the finer points of everything mechanical.
+55:FACILITYTYPE/ASSIGNMENT/szTooltipText:The dam facility has a wealth of technical literature and service manuals that provide a good source of info to brush up on your mechanical and engineering skills.
+56:FACILITYTYPE/szFacilityName:Church
+56:FACILITYTYPE/ASSIGNMENT/szTooltipText:Whether you are religious or not, there's something to be said about spending a quiet moment of contemplation in the peaceful confines of an old church.
+57:FACILITYTYPE/szFacilityName:Drug Lab
+57:FACILITYTYPE/ASSIGNMENT/szTooltipText:This is a drug lab and transfer depot for narcos. It's a bit dangerous to stay here, not only due to the unstable chemicals but also if the bad guys return.
+58:FACILITYTYPE/szFacilityName:Sketchy Neighborhood
+58:FACILITYTYPE/ASSIGNMENT/szTooltipText:You might want to avoid this place after dusk.

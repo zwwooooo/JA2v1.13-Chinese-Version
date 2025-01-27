@@ -1,0 +1,1024 @@
+A1:SECTOR/szUnexploredName:Tropical
+A1:SECTOR/szDetailedUnexploredName:Tropical
+A1:SECTOR/szExploredName:Tropical
+A1:SECTOR/szDetailedExploredName:Tropical
+A2:SECTOR/szUnexploredName:Oronegro
+A2:SECTOR/szDetailedUnexploredName:Oronegro
+A2:SECTOR/szExploredName:Oronegro
+A2:SECTOR/szDetailedExploredName:Oronegro
+A3:SECTOR/szUnexploredName:Oronegro
+A3:SECTOR/szDetailedUnexploredName:Oronegro
+A3:SECTOR/szExploredName:Oronegro
+A3:SECTOR/szDetailedExploredName:Oronegro
+A4:SECTOR/szUnexploredName:Unknown
+A4:SECTOR/szDetailedUnexploredName:Unknown
+A4:SECTOR/szExploredName:Unknown
+A4:SECTOR/szDetailedExploredName:Unknown
+A5:SECTOR/szUnexploredName:Unknown
+A5:SECTOR/szDetailedUnexploredName:Unknown
+A5:SECTOR/szExploredName:Unknown
+A5:SECTOR/szDetailedExploredName:Unknown
+A6:SECTOR/szUnexploredName:Hills
+A6:SECTOR/szDetailedUnexploredName:Hills
+A6:SECTOR/szExploredName:Hills
+A6:SECTOR/szDetailedExploredName:Hills
+A7:SECTOR/szUnexploredName:Hills
+A7:SECTOR/szDetailedUnexploredName:Hills
+A7:SECTOR/szExploredName:Hills
+A7:SECTOR/szDetailedExploredName:Hills
+A8:SECTOR/szUnexploredName:Hills
+A8:SECTOR/szDetailedUnexploredName:Hills
+A8:SECTOR/szExploredName:Army Outpost
+A8:SECTOR/szDetailedExploredName:Army Outpost
+A9:SECTOR/szUnexploredName:Omerta
+A9:SECTOR/szDetailedUnexploredName:Omerta
+A9:SECTOR/szExploredName:Omerta
+A9:SECTOR/szDetailedExploredName:Omerta
+A10:SECTOR/szUnexploredName:Omerta
+A10:SECTOR/szDetailedUnexploredName:Omerta
+A10:SECTOR/szExploredName:Omerta
+A10:SECTOR/szDetailedExploredName:Omerta
+A11:SECTOR/szUnexploredName:Farmland
+A11:SECTOR/szDetailedUnexploredName:Farmland
+A11:SECTOR/szExploredName:Farmland
+A11:SECTOR/szDetailedExploredName:Farmland
+A12:SECTOR/szUnexploredName:Forest
+A12:SECTOR/szDetailedUnexploredName:Forest
+A12:SECTOR/szExploredName:Forest
+A12:SECTOR/szDetailedExploredName:Forest
+A13:SECTOR/szUnexploredName:Woods
+A13:SECTOR/szDetailedUnexploredName:Woods
+A13:SECTOR/szExploredName:Woods
+A13:SECTOR/szDetailedExploredName:Woods
+A14:SECTOR/szUnexploredName:Plains
+A14:SECTOR/szDetailedUnexploredName:Plains
+A14:SECTOR/szExploredName:Plains
+A14:SECTOR/szDetailedExploredName:Plains
+A15:SECTOR/szUnexploredName:Forest
+A15:SECTOR/szDetailedUnexploredName:Forest
+A15:SECTOR/szExploredName:Forest
+A15:SECTOR/szDetailedExploredName:Forest
+A16:SECTOR/szUnexploredName:Unknown
+A16:SECTOR/szDetailedUnexploredName:Unknown
+A16:SECTOR/szExploredName:Unknown
+A16:SECTOR/szDetailedExploredName:Unknown
+B1:SECTOR/szUnexploredName:Oronegro Oil Rig
+B1:SECTOR/szDetailedUnexploredName:Oronegro Oil Rig
+B1:SECTOR/szExploredName:Oronegro Oil Rig
+B1:SECTOR/szDetailedExploredName:Oronegro Oil Rig
+B2:SECTOR/szUnexploredName:Oronegro
+B2:SECTOR/szDetailedUnexploredName:Oronegro
+B2:SECTOR/szExploredName:Oronegro
+B2:SECTOR/szDetailedExploredName:Oronegro
+B3:SECTOR/szUnexploredName:Woods
+B3:SECTOR/szDetailedUnexploredName:Woods
+B3:SECTOR/szExploredName:Woods
+B3:SECTOR/szDetailedExploredName:Woods
+B4:SECTOR/szUnexploredName:Woods
+B4:SECTOR/szDetailedUnexploredName:Woods
+B4:SECTOR/szExploredName:Woods
+B4:SECTOR/szDetailedExploredName:Woods
+B5:SECTOR/szUnexploredName:Farmland
+B5:SECTOR/szDetailedUnexploredName:Farmland
+B5:SECTOR/szExploredName:Farmland
+B5:SECTOR/szDetailedExploredName:Farmland
+B6:SECTOR/szUnexploredName:Farmland
+B6:SECTOR/szDetailedUnexploredName:Farmland
+B6:SECTOR/szExploredName:Farmland
+B6:SECTOR/szDetailedExploredName:Farmland
+B7:SECTOR/szUnexploredName:Plains
+B7:SECTOR/szDetailedUnexploredName:Plains
+B7:SECTOR/szExploredName:Plains
+B7:SECTOR/szDetailedExploredName:Plains
+B8:SECTOR/szUnexploredName:Farmland
+B8:SECTOR/szDetailedUnexploredName:Farmland
+B8:SECTOR/szExploredName:Farmland
+B8:SECTOR/szDetailedExploredName:Farmland
+B9:SECTOR/szUnexploredName:Training Camp
+B9:SECTOR/szDetailedUnexploredName:Training Camp
+B9:SECTOR/szExploredName:Training Camp
+B9:SECTOR/szDetailedExploredName:Training Camp
+B10:SECTOR/szUnexploredName:Omerta
+B10:SECTOR/szDetailedUnexploredName:Omerta
+B10:SECTOR/szExploredName:Omerta
+B10:SECTOR/szDetailedExploredName:Omerta
+B11:SECTOR/szUnexploredName:Woods
+B11:SECTOR/szDetailedUnexploredName:Woods
+B11:SECTOR/szExploredName:Woods
+B11:SECTOR/szDetailedExploredName:Woods
+B12:SECTOR/szUnexploredName:Farm, road
+B12:SECTOR/szDetailedUnexploredName:Farm, road
+B12:SECTOR/szExploredName:Farm, road
+B12:SECTOR/szDetailedExploredName:Farm, road
+B13:SECTOR/szUnexploredName:Drassen Airport
+B13:SECTOR/szDetailedUnexploredName:Drassen Airport
+B13:SECTOR/szExploredName:Drassen Airport
+B13:SECTOR/szDetailedExploredName:Drassen Airport
+B14:SECTOR/szUnexploredName:Drassen
+B14:SECTOR/szDetailedUnexploredName:Drassen
+B14:SECTOR/szExploredName:Drassen
+B14:SECTOR/szDetailedExploredName:Drassen
+B15:SECTOR/szUnexploredName:Swamp
+B15:SECTOR/szDetailedUnexploredName:Swamp
+B15:SECTOR/szExploredName:Swamp
+B15:SECTOR/szDetailedExploredName:Swamp
+B16:SECTOR/szUnexploredName:Forest
+B16:SECTOR/szDetailedUnexploredName:Forest
+B16:SECTOR/szExploredName:Forest
+B16:SECTOR/szDetailedExploredName:Forest
+C1:SECTOR/szUnexploredName:Oronegro
+C1:SECTOR/szDetailedUnexploredName:Oronegro
+C1:SECTOR/szExploredName:Oronegro
+C1:SECTOR/szDetailedExploredName:Oronegro
+C2:SECTOR/szUnexploredName:Tropical, road
+C2:SECTOR/szDetailedUnexploredName:Tropical, road
+C2:SECTOR/szExploredName:Tropical, road
+C2:SECTOR/szDetailedExploredName:Tropical, road
+C3:SECTOR/szUnexploredName:Tropical, road
+C3:SECTOR/szDetailedUnexploredName:Tropical, road
+C3:SECTOR/szExploredName:Tropical, road
+C3:SECTOR/szDetailedExploredName:Tropical, road
+C4:SECTOR/szUnexploredName:Woods
+C4:SECTOR/szDetailedUnexploredName:Woods
+C4:SECTOR/szExploredName:Woods
+C4:SECTOR/szDetailedExploredName:Woods
+C5:SECTOR/szUnexploredName:San Mona
+C5:SECTOR/szDetailedUnexploredName:San Mona
+C5:SECTOR/szExploredName:San Mona
+C5:SECTOR/szDetailedExploredName:San Mona
+C6:SECTOR/szUnexploredName:San Mona
+C6:SECTOR/szDetailedUnexploredName:San Mona
+C6:SECTOR/szExploredName:San Mona
+C6:SECTOR/szDetailedExploredName:San Mona
+C7:SECTOR/szUnexploredName:Plains, road
+C7:SECTOR/szDetailedUnexploredName:Plains, road
+C7:SECTOR/szExploredName:Plains, road
+C7:SECTOR/szDetailedExploredName:Plains, road
+C8:SECTOR/szUnexploredName:Woods
+C8:SECTOR/szDetailedUnexploredName:Woods
+C8:SECTOR/szExploredName:Woods
+C8:SECTOR/szDetailedExploredName:Woods
+C9:SECTOR/szUnexploredName:Plains, road
+C9:SECTOR/szDetailedUnexploredName:Plains, road
+C9:SECTOR/szExploredName:Plains, road
+C9:SECTOR/szDetailedExploredName:Plains, road
+C10:SECTOR/szUnexploredName:Woods
+C10:SECTOR/szDetailedUnexploredName:Woods
+C10:SECTOR/szExploredName:Woods
+C10:SECTOR/szDetailedExploredName:Woods
+C11:SECTOR/szUnexploredName:Forest
+C11:SECTOR/szDetailedUnexploredName:Forest
+C11:SECTOR/szExploredName:Rebel Outpost
+C11:SECTOR/szDetailedExploredName:Rebel Outpost
+C12:SECTOR/szUnexploredName:Woods
+C12:SECTOR/szDetailedUnexploredName:Woods
+C12:SECTOR/szExploredName:Woods
+C12:SECTOR/szDetailedExploredName:Woods
+C13:SECTOR/szUnexploredName:Drassen
+C13:SECTOR/szDetailedUnexploredName:Drassen
+C13:SECTOR/szExploredName:Drassen
+C13:SECTOR/szDetailedExploredName:Drassen
+C14:SECTOR/szUnexploredName:Water
+C14:SECTOR/szDetailedUnexploredName:Water
+C14:SECTOR/szExploredName:Water
+C14:SECTOR/szDetailedExploredName:Water
+C15:SECTOR/szUnexploredName:Swamp
+C15:SECTOR/szDetailedUnexploredName:Swamp
+C15:SECTOR/szExploredName:Swamp
+C15:SECTOR/szDetailedExploredName:Swamp
+C16:SECTOR/szUnexploredName:Swamp
+C16:SECTOR/szDetailedUnexploredName:Swamp
+C16:SECTOR/szExploredName:Swamp
+C16:SECTOR/szDetailedExploredName:Swamp
+D1:SECTOR/szUnexploredName:Impassable
+D1:SECTOR/szDetailedUnexploredName:Impassable
+D1:SECTOR/szExploredName:Impassable
+D1:SECTOR/szDetailedExploredName:Impassable
+D2:SECTOR/szUnexploredName:Tropical
+D2:SECTOR/szDetailedUnexploredName:Tropical
+D2:SECTOR/szExploredName:SAM Site
+D2:SECTOR/szDetailedExploredName:Tropical, SAM Site
+D3:SECTOR/szUnexploredName:Plains, road
+D3:SECTOR/szDetailedUnexploredName:Plains, road
+D3:SECTOR/szExploredName:Plains, road
+D3:SECTOR/szDetailedExploredName:Plains, road
+D4:SECTOR/szUnexploredName:San Mona Mine
+D4:SECTOR/szDetailedUnexploredName:San Mona Mine
+D4:SECTOR/szExploredName:San Mona Mine
+D4:SECTOR/szDetailedExploredName:San Mona Mine
+D5:SECTOR/szUnexploredName:San Mona
+D5:SECTOR/szDetailedUnexploredName:San Mona
+D5:SECTOR/szExploredName:San Mona
+D5:SECTOR/szDetailedExploredName:San Mona
+D6:SECTOR/szUnexploredName:Farmland
+D6:SECTOR/szDetailedUnexploredName:Farmland
+D6:SECTOR/szExploredName:Farmland
+D6:SECTOR/szDetailedExploredName:Farmland
+D7:SECTOR/szUnexploredName:Forest, road
+D7:SECTOR/szDetailedUnexploredName:Forest, road
+D7:SECTOR/szExploredName:Forest, road
+D7:SECTOR/szDetailedExploredName:Forest, road
+D8:SECTOR/szUnexploredName:Forest
+D8:SECTOR/szDetailedUnexploredName:Forest
+D8:SECTOR/szExploredName:Forest
+D8:SECTOR/szDetailedExploredName:Forest
+D9:SECTOR/szUnexploredName:Field Hospital
+D9:SECTOR/szDetailedUnexploredName:Field Hospital
+D9:SECTOR/szExploredName:Field Hospital
+D9:SECTOR/szDetailedExploredName:Field Hospital
+D10:SECTOR/szUnexploredName:Plains
+D10:SECTOR/szDetailedUnexploredName:Plains
+D10:SECTOR/szExploredName:Plains
+D10:SECTOR/szDetailedExploredName:Plains
+D11:SECTOR/szUnexploredName:Woods
+D11:SECTOR/szDetailedUnexploredName:Woods
+D11:SECTOR/szExploredName:Woods
+D11:SECTOR/szDetailedExploredName:Woods
+D12:SECTOR/szUnexploredName:Swamp
+D12:SECTOR/szDetailedUnexploredName:Swamp
+D12:SECTOR/szExploredName:Swamp
+D12:SECTOR/szDetailedExploredName:Swamp
+D13:SECTOR/szUnexploredName:Drassen Mine
+D13:SECTOR/szDetailedUnexploredName:Drassen Mine
+D13:SECTOR/szExploredName:Drassen Mine
+D13:SECTOR/szDetailedExploredName:Drassen Mine
+D14:SECTOR/szUnexploredName:Drassen
+D14:SECTOR/szDetailedUnexploredName:Drassen
+D14:SECTOR/szExploredName:Arulco Dam
+D14:SECTOR/szDetailedExploredName:Arulco Dam
+D15:SECTOR/szUnexploredName:Woods
+D15:SECTOR/szDetailedUnexploredName:Woods
+D15:SECTOR/szExploredName:SAM Site
+D15:SECTOR/szDetailedExploredName:Woods, SAM Site
+D16:SECTOR/szUnexploredName:Forest
+D16:SECTOR/szDetailedUnexploredName:Forest
+D16:SECTOR/szExploredName:Forest
+D16:SECTOR/szDetailedExploredName:Forest
+E1:SECTOR/szUnexploredName:Impassable
+E1:SECTOR/szDetailedUnexploredName:Impassable
+E1:SECTOR/szExploredName:Impassable
+E1:SECTOR/szDetailedExploredName:Impassable
+E2:SECTOR/szUnexploredName:Tropical
+E2:SECTOR/szDetailedUnexploredName:Tropical
+E2:SECTOR/szExploredName:Tropical
+E2:SECTOR/szDetailedExploredName:Tropical
+E3:SECTOR/szUnexploredName:Plains, road
+E3:SECTOR/szDetailedUnexploredName:Plains, road
+E3:SECTOR/szExploredName:Plains, road
+E3:SECTOR/szDetailedExploredName:Plains, road
+E4:SECTOR/szUnexploredName:Hills
+E4:SECTOR/szDetailedUnexploredName:Hills
+E4:SECTOR/szExploredName:Hills
+E4:SECTOR/szDetailedExploredName:Hills
+E5:SECTOR/szUnexploredName:Hills
+E5:SECTOR/szDetailedUnexploredName:Hills
+E5:SECTOR/szExploredName:Hills
+E5:SECTOR/szDetailedExploredName:Hills
+E6:SECTOR/szUnexploredName:Plains
+E6:SECTOR/szDetailedUnexploredName:Plains
+E6:SECTOR/szExploredName:Plains
+E6:SECTOR/szDetailedExploredName:Plains
+E7:SECTOR/szUnexploredName:Farm, road
+E7:SECTOR/szDetailedUnexploredName:Farm, road
+E7:SECTOR/szExploredName:Farm, road
+E7:SECTOR/szDetailedExploredName:Farm, road
+E8:SECTOR/szUnexploredName:Farmland
+E8:SECTOR/szDetailedUnexploredName:Farmland
+E8:SECTOR/szExploredName:Farmland
+E8:SECTOR/szDetailedExploredName:Farmland
+E9:SECTOR/szUnexploredName:Farm, road
+E9:SECTOR/szDetailedUnexploredName:Farm, road
+E9:SECTOR/szExploredName:Farm, road
+E9:SECTOR/szDetailedExploredName:Farm, road
+E10:SECTOR/szUnexploredName:Swamp
+E10:SECTOR/szDetailedUnexploredName:Swamp
+E10:SECTOR/szExploredName:Swamp
+E10:SECTOR/szDetailedExploredName:Swamp
+E11:SECTOR/szUnexploredName:Woods
+E11:SECTOR/szDetailedUnexploredName:Woods
+E11:SECTOR/szExploredName:Woods
+E11:SECTOR/szDetailedExploredName:Woods
+E12:SECTOR/szUnexploredName:Woods
+E12:SECTOR/szDetailedUnexploredName:Woods
+E12:SECTOR/szExploredName:Woods
+E12:SECTOR/szDetailedExploredName:Woods
+E13:SECTOR/szUnexploredName:Water
+E13:SECTOR/szDetailedUnexploredName:Water
+E13:SECTOR/szExploredName:Water
+E13:SECTOR/szDetailedExploredName:Water
+E14:SECTOR/szUnexploredName:Swamp
+E14:SECTOR/szDetailedUnexploredName:Swamp
+E14:SECTOR/szExploredName:Swamp
+E14:SECTOR/szDetailedExploredName:Swamp
+E15:SECTOR/szUnexploredName:Forest, road
+E15:SECTOR/szDetailedUnexploredName:Forest, road
+E15:SECTOR/szExploredName:Forest, road
+E15:SECTOR/szDetailedExploredName:Forest, road
+E16:SECTOR/szUnexploredName:Unknown
+E16:SECTOR/szDetailedUnexploredName:Unknown
+E16:SECTOR/szExploredName:Unknown
+E16:SECTOR/szDetailedExploredName:Unknown
+F1:SECTOR/szUnexploredName:Impassable
+F1:SECTOR/szDetailedUnexploredName:Impassable
+F1:SECTOR/szExploredName:Impassable
+F1:SECTOR/szDetailedExploredName:Impassable
+F2:SECTOR/szUnexploredName:Coastline
+F2:SECTOR/szDetailedUnexploredName:Coastline
+F2:SECTOR/szExploredName:Coastline
+F2:SECTOR/szDetailedExploredName:Coastline
+F3:SECTOR/szUnexploredName:Plains, road
+F3:SECTOR/szDetailedUnexploredName:Plains, road
+F3:SECTOR/szExploredName:Plains, road
+F3:SECTOR/szDetailedExploredName:Plains, road
+F4:SECTOR/szUnexploredName:Hills
+F4:SECTOR/szDetailedUnexploredName:Hills
+F4:SECTOR/szExploredName:Hills
+F4:SECTOR/szDetailedExploredName:Hills
+F5:SECTOR/szUnexploredName:Hills
+F5:SECTOR/szDetailedUnexploredName:Hills
+F5:SECTOR/szExploredName:Hills
+F5:SECTOR/szDetailedExploredName:Hills
+F6:SECTOR/szUnexploredName:Hills
+F6:SECTOR/szDetailedUnexploredName:Hills
+F6:SECTOR/szExploredName:Hills
+F6:SECTOR/szDetailedExploredName:Hills
+F7:SECTOR/szUnexploredName:Salinas
+F7:SECTOR/szDetailedUnexploredName:Salinas
+F7:SECTOR/szExploredName:Salinas
+F7:SECTOR/szDetailedExploredName:Salinas
+F8:SECTOR/szUnexploredName:Salinas, Hospital
+F8:SECTOR/szDetailedUnexploredName:Salinas, Hospital
+F8:SECTOR/szExploredName:Salinas, Hospital
+F8:SECTOR/szDetailedExploredName:Salinas, Hospital
+F9:SECTOR/szUnexploredName:Salinas
+F9:SECTOR/szDetailedUnexploredName:Salinas
+F9:SECTOR/szExploredName:Salinas
+F9:SECTOR/szDetailedExploredName:Salinas
+F10:SECTOR/szUnexploredName:???
+F10:SECTOR/szDetailedUnexploredName:???
+F10:SECTOR/szExploredName:Distribution Centre
+F10:SECTOR/szDetailedExploredName:Distribution Centre
+F11:SECTOR/szUnexploredName:Plains
+F11:SECTOR/szDetailedUnexploredName:Plains
+F11:SECTOR/szExploredName:Plains
+F11:SECTOR/szDetailedExploredName:Plains
+F12:SECTOR/szUnexploredName:Woods
+F12:SECTOR/szDetailedUnexploredName:Woods
+F12:SECTOR/szExploredName:Woods
+F12:SECTOR/szDetailedExploredName:Woods
+F13:SECTOR/szUnexploredName:Woods
+F13:SECTOR/szDetailedUnexploredName:Woods
+F13:SECTOR/szExploredName:Woods
+F13:SECTOR/szDetailedExploredName:Woods
+F14:SECTOR/szUnexploredName:Plains, road
+F14:SECTOR/szDetailedUnexploredName:Plains, road
+F14:SECTOR/szExploredName:Plains, road
+F14:SECTOR/szDetailedExploredName:Plains, road
+F15:SECTOR/szUnexploredName:Forest, road
+F15:SECTOR/szDetailedUnexploredName:Forest, road
+F15:SECTOR/szExploredName:Checkpoint
+F15:SECTOR/szDetailedExploredName:Checkpoint
+F16:SECTOR/szUnexploredName:Unknown
+F16:SECTOR/szDetailedUnexploredName:Unknown
+F16:SECTOR/szExploredName:Unknown
+F16:SECTOR/szDetailedExploredName:Unknown
+G1:SECTOR/szUnexploredName:Doran
+G1:SECTOR/szDetailedUnexploredName:Doran
+G1:SECTOR/szExploredName:Doran
+G1:SECTOR/szDetailedExploredName:Doran
+G2:SECTOR/szUnexploredName:Doran
+G2:SECTOR/szDetailedUnexploredName:Doran
+G2:SECTOR/szExploredName:Doran
+G2:SECTOR/szDetailedExploredName:Doran
+G3:SECTOR/szUnexploredName:Doran
+G3:SECTOR/szDetailedUnexploredName:Doran
+G3:SECTOR/szExploredName:Doran
+G3:SECTOR/szDetailedExploredName:Doran Entrance
+G4:SECTOR/szUnexploredName:Mountain, road
+G4:SECTOR/szDetailedUnexploredName:Mountain, road
+G4:SECTOR/szExploredName:Mountain, road
+G4:SECTOR/szDetailedExploredName:Mountain, road
+G5:SECTOR/szUnexploredName:Mountain, road
+G5:SECTOR/szDetailedUnexploredName:Mountain, road
+G5:SECTOR/szExploredName:Mountain, road
+G5:SECTOR/szDetailedExploredName:Mountain, road
+G6:SECTOR/szUnexploredName:Mountain, road
+G6:SECTOR/szDetailedUnexploredName:Mountain, road
+G6:SECTOR/szExploredName:Mountain, road
+G6:SECTOR/szDetailedExploredName:Mountain, road
+G7:SECTOR/szUnexploredName:Salinas
+G7:SECTOR/szDetailedUnexploredName:Salinas
+G7:SECTOR/szExploredName:Salinas
+G7:SECTOR/szDetailedExploredName:Salinas
+G8:SECTOR/szUnexploredName:Salinas
+G8:SECTOR/szDetailedUnexploredName:Salinas
+G8:SECTOR/szExploredName:Salinas
+G8:SECTOR/szDetailedExploredName:Salinas
+G9:SECTOR/szUnexploredName:Salinas
+G9:SECTOR/szDetailedUnexploredName:Salinas
+G9:SECTOR/szExploredName:Salinas
+G9:SECTOR/szDetailedExploredName:Salinas
+G10:SECTOR/szUnexploredName:Desert, road
+G10:SECTOR/szDetailedUnexploredName:Desert, road
+G10:SECTOR/szExploredName:Desert, road
+G10:SECTOR/szDetailedExploredName:Desert, road
+G11:SECTOR/szUnexploredName:Desert, road
+G11:SECTOR/szDetailedUnexploredName:Desert, road
+G11:SECTOR/szExploredName:Desert, road
+G11:SECTOR/szDetailedExploredName:Desert, road
+G12:SECTOR/szUnexploredName:Plains, road
+G12:SECTOR/szDetailedUnexploredName:Plains, road
+G12:SECTOR/szExploredName:Plains, road
+G12:SECTOR/szDetailedExploredName:Plains, road
+G13:SECTOR/szUnexploredName:Plains
+G13:SECTOR/szDetailedUnexploredName:Plains
+G13:SECTOR/szExploredName:Plains
+G13:SECTOR/szDetailedExploredName:Plains
+G14:SECTOR/szUnexploredName:Alma
+G14:SECTOR/szDetailedUnexploredName:Alma
+G14:SECTOR/szExploredName:Alma Farm
+G14:SECTOR/szDetailedExploredName:Alma Farm
+G15:SECTOR/szUnexploredName:Forest
+G15:SECTOR/szDetailedUnexploredName:Forest
+G15:SECTOR/szExploredName:Power Station
+G15:SECTOR/szDetailedExploredName:Power Station
+G16:SECTOR/szUnexploredName:Swamp
+G16:SECTOR/szDetailedUnexploredName:Swamp
+G16:SECTOR/szExploredName:Swamp
+G16:SECTOR/szDetailedExploredName:Swamp
+H1:SECTOR/szUnexploredName:Doran
+H1:SECTOR/szDetailedUnexploredName:Doran
+H1:SECTOR/szExploredName:Doran
+H1:SECTOR/szDetailedExploredName:Doran
+H2:SECTOR/szUnexploredName:Doran
+H2:SECTOR/szDetailedUnexploredName:Doran
+H2:SECTOR/szExploredName:Doran
+H2:SECTOR/szDetailedExploredName:Doran
+H3:SECTOR/szUnexploredName:Doran
+H3:SECTOR/szDetailedUnexploredName:Doran
+H3:SECTOR/szExploredName:Doran
+H3:SECTOR/szDetailedExploredName:Doran
+H4:SECTOR/szUnexploredName:Doran
+H4:SECTOR/szDetailedUnexploredName:Doran
+H4:SECTOR/szExploredName:Doran
+H4:SECTOR/szDetailedExploredName:Doran
+H5:SECTOR/szUnexploredName:Hills
+H5:SECTOR/szDetailedUnexploredName:Hills
+H5:SECTOR/szExploredName:Hills
+H5:SECTOR/szDetailedExploredName:Hills
+H6:SECTOR/szUnexploredName:Mountain, road
+H6:SECTOR/szDetailedUnexploredName:Mountain, road
+H6:SECTOR/szExploredName:Mountain, road
+H6:SECTOR/szDetailedExploredName:Mountain, road
+H7:SECTOR/szUnexploredName:Plains
+H7:SECTOR/szDetailedUnexploredName:Plains
+H7:SECTOR/szExploredName:Plains
+H7:SECTOR/szDetailedExploredName:Plains
+H8:SECTOR/szUnexploredName:Salinas
+H8:SECTOR/szDetailedUnexploredName:Salinas
+H8:SECTOR/szExploredName:Salinas
+H8:SECTOR/szDetailedExploredName:Salinas
+H9:SECTOR/szUnexploredName:Salinas
+H9:SECTOR/szDetailedUnexploredName:Salinas
+H9:SECTOR/szExploredName:Salinas
+H9:SECTOR/szDetailedExploredName:Salinas
+H10:SECTOR/szUnexploredName:Desert
+H10:SECTOR/szDetailedUnexploredName:Desert
+H10:SECTOR/szExploredName:Hard Labor
+H10:SECTOR/szDetailedExploredName:Hard Labor Camp
+H11:SECTOR/szUnexploredName:Desert
+H11:SECTOR/szDetailedUnexploredName:Desert
+H11:SECTOR/szExploredName:Desert
+H11:SECTOR/szDetailedExploredName:Desert
+H12:SECTOR/szUnexploredName:Plains, road
+H12:SECTOR/szDetailedUnexploredName:Plains, road
+H12:SECTOR/szExploredName:Plains, road
+H12:SECTOR/szDetailedExploredName:Plains, road
+H13:SECTOR/szUnexploredName:Alma
+H13:SECTOR/szDetailedUnexploredName:Alma
+H13:SECTOR/szExploredName:Alma
+H13:SECTOR/szDetailedExploredName:Alma
+H14:SECTOR/szUnexploredName:Alma
+H14:SECTOR/szDetailedUnexploredName:Alma
+H14:SECTOR/szExploredName:Alma
+H14:SECTOR/szDetailedExploredName:Alma
+H15:SECTOR/szUnexploredName:Swamp
+H15:SECTOR/szDetailedUnexploredName:Swamp
+H15:SECTOR/szExploredName:Swamp
+H15:SECTOR/szDetailedExploredName:Swamp
+H16:SECTOR/szUnexploredName:Woods
+H16:SECTOR/szDetailedUnexploredName:Woods
+H16:SECTOR/szExploredName:Woods
+H16:SECTOR/szDetailedExploredName:Woods
+I1:SECTOR/szUnexploredName:Impassable
+I1:SECTOR/szDetailedUnexploredName:Impassable
+I1:SECTOR/szExploredName:Impassable
+I1:SECTOR/szDetailedExploredName:Impassable
+I2:SECTOR/szUnexploredName:Impassable
+I2:SECTOR/szDetailedUnexploredName:Impassable
+I2:SECTOR/szExploredName:Impassable
+I2:SECTOR/szDetailedExploredName:Impassable
+I3:SECTOR/szUnexploredName:Doran Oil Rig
+I3:SECTOR/szDetailedUnexploredName:Doran Oil Rig
+I3:SECTOR/szExploredName:Doran Oil Rig
+I3:SECTOR/szDetailedExploredName:Doran Oil Rig
+I4:SECTOR/szUnexploredName:Forest
+I4:SECTOR/szDetailedUnexploredName:Forest
+I4:SECTOR/szExploredName:Forest
+I4:SECTOR/szDetailedExploredName:Forest
+I5:SECTOR/szUnexploredName:Woods
+I5:SECTOR/szDetailedUnexploredName:Woods
+I5:SECTOR/szExploredName:Woods
+I5:SECTOR/szDetailedExploredName:Woods
+I6:SECTOR/szUnexploredName:Estoni
+I6:SECTOR/szDetailedUnexploredName:Estoni
+I6:SECTOR/szExploredName:Estoni
+I6:SECTOR/szDetailedExploredName:Estoni
+I7:SECTOR/szUnexploredName:Woods
+I7:SECTOR/szDetailedUnexploredName:Woods
+I7:SECTOR/szExploredName:Coca farm
+I7:SECTOR/szDetailedExploredName:Coca farm
+I8:SECTOR/szUnexploredName:Desert
+I8:SECTOR/szDetailedUnexploredName:Desert
+I8:SECTOR/szExploredName:SAM Site
+I8:SECTOR/szDetailedExploredName:Desert, SAM Site
+I9:SECTOR/szUnexploredName:Desert, road
+I9:SECTOR/szDetailedUnexploredName:Desert, road
+I9:SECTOR/szExploredName:Salinas resort
+I9:SECTOR/szDetailedExploredName:Salinas resort
+I10:SECTOR/szUnexploredName:Desert
+I10:SECTOR/szDetailedUnexploredName:Desert
+I10:SECTOR/szExploredName:Death Camp
+I10:SECTOR/szDetailedExploredName:Death Camp
+I11:SECTOR/szUnexploredName:Plains
+I11:SECTOR/szDetailedUnexploredName:Plains
+I11:SECTOR/szExploredName:Plains
+I11:SECTOR/szDetailedExploredName:Plains
+I12:SECTOR/szUnexploredName:Plains
+I12:SECTOR/szDetailedUnexploredName:Plains
+I12:SECTOR/szExploredName:Plains
+I12:SECTOR/szDetailedExploredName:Plains
+I13:SECTOR/szUnexploredName:Alma
+I13:SECTOR/szDetailedUnexploredName:Alma
+I13:SECTOR/szExploredName:Alma
+I13:SECTOR/szDetailedExploredName:Alma
+I14:SECTOR/szUnexploredName:Alma Mine
+I14:SECTOR/szDetailedUnexploredName:Alma Mine
+I14:SECTOR/szExploredName:Alma Mine
+I14:SECTOR/szDetailedExploredName:Alma Mine
+I15:SECTOR/szUnexploredName:Alma
+I15:SECTOR/szDetailedUnexploredName:Alma
+I15:SECTOR/szExploredName:Alma
+I15:SECTOR/szDetailedExploredName:Alma
+I16:SECTOR/szUnexploredName:Woods
+I16:SECTOR/szDetailedUnexploredName:Woods
+I16:SECTOR/szExploredName:Woods
+I16:SECTOR/szDetailedExploredName:Woods
+J1:SECTOR/szUnexploredName:Impassable
+J1:SECTOR/szDetailedUnexploredName:Impassable
+J1:SECTOR/szExploredName:Impassable
+J1:SECTOR/szDetailedExploredName:Impassable
+J2:SECTOR/szUnexploredName:Coastal, road
+J2:SECTOR/szDetailedUnexploredName:Coastal, road
+J2:SECTOR/szExploredName:Coastal, road
+J2:SECTOR/szDetailedExploredName:Coastal, road
+J3:SECTOR/szUnexploredName:Doran
+J3:SECTOR/szDetailedUnexploredName:Doran
+J3:SECTOR/szExploredName:Doran
+J3:SECTOR/szDetailedExploredName:Doran
+J4:SECTOR/szUnexploredName:Swamp
+J4:SECTOR/szDetailedUnexploredName:Swamp
+J4:SECTOR/szExploredName:Swamp
+J4:SECTOR/szDetailedExploredName:Swamp
+J5:SECTOR/szUnexploredName:Swamp
+J5:SECTOR/szDetailedUnexploredName:Swamp
+J5:SECTOR/szExploredName:Swamp
+J5:SECTOR/szDetailedExploredName:Swamp
+J6:SECTOR/szUnexploredName:Woods
+J6:SECTOR/szDetailedUnexploredName:Woods
+J6:SECTOR/szExploredName:Woods
+J6:SECTOR/szDetailedExploredName:Woods
+J7:SECTOR/szUnexploredName:Woods
+J7:SECTOR/szDetailedUnexploredName:Woods
+J7:SECTOR/szExploredName:Drug Lab
+J7:SECTOR/szDetailedExploredName:Drug Lab
+J8:SECTOR/szUnexploredName:Desert, road
+J8:SECTOR/szDetailedUnexploredName:Desert, road
+J8:SECTOR/szExploredName:Desert, road
+J8:SECTOR/szDetailedExploredName:Desert, road
+J9:SECTOR/szUnexploredName:Desert
+J9:SECTOR/szDetailedUnexploredName:Desert
+J9:SECTOR/szExploredName:Desert
+J9:SECTOR/szDetailedExploredName:Desert
+J10:SECTOR/szUnexploredName:Desert
+J10:SECTOR/szDetailedUnexploredName:Desert
+J10:SECTOR/szExploredName:Desert
+J10:SECTOR/szDetailedExploredName:Desert
+J11:SECTOR/szUnexploredName:Desert, road
+J11:SECTOR/szDetailedUnexploredName:Desert, road
+J11:SECTOR/szExploredName:Desert, road
+J11:SECTOR/szDetailedExploredName:Desert, road
+J12:SECTOR/szUnexploredName:Woods
+J12:SECTOR/szDetailedUnexploredName:Woods
+J12:SECTOR/szExploredName:Woods
+J12:SECTOR/szDetailedExploredName:Woods
+J13:SECTOR/szUnexploredName:Woods
+J13:SECTOR/szDetailedUnexploredName:Woods
+J13:SECTOR/szExploredName:Woods
+J13:SECTOR/szDetailedExploredName:Woods
+J14:SECTOR/szUnexploredName:Rural, road
+J14:SECTOR/szDetailedUnexploredName:Rural, road
+J14:SECTOR/szExploredName:Test Site
+J14:SECTOR/szDetailedExploredName:Testing Site
+J15:SECTOR/szUnexploredName:Woods
+J15:SECTOR/szDetailedUnexploredName:Woods
+J15:SECTOR/szExploredName:Woods
+J15:SECTOR/szDetailedExploredName:Woods
+J16:SECTOR/szUnexploredName:Unknown
+J16:SECTOR/szDetailedUnexploredName:Unknown
+J16:SECTOR/szExploredName:Unknown
+J16:SECTOR/szDetailedExploredName:Unknown
+K1:SECTOR/szUnexploredName:Impassable
+K1:SECTOR/szDetailedUnexploredName:Impassable
+K1:SECTOR/szExploredName:Impassable
+K1:SECTOR/szDetailedExploredName:Impassable
+K2:SECTOR/szUnexploredName:Coastal, road
+K2:SECTOR/szDetailedUnexploredName:Coastal, road
+K2:SECTOR/szExploredName:Peninsula Gate
+K2:SECTOR/szDetailedExploredName:Peninsula Gate
+K3:SECTOR/szUnexploredName:Swamp, road
+K3:SECTOR/szDetailedUnexploredName:Swamp, road
+K3:SECTOR/szExploredName:Swamp, road
+K3:SECTOR/szDetailedExploredName:Swamp, road
+K4:SECTOR/szUnexploredName:Swamp
+K4:SECTOR/szDetailedUnexploredName:Swamp
+K4:SECTOR/szExploredName:Orta
+K4:SECTOR/szDetailedExploredName:Orta Military Base
+K5:SECTOR/szUnexploredName:Swamp, road
+K5:SECTOR/szDetailedUnexploredName:Swamp, road
+K5:SECTOR/szExploredName:Swamp, road
+K5:SECTOR/szDetailedExploredName:Swamp, road
+K6:SECTOR/szUnexploredName:Plains, road
+K6:SECTOR/szDetailedUnexploredName:Plains, road
+K6:SECTOR/szExploredName:Plains, road
+K6:SECTOR/szDetailedExploredName:Plains, road
+K7:SECTOR/szUnexploredName:Desert, road
+K7:SECTOR/szDetailedUnexploredName:Desert, road
+K7:SECTOR/szExploredName:Desert, road
+K7:SECTOR/szDetailedExploredName:Desert, road
+K8:SECTOR/szUnexploredName:Desert, road
+K8:SECTOR/szDetailedUnexploredName:Desert, road
+K8:SECTOR/szExploredName:Desert, road
+K8:SECTOR/szDetailedExploredName:Desert, road
+K9:SECTOR/szUnexploredName:Desert, road
+K9:SECTOR/szDetailedUnexploredName:Desert, road
+K9:SECTOR/szExploredName:Desert, road
+K9:SECTOR/szDetailedExploredName:Desert, road
+K10:SECTOR/szUnexploredName:Desert, road
+K10:SECTOR/szDetailedUnexploredName:Desert, road
+K10:SECTOR/szExploredName:Desert, road
+K10:SECTOR/szDetailedExploredName:Desert, road
+K11:SECTOR/szUnexploredName:Malino
+K11:SECTOR/szDetailedUnexploredName:Malino
+K11:SECTOR/szExploredName:Malino
+K11:SECTOR/szDetailedExploredName:Malino
+K12:SECTOR/szUnexploredName:Malino
+K12:SECTOR/szDetailedUnexploredName:Malino
+K12:SECTOR/szExploredName:Malino
+K12:SECTOR/szDetailedExploredName:Malino
+K13:SECTOR/szUnexploredName:Woods
+K13:SECTOR/szDetailedUnexploredName:Woods
+K13:SECTOR/szExploredName:Woods
+K13:SECTOR/szDetailedExploredName:Woods
+K14:SECTOR/szUnexploredName:Woods
+K14:SECTOR/szDetailedUnexploredName:Woods
+K14:SECTOR/szExploredName:Woods
+K14:SECTOR/szDetailedExploredName:Woods
+K15:SECTOR/szUnexploredName:Forest
+K15:SECTOR/szDetailedUnexploredName:Forest
+K15:SECTOR/szExploredName:Forest
+K15:SECTOR/szDetailedExploredName:Forest
+K16:SECTOR/szUnexploredName:Unknown
+K16:SECTOR/szDetailedUnexploredName:Unknown
+K16:SECTOR/szExploredName:Unknown
+K16:SECTOR/szDetailedExploredName:Unknown
+L1:SECTOR/szUnexploredName:Coastline
+L1:SECTOR/szDetailedUnexploredName:Coastline
+L1:SECTOR/szExploredName:Coastline
+L1:SECTOR/szDetailedExploredName:Coastline
+L2:SECTOR/szUnexploredName:Coastal, road
+L2:SECTOR/szDetailedUnexploredName:Coastal, road
+L2:SECTOR/szExploredName:Burton Bridge
+L2:SECTOR/szDetailedExploredName:Burton Bridge
+L3:SECTOR/szUnexploredName:Swamp
+L3:SECTOR/szDetailedUnexploredName:Swamp
+L3:SECTOR/szExploredName:Swamp
+L3:SECTOR/szDetailedExploredName:Swamp
+L4:SECTOR/szUnexploredName:Swamp
+L4:SECTOR/szDetailedUnexploredName:Swamp
+L4:SECTOR/szExploredName:Swamp
+L4:SECTOR/szDetailedExploredName:Swamp
+L5:SECTOR/szUnexploredName:Forest
+L5:SECTOR/szDetailedUnexploredName:Forest
+L5:SECTOR/szExploredName:Forest
+L5:SECTOR/szDetailedExploredName:Forest
+L6:SECTOR/szUnexploredName:Plains, road
+L6:SECTOR/szDetailedUnexploredName:Plains, road
+L6:SECTOR/szExploredName:Plains, road
+L6:SECTOR/szDetailedExploredName:Plains, road
+L7:SECTOR/szUnexploredName:Plains
+L7:SECTOR/szDetailedUnexploredName:Plains
+L7:SECTOR/szExploredName:Plains
+L7:SECTOR/szDetailedExploredName:Plains
+L8:SECTOR/szUnexploredName:Desert
+L8:SECTOR/szDetailedUnexploredName:Desert
+L8:SECTOR/szExploredName:Desert
+L8:SECTOR/szDetailedExploredName:Desert
+L9:SECTOR/szUnexploredName:Plains
+L9:SECTOR/szDetailedUnexploredName:Plains
+L9:SECTOR/szExploredName:Plains
+L9:SECTOR/szDetailedExploredName:Plains
+L10:SECTOR/szUnexploredName:Malino
+L10:SECTOR/szDetailedUnexploredName:Malino
+L10:SECTOR/szExploredName:Malino
+L10:SECTOR/szDetailedExploredName:Malino
+L11:SECTOR/szUnexploredName:Malino
+L11:SECTOR/szDetailedUnexploredName:Malino
+L11:SECTOR/szExploredName:Malino
+L11:SECTOR/szDetailedExploredName:Malino
+L12:SECTOR/szUnexploredName:Malino
+L12:SECTOR/szDetailedUnexploredName:Malino
+L12:SECTOR/szExploredName:Malino
+L12:SECTOR/szDetailedExploredName:Malino
+L13:SECTOR/szUnexploredName:Coastline
+L13:SECTOR/szDetailedUnexploredName:Coastline
+L13:SECTOR/szExploredName:Coastline
+L13:SECTOR/szDetailedExploredName:Coastline
+L14:SECTOR/szUnexploredName:Swamp
+L14:SECTOR/szDetailedUnexploredName:Swamp
+L14:SECTOR/szExploredName:Swamp
+L14:SECTOR/szDetailedExploredName:Swamp
+L15:SECTOR/szUnexploredName:Forest
+L15:SECTOR/szDetailedUnexploredName:Forest
+L15:SECTOR/szExploredName:Forest
+L15:SECTOR/szDetailedExploredName:Forest
+L16:SECTOR/szUnexploredName:Unknown
+L16:SECTOR/szDetailedUnexploredName:Unknown
+L16:SECTOR/szExploredName:Unknown
+L16:SECTOR/szDetailedExploredName:Unknown
+M1:SECTOR/szUnexploredName:Impassable
+M1:SECTOR/szDetailedUnexploredName:Impassable
+M1:SECTOR/szExploredName:Impassable
+M1:SECTOR/szDetailedExploredName:Impassable
+M2:SECTOR/szUnexploredName:Coastal, road
+M2:SECTOR/szDetailedUnexploredName:Coastal, road
+M2:SECTOR/szExploredName:Coastal, road
+M2:SECTOR/szDetailedExploredName:Coastal, road
+M3:SECTOR/szUnexploredName:Burton
+M3:SECTOR/szDetailedUnexploredName:Burton
+M3:SECTOR/szExploredName:Burton
+M3:SECTOR/szDetailedExploredName:Burton
+M4:SECTOR/szUnexploredName:Burton
+M4:SECTOR/szDetailedUnexploredName:Burton
+M4:SECTOR/szExploredName:Burton
+M4:SECTOR/szDetailedExploredName:Burton
+M5:SECTOR/szUnexploredName:Burton
+M5:SECTOR/szDetailedUnexploredName:Burton
+M5:SECTOR/szExploredName:Burton
+M5:SECTOR/szDetailedExploredName:Burton
+M6:SECTOR/szUnexploredName:Forest, road
+M6:SECTOR/szDetailedUnexploredName:Forest, road
+M6:SECTOR/szExploredName:Forest, road
+M6:SECTOR/szDetailedExploredName:Forest, road
+M7:SECTOR/szUnexploredName:Plains
+M7:SECTOR/szDetailedUnexploredName:Plains
+M7:SECTOR/szExploredName:Plains
+M7:SECTOR/szDetailedExploredName:Plains
+M8:SECTOR/szUnexploredName:Plains
+M8:SECTOR/szDetailedUnexploredName:Plains
+M8:SECTOR/szExploredName:Plains
+M8:SECTOR/szDetailedExploredName:Plains
+M9:SECTOR/szUnexploredName:Plains
+M9:SECTOR/szDetailedUnexploredName:Plains
+M9:SECTOR/szExploredName:Plains
+M9:SECTOR/szDetailedExploredName:Plains
+M10:SECTOR/szUnexploredName:Malino Oil Rig
+M10:SECTOR/szDetailedUnexploredName:Malino Oil Rig
+M10:SECTOR/szExploredName:Malino Oil Rig
+M10:SECTOR/szDetailedExploredName:Malino Oil Rig
+M11:SECTOR/szUnexploredName:Malino
+M11:SECTOR/szDetailedUnexploredName:Malino
+M11:SECTOR/szExploredName:Malino
+M11:SECTOR/szDetailedExploredName:Malino
+M12:SECTOR/szUnexploredName:Malino
+M12:SECTOR/szDetailedUnexploredName:Malino
+M12:SECTOR/szExploredName:Race Track
+M12:SECTOR/szDetailedExploredName:Race Track
+M13:SECTOR/szUnexploredName:Woods
+M13:SECTOR/szDetailedUnexploredName:Woods
+M13:SECTOR/szExploredName:Elite Barracks
+M13:SECTOR/szDetailedExploredName:Elite Barracks
+M14:SECTOR/szUnexploredName:Swamp
+M14:SECTOR/szDetailedUnexploredName:Swamp
+M14:SECTOR/szExploredName:Swamp
+M14:SECTOR/szDetailedExploredName:Swamp
+M15:SECTOR/szUnexploredName:Unknown
+M15:SECTOR/szDetailedUnexploredName:Unknown
+M15:SECTOR/szExploredName:Unknown
+M15:SECTOR/szDetailedExploredName:Unknown
+M16:SECTOR/szUnexploredName:Unknown
+M16:SECTOR/szDetailedUnexploredName:Unknown
+M16:SECTOR/szExploredName:Unknown
+M16:SECTOR/szDetailedExploredName:Unknown
+N1:SECTOR/szUnexploredName:Impassable
+N1:SECTOR/szDetailedUnexploredName:Impassable
+N1:SECTOR/szExploredName:Impassable
+N1:SECTOR/szDetailedExploredName:Impassable
+N2:SECTOR/szUnexploredName:Impassable
+N2:SECTOR/szDetailedUnexploredName:Impassable
+N2:SECTOR/szExploredName:Impassable
+N2:SECTOR/szDetailedExploredName:Impassable
+N3:SECTOR/szUnexploredName:Burton Airport
+N3:SECTOR/szDetailedUnexploredName:Burton Airport
+N3:SECTOR/szExploredName:Burton Airport
+N3:SECTOR/szDetailedExploredName:Burton Airport
+N4:SECTOR/szUnexploredName:Burton
+N4:SECTOR/szDetailedUnexploredName:Burton
+N4:SECTOR/szExploredName:SAM Site
+N4:SECTOR/szDetailedExploredName:Burton, SAM Site
+N5:SECTOR/szUnexploredName:Burton
+N5:SECTOR/szDetailedUnexploredName:Burton
+N5:SECTOR/szExploredName:Burton
+N5:SECTOR/szDetailedExploredName:Burton
+N6:SECTOR/szUnexploredName:Burton
+N6:SECTOR/szDetailedUnexploredName:Burton
+N6:SECTOR/szExploredName:Burton
+N6:SECTOR/szDetailedExploredName:Burton
+N7:SECTOR/szUnexploredName:Coastal, road
+N7:SECTOR/szDetailedUnexploredName:Coastal, road
+N7:SECTOR/szExploredName:Coastal, road
+N7:SECTOR/szDetailedExploredName:Coastal, road
+N8:SECTOR/szUnexploredName:Coastal, road
+N8:SECTOR/szDetailedUnexploredName:Coastal, road
+N8:SECTOR/szExploredName:Coastal, road
+N8:SECTOR/szDetailedExploredName:Coastal, road
+N9:SECTOR/szUnexploredName:Tropical, road
+N9:SECTOR/szDetailedUnexploredName:Tropical, road
+N9:SECTOR/szExploredName:Tropical, road
+N9:SECTOR/szDetailedExploredName:Tropical, road
+N10:SECTOR/szUnexploredName:Tropical, road
+N10:SECTOR/szDetailedUnexploredName:Tropical, road
+N10:SECTOR/szExploredName:Tropical, road
+N10:SECTOR/szDetailedExploredName:Tropical, road
+N11:SECTOR/szUnexploredName:Impassable
+N11:SECTOR/szDetailedUnexploredName:Impassable
+N11:SECTOR/szExploredName:Impassable
+N11:SECTOR/szDetailedExploredName:Impassable
+N12:SECTOR/szUnexploredName:Impassable
+N12:SECTOR/szDetailedUnexploredName:Impassable
+N12:SECTOR/szExploredName:Impassable
+N12:SECTOR/szDetailedExploredName:Impassable
+N13:SECTOR/szUnexploredName:Unknown
+N13:SECTOR/szDetailedUnexploredName:Unknown
+N13:SECTOR/szExploredName:Unknown
+N13:SECTOR/szDetailedExploredName:Unknown
+N14:SECTOR/szUnexploredName:Unknown
+N14:SECTOR/szDetailedUnexploredName:Unknown
+N14:SECTOR/szExploredName:Unknown
+N14:SECTOR/szDetailedExploredName:Unknown
+N15:SECTOR/szUnexploredName:Unknown
+N15:SECTOR/szDetailedUnexploredName:Unknown
+N15:SECTOR/szExploredName:Woods
+N15:SECTOR/szDetailedExploredName:Woods
+N16:SECTOR/szUnexploredName:Unknown
+N16:SECTOR/szDetailedUnexploredName:Unknown
+N16:SECTOR/szExploredName:Airfield
+N16:SECTOR/szDetailedExploredName:Airfield
+O1:SECTOR/szUnexploredName:Impassable
+O1:SECTOR/szDetailedUnexploredName:Impassable
+O1:SECTOR/szExploredName:Impassable
+O1:SECTOR/szDetailedExploredName:Impassable
+O2:SECTOR/szUnexploredName:Burton
+O2:SECTOR/szDetailedUnexploredName:Burton
+O2:SECTOR/szExploredName:Burton Heliport
+O2:SECTOR/szDetailedExploredName:Burton Heliport
+O3:SECTOR/szUnexploredName:Burton
+O3:SECTOR/szDetailedUnexploredName:Burton
+O3:SECTOR/szExploredName:Burton
+O3:SECTOR/szDetailedExploredName:Burton
+O4:SECTOR/szUnexploredName:Burton
+O4:SECTOR/szDetailedUnexploredName:Burton
+O4:SECTOR/szExploredName:Burton
+O4:SECTOR/szDetailedExploredName:Burton
+O5:SECTOR/szUnexploredName:Burton
+O5:SECTOR/szDetailedUnexploredName:Burton
+O5:SECTOR/szExploredName:Burton
+O5:SECTOR/szDetailedExploredName:Burton
+O6:SECTOR/szUnexploredName:Impassable
+O6:SECTOR/szDetailedUnexploredName:Impassable
+O6:SECTOR/szExploredName:Impassable
+O6:SECTOR/szDetailedExploredName:Impassable
+O7:SECTOR/szUnexploredName:Impassable
+O7:SECTOR/szDetailedUnexploredName:Impassable
+O7:SECTOR/szExploredName:Impassable
+O7:SECTOR/szDetailedExploredName:Impassable
+O8:SECTOR/szUnexploredName:Tropical
+O8:SECTOR/szDetailedUnexploredName:Tropical
+O8:SECTOR/szExploredName:Tropical
+O8:SECTOR/szDetailedExploredName:Tropical
+O9:SECTOR/szUnexploredName:Tropical
+O9:SECTOR/szDetailedUnexploredName:Tropical
+O9:SECTOR/szExploredName:Fort
+O9:SECTOR/szDetailedExploredName:Kingpin's Fort
+O10:SECTOR/szUnexploredName:Impassable
+O10:SECTOR/szDetailedUnexploredName:Impassable
+O10:SECTOR/szExploredName:Impassable
+O10:SECTOR/szDetailedExploredName:Impassable
+O11:SECTOR/szUnexploredName:Unknown
+O11:SECTOR/szDetailedUnexploredName:Unknown
+O11:SECTOR/szExploredName:Coastline
+O11:SECTOR/szDetailedExploredName:Coastline
+O12:SECTOR/szUnexploredName:Unknown
+O12:SECTOR/szDetailedUnexploredName:Unknown
+O12:SECTOR/szExploredName:Palaccio
+O12:SECTOR/szDetailedExploredName:Palaccio
+O13:SECTOR/szUnexploredName:Unknown
+O13:SECTOR/szDetailedUnexploredName:Unknown
+O13:SECTOR/szExploredName:Tropical
+O13:SECTOR/szDetailedExploredName:Tropical
+O14:SECTOR/szUnexploredName:Unknown
+O14:SECTOR/szDetailedUnexploredName:Unknown
+O14:SECTOR/szExploredName:Offshore Dropoff
+O14:SECTOR/szDetailedExploredName:Offshore Dropoff
+O15:SECTOR/szUnexploredName:Unknown
+O15:SECTOR/szDetailedUnexploredName:Unknown
+O15:SECTOR/szExploredName:Woods
+O15:SECTOR/szDetailedExploredName:Woods
+O16:SECTOR/szUnexploredName:Unknown
+O16:SECTOR/szDetailedUnexploredName:Unknown
+O16:SECTOR/szExploredName:Unknown
+O16:SECTOR/szDetailedExploredName:Unknown
+P1:SECTOR/szUnexploredName:Impassable
+P1:SECTOR/szDetailedUnexploredName:Impassable
+P1:SECTOR/szExploredName:Impassable
+P1:SECTOR/szDetailedExploredName:Impassable
+P2:SECTOR/szUnexploredName:Impassable
+P2:SECTOR/szDetailedUnexploredName:Impassable
+P2:SECTOR/szExploredName:Impassable
+P2:SECTOR/szDetailedExploredName:Impassable
+P3:SECTOR/szUnexploredName:Burton
+P3:SECTOR/szDetailedUnexploredName:Burton
+P3:SECTOR/szExploredName:Burton
+P3:SECTOR/szDetailedExploredName:Burton
+P4:SECTOR/szUnexploredName:Impassable
+P4:SECTOR/szDetailedUnexploredName:Impassable
+P4:SECTOR/szExploredName:Impassable
+P4:SECTOR/szDetailedExploredName:Impassable
+P5:SECTOR/szUnexploredName:Impassable
+P5:SECTOR/szDetailedUnexploredName:Impassable
+P5:SECTOR/szExploredName:Impassable
+P5:SECTOR/szDetailedExploredName:Impassable
+P6:SECTOR/szUnexploredName:Impassable
+P6:SECTOR/szDetailedUnexploredName:Impassable
+P6:SECTOR/szExploredName:Impassable
+P6:SECTOR/szDetailedExploredName:Impassable
+P7:SECTOR/szUnexploredName:Impassable
+P7:SECTOR/szDetailedUnexploredName:Impassable
+P7:SECTOR/szExploredName:Impassable
+P7:SECTOR/szDetailedExploredName:Impassable
+P8:SECTOR/szUnexploredName:Impassable
+P8:SECTOR/szDetailedUnexploredName:Impassable
+P8:SECTOR/szExploredName:Impassable
+P8:SECTOR/szDetailedExploredName:Impassable
+P9:SECTOR/szUnexploredName:Impassable
+P9:SECTOR/szDetailedUnexploredName:Impassable
+P9:SECTOR/szExploredName:Impassable
+P9:SECTOR/szDetailedExploredName:Impassable
+P10:SECTOR/szUnexploredName:Impassable
+P10:SECTOR/szDetailedUnexploredName:Impassable
+P10:SECTOR/szExploredName:Impassable
+P10:SECTOR/szDetailedExploredName:Impassable
+P11:SECTOR/szUnexploredName:Unknown
+P11:SECTOR/szDetailedUnexploredName:Unknown
+P11:SECTOR/szExploredName:Tropical
+P11:SECTOR/szDetailedExploredName:Tropical
+P12:SECTOR/szUnexploredName:Unknown
+P12:SECTOR/szDetailedUnexploredName:Unknown
+P12:SECTOR/szExploredName:Mall
+P12:SECTOR/szDetailedExploredName:Mall District
+P13:SECTOR/szUnexploredName:Unknown
+P13:SECTOR/szDetailedUnexploredName:Unknown
+P13:SECTOR/szExploredName:Palaccio HQ
+P13:SECTOR/szDetailedExploredName:Palaccio HQ
+P14:SECTOR/szUnexploredName:Unknown
+P14:SECTOR/szDetailedUnexploredName:Unknown
+P14:SECTOR/szExploredName:Unknown
+P14:SECTOR/szDetailedExploredName:Unknown
+P15:SECTOR/szUnexploredName:Unknown
+P15:SECTOR/szDetailedUnexploredName:Unknown
+P15:SECTOR/szExploredName:Unknown
+P15:SECTOR/szDetailedExploredName:Unknown
+P16:SECTOR/szUnexploredName:Unknown
+P16:SECTOR/szDetailedUnexploredName:Unknown
+P16:SECTOR/szExploredName:Unknown
+P16:SECTOR/szDetailedExploredName:Unknown

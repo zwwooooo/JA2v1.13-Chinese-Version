@@ -1,0 +1,83 @@
+0:TEXT/sHistory:无
+1:TEXT/sHistory:%s 从 A.I.M. 雇佣。
+2:TEXT/sHistory:%s 从 M.E.R.C. 雇佣。
+3:TEXT/sHistory:%s 死亡。
+4:TEXT/sHistory:在 M.E.R.C. 结清账目。
+5:TEXT/sHistory:接受了机构的任务。
+6:TEXT/sHistory:生成了 IMP 档案。
+7:TEXT/sHistory:为 %s 购买了保险合同。
+8:TEXT/sHistory:取消了 %s 的保险合同。
+9:TEXT/sHistory:为 %s 支付了保险赔偿金。
+10:TEXT/sHistory:将 %s 的合同延长了一天。
+11:TEXT/sHistory:将 %s 的合同延长了一周。
+12:TEXT/sHistory:将 %s 的合同延长了两周。
+13:TEXT/sHistory:%s 被解雇。
+14:TEXT/sHistory:%s 辞职。
+15:TEXT/sHistory:任务开始。
+16:TEXT/sHistory:任务完成。
+17:TEXT/sHistory:与 %s 的工头交谈。
+18:TEXT/sHistory:解放了 %s。
+19:TEXT/sHistory:使用了作弊。
+20:TEXT/sHistory:食物应该明天到达 Omerta。
+21:TEXT/sHistory:%s 非柏拉图式地帮助了 Babyface。
+22:TEXT/sHistory:%s 的合同到期。
+23:TEXT/sHistory:%s 被招募。
+24:TEXT/sHistory:机构抱怨缺乏进展。
+25:TEXT/sHistory:战斗胜利。
+26:TEXT/sHistory:%s 矿开始耗尽矿石。
+27:TEXT/sHistory:%s 矿耗尽矿石。
+28:TEXT/sHistory:%s 矿被关闭。
+29:TEXT/sHistory:%s 矿重新开放。
+30:TEXT/sHistory:发现了一个叫 Tixa 的监狱。
+31:TEXT/sHistory:听说了一个叫 Orta 的秘密武器工厂。
+32:TEXT/sHistory:Orta 的科学家捐赠了一批火箭步枪。
+33:TEXT/sHistory:Queen Deidranna 需要尸体。
+34:TEXT/sHistory:Frank 谈到了 San Mona 的战斗比赛。
+35:TEXT/sHistory:一个病人认为他在矿井里看到了什么。
+36:TEXT/sHistory:遇到了一个叫 TNT 的人 - 他卖炸药。
+37:TEXT/sHistory:遇到了著名的前 AIM 佣兵 Mike！
+38:TEXT/sHistory:遇到了 Tony - 他经营军火生意。
+39:TEXT/sHistory:从 Sergeant Krott 那里得到了一把轨道炮。
+40:TEXT/sHistory:把 Angel 的皮革店契约给了 Kyle。
+41:TEXT/sHistory:Madlab 提出要建造一个机器人。
+42:TEXT/sHistory:Gabby 可以制作隐形药剂。
+43:TEXT/sHistory:Hank 停业了。
+44:TEXT/sHistory:Howard 向 Queen Deidranna 提供了氰化物。
+45:TEXT/sHistory:遇到了 Hank - Salinas 的万能商人。
+46:TEXT/sHistory:遇到了 Howard - 在 Malino 经营药品生意。
+47:TEXT/sHistory:遇到了 Perko - 经营一家小型修理店。
+48:TEXT/sHistory:遇到了 Sam - 在 Malino 经营一家五金店。
+49:TEXT/sHistory:Franz 经营电子和其他商品。
+50:TEXT/sHistory:Arnold 在 Doran 经营一家修理店。
+51:TEXT/sHistory:Fredo 在 Doran 修理电子产品。
+52:TEXT/sHistory:收到了 Malino 富人的捐赠。
+53:TEXT/sHistory:遇到了一个叫 Jake 的废品商人。
+54:TEXT/sHistory:某个流浪汉给了我们一张电子钥匙卡。
+55:TEXT/sHistory:贿赂了守卫以打开囚犯的门。
+56:TEXT/sHistory:如果 Dave 有汽油，他会免费提供加油。
+57:TEXT/sHistory:贿赂了 Pablo。
+58:TEXT/sHistory:Kingpin 把钱藏在 San Mona 的矿井里。
+59:TEXT/sHistory:%s 赢得了极限战斗比赛。
+60:TEXT/sHistory:%s 输掉了极限战斗比赛。
+61:TEXT/sHistory:%s 在极限战斗中被取消资格。
+62:TEXT/sHistory:在废弃的矿井里发现了大量藏匿的钱。
+63:TEXT/sHistory:遇到了 Kingpin 派来的刺客。
+64:TEXT/sHistory:失去了对区域的控制。
+65:TEXT/sHistory:防御了区域。
+66:TEXT/sHistory:战斗失败。
+67:TEXT/sHistory:致命的伏击。
+68:TEXT/sHistory:消灭了敌人的伏击。
+69:TEXT/sHistory:攻击失败。
+70:TEXT/sHistory:攻击成功！
+71:TEXT/sHistory:生物攻击。
+72:TEXT/sHistory:被血猫杀死。
+73:TEXT/sHistory:屠杀了血猫。
+74:TEXT/sHistory:%s 被杀。
+75:TEXT/sHistory:给了 Carmen 一个恐怖分子的头。
+76:TEXT/sHistory:Slay 离开。
+77:TEXT/sHistory:杀死了 %s。
+78:TEXT/sHistory:遇到了 Waldo - 飞机机械师。
+79:TEXT/sHistory:直升机修理开始。预计时间：%d 小时。
+80:TEXT/sHistory:在 Malino 宫殿救了 Enrico Chivaldori。
+81:TEXT/sHistory:获得了对计划中的 Tracona 攻击的炮火支援。
+82:TEXT/sHistory:获得了对计划中的 Alma 基地攻击的 SCUD 支援。

@@ -1,0 +1,182 @@
+@T,C163,R134,D16,S10,J1,};
+@T,C163,R134,{;JA2 Vengeance : Reloaded
+@T,C163,R134,B20,{;-----------------------------------------
+@T,C200,{;Based on a mod by
+@T,{;The_Scorpion &
+@T,B30,};the original Vengeance team
+@T,B80,C163,R134,{;-----------------------------------------
+@T,B40,C144,R134,R208,{;Core Development
+Hawkeye
+@}; Scheinworld
+@T,R134,{;English Translation
+Buns
+Commandant
+DepressivesBrot
+Dieter (main translator)
+Hawkeye
+LootFragg (initiated by Marko)
+@};Scheinworld
+@T,R134,{;VR SVN Contributors
+Anv
+Buggler
+DepressivesBrot
+Exurok
+Hawkeye
+Sam Hotte
+Scheinworld
+Sevenfm
+@};Vritran
+@T,R134,{;Tilesets/Mapping
+@};Hawkeye
+@T,R134,{;Scripting
+Anv
+@};Scheinworld
+@T,{;Coding
+Anv (one of two VR main coders)
+Arulcish_Lion
+Buggler
+DepressivesBrot
+Realist
+@};Sevenfm (one of two VR main coders)
+@T,{;Graphic Arts/Interface
+Anv
+Cagemonkey
+Exurok
+Hawkeye
+Kaerar
+@};Kazuya
+@T,R134,{;Faces
+Anv (main artist)
+Andr
+Calu
+Extropianer
+Hachiryoku
+Hawkeye
+Jazz (Legion 2)
+Kazuya
+KindlyOne
+Ron
+Sucho
+Watchman
+@};Wulfy301
+@T,R134,{;Item Mod
+Smeagol (AIMNAS)
+Exurok (EXRX Mods) supported by
+@};his friend: Captrandom
+@T,R134,{;Items/Item Modifications
+Anv
+Hawkeye
+Scheinworld
+Sevenfm
+Coolberg
+Kaerar
+Green Eyes
+Wil473
+@};(various other modders from different mods like IoV)
+@};
+@T,R134,{;Weapon Sounds
+Sevenfm
+@};Chatner
+@T,R134,{;Voice Actors
+Hawkeye (main actor)
+Ashley Eddy
+Bobby R.
+Crimson Timsen
+Cycloid Torus
+Dieter
+Dimitri
+Exurok
+Headhunter
+Kasar
+MIG
+Nadine
+Sharlene Eicher
+Spookygirl
+Thor
+Vicky (Renegade Republik)
+YossarianLives (Nathan) &
+his friends: Kristie & Christian
+@};Zombiehunter
+@T,R134,{;Sound Effects
+Alex_audio, Biawinter
+Danieldouch, Ecfike, Fmceretta
+Giddster, Prucanada, Ravenwolfprods
+Sage Tyrtle, Sam54123, Stuxer
+@};Vosvoy
+@T,R134,{;Voice Sets & Taunts
+Hawkeye
+@};Vritran
+@T,R134,{;Original Music
+'Lost Control' by ArcticFoxMusic
+https://www.youtube.com/watch?v=sRfq9n4qwQw&t=0s
+'Shadow' by ArctivFoxMusic
+https://www.youtube.com/watch?v=x04HFQSDRTw&t=0s
+'Arctic Sage' 'Battleground' 'Clandestine' 
+'Cover Up' 'Extraction' 'Foundation'
+ 'Ghost' 'Glitterworld' 'Incursion'
+'Moonrise'
+ 'PMC' 'Ratnik' 'Sentinel' 'Subject 07' 'Shadow'
+ 'Sleeper Agent' 'Smuggler' 'Strategic' 'Surgical'
+ 'UAV' 'Unsanctioned' and 'Zeroed' by Avery Alexander
+@};arcticstealth.bandcamp.com
+'Concealed' 'Hazardous Descent' 'Needle in a Haystack' 'Recon' 
+'Restricted Area' 'Stealthy Stride' 'Warm Embrace' by Irving Heat
+'Stranded' by Marcos H. Bolanos
+@};freemusicarchive.org/music/Marcos_H_Bolanos/music-for-no-film/stranded
+'Hot Pursuit' by Kevin MacLeod
+kevinmacleod.bandcamp.com/track/hot-pursuit
+'Blood in the Water' by Mr Smith
+@};freemusicarchive.org/music/mr-smith/studio-city/blood-in-the-water
+'Reflector' by Mr Smith
+@};freemusicarchive.org/music/mr-smith/acoustic-guitars/reflector
+@};www.FesliyanStudios.com Background Music
+'Tactical Stealth Music'
+by Province 6
+'Anxiety' by Soundridemusic
+https://www.youtube.com/watch?v=MeRCvqm_ZQM&t=0s
+'Dark Crimes' by Soundridemusic
+https://www.youtube.com/watch?v=BEVg8Chp9OE&t=0s
+'Into the Darkness' by Soundridemusic
+https://www.youtube.com/watch?v=ey6LvigN5Sg&t=0s
+'The Final Chase' by Soundridemusic
+@};https://www.youtube.com/watch?v=qnsRgxfZUSQ&t=0s
+'Tensions Run High' by Soundridemusic
+@};https://www.youtube.com/watch?v=Ly9H63SLJJo&t=0s
+'Dusk' by Soundridemusic
+https://www.youtube.com/watch?v=mvlj_u8_Ujg
+@T,R134,{;Other Thanks
+RoWa21 & the JA2 v1.13 development team
+The Bear's Pit JA community
+Shanga
+Lalien (Vengeance SVN)
+Callahan (DoM)
+Cobain (Bloody Grounds) 
+Dansken (MercStartingGear Editor)
+Edmortimer (Facilities, Backgrounds, MercOpinions & Profiles)
+Kriplo (Map-Editor)
+Cerhio
+Fan
+Flugente
+Gmonk
+Hager
+Jazz
+Jurg Steiner
+Khor1255 (parachute animation)
+Kitty
+Lockie
+Merc05
+Realist
+Soto
+Sucho
+Tiler_Durdan
+@};Will Gates
+Animium.com, 3D-auto-club.blogspot.com
+Freesound.org, Sketchfab, o0ozexo0o
+@T,C163,R134,D16,B40,S10,J1,};
+@T,C163,R134,B20,{;------------------------------------------
+@T,C144,B20,};The Wanton Winter Beta (10.01.2024)
+@T,C163{;------------------------------------------
+@T,B40,C208,{; 
+@T,R134,{; And finally, to all those who offered to help but left us hanging...
+@T,R134,{; Thanks for nothing!
+@}; 
