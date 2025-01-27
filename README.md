@@ -6,6 +6,7 @@ Vengeance Reloaded 简介
 
 - 这是继 Arulco 第一场战役之后的 JA2 非官方续集
 - Hawkeye 在熊窝的发布贴 http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=23256&start=0&
+- Github https://github.com/VengeanceReloaded
 
 目录说明
 
