@@ -74145,10 +74145,10 @@
 	<ITEM>
 		<uiIndex>2848</uiIndex>
 		<szItemName>mod. Rifle LAM</szItemName>
-		<szLongItemName>改装激光，AN/PEQ-2A</szLongItemName>
-		<szItemDesc>这个中型先进激光瞄准模块相较于标准发射器具有更高的射程。只能安装在至少与冲锋枪同等大小的武器上。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>激光模块，步枪LAM</szLongItemName>
+		<szItemDesc>这个激光瞄准模块旨在适配现代步枪导轨接口系统。出奇的是，这东西感觉黏黏的。</szItemDesc>
 		<szBRName>mod. Laser, Rifle LAM</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -74179,10 +74179,10 @@
 	<ITEM>
 		<uiIndex>2849</uiIndex>
 		<szItemName>mod. Foregrip</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这个激光瞄准模块是为现代AK系列武器设计的，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>前握把</szLongItemName>
+		<szItemDesc>一款特殊的握把，可以安装在大多数冲锋枪和步枪上，以增强连发和选择性射击的精度。出奇的是，这东西感觉黏黏的。</szItemDesc>
 		<szBRName>mod. Foregrip</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>524288</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -74207,10 +74207,10 @@
 	<ITEM>
 		<uiIndex>2850</uiIndex>
 		<szItemName>int. Scope 2x</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这个激光瞄准模块是为现代M4系列武器设计的，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>2x瞄准镜</szLongItemName>
+		<szItemDesc>这种瞄准镜通常内置于现代突击步枪上，尽管它也可以安装在左轮手枪、霰弹枪或冲锋枪上。</szItemDesc>
 		<szBRName>mod. Scope, 2x</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -74241,10 +74241,10 @@
 	<ITEM>
 		<uiIndex>2851</uiIndex>
 		<szItemName>mod. Scope 4x</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>一种短型激光瞄准器，适合于狙击步枪。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>4x ACOG瞄准镜</szLongItemName>
+		<szItemDesc>战斗用瞄准镜，放大倍率为4倍。</szItemDesc>
 		<szBRName>mod. Scope, 4x ACOG</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -74275,10 +74275,10 @@
 	<ITEM>
 		<uiIndex>2852</uiIndex>
 		<szItemName>ACOG Reflex</szItemName>
-		<szLongItemName>改装激光，长型</szLongItemName>
-		<szItemDesc>一种长型激光瞄准器，适合于狙击步枪。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>4x ACOG反射瞄准镜</szLongItemName>
+		<szItemDesc>Trijicon先进战斗光学瞄准镜，放大倍率为4倍，额外的DOCTER反射瞄准器安装在目镜上方以加快目标获得速度。</szItemDesc>
 		<szBRName>mod. Scope, 4x ACOG Reflex</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -74311,10 +74311,10 @@
 	<ITEM>
 		<uiIndex>2853</uiIndex>
 		<szItemName>mod. PSO-1</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>PSO-1瞄准镜</szLongItemName>
+		<szItemDesc>俄罗斯标准瞄准镜，适用于许多AK型步枪。放大倍率为4倍。出奇的是，这东西感觉黏黏的。</szItemDesc>
 		<szBRName>mod. Scope, PSO-1</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74346,10 +74346,10 @@
 	<ITEM>
 		<uiIndex>2854</uiIndex>
 		<szItemName>mod. Scope 7x</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>7x瞄准镜</szLongItemName>
+		<szItemDesc>使用这个瞄准镜可以为手动步枪、AR-10、FAL、G3、SCAR-H或M-14提供精确性能，以担任指定射手角色。</szItemDesc>
 		<szBRName>mod. Scope, 7x</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -74383,8 +74383,8 @@
 	<ITEM>
 		<uiIndex>2855</uiIndex>
 		<szItemName>Nada</szItemName>
-		<szLongItemName>改装激光，红点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>自动生成的无内容物品</szLongItemName>
+		<szItemDesc>索引3081</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
@@ -74394,10 +74394,10 @@
 	<ITEM>
 		<uiIndex>2856</uiIndex>
 		<szItemName>mod. Laser, AN/PEQ-2A</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>AN/PEQ-2A激光器</szLongItemName>
+		<szItemDesc>这种中型的先进激光瞄准模块与标准激光相比，具有更高的射程。只能安装在至少是冲锋枪大小的火器上。出奇的是，这东西感觉黏黏的。</szItemDesc>
 		<szBRName>mod. Laser, AN/PEQ-2A</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -74434,10 +74434,10 @@
 	<ITEM>
 		<uiIndex>2857</uiIndex>
 		<szItemName>Alcohol-Oil Mix</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>酒精-油混合物</szLongItemName>
+		<szItemDesc>不要喝！</szItemDesc>
 		<szBRName>Alcohol-Oil Mix</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>106</ubGraphicNum>
@@ -74455,10 +74455,10 @@
 	<ITEM>
 		<uiIndex>2858</uiIndex>
 		<szItemName>Trijicon Night Sight</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Trijicon明亮且坚固的夜间瞄准器</szLongItemName>
+		<szItemDesc>这是大多数轻型手枪唯一的自发光瞄准器系统，确保比任何其他铁瞄准器具有更高的夜间射击精度。</szItemDesc>
 		<szBRName>Trijicon's Bright &amp; Tough Night Sights</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>充满氚的磷酸盐玻璃灯提供电池无源的照明，确保在夜间射击的精度。附带12年保修。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -74484,10 +74484,10 @@
 	<ITEM>
 		<uiIndex>2859</uiIndex>
 		<szItemName>PU Scope</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>PU瞄准镜</szLongItemName>
+		<szItemDesc>另一款复古的二战时代瞄准镜，最初用于莫辛-纳甘步枪，此版本的PU瞄准镜带有AK瞄准镜安装，适配更多的WP枪支。</szItemDesc>
 		<szBRName>PU Scope</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>另一款复古的二战时代瞄准镜，最初用于莫辛-纳甘步枪，此版本的PU瞄准镜带有AK瞄准镜安装，适配更多的WP枪支。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -74524,10 +74524,10 @@
 	<ITEM>
 		<uiIndex>2860</uiIndex>
 		<szItemName>Nada</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>无</szLongItemName>
+		<szItemDesc>索引2860</szItemDesc>
 		<szBRName>Nothing</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>无</szBRDesc>
 		<usItemClass>1</usItemClass>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
@@ -74540,10 +74540,10 @@
 	<ITEM>
 		<uiIndex>2861</uiIndex>
 		<szItemName>553 Holo sight</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Eotech 553 A65全息瞄准器</szLongItemName>
+		<szItemDesc>经过对各种光学瞄准器的广泛测试，美国特种作战指挥部将Eotech HWS标准化为其1X武器光学瞄准器，适用于近战和城市作战区域。Eotech进一步改进了这一经过战斗验证的设计，为553 A65全息武器瞄准器增加了额外的功能。</szItemDesc>
 		<szBRName>Eotech 553 A65 Holographic Sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>EOTech的553 A65全息武器瞄准器的优势在于其全息瞄准图案，无论在何种光照条件下都能瞬间可见，无论射击角度如何都能直观居中，并始终呈现在视野中，以实现快速的目标获取。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -74573,10 +74573,10 @@
 	<ITEM>
 		<uiIndex>2862</uiIndex>
 		<szItemName>Holo sight</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Holographic Sight XPS2</szLongItemName>
+		<szItemDesc>XPS2是EOTech型号中最短、最小和最轻的全息武器瞄准器，不带夜视。其小巧的尺寸和重量非常便利，适合猎人和执法人员携带。</szItemDesc>
 		<szBRName>Holographic Sight XPS2</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>XPS2是EOTech型号中最短、最小和最轻的全息武器瞄准器。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -74604,10 +74604,10 @@
 	<ITEM>
 		<uiIndex>2863</uiIndex>
 		<szItemName>Steel Tube w. Primer</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>钢管与底火</szLongItemName>
+		<szItemDesc>在这根钢管上放置了一个引爆器。这可用于什么呢？</szItemDesc>
 		<szBRName>Steel Tube w. Primer</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>835</ubGraphicNum>
@@ -74622,10 +74622,10 @@
 	<ITEM>
 		<uiIndex>2864</uiIndex>
 		<szItemName>Upper AR57 11"</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部AR57 11"</szLongItemName>
+		<szItemDesc>这个上机匣可以用于将AR57转换为11"版本。</szItemDesc>
 		<szBRName>Upper AR57 11" Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个上机匣可以用于将AR57转换为11"版本。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>502</ubGraphicNum>
@@ -74644,10 +74644,10 @@
 	<ITEM>
 		<uiIndex>2865</uiIndex>
 		<szItemName>Upper AR57 16"</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部AR57 16"</szLongItemName>
+		<szItemDesc>这个上机匣可以用于将AR57转换为16"版本。</szItemDesc>
 		<szBRName>Upper AR57 16" Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个上机匣枪管组件可以用于将任何AR57转换为16"版本。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>503</ubGraphicNum>
@@ -74666,10 +74666,10 @@
 	<ITEM>
 		<uiIndex>2866</uiIndex>
 		<szItemName>Upper AR57 6" S</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部AR57 6" S</szLongItemName>
+		<szItemDesc>这个上机匣可以用于将AR57转换为6"消声版本。</szItemDesc>
 		<szBRName>Upper AR57 6" S Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个上机匣组件可用于将您的AR57转换为6"消声版本。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>504</ubGraphicNum>
@@ -74688,10 +74688,10 @@
 	<ITEM>
 		<uiIndex>2867</uiIndex>
 		<szItemName>Upper M4A1</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部M4A1</szLongItemName>
+		<szItemDesc>这是M4A1卡宾枪的基本上机匣。</szItemDesc>
 		<szBRName>Upper M4A1 Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>为M4A1卡宾枪提供基本上机匣的枪管组件。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>505</ubGraphicNum>
@@ -74710,10 +74710,10 @@
 	<ITEM>
 		<uiIndex>2868</uiIndex>
 		<szItemName>Upper M4A3</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部M4A3</szLongItemName>
+		<szItemDesc>该上机匣可将M4A1卡宾枪转换为Bushmaster M4A3，发射6.8 SPC子弹。</szItemDesc>
 		<szBRName>Upper M4A3 Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>该上机匣枪管组件可将M4A1卡宾枪转换为Bushmaster M4A3，发射6.8 SPC子弹。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>506</ubGraphicNum>
@@ -74732,10 +74732,10 @@
 	<ITEM>
 		<uiIndex>2869</uiIndex>
 		<szItemName>Upper Beowulf</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部Beowulf</szLongItemName>
+		<szItemDesc>这个重型上机匣可将M4A1卡宾枪转换为.50 Beowulf步枪。</szItemDesc>
 		<szBRName>Upper Beowulf Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>对于那些擅长使用工具的人，这个组件提供了将您现有的M4A1卡宾枪转换为.50 Beowulf步枪所需的一切。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>507</ubGraphicNum>
@@ -74754,10 +74754,10 @@
 	<ITEM>
 		<uiIndex>2870</uiIndex>
 		<szItemName>Upper Wh. Kitty</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - 上部Whisper Kitty</szLongItemName>
+		<szItemDesc>这个上机匣可用于将M4A1卡宾枪转换为消声Whisper Kitty特种步枪。</szItemDesc>
 		<szBRName>Upper Whisper Kitty Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个上机匣可用于将M4A1卡宾枪转换为消声Whisper Kitty特种步枪。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>508</ubGraphicNum>
@@ -74776,10 +74776,10 @@
 	<ITEM>
 		<uiIndex>2871</uiIndex>
 		<szItemName>Camo Cover Wood</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装罩MK.III木质</szLongItemName>
+		<szItemDesc>这个头盔伪装罩在林地区域提供伪装。</szItemDesc>
 		<szBRName>Camo Cover MK.III Wood</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>由军用规格的尼龙/棉制成，具备插槽以允许眼镜固定带穿过，后方有通讯设备翻盖，使用魔术贴扣合。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -74802,10 +74802,10 @@
 	<ITEM>
 		<uiIndex>2872</uiIndex>
 		<szItemName>Camo Cover Desert</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装罩MK.III沙漠</szLongItemName>
+		<szItemDesc>这个头盔伪装罩在沙漠区域提供伪装。</szItemDesc>
 		<szBRName>Camo Cover MK.III Desert</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个头盔伪装罩在干旱地区提供伪装，并且配有魔术贴扣合。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -74828,10 +74828,10 @@
 	<ITEM>
 		<uiIndex>2873</uiIndex>
 		<szItemName>Camo Cover Urban</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装罩MK.III城市</szLongItemName>
+		<szItemDesc>这个头盔伪装罩在城市区域提供伪装。</szItemDesc>
 		<szBRName>Camo Cover MK.III Urban</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个头盔伪装罩在城市区域提供伪装，并使用魔术贴扣合。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -74854,10 +74854,10 @@
 	<ITEM>
 		<uiIndex>2874</uiIndex>
 		<szItemName>Camo Cover Night</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装罩MK.III夜间</szLongItemName>
+		<szItemDesc>这个头盔伪装罩在夜间作战中隐藏头盔。</szItemDesc>
 		<szBRName>Camo Cover MK.III Night</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这个头盔伪装罩在夜间作战中隐藏头盔。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<AttachmentPoint>4503599627370496</AttachmentPoint>	<!-- Armour Helmet - Cover -->
@@ -74879,10 +74879,10 @@
 	<ITEM>
 		<uiIndex>2875</uiIndex>
 		<szItemName>Jar of Marbles</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>弹珠罐</szLongItemName>
+		<szItemDesc>一个装满弹珠的玻璃罐。</szItemDesc>
 		<szBRName>Jar of Marbles</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>847</ubGraphicNum>
@@ -74897,10 +74897,10 @@
 	<ITEM>
 		<uiIndex>2876</uiIndex>
 		<szItemName>Sightmark RS</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Sightmark反射瞄准器</szLongItemName>
+		<szItemDesc>对于它的尺寸来说极其轻便，Ultra Shot是Sightmark反射瞄准器系列中最大和最强的瞄准器。完美适合霰弹枪或步枪，Ultra Shot反射瞄准器配备内置的综合导轨，可适配所有标准皮卡丁尼或Weaver底座。</szItemDesc>
 		<szBRName>Sightmark Reflex sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>对于它的尺寸来说极其轻便，Ultra Shot是Sightmark反射瞄准器系列中最大和最强的瞄准器。完美适合霰弹枪或步枪，Ultra Shot反射瞄准器配备内置的综合导轨，可适配所有标准皮卡丁尼或Weaver底座。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -74931,10 +74931,10 @@
 	<ITEM>
 		<uiIndex>2877</uiIndex>
 		<szItemName>Reflex SMR</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>反射瞄准器，SMR</szLongItemName>
+		<szItemDesc>这个反射瞄准器增强目标获取，可以安装在大多数火器上。</szItemDesc>
 		<szBRName>Reflex Sight SMR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这是一款松鼠猎人的梦想。这个实惠的反射瞄准器使得打靶更容易。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -74965,10 +74965,10 @@
 	<ITEM>
 		<uiIndex>2878</uiIndex>
 		<szItemName>mod. SMR</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>SMR反射瞄准器</szLongItemName>
+		<szItemDesc>这个反射瞄准器增强目标获取，可以安装在大多数火器上。</szItemDesc>
 		<szBRName>mod. SMR Reflex Sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -74997,10 +74997,10 @@
 	<ITEM>
 		<uiIndex>2879</uiIndex>
 		<szItemName>FF Laser</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Firefield激光器</szLongItemName>
+		<szItemDesc>你只需要一击干净的射击来打击敌人。确保能命中。这款动态且强力的激光装置配备了Weaver导轨，能够轻松固定在各种火器的扳机保护上，包括冲锋枪和手枪。</szItemDesc>
 		<szBRName>Firefield Laser</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>配有战术压力垫的紧凑激光装置易于使用，带有开关的倾斜开关。非常适合家庭自卫，强大的绿色激光能迅速平息目标并消除威胁。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -75036,10 +75036,10 @@
 	<ITEM>
 		<uiIndex>2880</uiIndex>
 		<szItemName>AN/PEQ-15</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>AN/PEQ-15 DBALA2</szLongItemName>
+		<szItemDesc>这些红外激光器发出高度平行的红外光束，用于精确武器瞄准，以及一条具有可调焦距的红外照明激光。</szItemDesc>
 		<szBRName>AN/PEQ-15 DBALA2</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>AN/PEQ-15高级目标指示器/照明器/瞄准灯以及AN/PEQ-15A双束瞄准激光高级（DBALA2）旨在与夜视设备一起使用，以在黑暗中打击敌方目标。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -75077,10 +75077,10 @@
 	<ITEM>
 		<uiIndex>2881</uiIndex>
 		<szItemName>CRL Laser Sight</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Sightmark CRL三重激光</szLongItemName>
+		<szItemDesc>一款实惠、紧凑的战术激光瞄准器，受军事应用的启发，轻量但耐用的复合塑料机身。</szItemDesc>
 		<szBRName>Sightmark CRL Tri Laser</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>一款实惠的战术激光瞄准器，受军队和执法应用的启发。低调且紧凑的尺寸使其非常适合快速射击或家庭自卫。耐用且轻便。可调风偏和高度。夜间可见300码，阳光下20码。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
@@ -75116,10 +75116,10 @@
 	<ITEM>
 		<uiIndex>2882</uiIndex>
 		<szItemName>Flu Vaccine</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>流感疫苗</szLongItemName>
+		<szItemDesc>像其他人一样，今天就注射吧！没问题！这个从未测试过的安全疫苗将帮助你度过这一年而不致死。主要添加剂有：汞、味精、甲醛和铝。可能导致基因信息的突变和偏头痛。但别担心，Gardasil会照顾你。</szItemDesc>
 		<szBRName>Influenza vaccine</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75136,10 +75136,10 @@
 	<ITEM>
 		<uiIndex>2883</uiIndex>
 		<szItemName>mod. Laser, CORSAK</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>CORSAK激光模块</szLongItemName>
+		<szItemDesc>CORSAK激光是一款强大且紧凑的激光目标指示器，适用于各种俄罗斯武器。出奇的是，这东西感觉黏黏的。</szItemDesc>
 		<szBRName>mod.  Laser, CORSAK</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75173,10 +75173,10 @@
 	<ITEM>
 		<uiIndex>2884</uiIndex>
 		<szItemName>Trigger&amp;Spring</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>扳机和弹簧</szLongItemName>
+		<szItemDesc>这一改进的扳机组具备新的枪栓和弹簧系统。</szItemDesc>
 		<szBRName>Trigger&amp;Spring</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32768</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75199,10 +75199,10 @@
 	<ITEM>
 		<uiIndex>2885</uiIndex>
 		<szItemName>Trigger Group 2</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>扳机组2</szLongItemName>
+		<szItemDesc>对于不快乐的开枪狂人来说：只需将ACME扳机组安装到你最喜欢的突击步枪上，享受简单有效的双发爆发射击。</szItemDesc>
 		<szBRName>Trigger Group 2</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32768</nasAttachmentClass>
 		<AttachmentPoint>8589934592</AttachmentPoint>	<!-- Internal - Trigger Group -->
@@ -75227,10 +75227,10 @@
 	<ITEM>
 		<uiIndex>2886</uiIndex>
 		<szItemName>mod. Trigger Group 2</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>扳机组2</szLongItemName>
+		<szItemDesc>对于不快乐的开枪狂人来说：只需将ACME扳机组安装到你最喜欢的突击步枪上，享受简单有效的双发爆发射击。</szItemDesc>
 		<szBRName>mod. Trigger Group 2</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32768</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75256,10 +75256,10 @@
 	<ITEM>
 		<uiIndex>2887</uiIndex>
 		<szItemName>Trigger Group 4</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>扳机组4</szLongItemName>
+		<szItemDesc>对于不快乐的开枪狂人来说：只需将ACME扳机组安装到你最喜欢的突击步枪上，享受简单有效的四发爆发射击。</szItemDesc>
 		<szBRName>Trigger Group 4</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32768</nasAttachmentClass>
 		<AttachmentPoint>8589934592</AttachmentPoint>	<!-- Internal - Trigger Group -->
@@ -75284,10 +75284,10 @@
 	<ITEM>
 		<uiIndex>2888</uiIndex>
 		<szItemName>mod. Trigger Group 4</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>扳机组4</szLongItemName>
+		<szItemDesc>对于不快乐的开枪狂人来说：只需将ACME扳机组安装到你最喜欢的突击步枪上，享受简单有效的双发爆发射击。</szItemDesc>
 		<szBRName>mod. Trigger Group 4</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32768</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75313,10 +75313,10 @@
 	<ITEM>
 		<uiIndex>2889</uiIndex>
 		<szItemName>Blaser Barrel .300 WM</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - Blaser .300 WM</szLongItemName>
+		<szItemDesc>这个枪管转换组件用于将Blaser R93转换为.300 WM配置。</szItemDesc>
 		<szBRName>Blaser .300 WM Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>该枪管转换组件用于将Blaser R93转换为.300 WM配置。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
@@ -75336,10 +75336,10 @@
 	<ITEM>
 		<uiIndex>2890</uiIndex>
 		<szItemName>Blaser Barrel 7.62</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - Blaser 7.62</szLongItemName>
+		<szItemDesc>这个枪管转换组件用于将Blaser R93转换为7.62x51配置。</szItemDesc>
 		<szBRName>Blaser 7.62 Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>该枪管转换组件用于将Blaser R93转换为7.62x51配置。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
@@ -75359,10 +75359,10 @@
 	<ITEM>
 		<uiIndex>2891</uiIndex>
 		<szItemName>Blaser Barrel .30-06</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪管组件 - Blaser .30-06</szLongItemName>
+		<szItemDesc>这个枪管转换组件用于将Blaser R93转换为.30-06配置。</szItemDesc>
 		<szBRName>Blaser .30-06 Kit</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>该枪管转换组件用于将Blaser R93转换为.30-06配置。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
@@ -75382,10 +75382,10 @@
 	<ITEM>
 		<uiIndex>2892</uiIndex>
 		<szItemName>Muscle Mag</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>肌肉与健身</szLongItemName>
+		<szItemDesc>1990年9月的《肌肉与健身》为读者提供了关于如何通过像恐龙一样饮食、进行适当锻炼以及保持良好态度从而过上健康生活的超大型提示。还有类固醇！</szItemDesc>
 		<szBRName>Muscle&amp;Fitness</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75402,10 +75402,10 @@
 	<ITEM>
 		<uiIndex>2893</uiIndex>
 		<szItemName>Gun Mag</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪械与美女第21期</szLongItemName>
+		<szItemDesc>40页纯粹的动作，专注于从超性感的角度描绘女性战术操作者。</szItemDesc>
 		<szBRName>Magazine</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75423,10 +75423,10 @@
 	<ITEM>
 		<uiIndex>2894</uiIndex>
 		<szItemName>Bazoombas</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Bazoombas杂志</szLongItemName>
+		<szItemDesc>这本成人杂志满满是露骨的奶罩兔子。每个月的期刊都装满了巨大的yabos！特色文章有年度中心折页Candy的34-HH冰雪棉花糖和更多的胸部诱惑宝贝！</szItemDesc>
 		<szBRName>Porno Magazine</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75442,10 +75442,10 @@
 	<ITEM>
 		<uiIndex>2895</uiIndex>
 		<szItemName>Buns mag</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Buns杂志</szLongItemName>
+		<szItemDesc>第6卷第4期，您最喜欢的臀部成人杂志的6月刊！</szItemDesc>
 		<szBRName>Magazine</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75462,10 +75462,10 @@
 	<ITEM>
 		<uiIndex>2896</uiIndex>
 		<szItemName>Guns&amp;Girls</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪械与美女第41期</szLongItemName>
+		<szItemDesc>《枪械与美女》杂志包含40页性感女孩与一些世界上最异国情调的武器在不现实的战术环境中的照片。</szItemDesc>
 		<szBRName>Magazine</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75481,10 +75481,10 @@
 	<ITEM>
 		<uiIndex>2897</uiIndex>
 		<szItemName>Commando</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>突击队</szLongItemName>
+		<szItemDesc>一名退役的精英黑色行动突击队员发动了一场个人战争，针对一群南美罪犯，这些罪犯绑架了他的女儿，以此要挟他发动革命，把流亡的独裁者重新扶持上台。</szItemDesc>
 		<szBRName>Commando</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>408</ubGraphicNum>
@@ -75499,10 +75499,10 @@
 	<ITEM>
 		<uiIndex>2898</uiIndex>
 		<szItemName>Ghillie Set Wood</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装套件林地</szLongItemName>
+		<szItemDesc>合成尼龙线，可以添加到伪装服上，以提供额外的伪装。此套件以林地颜色为主。</szItemDesc>
 		<szBRName>Ghillie Set Woodland</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>该套件包含七种林地颜色的下一代合成纺织材料，并提供完整的组装轻质伪装伞（不包含）。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75522,10 +75522,10 @@
 	<ITEM>
 		<uiIndex>2899</uiIndex>
 		<szItemName>Ghillie Set Desert</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装套件沙漠</szLongItemName>
+		<szItemDesc>合成尼龙线，可以添加到伪装服上，以提供额外的伪装。此套件以沙漠颜色为主。</szItemDesc>
 		<szBRName>Ghillie Set Desert</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>防水、防腐、阻燃且无味，这款伪装套件包含七种下一代合成线以及关于如何组装轻量伪装伞（不包含）的完整说明。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75545,10 +75545,10 @@
 	<ITEM>
 		<uiIndex>2900</uiIndex>
 		<szItemName>Ghillie Kit Wood</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装套件林地</szLongItemName>
+		<szItemDesc>这个自制的伪装套件使用当地植物提供额外的伪装，当安装在伪装服上时，在林地地区使用效果更好。</szItemDesc>
 		<szBRName>Ghillie Kit Woodland</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8388608</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75564,10 +75564,10 @@
 	<ITEM>
 		<uiIndex>2901</uiIndex>
 		<szItemName>Ghillie Kit Desert</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>伪装套件沙漠</szLongItemName>
+		<szItemDesc>这个自制的伪装套件使用当地植物提供额外的伪装，当安装在伪装服上时，在沙漠地区使用效果更好。</szItemDesc>
 		<szBRName>Ghillie Kit Desert</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8388608</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75583,10 +75583,10 @@
 	<ITEM>
 		<uiIndex>2902</uiIndex>
 		<szItemName>CK WP Sniper</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>转换套件 - SCAR-WP狙击手</szLongItemName>
+		<szItemDesc>这款黑市转换套件包含将SCAR-H或SCAR -WP转换为使用7.62x54R弹药的狙击变体所需的所有必要部分。</szItemDesc>
 		<szBRName>C. K. - SCAR-WP Sniper</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>589</ubGraphicNum>
@@ -75605,10 +75605,10 @@
 	<ITEM>
 		<uiIndex>2903</uiIndex>
 		<szItemName>Documentary</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>他们在喷什么？</szLongItemName>
+		<szItemDesc>这部电影将揭示关于化学线路/地球工程掩盖的真相。由科学家、公司和政府推动的快速发展行业，致力于改变全球气候、控制天气和改变土壤和水的化学组成——这一切都声称是为了人类的更好未来。</szItemDesc>
 		<szBRName>Documentary</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>407</ubGraphicNum>
@@ -75622,10 +75622,10 @@
 	<ITEM>
 		<uiIndex>2904</uiIndex>
 		<szItemName>Judge Dredd</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>审判者德雷德</szLongItemName>
+		<szItemDesc>在一个黑暗的未来，强大且冷酷无情的“法官”们拥有警察和法律系统的最高权威，审判者德雷德是其中最令人畏惧的执法者。施瓦辛格饰演这位英国漫画反派，但高预算和优良的场景也无法阻止影片的失败。</szItemDesc>
 		<szBRName>Video</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>409</ubGraphicNum>
@@ -75639,10 +75639,10 @@
 	<ITEM>
 		<uiIndex>2905</uiIndex>
 		<szItemName>Terminator</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>终结者</szLongItemName>
+		<szItemDesc>在黑暗的2029年，地球统治者们制定了终极计划。他们要通过改变过去来重塑未来。这个计划需要一种没有怜悯、没有痛苦、没有恐惧的存在。某种无法阻挡的力量。</szItemDesc>
 		<szBRName>Video</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>410</ubGraphicNum>
@@ -75656,10 +75656,10 @@
 	<ITEM>
 		<uiIndex>2906</uiIndex>
 		<szItemName>They Live</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>他们生活着</szLongItemName>
+		<szItemDesc>罗迪·派普饰演一个名为Nada的流浪者，他发现统治阶级实际上是外星人，他们掩饰外表并操控人类以消费、繁殖，并通过大众媒体中的潜意识信息接受现状。</szItemDesc>
 		<szBRName>Video</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>411</ubGraphicNum>
@@ -75674,10 +75674,10 @@
 	<ITEM>
 		<uiIndex>2907</uiIndex>
 		<szItemName>Agenda 21</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>议程21</szLongItemName>
+		<szItemDesc>全球思考，地域奴役。这个文档在1992年的联合国环境与发展大会上诞生。</szItemDesc>
 		<szBRName>Agenda 21</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>414</ubGraphicNum>
@@ -75691,10 +75691,10 @@
 	<ITEM>
 		<uiIndex>2908</uiIndex>
 		<szItemName>Document</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>H.A.A.R.P文档</szLongItemName>
+		<szItemDesc>这份500页的文档涵盖了高频活动极光研究计划及其能力。文档分为气象改良、地震、离子层增强以及最后的极光电流调制加热等部分。</szItemDesc>
 		<szBRName>H.A.A.R.P Document</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>415</ubGraphicNum>
@@ -75709,10 +75709,10 @@
 	<ITEM>
 		<uiIndex>2909</uiIndex>
 		<szItemName>MKUltra</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>MKUltra计划</szLongItemName>
+		<szItemDesc>这份关于CIA心理控制的指南是一本极好的读物。数百万美元的研究磨练了重定向焦点、改变情绪、行为和操控个性的方法。它的验证结果帮助情报机构自50年代以来控制大众。</szItemDesc>
 		<szBRName>CIA's Book on Project MK-ultra</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>416</ubGraphicNum>
@@ -75726,10 +75726,10 @@
 	<ITEM>
 		<uiIndex>2910</uiIndex>
 		<szItemName>Nachos</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>玉米片</szLongItemName>
+		<szItemDesc>这些由“边界墨西哥烧烤”制作的玉米片真是太美味了！加上额外的奶酪风味，它将如无其他般阻塞您的动脉。充满了味精，这些兴奋毒素将摧毁脑细胞，以达到那个美味的味道！如果经常食用，预计会出现偏头痛、心悸和癫痫发作。</szItemDesc>
 		<szBRName>Nachos</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75746,10 +75746,10 @@
 	<ITEM>
 		<uiIndex>2911</uiIndex>
 		<szItemName>Pancakes</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>饥饿杰克罐装煎饼</szLongItemName>
+		<szItemDesc>电动滑板车行业的一个爆发，这是为您的家人提供的美味早餐，制作简单！足够的碳水化合物会让您在早午餐前前往急诊室！每天为孩子们提供这个，确保他们在生活中拥有快乐和健康的基础，绝对是好父母的体现！</szItemDesc>
 		<szBRName>Hungry Jacks Canned Pancakes</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75766,10 +75766,10 @@
 	<ITEM>
 		<uiIndex>2912</uiIndex>
 		<szItemName>Noodles</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>富旺面条</szLongItemName>
+		<szItemDesc>速食且美味的富旺面条。无论何时您感到饥饿且时间紧迫，这些面条在2分钟内就能准备好，只需加水。现已包含海豚碎片，因为真他妈的海豚！</szItemDesc>
 		<szBRName>Fu-Wang Noodles</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75786,10 +75786,10 @@
 	<ITEM>
 		<uiIndex>2913</uiIndex>
 		<szItemName>Doodles</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>奶酪饼干</szLongItemName>
+		<szItemDesc>没有什么比奶酪饼干更能美味地引发心脏病！每一盎司有惊人的110卡路里，您将在几天内变得肥胖！副作用可能包括过敏反应、口臭、体味、便秘、骨质疏松、烧心、痤疮、腹泻，还有死亡……也许。</szItemDesc>
 		<szBRName>Cheez Doodles</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75806,10 +75806,10 @@
 	<ITEM>
 		<uiIndex>2914</uiIndex>
 		<szItemName>Twinkie</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>特温克饼</szLongItemName>
+		<szItemDesc>由于其高化学成分，认为这种美国零食海绵蛋糕具有无限的保质期，并且可以多年保存而不变质，可能甚至能抵挡末日！政府补贴使这种垃圾食品价格低廉，但健康账单绝对不会让您省钱。</szItemDesc>
 		<szBRName>Twinkie</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75826,10 +75826,10 @@
 	<ITEM>
 		<uiIndex>2915</uiIndex>
 		<szItemName>BBQ Sauce</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>烧烤酱</szLongItemName>
+		<szItemDesc>美味的德克萨斯BBQ酱，具有额外的风味。用孜然、辣椒、甜椒和安乔粉调味，加入大量黑胡椒、洋葱、少许番茄和糖、肉汤及烟熏味。烤架在哪？</szItemDesc>
 		<szBRName>BBQ Sauce</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不通过BR出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75845,10 +75845,10 @@
 	<ITEM>
 		<uiIndex>2916</uiIndex>
 		<szItemName>ITL MARS</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ITL多用途瞄准反射瞄准器</szLongItemName>
+		<szItemDesc>ITL多用途瞄准反射瞄准器结合了先进的反射瞄准器与高功率激光装置。由于其大小，无法与瞄准镜结合使用。</szItemDesc>
 		<szBRName>ITL MARS</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>IWI Tavor的标准瞄准器，ITL多用途瞄准反射瞄准器结合了一种先进的反射瞄准器与高功率激光装置。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -75885,10 +75885,10 @@
 	<ITEM>
 		<uiIndex>2917</uiIndex>
 		<szItemName>40mm Shell Casing</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>40mm弹壳</szLongItemName>
+		<szItemDesc>这枚弹壳可以与多种40mm手榴弹结合使用，允许使用40mm突击迫击炮发射手榴弹。</szItemDesc>
 		<szBRName>40mm Shell Casing</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这些军事剩余弹壳有一百零一种用途，从制作自定义弹体到在车库或办公室存放杂物。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>994</ubGraphicNum>
@@ -75908,10 +75908,10 @@
 	<ITEM>
 		<uiIndex>2918</uiIndex>
 		<szItemName>Aiming Module SDNV</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SDNV</szLongItemName>
+		<szItemDesc>结合Burris Speeddot与AN/PVS-14夜视瞄准镜的组合。</szItemDesc>
 		<szBRName>Aiming Module SDNV</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75947,10 +75947,10 @@
 	<ITEM>
 		<uiIndex>2919</uiIndex>
 		<szItemName>Aiming Module SDRNV</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SDRNV</szLongItemName>
+		<szItemDesc>结合Burris Speeddot、Reddot LAM与AN/PVS-14夜视瞄准镜的组合。</szItemDesc>
 		<szBRName>Aiming Module SDRNV</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -75993,10 +75993,10 @@
 	<ITEM>
 		<uiIndex>2920</uiIndex>
 		<szItemName>int. Thermal sight</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>热成像瞄准模块</szLongItemName>
+		<szItemDesc>热成像瞄准模块</szItemDesc>
 		<szBRName>Not for sale</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8</AttachmentClass>
 		<nasAttachmentClass>8</nasAttachmentClass>
@@ -76039,10 +76039,10 @@
 	<ITEM>
 		<uiIndex>2921</uiIndex>
 		<szItemName>mod. BORS</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>巴雷特光学测距系统</szLongItemName>
+		<szItemDesc>一种先进的弹道目标计算机，可以直接安装在某些远程狙击步枪上。这个已经被修改为永久固定在枪上。由于BORS直接安装在瞄准镜上，并与高度调节旋钮结合，计算机可以通过简单地转动高度旋钮直到LCD显示目标的射程来与瞄准镜互动。</szItemDesc>
 		<szBRName>mod. Barrett Optical Ranging System</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>131072</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76075,10 +76075,10 @@
 	<ITEM>
 		<uiIndex>2922</uiIndex>
 		<szItemName>Scope 2x R&amp;L</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>2x反射与激光瞄准镜</szLongItemName>
+		<szItemDesc>一款有用的小型瞄准镜、红点LAM与反射瞄准镜的组合，用胶水、胶带和智慧固定在一起。</szItemDesc>
 		<szBRName>WOZ x2 Scope Reflex &amp; Laser</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售 - 组合合并物品</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
 		<AttachmentPoint>1099511627776</AttachmentPoint>	<!-- Scopes - Small 2x -->
@@ -76121,10 +76121,10 @@
 	<ITEM>
 		<uiIndex>2923</uiIndex>
 		<szItemName>ACOG R. L.</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>4x ACOG反射与激光瞄准镜</szLongItemName>
+		<szItemDesc>一款实用的4x瞄准镜、红点LAM与反射瞄准镜的组合。如果您的武器配件槽争夺空间，这款绝对是不错的选择。</szItemDesc>
 		<szBRName>WOZ 4x ACOG Reflex &amp; Laser</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售 - 组合合并物品</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
 		<AttachmentPoint>4398046511104</AttachmentPoint>	<!-- Scopes - Acog 4x -->
@@ -76167,10 +76167,10 @@
 	<ITEM>
 		<uiIndex>2924</uiIndex>
 		<szItemName>7x S.R.L</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>7x反射与激光瞄准镜</szLongItemName>
+		<szItemDesc>一款实用的7x瞄准镜、Reddot LAM与反射瞄准镜的组合。如果您需要节省附加槽位，绝对不如这个更好了。</szItemDesc>
 		<szBRName>mod. Scope, 7x Reflex &amp; Laser</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76212,10 +76212,10 @@
 	<ITEM>
 		<uiIndex>2925</uiIndex>
 		<szItemName>S. 7x R.LAM</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>7x反射与LAM瞄准镜</szLongItemName>
+		<szItemDesc>每当你觉得事情不会更好时，总有人会过来告诉你它会更好！这里有可用的最佳组合，这个瞄准模块由AN/PEQ LAM、7x战斗瞄准镜与反射瞄准镜组成。</szItemDesc>
 		<szBRName>mod. Scope, 7x Reflex &amp; LAM</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76257,10 +76257,10 @@
 	<ITEM>
 		<uiIndex>2926</uiIndex>
 		<szItemName>ACOG R.LAM</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>4x ACOG反射与LAM瞄准镜</szLongItemName>
+		<szItemDesc>一款实用的4x瞄准镜、AN/PEQ LAM与反射瞄准镜的组合。如果您需要节省附加槽位，这款绝对是不错的选择。</szItemDesc>
 		<szBRName>mod. Scope, 4x ACOG Reflex &amp; LAM</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76301,10 +76301,10 @@
 	<ITEM>
 		<uiIndex>2927</uiIndex>
 		<szItemName>mod. AIM SAR</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SAR</szLongItemName>
+		<szItemDesc>结合Burris Speeddot、AR瞄准镜与Reddot LAM的组合。</szItemDesc>
 		<szBRName>mod. Aiming Module SAR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76347,10 +76347,10 @@
 	<ITEM>
 		<uiIndex>2928</uiIndex>
 		<szItemName>mod. AIM SDA</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SDA</szLongItemName>
+		<szItemDesc>结合Burris Speeddot与AR瞄准镜的组合。</szItemDesc>
 		<szBRName>mod. Aiming Module SDA</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76386,10 +76386,10 @@
 	<ITEM>
 		<uiIndex>2929</uiIndex>
 		<szItemName>mod. AIM SDNV</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SDNV</szLongItemName>
+		<szItemDesc>结合Burris Speeddot与AN/PVS-14夜视瞄准镜的组合。</szItemDesc>
 		<szBRName>mod. Aiming Module SDNV</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76426,10 +76426,10 @@
 	<ITEM>
 		<uiIndex>2930</uiIndex>
 		<szItemName>mod. AIM SDRNV</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块SDRNV</szLongItemName>
+		<szItemDesc>结合Burris Speeddot、Reddot LAM和AN/PVS-14夜视瞄准镜的组合。</szItemDesc>
 		<szBRName>mod. Aiming Module SDRNV</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76473,10 +76473,10 @@
 	<ITEM>
 		<uiIndex>2931</uiIndex>
 		<szItemName>mod. AIM WP</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>瞄准模块WP</szLongItemName>
+		<szItemDesc>这个用于俄罗斯枪械的瞄准模块结合了科布拉、PSO-1瞄准镜和CORSAK LAM。</szItemDesc>
 		<szBRName>mod. Aiming Module WP</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76518,10 +76518,10 @@
 	<ITEM>
 		<uiIndex>2932</uiIndex>
 		<szItemName>int. Bipod</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>内置双脚架</szLongItemName>
+		<szItemDesc>通用双脚架适配大多数狙击步枪和突击步枪，以及轻机枪。由铸铝制成，外表为涂层哑光。脚在不使用时可以折叠，方便存储。</szItemDesc>
 		<szBRName>int. Bipod</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>1</AttachmentClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -76553,10 +76553,10 @@
 	<ITEM>
 		<uiIndex>2933</uiIndex>
 		<szItemName>Heavy Bipod</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>重型双脚架</szLongItemName>
+		<szItemDesc>这款重型双脚架适配大多数轻机枪和狙击步枪。虽然将武器置于射击位置可能会更困难，但射击将更精准可控。</szItemDesc>
 		<szBRName>Bipod, Heavy</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>这款重型双脚架适配大多数轻机枪和狙击步枪。虽然将武器置于射击位置可能会更困难，但射击将更精准可控。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentPoint>67108864</AttachmentPoint>	<!-- UB - Heavy Bipod -->
 		<AttachmentClass>1</AttachmentClass>
@@ -76582,10 +76582,10 @@
 	<ITEM>
 		<uiIndex>2934</uiIndex>
 		<szItemName>SD. L.</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>速度点与激光瞄准器</szLongItemName>
+		<szItemDesc>一款适应恶劣条件的高级反射瞄准器。只能与少数瞄准镜结合使用。有人还将Reddot LAM胶合到上面了。</szItemDesc>
 		<szBRName>mod. SpeedDot &amp; Laser Sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76624,10 +76624,10 @@
 	<ITEM>
 		<uiIndex>2935</uiIndex>
 		<szItemName>mod. SMR L.</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>SMR与激光瞄准器</szLongItemName>
+		<szItemDesc>Reddot LAM与Sight Mark反射瞄准器的组合。</szItemDesc>
 		<szBRName>mod. SMR &amp; Laser Sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76662,10 +76662,10 @@
 	<ITEM>
 		<uiIndex>2936</uiIndex>
 		<szItemName>mod. LAM-Flashlight</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>组合，步枪LAM - F-L</szLongItemName>
+		<szItemDesc>这个激光瞄准模块和战术手电筒的组合旨在适配现代步枪导轨接口系统。</szItemDesc>
 		<szBRName>mod. Combo, Rifle LAM - F-L</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -76701,10 +76701,10 @@
 	<ITEM>
 		<uiIndex>2937</uiIndex>
 		<szItemName>mod. Duckbill</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>鸭嘴</szLongItemName>
+		<szItemDesc>这个金属物体，安装在霰弹枪枪口末端时，会使霰弹的散布沿水平线扩展，而不是标准的圆形图案。</szItemDesc>
 		<szBRName>mod. Duckbill</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76730,10 +76730,10 @@
 	<ITEM>
 		<uiIndex>2938</uiIndex>
 		<szItemName>mod. Flash Suppressor</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>闪光抑制器</szLongItemName>
+		<szItemDesc>用于阻止那些恼人的枪口闪光，防止暴露你的藏身之处的标准装备。</szItemDesc>
 		<szBRName>mod. Flash Suppressor</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76759,10 +76759,10 @@
 	<ITEM>
 		<uiIndex>2939</uiIndex>
 		<szItemName>mod. GL Collimator</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>手榴弹发射器瞄准器</szLongItemName>
+		<szItemDesc>一种可以安装在特定手榴弹发射器上的红点瞄准器，以改善射程和目标获取。</szItemDesc>
 		<szBRName>mod. Grenade Launcher Collimator</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76792,10 +76792,10 @@
 	<ITEM>
 		<uiIndex>2940</uiIndex>
 		<szItemName>mod. Griplight</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>握把灯</szLongItemName>
+		<szItemDesc>前握把与战术手电筒的实用组合。</szItemDesc>
 		<szBRName>mod. Griplight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>524288</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76828,10 +76828,10 @@
 	<ITEM>
 		<uiIndex>2941</uiIndex>
 		<szItemName>mod. Grippod</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Grippod</szLongItemName>
+		<szItemDesc>这个Grippod适配许多现代步枪的下部皮卡丁尼导轨。尽管其双脚架不如专业款那么牢固。</szItemDesc>
 		<szBRName>mod. Grippod</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>524288</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76859,10 +76859,10 @@
 	<ITEM>
 		<uiIndex>2942</uiIndex>
 		<szItemName>mod. ISM-4X-IR</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ISM-4X-IR</szLongItemName>
+		<szItemDesc>集成瞄准模块结合了高功率激光瞄准模块、优质瞄准镜和红点瞄准器。</szItemDesc>
 		<szBRName>mod. ISM-4X-IR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -76903,10 +76903,10 @@
 	<ITEM>
 		<uiIndex>2943</uiIndex>
 		<szItemName>mod. ISM-V-IR</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ISM-V-IR</szLongItemName>
+		<szItemDesc>这是红点瞄准器与高功率瞄准激光（包括IR）的组合。</szItemDesc>
 		<szBRName>mod. ISM-V-IR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76951,10 +76951,10 @@
 	<ITEM>
 		<uiIndex>2944</uiIndex>
 		<szItemName>mod. ITL MARS</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ITL MARS</szLongItemName>
+		<szItemDesc>ITL多用途瞄准反射瞄准器结合了先进的反射瞄准器与高功率激光设备。由于其尺寸，无法与瞄准镜结合使用。</szItemDesc>
 		<szBRName>mod. ITL MARS</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -76992,10 +76992,10 @@
 	<ITEM>
 		<uiIndex>2945</uiIndex>
 		<szItemName>mod. Laser Sight</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>激光瞄准器</szLongItemName>
+		<szItemDesc>通用日光激光器以相当重要的范围投射出高度可见的红点。在不锈钢外壳中，适合大多数冲锋枪和手枪的扳机保护上。</szItemDesc>
 		<szBRName>mod. Laser Sight</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77028,10 +77028,10 @@
 	<ITEM>
 		<uiIndex>2946</uiIndex>
 		<szItemName>mod. LAM-200</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Insight LAM-200</szLongItemName>
+		<szItemDesc>明天的瞄准器……为了今天的手枪。当标准激光瞄准器无法满足需求时，LAM-200通过添加红外线以提高夜间可见性，与夜视镜结合使用。</szItemDesc>
 		<szBRName>mod. Insight LAM-200</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>128</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77068,10 +77068,10 @@
 	<ITEM>
 		<uiIndex>2947</uiIndex>
 		<szItemName>mod. Aimpoint</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>旧的Aimpoint激光器</szLongItemName>
+		<szItemDesc>这个旧的激光瞄准装置重到足以成为一种武器（棍子）。适配旧款HK步枪。</szItemDesc>
 		<szBRName>mod. Laser, Old Aimpoint</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>1048576</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77104,10 +77104,10 @@
 	<ITEM>
 		<uiIndex>2948</uiIndex>
 		<szItemName>mod. Trijicon NS</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>B&amp;T N.S.比赛瞄准器</szLongItemName>
+		<szItemDesc>Trijicon的明亮且坚固的夜间瞄准器 - 大多数轻型手枪唯一的自发光瞄准器系统，确保比任何其他铁瞄准器具有更高的夜间射击精度。</szItemDesc>
 		<szBRName>mod. Match Sight, B&amp;T N.S.</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>256</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77134,10 +77134,10 @@
 	<ITEM>
 		<uiIndex>2949</uiIndex>
 		<szItemName>mod. Match Sights</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>比赛瞄准器</szLongItemName>
+		<szItemDesc>这些比赛瞄准器被制作用于竞技射击的精确度。由于更容易的目标获取，它还允许训练有素的射手在较短的时间内射击两发快速射击。</szItemDesc>
 		<szBRName>mod. Match Sights</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>256</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
@@ -77161,10 +77161,10 @@
 	<ITEM>
 		<uiIndex>2950</uiIndex>
 		<szItemName>mod. Muzzle Break</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>枪口制动器</szLongItemName>
+		<szItemDesc>该设备减少自动火的后坐力。可以安装在所有口径7.62轻机枪和突击步枪上。</szItemDesc>
 		<szBRName>mod. Muzzle Break</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77194,10 +77194,10 @@
 	<ITEM>
 		<uiIndex>2951</uiIndex>
 		<szItemName>mod. SpeedDot</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>速度点</szLongItemName>
+		<szItemDesc>一款适合最恶劣条件的高级反射瞄准器。只能与少数瞄准镜结合使用。</szItemDesc>
 		<szBRName>mod. SpeedDot</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77229,10 +77229,10 @@
 	<ITEM>
 		<uiIndex>2952</uiIndex>
 		<szItemName>mod. 1P21 Scope</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>1P21 Minuta瞄准镜</szLongItemName>
+		<szItemDesc>一种高端瞄准镜，适用于俄罗斯狙击步枪。</szItemDesc>
 		<szBRName>mod. Scope, 1P21 Minuta</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77268,10 +77268,10 @@
 	<ITEM>
 		<uiIndex>2953</uiIndex>
 		<szItemName>mod. AN/PVS-14</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>AN/PVS-14 NV瞄准镜</szLongItemName>
+		<szItemDesc>PVS-14 Gen 3P瞄准镜专为夜间应用的最苛刻要求设计。</szItemDesc>
 		<szBRName>mod. Scope, AN/PVS-14 NV</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77305,10 +77305,10 @@
 	<ITEM>
 		<uiIndex>2954</uiIndex>
 		<szItemName>mod. Burris Scope</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Burris AR瞄准镜</szLongItemName>
+		<szItemDesc>与SpeedDot反射瞄准镜完美搭配的瞄准镜。</szItemDesc>
 		<szBRName>mod. Scope, Burris AR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77343,10 +77343,10 @@
 	<ITEM>
 		<uiIndex>2955</uiIndex>
 		<szItemName>mod. M84 Scope</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>M84瞄准镜</szLongItemName>
+		<szItemDesc>这款美国二战时代的瞄准镜缩短了战斗瞄准镜与狙击瞄准镜之间的差距。对于一些猎枪仍然是一款不错的瞄准镜。</szItemDesc>
 		<szBRName>mod. Scope, M84</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77377,10 +77377,10 @@
 	<ITEM>
 		<uiIndex>2956</uiIndex>
 		<szItemName>mod. No.32 Scope</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>No.32瞄准镜</szLongItemName>
+		<szItemDesc>二战时期使用的英国瞄准镜。</szItemDesc>
 		<szBRName>mod. Scope, No.32</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77410,10 +77410,10 @@
 	<ITEM>
 		<uiIndex>2957</uiIndex>
 		<szItemName>mod. ON-M99</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ON-M99瞄准镜</szLongItemName>
+		<szItemDesc>这款由伊拉克制造的瞄准镜适用于塔布克狙击步枪或任何其他配有AK机匣的步枪。</szItemDesc>
 		<szBRName>mod. Scope, ON-M99</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77447,10 +77447,10 @@
 	<ITEM>
 		<uiIndex>2958</uiIndex>
 		<szItemName>mod. PEM</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>PEM瞄准镜</szLongItemName>
+		<szItemDesc>俄罗斯二战时代的瞄准镜。</szItemDesc>
 		<szBRName>mod. Scope, PEM</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77481,10 +77481,10 @@
 	<ITEM>
 		<uiIndex>2959</uiIndex>
 		<szItemName>int. PGO-7W</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>PGO-7W瞄准镜</szLongItemName>
+		<szItemDesc>这种俄罗斯日间瞄准镜最初是为RPG-7火箭发射器开发的，但也适用于带有AK风格接收器的步枪。</szItemDesc>
 		<szBRName>mod. Scope, PGO-7W</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -77520,10 +77520,10 @@
 	<ITEM>
 		<uiIndex>2960</uiIndex>
 		<szItemName>int. PSO-3</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>PSO-3瞄准镜</szLongItemName>
+		<szItemDesc>比PSO-1更好（放大倍数为8x），此瞄准镜常用于俄罗斯DMR和狙击步枪。</szItemDesc>
 		<szBRName>mod. Scope, PSO-3</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77560,10 +77560,10 @@
 	<ITEM>
 		<uiIndex>2961</uiIndex>
 		<szItemName>mod. Scope 10x</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>狙击手10x瞄准镜</szLongItemName>
+		<szItemDesc>一款大型瞄准镜，太大无法安装在大多数突击步枪和卡宾枪上。嗯，也许它适合安装在狙击步枪上？</szItemDesc>
 		<szBRName>mod. Scope, Sniper 10x</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16</AttachmentClass>
 		<nasAttachmentClass>16</nasAttachmentClass>
@@ -77601,10 +77601,10 @@
 	<ITEM>
 		<uiIndex>2962</uiIndex>
 		<szItemName>mod. ZF-42</szItemName>
-		<szLongItemName>改装激光，M4</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于M4系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>ZF-42瞄准镜</szLongItemName>
+		<szItemDesc>为Gewehr 98和Karabiner 98k设计的德国瞄准镜。</szItemDesc>
 		<szBRName>mod. Scope, ZF-42</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77638,10 +77638,10 @@
 	<ITEM>
 		<uiIndex>2963</uiIndex>
 		<szItemName>mod. Folding Stock</szItemName>
-		<szLongItemName>改装激光，AK</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于AK系列武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>可折叠枪托</szLongItemName>
+		<szItemDesc>这个新的枪托将使您更快地提高武器，但可能会稍微增加命中目标的难度。</szItemDesc>
 		<szBRName>mod. Stock, Folding</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77670,10 +77670,10 @@
 	<ITEM>
 		<uiIndex>2964</uiIndex>
 		<szItemName>mod. Glock Stock</szItemName>
-		<szLongItemName>改装激光，手枪</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于手枪，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>Glock枪托</szLongItemName>
+		<szItemDesc>虽然最初设计用于Glock手枪，但这个肩托也适配几款冲锋枪。它在连射和全自动射击时能稳定后坐力。</szItemDesc>
 		<szBRName>mod. Stock, Glock</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77703,10 +77703,10 @@
 	<ITEM>
 		<uiIndex>2965</uiIndex>
 		<szItemName>mod. Retractable Stock</szItemName>
-		<szLongItemName>改装激光，短型</szLongItemName>
-		<szItemDesc>这款激光瞄准器适用于短型武器，适合多种用途。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>可伸缩枪托</szLongItemName>
+		<szItemDesc>这个新的枪托将使您更快地提高武器，但可能会稍微增加命中目标的难度。</szItemDesc>
 		<szBRName>mod. Stock, retractable</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77735,10 +77735,10 @@
 	<ITEM>
 		<uiIndex>2966</uiIndex>
 		<szItemName>mod. SMG Stock</szItemName>
-		<szLongItemName>改装激光，夜视</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备夜视功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>SMG枪托</szLongItemName>
+		<szItemDesc>这个枪托适配某些冲锋枪，并在连发和全自动射击模式下稳定射击。</szItemDesc>
 		<szBRName>mod. Stock, SMG</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -77767,10 +77767,10 @@
 	<ITEM>
 		<uiIndex>2967</uiIndex>
 		<szItemName>mod. AR Supp.</szItemName>
-		<szLongItemName>改装激光，红外</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备红外功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>AR消声器</szLongItemName>
+		<szItemDesc>一个大型声音消声器，适配大多数卡宾枪和突击步枪。虽然它会减少枪口噪音和闪光，但仍远未完全静音。</szItemDesc>
 		<szBRName>mod. Suppressor, AR</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<ubGraphicType>5</ubGraphicType>
@@ -77798,10 +77798,10 @@
 	<ITEM>
 		<uiIndex>2968</uiIndex>
 		<szItemName>copy. SMG Suppressor</szItemName>
-		<szLongItemName>改装激光，光点</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备光点功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>仿制SMG消声器</szLongItemName>
+		<szItemDesc>一个长的声音消声器，可以安装在某些冲锋枪上。由于其长度，能够在连发射击时提供额外的稳定性。</szItemDesc>
 		<szBRName>Suppressor, SMG</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
 		<ubGraphicType>6</ubGraphicType>
@@ -77830,10 +77830,10 @@
 	<ITEM>
 		<uiIndex>2969</uiIndex>
 		<szItemName>Improvised CK</szItemName>
-		<szLongItemName>改装激光，格拉泽</szLongItemName>
-		<szItemDesc>这款激光瞄准器配备格拉泽功能，适合于夜间作战。某种程度上这个东西感觉粘。</szItemDesc>
+		<szLongItemName>临时转换套件</szLongItemName>
+		<szItemDesc>这个转换套件可用于将某些枪支转换为全自动能力。</szItemDesc>
 		<szBRName>Improvised CK</szBRName>
-		<szBRDesc>不可出售。</szBRDesc>
+		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>1041</ubGraphicNum>
