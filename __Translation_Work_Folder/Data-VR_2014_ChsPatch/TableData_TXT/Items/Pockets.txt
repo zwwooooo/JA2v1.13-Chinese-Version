@@ -1,0 +1,67 @@
+0:POCKET/pName:NIV 默认无物
+1:POCKET/pName:NIV 默认枪带
+2:POCKET/pName:NIV 默认刀
+3:POCKET/pName:NIV 默认车辆
+4:POCKET/pName:通用大
+5:POCKET/pName:作战背包
+6:POCKET/pName:弹药带
+7:POCKET/pName:冲锋枪枪套
+8:POCKET/pName:通用中
+9:POCKET/pName:大弹夹 x2
+10:POCKET/pName:步枪弹夹 x1
+11:POCKET/pName:小手枪枪套
+12:POCKET/pName:冲锋枪弹夹 x1
+13:POCKET/pName:40mm 榴弹 x2
+14:POCKET/pName:双手雷
+15:POCKET/pName:手枪弹夹 x1
+16:POCKET/pName:通用小
+17:POCKET/pName:通用小型
+18:POCKET/pName:NIV 默认皮带夹
+19:POCKET/pName:快速装填器 x2
+20:POCKET/pName:急救包口袋
+22:POCKET/pName:无物
+23:POCKET/pName:步枪弹夹 x2
+24:POCKET/pName:步枪弹夹 x3
+25:POCKET/pName:冲锋枪弹夹 x2
+26:POCKET/pName:冲锋枪弹夹 x3
+27:POCKET/pName:手枪弹夹 x2
+28:POCKET/pName:手枪弹夹 x3
+29:POCKET/pName:40mm 榴弹 x3
+30:POCKET/pName:杂项通用
+31:POCKET/pName:大手枪枪套
+32:POCKET/pName:左轮手枪枪套
+33:POCKET/pName:无物
+34:POCKET/pName:火箭步枪弹药
+35:POCKET/pName:60mm 迫击炮腿
+36:POCKET/pName:爆炸物
+37:POCKET/pName:投掷刀
+38:POCKET/pName:大双手雷
+39:POCKET/pName:短步枪弹夹 x2
+40:POCKET/pName:霰弹壳
+41:POCKET/pName:狙击枪弹夹 x2
+42:POCKET/pName:无物
+43:POCKET/pName:无物
+44:POCKET/pName:60mm 迫击炮包
+45:POCKET/pName:螺栓夹
+46:POCKET/pName:无物
+47:POCKET/pName:40mm 榴弹 x6
+48:POCKET/pName:小型作战背包
+49:POCKET/pName:40mm 榴弹 x1
+50:POCKET/pName:RPG 火箭
+51:POCKET/pName:鼓式弹夹
+52:POCKET/pName:单手雷
+53:POCKET/pName:大单手雷
+54:POCKET/pName:40mm 榴弹 x4 c.p.
+55:POCKET/pName:左轮手枪作战背包
+56:POCKET/pName:小型爆炸物
+57:POCKET/pName:作战背包枪带
+58:POCKET/pName:手枪作战背包
+59:POCKET/pName:大弹夹 x1
+60:POCKET/pName:装备包
+61:POCKET/pName:皮带夹
+62:POCKET/pName:中型作战背包
+63:POCKET/pName:RPK 弹夹 x1
+64:POCKET/pName:RPK 弹夹 x2
+65:POCKET/pName:手雷 x3
+66:POCKET/pName:大手雷 x3
+67:POCKET/pName:榴弹发射器枪套

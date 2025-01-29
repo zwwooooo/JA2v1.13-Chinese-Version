@@ -1,0 +1,62 @@
+0:ATTACHMENTSLOT/szSlotName:Don't touch me
+1:ATTACHMENTSLOT/szSlotName:Default slot 1
+2:ATTACHMENTSLOT/szSlotName:Default slot 2
+3:ATTACHMENTSLOT/szSlotName:Default slot 3
+4:ATTACHMENTSLOT/szSlotName:Default slot 4
+5:ATTACHMENTSLOT/szSlotName:Barrel Attachments
+6:ATTACHMENTSLOT/szSlotName:Laser Attachments
+7:ATTACHMENTSLOT/szSlotName:Sight Attachments
+8:ATTACHMENTSLOT/szSlotName:Scope Attachments
+9:ATTACHMENTSLOT/szSlotName:Stock Attachments
+10:ATTACHMENTSLOT/szSlotName:Ammo Attachments
+11:ATTACHMENTSLOT/szSlotName:Internal Attachments
+12:ATTACHMENTSLOT/szSlotName:External Attachments 1
+13:ATTACHMENTSLOT/szSlotName:Underbarrel Attachments
+14:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+15:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+16:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+17:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+18:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+19:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+20:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+21:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+22:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+23:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+24:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+25:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+26:ATTACHMENTSLOT/szSlotName:MOLLE Leg Upper Row 1
+27:ATTACHMENTSLOT/szSlotName:MOLLE Leg Upper Row 2
+28:ATTACHMENTSLOT/szSlotName:MOLLE Leg Lower Row 1
+29:ATTACHMENTSLOT/szSlotName:MOLLE Leg Lower Row 2
+30:ATTACHMENTSLOT/szSlotName:MOLLE Leg Middle Medium
+31:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 1 Small
+32:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 2 Small
+33:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 3 Small
+34:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 4 Small
+35:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 5 Small
+36:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 1 Small
+37:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 2 Small
+38:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 3 Small
+39:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 4 Small
+40:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 5 Small
+41:ATTACHMENTSLOT/szSlotName:MOLLE Vest Upper Row 6 Medium
+42:ATTACHMENTSLOT/szSlotName:MOLLE Vest Lower Row 6 Medium
+43:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Upper Row 1 Small
+44:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Upper Row 2 Small
+45:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Lower Row 1 Small
+46:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Lower Row 2 Small
+47:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Upper Medium
+48:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Middle Medium
+49:ATTACHMENTSLOT/szSlotName:MOLLE Combat Pack Lower Medium
+50:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 1st Row Left Small
+51:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 2nd Row Left Small
+52:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 3rd Row Left Small
+53:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 4th Row Left Small
+54:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 1st Row Right Small
+55:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 2nd Row Right Small
+56:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 3rd Row Right Small
+57:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 4th Row Right Small
+58:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 1st Row Medium
+59:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 2nd Row Medium
+60:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 3rd Row Medium
+61:ATTACHMENTSLOT/szSlotName:MOLLE Backpack 4th Row Medium
