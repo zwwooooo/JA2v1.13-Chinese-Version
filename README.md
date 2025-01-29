@@ -12,7 +12,8 @@ Vengeance Reloaded 简介
 
 - Data-VR_2014_ChsPatch：Vengeance Reloaded 的中文补丁
 - Data-VR_2014+AI：sevenfm 的 VengeanceReloaded_ru.7z 里面的额外 VR 文件，应该是兼容 7609 AI。
-- Data-VR_2014+AI_ChsPatch：针对 Data-Vengeance、Data-PCM、Data-VR 的中文补丁
+- Data-Data-VR_2014_ChsPatch：针对 Data-Vengeance、Data-Maps-Tiles、Data-AIMv53、Data-PCM 的中文补丁
+- Data-Data-VR_2014_ChsPatch+AI：针对 Data-Vengeance、Data-Maps-Tiles、Data-AIMv53、Data-PCM、Data-VR_2014+AI 的中文补丁
 - \_\_Translation_Work_Folder：这是翻译工作目录，直接放这里，方便后期更新和跟踪
 
 玩法1：
@@ -29,7 +30,7 @@ Vengeance Reloaded 简介
 
 1. 先安装 Ja2 1.12 原版，例如安装到 D:\ja2
 2. 把 Vengeance_Reloaded_Jan_2025_English_Full.7z 解压并覆盖到 D:\ja2
-3. 把这里的 Data-VR_2014+AI 和 Data-VR_2014+AI_ChsPatch 用 SVN 方式还是直接下载方式，放到  D:\ja2
+3. 把这里的 Data-VR_2014+AI 和 Data-VR_2014_ChsPatch+AI 用 SVN 方式还是直接下载方式，放到  D:\ja2
 4. 把 TBS 2014 汉化包（ https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/113TBS_2014 ）也放到  D:\ja2
 5. 参考 vfs_config.Vengeance+AI_CN.ini 或者直接用
 6. ja2.ini 里面的 VFS_CONFIG_INI 改成 vfs_config.Vengeance+AI_CN.ini；另外 MERGE_INI_FILES 改成 Ja2_Options.ini, Mod_Settings.ini, CTHConstants.ini, APBPConstants.ini, Skills_Settings.INI, Item_Settings.ini, Taunts_Settings.INI, Helicopter_Settings.INI, Morale_Settings.INI, Creatures_Settings.INI, IntroVideos.ini
