@@ -1,0 +1,17 @@
+0:DESTINATION/name:奥斯丁
+1:DESTINATION/name:巴格达
+2:DESTINATION/name:贝鲁特
+3:DESTINATION/name:Gryfindor
+4:DESTINATION/name:香港
+5:DESTINATION/name:Lodenburg
+6:DESTINATION/name:伦敦
+7:DESTINATION/name:洛杉矶
+8:DESTINATION/name:Metavira
+9:DESTINATION/name:迈阿密
+10:DESTINATION/name:莫斯科
+11:DESTINATION/name:纽约
+12:DESTINATION/name:渥太华
+13:DESTINATION/name:巴黎
+14:DESTINATION/name:的黎波里
+15:DESTINATION/name:东京
+16:DESTINATION/name:温哥华

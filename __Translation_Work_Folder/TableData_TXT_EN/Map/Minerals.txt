@@ -1,0 +1,8 @@
+0:TYPE/sNameType:Mine
+0:TYPE/sMineral:Silver
+1:TYPE/sNameType:Mine
+1:TYPE/sMineral:Gold
+2:TYPE/sNameType:Mine
+2:TYPE/sMineral:Platinum
+3:TYPE/sNameType:Gem Mine
+3:TYPE/sMineral:Emerald

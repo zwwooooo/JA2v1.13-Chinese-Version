@@ -1,0 +1,8 @@
+0:TYPE/sNameType:矿山
+0:TYPE/sMineral:银
+1:TYPE/sNameType:矿山
+1:TYPE/sMineral:金
+2:TYPE/sNameType:矿山
+2:TYPE/sMineral:铂
+3:TYPE/sNameType:宝石矿
+3:TYPE/sMineral:翡翠

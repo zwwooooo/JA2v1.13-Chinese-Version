@@ -1,0 +1,160 @@
+0:EVENT/szText0:(Rebel Base/Arulco)。未经验证的当地报告显示，在今天的清晨，未识别的直升机出现在最近平息的南部叛军基地。
+0:EVENT/szText1:目击者报告了王室军队与未识别攻击者之间的短暂交火。到目前为止，王宫既未确认也未否认这些报告。
+0:EVENT/szText2:这是Miguel Cordona反对女王Deidranna的叛乱中最后一个叛军据点。
+0:EVENT/szText3:两个月前，它最终被王室卫队的装甲部队攻陷。
+0:EVENT/szText4:考虑到政权从未公开承认Cordona及其核心圈子的死亡，目前无法排除叛乱复兴的可能性。
+0:EVENT/szText5:然而，考虑到近年来Arulco武装部队的显著军力集结，重新起义成功的可能性不大。
+0:EVENT/szText6:另一种不可忽视的可能性是Deidranna与臭名昭著的Duranth犯罪集团之间的裂痕，这个集团据说装备精良。
+0:EVENT/szText7:鉴于这两个派系之间明显的实力差异，这似乎同样不太可能，但目前在Arulco没有其他被承认的武装团体。
+0:EVENT/szText8:
+0:EVENT/szText9:
+1:EVENT/szText0:(Duranth/Arulco)。来自战火纷飞的Arulco的记者传来了令人不安的报告。
+1:EVENT/szText1:最近复苏的王室军队与叛军之间的冲突似乎将被限制在Arulco的东部和中部地区，但最近的事件证明这种乐观是错的。
+1:EVENT/szText2:一波暴力席卷了Duranth这个平民城镇。自十年前当地矿井枯竭以来，Duranth已转变为Arulco西部的大宗贸易中心。
+1:EVENT/szText3:与通常由王室军队严格控制的Arulco城市不同，当地居民享有广泛的个人自由。
+1:EVENT/szText4:除了由当地商人组建的小型民防部队外，这里没有武装存在。
+1:EVENT/szText5:然而，叛军全力袭击了这座城市。目前尚不清楚叛乱分子是否希望在这里对偶尔的军队巡逻进行突袭，还是打算征服当地居民。
+1:EVENT/szText6:然而，我们可以确认Duranth市长，广受尊敬的商人Peter Klaus，故意成为目标并与大多数员工一起被谋杀。
+1:EVENT/szText7:关于大量生命损失和私人财产被毁的报告描绘了叛乱者行动的可怕画面。甚至有传言称当地人被当作人质，但这些报告尚未得到验证。
+1:EVENT/szText8:在他的新闻声明中，美国副国务卿Kenneth B. Hawkeburger再次谴责了叛乱者的行为，并呼吁停止敌对行动。
+1:EVENT/szText9:
+2:EVENT/szText0:(Duranth/Arulco) 再次，从Arulco传来的消息令人感到绝望。今天似乎整个大家族被屠杀。
+2:EVENT/szText1:事件的具体经过尚不清楚，但似乎叛乱者袭击了Duranth西北的一处农场，消灭了他们发现的每一个男人、女人和孩子。
+2:EVENT/szText2:该农场是Arulco最大和最繁荣的农场之一，独特之处在于它在最近的袭击之前仍然保持全面生产。
+2:EVENT/szText3:作为第六代农民，Hicks家族为Duranth提供了急需的食物，并部分抵消了由持续冲突带来的全国供应短缺。
+2:EVENT/szText4:农场各处仍能看到家族成员的尸体——他们被留在射击地点，财产被掠夺，农场被洗劫。
+2:EVENT/szText5:叛军希望从这次惨无人道的袭击中获得什么并不完全清楚。然而，知情的当地消息来源指出，直到最近，叛军自己被认为急需食物。
+2:EVENT/szText6:还知道Duranth的商界精英与当地农民之间存在一些紧张关系，有零星报告称当地精英正在与起义结盟。
+2:EVENT/szText7:在日益分裂的Arulco战场上，这又是一次恶化的转折，因为当地派系利用武装起义的掩护来清算旧账。
+2:EVENT/szText8:
+2:EVENT/szText9:
+3:EVENT/szText0:(Limestone/Arulco) 在另一个令人担忧的发展中，似乎连Arulco的动物也无法逃脱不断扩大的内战。
+3:EVENT/szText1:根据联合国保护项目的当地成员，雇佣军团体正越来越多地针对当地的血猫种群。
+3:EVENT/szText2:Arulco血猫（Panthera Arulcanis）是世界上最大的食肉猫之一，仅能在Arulco找到。由于奖杯猎人的影响，其小型种群正受到越来越大的压力。
+3:EVENT/szText3:血猫的牙齿用于东南亚传统医学的几种配方中。
+3:EVENT/szText4:人们担心，为了维持他们日益激进的运动，叛军将血猫作为替代收入来源。
+3:EVENT/szText5:虽然他们的主要收入据说直接来自被占领城镇的矿山开发，但这些仍然受到激烈争夺，因为王室军队已誓言收复这些城镇，冲突每天都在发生。濒危的血猫成为一个更容易、不受争议的目标。根据国际知名的血猫专家Ernest Poppin博士的说法，血猫种群是否能够恢复仍然令人怀疑。
+3:EVENT/szText6:"这些猫仅生活在Arulco，世界上找不到其他地方，且从未在圈养中繁殖过。这是一个悲剧。作为一名科学家，我对这种无意义的屠杀感到震惊。
+3:EVENT/szText7:我只能以最强烈的言辞敦促当局迅速结束这场冲突，以免再有一个物种失去可挽回的机会。"
+3:EVENT/szText8:
+3:EVENT/szText9:
+4:EVENT/szText0:(Ministry for Arulcan Information Distribution) 再次，Arulco的勇敢捍卫者向三度被诅咒的叛乱者发起反击。
+4:EVENT/szText1:在Arulco安全委员会的最后一次会议上，我们的优秀军事领导层自豪地宣布，人民军已成功恢复了在以前被叛徒占领的城市的法律和秩序。
+4:EVENT/szText2:所谓的“叛乱者”，由凶残的逃犯Miguel Cordona领导，雇佣了由意图掠夺我们家园的恶意外国人提供的外部雇佣军。
+4:EVENT/szText3:但多亏了我们心爱的女王Deidranna的远见卓识，恐怖分子的力量被我们Arulco武装部队的兄弟姐妹们击溃。
+4:EVENT/szText4:虽然执法官员仍在寻找炸弹和隐藏的叛徒，Arulco的公民可以放心，这场由这些恶意外国人强加给我们的武装斗争的噩梦将很快结束。
+4:EVENT/szText5:"正如我们伟大的领导者所说，"因为死亡是对这些罪犯所犯罪行的唯一可接受惩罚。我不会休息，直到每一个恶棍都得到了应有的惩罚。"
+4:EVENT/szText6:这是女王Deidranna所说的，也是每一个正直的Arulco公民所说的。让我们一起努力，结束这场战争，并将侵略者送回他们来自的地方。万岁Arulco！
+4:EVENT/szText7:万岁女王Deidranna！
+4:EVENT/szText8:
+4:EVENT/szText9:
+5:EVENT/szText0:(Lodenburg/Arulco) 在来自小国Arulco的令人震惊的消息中，尚未知名的武装力量已占领了Lodenburg市及其机场。
+5:EVENT/szText1:在地方执法、地方军队驻防和迅速动员的增援的强烈抵抗下，叛军分三阶段占领了这座城市。
+5:EVENT/szText2:王室军队显然对这种规模的袭击没有准备，遭到击败并不得不撤退。攻击部队的规模和组成尚不清楚。
+5:EVENT/szText3:同样，目前对他们的动机或目标一无所知。情报来源推测，此事件可能与早前关于未知力量在Limestone地区对一支军队巡逻的伏击报告有关。
+5:EVENT/szText4:Lodenburg位于Arulco的中心，
+5:EVENT/szText5:包含Arulco的两个机场之一，这显然使其成为任何试图挑战女王Deidranna对国家的紧握的主要目标。
+5:EVENT/szText6:此外，很多居民在当地银矿或少数几家生产出口的Arulco工厂工作，为国家带来急需的货币。
+5:EVENT/szText7:这种经济活动使得王室军队表现不佳的情况愈发难以理解。这一令人震惊的失败是否只是军事判断的单次失误，还是Arulco军队系统性缺陷的信号还有待观察。
+5:EVENT/szText8:
+5:EVENT/szText9:
+6:EVENT/szText0:(Arulco Revolutionary Movement) Arulco的公民们！
+6:EVENT/szText1:革命再次袭来！在这一天，我们运动的男女们已袭击了压迫者的心脏。我们成功攻击并占领了Alaspar军事堡垒。
+6:EVENT/szText2:尽管压迫者重重强化了这座城市，但它仍无法抵挡我们的英雄风暴。城市和军队训练营已被解放。
+6:EVENT/szText3:我们还解放了被囚禁的公民。正义之士再也不必害怕Deidranna的酷刑室。
+6:EVENT/szText4:一大批军用物资落入我们手中，我们将用它继续对抗压迫者的运动。
+6:EVENT/szText5:我们的革命领袖Miguel Cordona在战场上亲自感谢解放者。
+6:EVENT/szText6:"这再次证明，只要我们团结一心，就能战胜卑鄙的女王。每一个Arulco的儿女现在都应加入我们，以便我们一次性结束这一切。加入我们，解放我们的家园！"
+6:EVENT/szText7:
+6:EVENT/szText8:
+6:EVENT/szText9:
+7:EVENT/szText0:(Aspenwood/Arulco) 经过一场漫长而血腥的斗争，Arulco的工业心脏最终落入叛军手中。
+7:EVENT/szText1:Aspenwood，Arulco宝石开采工业的中心，以及该国唯一主要工业中心，曾长期被认为几乎不可攻破。
+7:EVENT/szText2:但今天，Arulco革命运动宣布已完全接管这座城市。这是否会持久尚不清楚——现场记者报告叛军的控制力并没有他们希望的那样强。
+7:EVENT/szText3:鉴于Aspenwood的经济和战略重要性，位于通往首都Gryfindor的主要道路附近，强烈的军队反应似乎非常可能。
+7:EVENT/szText4:由于叛军很难在城市战斗中克服王室军队的数量优势，因此任何决定性战斗很可能会在北区进行。
+7:EVENT/szText5:
+7:EVENT/szText6:
+7:EVENT/szText7:
+7:EVENT/szText8:
+7:EVENT/szText9:
+8:EVENT/szText0:(Ministry for Arulcan Information Distribution) 再次，自称为“解放者”的Arulco叛军降到了一个新低。
+8:EVENT/szText1:叛军攻陷了Azkaban高安全设施，屠杀了整个警卫部队和民间承包商，并释放了多名危险罪犯。
+8:EVENT/szText2:Azkaban除了囚犯本身外没有任何战略价值。叛军不仅不满足于将整个国家推入公开战争，他们渴望通过其他已知的恐怖分子、谋杀犯和强奸犯来扩大自己的队伍。
+8:EVENT/szText3:这再次无可置疑地证明了那些阴谋反对Arulco的人的恶意意图。参谋长Humphey将军誓言对这次无端攻击采取坚定但适度的回应。
+8:EVENT/szText4:"我们不会休息，直到肇事者被绳之以法。这些人被判处了漫长的监禁，这是法律公正的结果，我们将把他们送回监狱，一旦我们重新抓住他们。"
+8:EVENT/szText5:
+8:EVENT/szText6:
+8:EVENT/szText7:
+8:EVENT/szText8:
+8:EVENT/szText9:
+9:EVENT/szText0:(Drasnia/Arulco) 在臭名昭著的叛军领袖Miguel Cordona的复兴追随者再次取得胜利，东部城市Drasnia已落入叛军手中。
+9:EVENT/szText1:在几个月前叛军被认为在叛军基地被消灭时，难以想象的速度，Arulco革命运动在城市所有区域驱逐了军队，并现在稳稳控制着。
+9:EVENT/szText2:不过，值得注意的是，军队仍在Arulco的核心地区保持强大存在，包括北部森林中的一处军事基地。
+9:EVENT/szText3:就叛军而言，他们似乎决心守住这座城市。他们毫不犹豫，已经开始招募当地公民进入民兵。
+9:EVENT/szText4:Drasnia包含Arulco的主要医院和几个主要交叉路口，因此由于军队试图重新夺回这一重要战略位置，持续的冲突几乎是必然的。
+9:EVENT/szText5:
+9:EVENT/szText6:
+9:EVENT/szText7:
+9:EVENT/szText8:
+9:EVENT/szText9:
+10:EVENT/szText0:未在游戏中使用
+10:EVENT/szText1:未在游戏中使用
+10:EVENT/szText2:未在游戏中使用
+10:EVENT/szText3:未在游戏中使用
+10:EVENT/szText4:未在游戏中使用
+10:EVENT/szText5:未在游戏中使用
+10:EVENT/szText6:未在游戏中使用
+10:EVENT/szText7:未在游戏中使用
+10:EVENT/szText8:未在游戏中使用
+10:EVENT/szText9:未在游戏中使用
+11:EVENT/szText0:未在游戏中使用
+11:EVENT/szText1:未在游戏中使用
+11:EVENT/szText2:未在游戏中使用
+11:EVENT/szText3:未在游戏中使用
+11:EVENT/szText4:未在游戏中使用
+11:EVENT/szText5:未在游戏中使用
+11:EVENT/szText6:未在游戏中使用
+11:EVENT/szText7:未在游戏中使用
+11:EVENT/szText8:未在游戏中使用
+11:EVENT/szText9:未在游戏中使用
+12:EVENT/szText0:未在游戏中使用
+12:EVENT/szText1:未在游戏中使用
+12:EVENT/szText2:未在游戏中使用
+12:EVENT/szText3:未在游戏中使用
+12:EVENT/szText4:未在游戏中使用
+12:EVENT/szText5:未在游戏中使用
+12:EVENT/szText6:未在游戏中使用
+12:EVENT/szText7:未在游戏中使用
+12:EVENT/szText8:未在游戏中使用
+12:EVENT/szText9:未在游戏中使用
+13:EVENT/szText0:(Asgard/Arulco) 在对Deidranna政权的一个特别沉重的打击中，叛军占领了北部城镇Asgard。
+13:EVENT/szText1:Asgard是Deidranna追随者的心脏地带，是Arulco最发达的城市之一，迄今为止一直未遭受大部分暴力冲突的侵扰。
+13:EVENT/szText2:这座城市是Arulco富有而有影响力的精英的家，他们构成了政权支持的骨干。因此，忠诚于Deidranna的程度被认为依然很高。
+13:EVENT/szText3:然而，从战略上讲，其重要性低于其他城市，因为Asgard除了进口奢侈品外几乎没有经济活动。
+13:EVENT/szText4:考虑到当地人不愿意加入叛乱，叛军能在这座城市维持多长时间的控制尚不明确，尤其是军队似乎急于收复该城。
+13:EVENT/szText5:人们担心叛军的某些元素会利用这一机会报复那些他们认为是压迫者的当地人。紧张局势正在升级，许多人已逃离城市，寻求在Gryfindor避难。
+13:EVENT/szText6:关于博物馆的报告表明，博物馆中收藏的Arulco历史独特文物已经被洗劫，尽管这一消息尚未得到确认。
+13:EVENT/szText7:
+13:EVENT/szText8:
+13:EVENT/szText9:
+14:EVENT/szText0:(Gryfindor/Arulco) Arulco的内战似乎即将结束。叛军已占领Gryfindor的大部分地区，并与王室精英护卫队展开激烈交火。
+14:EVENT/szText1:在整个城市的残酷战斗中，叛军一次又一次地击退了王室军队的最后残余。
+14:EVENT/szText2:几乎整个Arulco的机械化部队都驻扎在城市周围。
+14:EVENT/szText3:虽然叛军没有自己的坦克，但将装甲部队强行投入城市战斗的决定，让叛军能够逐一躲避并摧毁它们，显然是Deidranna的严重战略失误。
+14:EVENT/szText4:据说军事顾问们早已敦促女王使用少数机械化部队对北部城市周围的叛军阵地发起正面攻击，但女王一直拒绝。
+14:EVENT/szText5:在不断的逐户战斗中，叛军使用了许多火箭发射器和迫击炮。看来他们在整个战役期间一直在为这一时刻做准备。
+14:EVENT/szText6:目前女王Deidranna及其核心圈子的下落不明。由于冲突仍在进行，城市已无法安全通行，机场在激烈战斗后沦陷。传言称女王的许多亲密支持者和顾问在伤亡中被找到。
+14:EVENT/szText7:叛军即将成功，内战结束的预期即将到来。
+14:EVENT/szText8:
+14:EVENT/szText9:
+15:EVENT/szText0:(Quevelin/Arulco) 即使是Arulco的偏远地区也无法逃脱暴力。Quevelin已落入叛军手中。
+15:EVENT/szText1:根据专家分析，这表明叛军并非进行打击和撤退的骚扰，或试图突然袭击政权，而是试图将政权的部队从每一个城镇驱逐出去。
+15:EVENT/szText2:Quevelin的战略价值较低——它几乎没有值得一提的工业，除了非常有限的采矿作业。然而，它是古代遗址的所在地，因此对一些Arulcan人具有文化价值。
+15:EVENT/szText3:叛军打算如何控制这样一个偏僻的定居点尚不清楚。
+15:EVENT/szText4:
+15:EVENT/szText5:
+15:EVENT/szText6:
+15:EVENT/szText7:
+15:EVENT/szText8:
+15:EVENT/szText9:

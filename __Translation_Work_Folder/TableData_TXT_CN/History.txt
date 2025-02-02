@@ -1,0 +1,80 @@
+0:TEXT/sHistory:
+1:TEXT/sHistory:%s 被 A.I.M. 雇佣。
+2:TEXT/sHistory:%s 被 M.E.R.C. 雇佣。
+3:TEXT/sHistory:%s 死亡。
+4:TEXT/sHistory:与 M.E.R.C. 清算账户。
+5:TEXT/sHistory:接受了 Enrico Chivaldori 的任务。
+6:TEXT/sHistory:生成 IMP 资料。
+7:TEXT/sHistory:购买了 %s 的保险合同。
+8:TEXT/sHistory:取消了 %s 的保险合同。
+9:TEXT/sHistory:保险索赔支付给 %s。
+10:TEXT/sHistory:将 %s 的合同延长了一天。
+11:TEXT/sHistory:将 %s 的合同延长了一周。
+12:TEXT/sHistory:将 %s 的合同延长了两周。
+13:TEXT/sHistory:%s 被解雇。
+14:TEXT/sHistory:%s 辞职。
+15:TEXT/sHistory:任务开始。
+16:TEXT/sHistory:任务完成。
+17:TEXT/sHistory:与 %s 的首席矿工交谈。
+18:TEXT/sHistory:解放了 %s。
+19:TEXT/sHistory:使用了作弊。
+20:TEXT/sHistory:食品应该在明天到达 Lodenburg。
+21:TEXT/sHistory:%s 离开团队成为 Daryl Hick 的妻子。
+22:TEXT/sHistory:%s 的合同到期。
+23:TEXT/sHistory:%s 被招募。
+24:TEXT/sHistory:Enrico 抱怨缺乏进展。
+25:TEXT/sHistory:战斗胜利。
+26:TEXT/sHistory:%s 的矿开始耗尽矿石。
+27:TEXT/sHistory:%s 的矿耗尽了矿石。
+28:TEXT/sHistory:%s 的矿被关闭。
+29:TEXT/sHistory:%s 的矿重新开放。
+30:TEXT/sHistory:发现了一个叫 Azkaban 的监狱。
+31:TEXT/sHistory:听说了一个叫 Nasa 的秘密武器工厂。
+32:TEXT/sHistory:Nasa 的科学家捐赠了一批火箭步枪。
+33:TEXT/sHistory:女王 Deidranna 对尸体有用。
+34:TEXT/sHistory:Frank 讲述了在 Duranth 的战斗比赛。
+35:TEXT/sHistory:一名患者认为他在矿井中看到了什么。
+36:TEXT/sHistory:遇见了一个叫 Devin 的人——他出售炸药。
+37:TEXT/sHistory:遇到了著名的前 A.I.M. 雇佣兵 Mike！
+38:TEXT/sHistory:遇见了 Tony——他做武器生意。
+39:TEXT/sHistory:从 Krott 中士那里获得了一把火箭步枪。
+40:TEXT/sHistory:把 Angel 的皮革商店的契约给了 Kyle。
+41:TEXT/sHistory:Madlab 提供建造一个机器人。
+42:TEXT/sHistory:Gabby 可以为虫子制作隐形药水。
+43:TEXT/sHistory:Keith 停业了。
+44:TEXT/sHistory:Howard 向女王 Deidranna 提供了氰化物。
+45:TEXT/sHistory:遇见了 Keith——在 Aspenwood 的全能经销商。
+46:TEXT/sHistory:遇见了 Howard——在 Drasnia 做药品生意。
+47:TEXT/sHistory:遇见了 Perko——经营一家小型修理店。
+48:TEXT/sHistory:遇见了 Sam——在 Drasnia 经营一家五金店。
+49:TEXT/sHistory:Franz 做电子产品和其他商品的生意。
+50:TEXT/sHistory:Arnold 在 Aspenwood 经营一家修理店。
+51:TEXT/sHistory:Fredo 在 Rwendia 修理电子产品。
+52:TEXT/sHistory:收到来自 Asgard 的富人捐赠。
+53:TEXT/sHistory:遇见了一个叫 Jake 的废品交易商。
+54:TEXT/sHistory:一个流浪汉给了我们一张电子钥匙卡。
+55:TEXT/sHistory:贿赂 Walter 解锁了地下室的门。
+56:TEXT/sHistory:如果 Dave 有气，他会提供免费加油。
+57:TEXT/sHistory:贿赂 Pablo。
+58:TEXT/sHistory:大亨在 Duranth 的矿井里藏钱。
+59:TEXT/sHistory:%s 赢得了极限格斗比赛。
+60:TEXT/sHistory:%s 输掉了极限格斗比赛。
+61:TEXT/sHistory:%s 在极限格斗中被取消资格。
+62:TEXT/sHistory:在废弃的矿井中发现了大量藏匿的钱财。
+63:TEXT/sHistory:遭遇了大亨派来的刺客。
+64:TEXT/sHistory:失去了对该区域的控制。
+65:TEXT/sHistory:防御了该区域。
+66:TEXT/sHistory:战斗失败。
+67:TEXT/sHistory:致命的伏击。
+68:TEXT/sHistory:消灭了敌人的伏击。
+69:TEXT/sHistory:攻击失败。
+70:TEXT/sHistory:攻击成功！
+71:TEXT/sHistory:生物袭击。
+72:TEXT/sHistory:被血猫杀死。
+73:TEXT/sHistory:屠杀了血猫。
+74:TEXT/sHistory:%s 被杀。
+75:TEXT/sHistory:把一个恐怖分子的头颅给了 Carmen。
+76:TEXT/sHistory:Slay 离开了。
+77:TEXT/sHistory:杀死了 %s。
+78:TEXT/sHistory:遇见了 Waldo——飞机维修工。
+79:TEXT/sHistory:直升机维修开始。预计时间：%d 小时。

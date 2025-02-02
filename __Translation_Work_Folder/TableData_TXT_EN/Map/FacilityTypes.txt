@@ -1,0 +1,48 @@
+1:FACILITYTYPE/szFacilityName:Hospital
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.
+2:FACILITYTYPE/szFacilityName:Small Sleazy Bar
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the... Yeah, you wish! Just buy drinks to others and immediately report any info they may spill.
+3:FACILITYTYPE/szFacilityName:Prison Complex
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.
+3:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.
+4:FACILITYTYPE/szFacilityName:Small Airport
+4:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.
+5:FACILITYTYPE/szFacilityName:Munitions Factory
+5:FACILITYTYPE/ASSIGNMENT/szTooltipText:The machinery here can manufacture all sorts of replacements parts, which will increase your efficiency at repair, assuming you know how to use the complex machinery here.
+6:FACILITYTYPE/szFacilityName:Military Barracks
+6:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!
+7:FACILITYTYPE/szFacilityName:Military Headquarters
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:Take control of local information channels and control the flow of news in entire region.
+8:FACILITYTYPE/szFacilityName:Shooting Range
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:Why not spend some time practicing your aim? The dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.
+9:FACILITYTYPE/szFacilityName:A.C.A Building
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:Turn this small local office into well-oiled propaganda machine, suppressing any bad news reaching town and showing our actions in the best possible light.
+10:FACILITYTYPE/szFacilityName:SAM Site
+11:FACILITYTYPE/szFacilityName:Mine
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.
+12:FACILITYTYPE/szFacilityName:Small Church
+12:FACILITYTYPE/ASSIGNMENT/szTooltipText:A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.
+13:FACILITYTYPE/szFacilityName:Boxing Club
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.
+14:FACILITYTYPE/szFacilityName:National Museum
+15:FACILITYTYPE/szFacilityName:Laboratory
+16:FACILITYTYPE/szFacilityName:Junkyard
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+17:FACILITYTYPE/szFacilityName:Beach Resort
+17:FACILITYTYPE/ASSIGNMENT/szTooltipText:Sun, sand, surf. This sure as hell beats sleeping in a trench.
+18:FACILITYTYPE/szFacilityName:Legacy Militia Training Facility
+19:FACILITYTYPE/szFacilityName:Combat Support Hospital
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform urgent life-saving treatment on your wounded men in field conditions. Increases the DOCTOR's efficiency.
+20:FACILITYTYPE/szFacilityName:Army Barracks Cantina
+20:FACILITYTYPE/ASSIGNMENT/szTooltipText:By taking over the armies barracks, you've also taken over the cantina inside. Your mercs can eat here.
+21:FACILITYTYPE/szFacilityName:Military Prison
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.
+21:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.
+22:FACILITYTYPE/szFacilityName:Town Prison
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:Masquerade as one of prisoners and gain their trust to easily gather information and prevent mutiny attempts.
