@@ -6,5 +6,5 @@ TypeP 适合 JA2 1.13 2014/7609 稳定版的剧情 MOD，这是我个人自玩�
 - \_\_Translation_Work_Folder：汉化工作文件夹
 - 可配合玩的 Mod： AFS、BRAINMOD、IoV、SDO、AI
 
-#TypeP
+# TypeP
 Buggler 在熊窝的 TypeP v1.0 发布贴 http://thepit.ja-galaxy-forum.com/index.php?t=msg&goto=347324 ，基于 OsamodasxD 的 Jagged Alliance 2 Reloaded（ https://jagged-alliance.pl/artykul469/ja2-reloaded/ ）
