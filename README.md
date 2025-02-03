@@ -15,6 +15,8 @@ https://github.com/1dot13/gamedir
 dev gamedata languages  
 https://github.com/1dot13/gamedir-languages
 
+
+
 **分支内容**
 
 开发版
@@ -22,13 +24,13 @@ https://github.com/1dot13/gamedir-languages
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/AIMNAS_zh-CN_Patch
 
 2014/7609 稳定版（2014 stable = 2014 稳定版 = 7609 版）  
-* JA2 v1.13 2014/7609 中文重构版
+* JA2 v1.13 2014/7609 中文重构版  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/113TBS_2014
-* JA2 v1.13 2014/7609 MOD：IoV Revised 重构版
+* JA2 v1.13 2014/7609 MOD：IoV Revised 重构版  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/IoV_Revised_2014
-* JA2 v1.13 2014/7609 MOD：SDO（Stock Data Overhaul）汉化包
+* JA2 v1.13 2014/7609 MOD：SDO（Stock Data Overhaul）汉化包  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/SDO_2014_ChsPatch
-* JA2 v1.13 2014/7609 MOD：VR（Vengeance Reloaded）汉化包
+* JA2 v1.13 2014/7609 MOD：VR（Vengeance Reloaded）汉化包  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/VR_2014_ChsPatch
-* JA2 v1.13 2014/7609 MOD：TypeP 汉化包
+* JA2 v1.13 2014/7609 MOD：TypeP 汉化包  
   https://github.com/zwwooooo/JA2v1.13-Chinese-Version/tree/TypeP_2014_ChsPatch 
