@@ -6727,6 +6727,7 @@
 	<INVENTORY>
 		<uiIndex>1562</uiIndex>
 		<sItemIndex>1137</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>1563</uiIndex>

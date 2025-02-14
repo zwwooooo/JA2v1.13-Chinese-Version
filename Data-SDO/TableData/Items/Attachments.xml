@@ -1,50 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ATTACHMENTLIST>
-	<ATTACHMENT>
-		<attachmentIndex>145</attachmentIndex>
-		<itemIndex>295</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>146</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>146</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>146</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>146</attachmentIndex>
-		<itemIndex>295</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
+<!--	<ATTACHMENT>
 		<attachmentIndex>201</attachmentIndex>
 		<itemIndex>1063</itemIndex>
 		<APCost>8</APCost>
-	</ATTACHMENT>
+	</ATTACHMENT>	-->
 	<ATTACHMENT>
 		<attachmentIndex>205</attachmentIndex>
 		<itemIndex>1022</itemIndex>
 		<APCost>32</APCost>
 	</ATTACHMENT>
-<!--	<ATTACHMENT>
-		<attachmentIndex>209</attachmentIndex>
-		<itemIndex>247</itemIndex>
-		<APCost>64</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>209</attachmentIndex>
-		<itemIndex>919</itemIndex>
-		<APCost>64</APCost>
-	</ATTACHMENT>	-->
 	<ATTACHMENT>
 		<attachmentIndex>211</attachmentIndex>
 		<itemIndex>2280</itemIndex>
@@ -55,51 +20,16 @@
 		<itemIndex>2280</itemIndex>
 		<APCost>10</APCost>
 	</ATTACHMENT>	
-	<ATTACHMENT>
-		<attachmentIndex>213</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>213</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>214</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
+<!--	<ATTACHMENT>
 		<attachmentIndex>214</attachmentIndex>
 		<itemIndex>1063</itemIndex>
 		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>222</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>222</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>222</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>222</attachmentIndex>
-		<itemIndex>295</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>222</attachmentIndex>
 		<itemIndex>1063</itemIndex>
 		<APCost>8</APCost>
-	</ATTACHMENT>
+	</ATTACHMENT>	-->
 	<ATTACHMENT>
 		<attachmentIndex>223</attachmentIndex>
 		<itemIndex>137</itemIndex>
@@ -170,75 +100,15 @@
 		<itemIndex>1523</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>235</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>235</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>235</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>235</attachmentIndex>
-		<itemIndex>295</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
+<!--	<ATTACHMENT>
 		<attachmentIndex>235</attachmentIndex>
 		<itemIndex>1063</itemIndex>
 		<APCost>8</APCost>
-	</ATTACHMENT>		
+	</ATTACHMENT>	-->
 	<ATTACHMENT>
 		<attachmentIndex>246</attachmentIndex>
 		<itemIndex>2280</itemIndex>
 		<APCost>10</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>297</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>298</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>299</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>299</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>300</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>300</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>301</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>301</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>303</attachmentIndex>
@@ -489,76 +359,6 @@
 		<attachmentIndex>323</attachmentIndex>
 		<itemIndex>1022</itemIndex>
 		<APCost>32</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>593</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>593</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>594</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>594</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>595</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>595</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>596</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>596</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>597</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>597</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>598</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>598</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>600</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>600</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
 	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>807</attachmentIndex>
@@ -1156,16 +956,6 @@
 		<APCost>10</APCost>
 	</ATTACHMENT>	
 	<ATTACHMENT>
-		<attachmentIndex>1027</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1027</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
 		<attachmentIndex>1028</attachmentIndex>
 		<itemIndex>1022</itemIndex>
 		<APCost>32</APCost>
@@ -1180,21 +970,6 @@
 		<itemIndex>726</itemIndex>
 		<APCost>64</APCost>
 	</ATTACHMENT>		
-	<ATTACHMENT>
-		<attachmentIndex>1053</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1053</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1054</attachmentIndex>
-		<itemIndex>294</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
 	<ATTACHMENT>
 		<attachmentIndex>1114</attachmentIndex>
 		<itemIndex>220</itemIndex>
@@ -1270,26 +1045,11 @@
 		<itemIndex>2433</itemIndex>
 		<APCost>64</APCost>
 	</ATTACHMENT>		
-	<ATTACHMENT>
-		<attachmentIndex>1353</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1353</attachmentIndex>
-		<itemIndex>283</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
-		<attachmentIndex>1359</attachmentIndex>
-		<itemIndex>282</itemIndex>
-		<APCost>8</APCost>
-	</ATTACHMENT>
-	<ATTACHMENT>
+<!--	<ATTACHMENT>
 		<attachmentIndex>1359</attachmentIndex>
 		<itemIndex>1063</itemIndex>
 		<APCost>8</APCost>
-	</ATTACHMENT>
+	</ATTACHMENT>	-->
 	<ATTACHMENT>
 		<attachmentIndex>1525</attachmentIndex>
 		<itemIndex>343</itemIndex>
