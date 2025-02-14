@@ -1,0 +1,2320 @@
+923:TRANSFORM/szMenuRowText:Itemgenerator
+923:TRANSFORM/szTooltipText:Itemgenerator for testing purposes.
+32:TRANSFORM/szMenuRowText:Pump-Action
+32:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2367:TRANSFORM/szMenuRowText:Semi-Auto
+2367:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2434:TRANSFORM/szMenuRowText:Pump-Action
+2434:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2435:TRANSFORM/szMenuRowText:Semi-Auto
+2435:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+341:TRANSFORM/szMenuRowText:Pump-Action
+341:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2365:TRANSFORM/szMenuRowText:Semi-Auto
+2365:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2422:TRANSFORM/szMenuRowText:Pump-Action
+2422:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2426:TRANSFORM/szMenuRowText:Semi-Auto
+2426:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2423:TRANSFORM/szMenuRowText:Pump-Action
+2423:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2427:TRANSFORM/szMenuRowText:Semi-Auto
+2427:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2424:TRANSFORM/szMenuRowText:Pump-Action
+2424:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2428:TRANSFORM/szMenuRowText:Semi-Auto
+2428:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2425:TRANSFORM/szMenuRowText:Pump-Action
+2425:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2429:TRANSFORM/szMenuRowText:Semi-Auto
+2429:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+775:TRANSFORM/szMenuRowText:Pump-Action
+775:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2366:TRANSFORM/szMenuRowText:Semi-Auto
+2366:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+2430:TRANSFORM/szMenuRowText:Pump-Action
+2430:TRANSFORM/szTooltipText:Switch operation mode to Pump-Action.
+2431:TRANSFORM/szMenuRowText:Semi-Auto
+2431:TRANSFORM/szTooltipText:Switch operation mode to Semi-Auto.
+50:TRANSFORM/szMenuRowText:Replace
+50:TRANSFORM/szTooltipText:Replace obsolete item with updated version.
+194:TRANSFORM/szMenuRowText:Tear apart
+194:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+195:TRANSFORM/szMenuRowText:Tear apart
+195:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+296:TRANSFORM/szMenuRowText:Tear apart
+296:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+1606:TRANSFORM/szMenuRowText:Tear apart
+1606:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1607:TRANSFORM/szMenuRowText:Tear apart
+1607:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1608:TRANSFORM/szMenuRowText:Tear apart
+1608:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1609:TRANSFORM/szMenuRowText:Tear apart
+1609:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1610:TRANSFORM/szMenuRowText:Tear apart
+1610:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1611:TRANSFORM/szMenuRowText:Tear apart
+1611:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1612:TRANSFORM/szMenuRowText:Tear apart
+1612:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1613:TRANSFORM/szMenuRowText:Tear apart
+1613:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1614:TRANSFORM/szMenuRowText:Tear apart
+1614:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1615:TRANSFORM/szMenuRowText:Tear apart
+1615:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1616:TRANSFORM/szMenuRowText:Tear apart
+1616:TRANSFORM/szTooltipText:Tear this Shirt into two pieces of cloth.
+1617:TRANSFORM/szMenuRowText:Tear apart
+1617:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+1618:TRANSFORM/szMenuRowText:Tear apart
+1618:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+1619:TRANSFORM/szMenuRowText:Tear apart
+1619:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+1620:TRANSFORM/szMenuRowText:Tear apart
+1620:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+1621:TRANSFORM/szMenuRowText:Tear apart
+1621:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+1622:TRANSFORM/szMenuRowText:Tear apart
+1622:TRANSFORM/szTooltipText:Tear this Pants into two pieces of cloth.
+208:TRANSFORM/szMenuRowText:Magn. 6x
+208:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+208:TRANSFORM/szMenuRowText:Magn. 3x
+208:TRANSFORM/szTooltipText:Switch Scope Magnification to 3x (15+ Tiles).
+2159:TRANSFORM/szMenuRowText:Magn. 9x
+2159:TRANSFORM/szTooltipText:Switch Scope Magnification to 9x (44+ Tiles).
+2159:TRANSFORM/szMenuRowText:Magn. 3x
+2159:TRANSFORM/szTooltipText:Switch Scope Magnification to 3x (15+ Tiles).
+2160:TRANSFORM/szMenuRowText:Magn. 9x
+2160:TRANSFORM/szTooltipText:Switch Scope Magnification to 9x (44+ Tiles).
+2160:TRANSFORM/szMenuRowText:Magn. 6x
+2160:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+343:TRANSFORM/szMenuRowText:Light on
+343:TRANSFORM/szTooltipText:Switch on flashlight.
+2363:TRANSFORM/szMenuRowText:Light off
+2363:TRANSFORM/szTooltipText:Switch off flashlight.
+648:TRANSFORM/szMenuRowText:Light on
+648:TRANSFORM/szTooltipText:Switch on flashlight.
+2364:TRANSFORM/szMenuRowText:Light off
+2364:TRANSFORM/szTooltipText:Switch off flashlight.
+950:TRANSFORM/szMenuRowText:Light on
+950:TRANSFORM/szTooltipText:Switch on flashlight.
+1635:TRANSFORM/szMenuRowText:Light off
+1635:TRANSFORM/szTooltipText:Switch off flashlight.
+1636:TRANSFORM/szMenuRowText:Light on
+1636:TRANSFORM/szTooltipText:Switch on flashlight.
+1637:TRANSFORM/szMenuRowText:Light off
+1637:TRANSFORM/szTooltipText:Switch off flashlight.
+2139:TRANSFORM/szMenuRowText:Light on
+2139:TRANSFORM/szTooltipText:Switch on flashlight.
+2140:TRANSFORM/szMenuRowText:Light off
+2140:TRANSFORM/szTooltipText:Switch off flashlight.
+2450:TRANSFORM/szMenuRowText:Light on
+2450:TRANSFORM/szTooltipText:Switch on flashlight.
+2451:TRANSFORM/szMenuRowText:Light off
+2451:TRANSFORM/szTooltipText:Switch off flashlight.
+2570:TRANSFORM/szMenuRowText:Light on
+2570:TRANSFORM/szTooltipText:Switch on flashlight.
+2571:TRANSFORM/szMenuRowText:Light off
+2571:TRANSFORM/szTooltipText:Switch off flashlight.
+606:TRANSFORM/szMenuRowText:Western Optics
+606:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2368:TRANSFORM/szMenuRowText:Eastern Optics
+2368:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+607:TRANSFORM/szMenuRowText:Western Optics
+607:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2369:TRANSFORM/szMenuRowText:Eastern Optics
+2369:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+608:TRANSFORM/szMenuRowText:Western Optics
+608:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2370:TRANSFORM/szMenuRowText:Eastern Optics
+2370:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+609:TRANSFORM/szMenuRowText:Western Optics
+609:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2371:TRANSFORM/szMenuRowText:Eastern Optics
+2371:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+610:TRANSFORM/szMenuRowText:Western Optics
+610:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2372:TRANSFORM/szMenuRowText:Eastern Optics
+2372:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+611:TRANSFORM/szMenuRowText:Western Optics
+611:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2373:TRANSFORM/szMenuRowText:Eastern Optics
+2373:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2480:TRANSFORM/szMenuRowText:Western Optics
+2480:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2482:TRANSFORM/szMenuRowText:Eastern Optics
+2482:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2481:TRANSFORM/szMenuRowText:Western Optics
+2481:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2483:TRANSFORM/szMenuRowText:Eastern Optics
+2483:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2490:TRANSFORM/szMenuRowText:Western Optics
+2490:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2492:TRANSFORM/szMenuRowText:Eastern Optics
+2492:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2491:TRANSFORM/szMenuRowText:Western Optics
+2491:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2493:TRANSFORM/szMenuRowText:Eastern Optics
+2493:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2496:TRANSFORM/szMenuRowText:Western Optics
+2496:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2498:TRANSFORM/szMenuRowText:Eastern Optics
+2498:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2497:TRANSFORM/szMenuRowText:Western Optics
+2497:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2499:TRANSFORM/szMenuRowText:Eastern Optics
+2499:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2524:TRANSFORM/szMenuRowText:Western Optics
+2524:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2526:TRANSFORM/szMenuRowText:Eastern Optics
+2526:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2525:TRANSFORM/szMenuRowText:Western Optics
+2525:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2527:TRANSFORM/szMenuRowText:Eastern Optics
+2527:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2537:TRANSFORM/szMenuRowText:Western Optics
+2537:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2539:TRANSFORM/szMenuRowText:Eastern Optics
+2539:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2538:TRANSFORM/szMenuRowText:Western Optics
+2538:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2540:TRANSFORM/szMenuRowText:Eastern Optics
+2540:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2549:TRANSFORM/szMenuRowText:Western Optics
+2549:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2551:TRANSFORM/szMenuRowText:Eastern Optics
+2551:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+2550:TRANSFORM/szMenuRowText:Western Optics
+2550:TRANSFORM/szTooltipText:Allow the mounting of western optics on a top mount.
+2552:TRANSFORM/szMenuRowText:Eastern Optics
+2552:TRANSFORM/szTooltipText:Allow the mounting of eastern optics on a side mount.
+953:TRANSFORM/szMenuRowText:Replace
+953:TRANSFORM/szTooltipText:Replace obsolete item with updated version.
+954:TRANSFORM/szMenuRowText:Replace
+954:TRANSFORM/szTooltipText:Replace obsolete item with updated version.
+956:TRANSFORM/szMenuRowText:Replace
+956:TRANSFORM/szTooltipText:Replace obsolete item with updated version.
+989:TRANSFORM/szMenuRowText:Replace
+989:TRANSFORM/szTooltipText:Replace obsolete item with updated version.
+1030:TRANSFORM/szMenuRowText:Recreate Scope Modes
+1030:TRANSFORM/szTooltipText:Use this if the Emergency Sights are missing.
+2119:TRANSFORM/szMenuRowText:Recreate Scope Modes
+2119:TRANSFORM/szTooltipText:Use this if the Emergency Sights are missing.
+1004:TRANSFORM/szMenuRowText:Obsolete Item -> Transform!
+1004:TRANSFORM/szTooltipText:Transform this OIV item into an NIV item.
+1006:TRANSFORM/szMenuRowText:Combo Variant
+1006:TRANSFORM/szTooltipText:Enable the mounting in front of the Scope 2x.
+2167:TRANSFORM/szMenuRowText:Standalone Variant
+2167:TRANSFORM/szTooltipText:For the use without a Scope.
+1006:TRANSFORM/szMenuRowText:On-Top Mounting
+1006:TRANSFORM/szTooltipText:Enable the mounting on top of some Scopes.
+2168:TRANSFORM/szMenuRowText:Standalone Variant
+2168:TRANSFORM/szTooltipText:For the use without a Scope.
+2167:TRANSFORM/szMenuRowText:On-Top Mounting
+2167:TRANSFORM/szTooltipText:Enable the mounting on top of some Scopes.
+2168:TRANSFORM/szMenuRowText:Combo Variant
+2168:TRANSFORM/szTooltipText:Enable the mounting in front of the Scope 2x.
+1007:TRANSFORM/szMenuRowText:Magn. 5x
+1007:TRANSFORM/szTooltipText:Switch Scope Magnification to 5x (25+ Tiles).
+2155:TRANSFORM/szMenuRowText:Magn. 7x
+2155:TRANSFORM/szTooltipText:Switch Scope Magnification to 7x (35+ Tiles).
+1015:TRANSFORM/szMenuRowText:Build mode
+1015:TRANSFORM/szTooltipText:Ready for building.
+1543:TRANSFORM/szMenuRowText:Combat mode
+1543:TRANSFORM/szTooltipText:Ready for combat.
+1170:TRANSFORM/szMenuRowText:Update obsolete Item
+1170:TRANSFORM/szTooltipText:Update obsolete Item.
+1171:TRANSFORM/szMenuRowText:Update obsolete Item
+1171:TRANSFORM/szTooltipText:Update obsolete Item.
+1172:TRANSFORM/szMenuRowText:Update obsolete Item
+1172:TRANSFORM/szTooltipText:Update obsolete Item.
+1173:TRANSFORM/szMenuRowText:Update obsolete Item
+1173:TRANSFORM/szTooltipText:Update obsolete Item.
+1174:TRANSFORM/szMenuRowText:Update obsolete Item
+1174:TRANSFORM/szTooltipText:Update obsolete Item.
+1175:TRANSFORM/szMenuRowText:Update obsolete Item
+1175:TRANSFORM/szTooltipText:Update obsolete Item.
+1197:TRANSFORM/szMenuRowText:Update obsolete Item
+1197:TRANSFORM/szTooltipText:Update obsolete Item.
+1198:TRANSFORM/szMenuRowText:Update obsolete Item
+1198:TRANSFORM/szTooltipText:Update obsolete Item.
+1199:TRANSFORM/szMenuRowText:Update obsolete Item
+1199:TRANSFORM/szTooltipText:Update obsolete Item.
+1204:TRANSFORM/szMenuRowText:Update obsolete Item
+1204:TRANSFORM/szTooltipText:Update obsolete Item.
+1205:TRANSFORM/szMenuRowText:Update obsolete Item
+1205:TRANSFORM/szTooltipText:Update obsolete Item.
+1206:TRANSFORM/szMenuRowText:Update obsolete Item
+1206:TRANSFORM/szTooltipText:Update obsolete Item.
+1207:TRANSFORM/szMenuRowText:Update obsolete Item
+1207:TRANSFORM/szTooltipText:Update obsolete Item.
+1208:TRANSFORM/szMenuRowText:Update obsolete Item
+1208:TRANSFORM/szTooltipText:Update obsolete Item.
+1335:TRANSFORM/szMenuRowText:Update obsolete Item
+1335:TRANSFORM/szTooltipText:Update obsolete Item.
+1336:TRANSFORM/szMenuRowText:Update obsolete Item
+1336:TRANSFORM/szTooltipText:Update obsolete Item.
+1337:TRANSFORM/szMenuRowText:Update obsolete Item
+1337:TRANSFORM/szTooltipText:Update obsolete Item.
+1591:TRANSFORM/szMenuRowText:Transform tripwire
+1591:TRANSFORM/szTooltipText:Make tripwire stackable.
+1592:TRANSFORM/szMenuRowText:Transform tripwire
+1592:TRANSFORM/szTooltipText:Make tripwire stackable.
+1593:TRANSFORM/szMenuRowText:Transform tripwire
+1593:TRANSFORM/szTooltipText:Make tripwire stackable.
+1594:TRANSFORM/szMenuRowText:Transform tripwire
+1594:TRANSFORM/szTooltipText:Make tripwire stackable.
+1595:TRANSFORM/szMenuRowText:Transform tripwire
+1595:TRANSFORM/szTooltipText:Make tripwire stackable.
+1596:TRANSFORM/szMenuRowText:Transform tripwire
+1596:TRANSFORM/szTooltipText:Make tripwire stackable.
+1597:TRANSFORM/szMenuRowText:Transform tripwire
+1597:TRANSFORM/szTooltipText:Make tripwire stackable.
+1598:TRANSFORM/szMenuRowText:Transform tripwire
+1598:TRANSFORM/szTooltipText:Make tripwire stackable.
+1599:TRANSFORM/szMenuRowText:Transform tripwire
+1599:TRANSFORM/szTooltipText:Make tripwire stackable.
+1600:TRANSFORM/szMenuRowText:Transform tripwire
+1600:TRANSFORM/szTooltipText:Make tripwire stackable.
+1601:TRANSFORM/szMenuRowText:Transform tripwire
+1601:TRANSFORM/szTooltipText:Make tripwire stackable.
+1602:TRANSFORM/szMenuRowText:Transform tripwire
+1602:TRANSFORM/szTooltipText:Make tripwire stackable.
+1603:TRANSFORM/szMenuRowText:Transform tripwire
+1603:TRANSFORM/szTooltipText:Make tripwire stackable.
+1604:TRANSFORM/szMenuRowText:Transform tripwire
+1604:TRANSFORM/szTooltipText:Make tripwire stackable.
+1605:TRANSFORM/szMenuRowText:Transform tripwire
+1605:TRANSFORM/szTooltipText:Make tripwire stackable.
+1528:TRANSFORM/szMenuRowText:Remove tripwire
+1528:TRANSFORM/szTooltipText:Remove tripwire from stun grenade.
+1529:TRANSFORM/szMenuRowText:Remove tripwire
+1529:TRANSFORM/szTooltipText:Remove tripwire from tear gas grenade.
+1530:TRANSFORM/szMenuRowText:Remove tripwire
+1530:TRANSFORM/szTooltipText:Remove tripwire from mustard gas grenade.
+1531:TRANSFORM/szMenuRowText:Remove tripwire
+1531:TRANSFORM/szTooltipText:Remove tripwire from mini grenade.
+1532:TRANSFORM/szMenuRowText:Remove tripwire
+1532:TRANSFORM/szTooltipText:Remove tripwire from MK2 grenade.
+1533:TRANSFORM/szMenuRowText:Remove tripwire
+1533:TRANSFORM/szTooltipText:Remove tripwire from emergency flare.
+1534:TRANSFORM/szMenuRowText:Remove tripwire
+1534:TRANSFORM/szTooltipText:Remove tripwire from smoke grenade.
+1541:TRANSFORM/szMenuRowText:Empty sandbag
+1541:TRANSFORM/szTooltipText:Empty sand from sandbag.
+1722:TRANSFORM/szMenuRowText:Seperate Stacks
+1722:TRANSFORM/szTooltipText:Seperate into 2 small stacks.
+1723:TRANSFORM/szMenuRowText:Seperate Stacks
+1723:TRANSFORM/szTooltipText:Seperate into 2 medium stacks.
+1723:TRANSFORM/szMenuRowText:Seperate Stacks
+1723:TRANSFORM/szTooltipText:Seperates into 1 medium and 2 small stacks.
+1723:TRANSFORM/szMenuRowText:Seperate Stacks
+1723:TRANSFORM/szTooltipText:Seperate into 4 small stacks.
+2105:TRANSFORM/szMenuRowText:Flip Backup Sights up
+2105:TRANSFORM/szTooltipText:Flip the Backup Iron Sights up (Warning: only do so if no optic is attached; prevents mounting of Optics).
+2106:TRANSFORM/szMenuRowText:Allow Scope Mounting
+2106:TRANSFORM/szTooltipText:Flip the Backup Iron Sights down (allows mounting of various Optics again).
+2120:TRANSFORM/szMenuRowText:CQC Mode
+2120:TRANSFORM/szTooltipText:Switch to Reflex Sight.
+2121:TRANSFORM/szMenuRowText:Scope Mode
+2121:TRANSFORM/szTooltipText:Switch to Scope Magnification 4x.
+947:TRANSFORM/szMenuRowText:Drop Pods
+947:TRANSFORM/szTooltipText:Act as a Bipod.
+2152:TRANSFORM/szMenuRowText:Retract Pods
+2152:TRANSFORM/szTooltipText:Act as a Foregrip.
+2124:TRANSFORM/szMenuRowText:Switch to Side
+2124:TRANSFORM/szTooltipText:Switch the Magnifier to the side so it no longer obstructs your view in CQC.
+2125:TRANSFORM/szMenuRowText:Reallign Magnifier 3x
+2125:TRANSFORM/szTooltipText:Reallign the Magnifier 3x again.
+2126:TRANSFORM/szMenuRowText:Switch to Side
+2126:TRANSFORM/szTooltipText:Switch the Magnifier to the side so it no longer obstructs your view in CQC.
+2127:TRANSFORM/szMenuRowText:Reallign Magnifier 6x
+2127:TRANSFORM/szTooltipText:Reallign the Magnifier 6x again.
+661:TRANSFORM/szMenuRowText:Enable external Belt feed
+661:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2350:TRANSFORM/szMenuRowText:Disable external Belt feed
+2350:TRANSFORM/szTooltipText:Disable external Belt feed.
+1076:TRANSFORM/szMenuRowText:Enable external Belt feed
+1076:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2351:TRANSFORM/szMenuRowText:Disable external Belt feed
+2351:TRANSFORM/szTooltipText:Disable external Belt feed.
+2585:TRANSFORM/szMenuRowText:Enable external Belt feed
+2585:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2586:TRANSFORM/szMenuRowText:Disable external Belt feed
+2586:TRANSFORM/szTooltipText:Disable external Belt feed.
+34:TRANSFORM/szMenuRowText:Enable external Belt feed
+34:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2352:TRANSFORM/szMenuRowText:Disable external Belt feed
+2352:TRANSFORM/szTooltipText:Disable external Belt feed.
+650:TRANSFORM/szMenuRowText:Enable external Belt feed
+650:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2353:TRANSFORM/szMenuRowText:Disable external Belt feed
+2353:TRANSFORM/szTooltipText:Disable external Belt feed.
+2587:TRANSFORM/szMenuRowText:Enable external Belt feed
+2587:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2588:TRANSFORM/szMenuRowText:Disable external Belt feed
+2588:TRANSFORM/szTooltipText:Disable external Belt feed.
+1188:TRANSFORM/szMenuRowText:Enable external Belt feed
+1188:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2354:TRANSFORM/szMenuRowText:Disable external Belt feed
+2354:TRANSFORM/szTooltipText:Disable external Belt feed.
+669:TRANSFORM/szMenuRowText:Enable external Belt feed
+669:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2355:TRANSFORM/szMenuRowText:Disable external Belt feed
+2355:TRANSFORM/szTooltipText:Disable external Belt feed.
+2589:TRANSFORM/szMenuRowText:Enable external Belt feed
+2589:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 30 bullets.
+2590:TRANSFORM/szMenuRowText:Disable external Belt feed
+2590:TRANSFORM/szTooltipText:Disable external Belt feed.
+627:TRANSFORM/szMenuRowText:Enable external Belt feed
+627:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2356:TRANSFORM/szMenuRowText:Disable external Belt feed
+2356:TRANSFORM/szTooltipText:Disable external Belt feed.
+1075:TRANSFORM/szMenuRowText:Enable external Belt feed
+1075:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2357:TRANSFORM/szMenuRowText:Disable external Belt feed
+2357:TRANSFORM/szTooltipText:Disable external Belt feed.
+687:TRANSFORM/szMenuRowText:Enable external Belt feed
+687:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2358:TRANSFORM/szMenuRowText:Disable external Belt feed
+2358:TRANSFORM/szTooltipText:Disable external Belt feed.
+649:TRANSFORM/szMenuRowText:Enable external Belt feed
+649:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2359:TRANSFORM/szMenuRowText:Disable external Belt feed
+2359:TRANSFORM/szTooltipText:Disable external Belt feed.
+2593:TRANSFORM/szMenuRowText:Enable external Belt feed
+2593:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2595:TRANSFORM/szMenuRowText:Disable external Belt feed
+2595:TRANSFORM/szTooltipText:Disable external Belt feed.
+2594:TRANSFORM/szMenuRowText:Enable external Belt feed
+2594:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2596:TRANSFORM/szMenuRowText:Disable external Belt feed
+2596:TRANSFORM/szTooltipText:Disable external Belt feed.
+36:TRANSFORM/szMenuRowText:Enable external Belt feed
+36:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 20 bullets.
+2360:TRANSFORM/szMenuRowText:Disable external Belt feed
+2360:TRANSFORM/szTooltipText:Disable external Belt feed.
+699:TRANSFORM/szMenuRowText:Enable external Belt feed
+699:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2361:TRANSFORM/szMenuRowText:Disable external Belt feed
+2361:TRANSFORM/szTooltipText:Disable external Belt feed.
+2597:TRANSFORM/szMenuRowText:Enable external Belt feed
+2597:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2599:TRANSFORM/szMenuRowText:Disable external Belt feed
+2599:TRANSFORM/szTooltipText:Disable external Belt feed.
+2598:TRANSFORM/szMenuRowText:Enable external Belt feed
+2598:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2600:TRANSFORM/szMenuRowText:Disable external Belt feed
+2600:TRANSFORM/szTooltipText:Disable external Belt feed.
+700:TRANSFORM/szMenuRowText:Enable external Belt feed
+700:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2362:TRANSFORM/szMenuRowText:Disable external Belt feed
+2362:TRANSFORM/szTooltipText:Disable external Belt feed.
+2601:TRANSFORM/szMenuRowText:Enable external Belt feed
+2601:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2603:TRANSFORM/szMenuRowText:Disable external Belt feed
+2603:TRANSFORM/szTooltipText:Disable external Belt feed.
+2602:TRANSFORM/szMenuRowText:Enable external Belt feed
+2602:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 10 bullets.
+2604:TRANSFORM/szMenuRowText:Disable external Belt feed
+2604:TRANSFORM/szTooltipText:Disable external Belt feed.
+2088:TRANSFORM/szMenuRowText:Enable external Belt feed
+2088:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 25 bullets.
+2374:TRANSFORM/szMenuRowText:Disable external Belt feed
+2374:TRANSFORM/szTooltipText:Disable external Belt feed.
+2613:TRANSFORM/szMenuRowText:Enable external Belt feed
+2613:TRANSFORM/szTooltipText:Enable external Belt feed - Warning: only do so if current ammo count is equal or lower than 25 bullets.
+2614:TRANSFORM/szMenuRowText:Disable external Belt feed
+2614:TRANSFORM/szTooltipText:Disable external Belt feed.
+2123:TRANSFORM/szMenuRowText:Combo Variant
+2123:TRANSFORM/szTooltipText:Enable the mounting in front of a magnifier.
+2153:TRANSFORM/szMenuRowText:Standalone Variant
+2153:TRANSFORM/szTooltipText:For the use without a magnifier.
+2128:TRANSFORM/szMenuRowText:Magn. 8x
+2128:TRANSFORM/szTooltipText:Switch Scope Magnification to 8x (39+ Tiles).
+2128:TRANSFORM/szMenuRowText:Magn. 4x
+2128:TRANSFORM/szTooltipText:Switch Scope Magnification to 4x (20+ Tiles).
+2161:TRANSFORM/szMenuRowText:Magn. 12x
+2161:TRANSFORM/szTooltipText:Switch Scope Magnification to 12x (59+ Tiles).
+2161:TRANSFORM/szMenuRowText:Magn. 4x
+2161:TRANSFORM/szTooltipText:Switch Scope Magnification to 4x (20+ Tiles).
+2162:TRANSFORM/szMenuRowText:Magn. 12x
+2162:TRANSFORM/szTooltipText:Switch Scope Magnification to 12x (59+ Tiles).
+2162:TRANSFORM/szMenuRowText:Magn. 8x
+2162:TRANSFORM/szTooltipText:Switch Scope Magnification to 8x (39+ Tiles).
+2164:TRANSFORM/szMenuRowText:Magn. 6x
+2164:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+2164:TRANSFORM/szMenuRowText:Magn. 4x
+2164:TRANSFORM/szTooltipText:Switch Scope Magnification to 4x (20+ Tiles).
+2165:TRANSFORM/szMenuRowText:Magn. 6x
+2165:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+2165:TRANSFORM/szMenuRowText:Magn. 2x
+2165:TRANSFORM/szTooltipText:Switch Scope Magnification to 2x (10+ Tiles).
+2166:TRANSFORM/szMenuRowText:Magn. 4x
+2166:TRANSFORM/szTooltipText:Switch Scope Magnification to 4x (20+ Tiles).
+2166:TRANSFORM/szMenuRowText:Magn. 2x
+2166:TRANSFORM/szTooltipText:Switch Scope Magnification to 2x (10+ Tiles).
+1026:TRANSFORM/szMenuRowText:G36 Variants
+1026:TRANSFORM/szTooltipText:Compatibility with G36 variants and their 2 shot burst.
+2154:TRANSFORM/szMenuRowText:Default
+2154:TRANSFORM/szTooltipText:Compatibility with most common weapons.
+2156:TRANSFORM/szMenuRowText:Magn. 6x
+2156:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+2156:TRANSFORM/szMenuRowText:Magn. 3x
+2156:TRANSFORM/szTooltipText:Switch Scope Magnification to 3x (15+ Tiles).
+2157:TRANSFORM/szMenuRowText:Magn. 10x
+2157:TRANSFORM/szTooltipText:Switch Scope Magnification to 10x (49+ Tiles).
+2157:TRANSFORM/szMenuRowText:Magn. 3x
+2157:TRANSFORM/szTooltipText:Switch Scope Magnification to 3x (15+ Tiles).
+2158:TRANSFORM/szMenuRowText:Magn. 10x
+2158:TRANSFORM/szTooltipText:Switch Scope Magnification to 10x (49+ Tiles).
+2158:TRANSFORM/szMenuRowText:Magn. 6x
+2158:TRANSFORM/szTooltipText:Switch Scope Magnification to 6x (30+ Tiles).
+2285:TRANSFORM/szMenuRowText:Generate Belt
+2285:TRANSFORM/szTooltipText:Generate a fitting belt for this vest.
+2286:TRANSFORM/szMenuRowText:Generate Belt
+2286:TRANSFORM/szTooltipText:Generate a fitting belt for this vest.
+2287:TRANSFORM/szMenuRowText:Generate Belt
+2287:TRANSFORM/szTooltipText:Generate a fitting belt for this vest.
+2269:TRANSFORM/szMenuRowText:Separate Pouches
+2269:TRANSFORM/szTooltipText:Separate the thigh carrier rig and the 3 modular pouches.
+2316:TRANSFORM/szMenuRowText:Split
+2316:TRANSFORM/szTooltipText:Split the empty sandbags in the inventory.
+2317:TRANSFORM/szMenuRowText:Split
+2317:TRANSFORM/szTooltipText:Split the concertinas in the inventory.
+2318:TRANSFORM/szMenuRowText:Split
+2318:TRANSFORM/szTooltipText:Split the tripwires in the inventory.
+2319:TRANSFORM/szMenuRowText:Split
+2319:TRANSFORM/szTooltipText:Split the land mines in the inventory.
+2400:TRANSFORM/szMenuRowText:Fold Stock
+2400:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+720:TRANSFORM/szMenuRowText:Unfold Stock
+720:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2401:TRANSFORM/szMenuRowText:Fold Stock
+2401:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+601:TRANSFORM/szMenuRowText:Unfold Stock
+601:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2402:TRANSFORM/szMenuRowText:Fold Stock
+2402:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. The folded stock will leave no space for sights/optics on top of the gun.
+701:TRANSFORM/szMenuRowText:Unfold Stock
+701:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+604:TRANSFORM/szMenuRowText:Two-handed Usage
+604:TRANSFORM/szTooltipText:Use the gun with both hands again.
+2403:TRANSFORM/szMenuRowText:One-handed Usage
+2403:TRANSFORM/szTooltipText:Hold the gun in one hand.
+2404:TRANSFORM/szMenuRowText:Fold Stock
+2404:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+730:TRANSFORM/szMenuRowText:Unfold Stock
+730:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2405:TRANSFORM/szMenuRowText:Fold Stock
+2405:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+330:TRANSFORM/szMenuRowText:Unfold Stock
+330:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2406:TRANSFORM/szMenuRowText:Fold Stock
+2406:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+688:TRANSFORM/szMenuRowText:Unfold Stock
+688:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2407:TRANSFORM/szMenuRowText:Fold Stock
+2407:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+692:TRANSFORM/szMenuRowText:Unfold Stock
+692:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+641:TRANSFORM/szMenuRowText:Two-handed Usage
+641:TRANSFORM/szTooltipText:Use the gun with both hands again.
+2408:TRANSFORM/szMenuRowText:One-handed Usage
+2408:TRANSFORM/szTooltipText:Hold the gun in one hand.
+2409:TRANSFORM/szMenuRowText:Fold Stock
+2409:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+9:TRANSFORM/szMenuRowText:Unfold Stock
+9:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2410:TRANSFORM/szMenuRowText:Fold Stock
+2410:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+2082:TRANSFORM/szMenuRowText:Unfold Stock
+2082:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2411:TRANSFORM/szMenuRowText:Fold Stock
+2411:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+10:TRANSFORM/szMenuRowText:Unfold Stock
+10:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2412:TRANSFORM/szMenuRowText:Fold Stock
+2412:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+619:TRANSFORM/szMenuRowText:Unfold Stock
+619:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2413:TRANSFORM/szMenuRowText:Fold Stock
+2413:TRANSFORM/szTooltipText:Fold the stock to be able to hold the gun in one hand. This way it suffers some combat effectiveness, though.
+673:TRANSFORM/szMenuRowText:Unfold Stock
+673:TRANSFORM/szTooltipText:Unfold the stock use the gun with both hands again.
+2414:TRANSFORM/szMenuRowText:Fold Stock
+2414:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2415:TRANSFORM/szMenuRowText:Unfold Stock
+2415:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2414:TRANSFORM/szMenuRowText:Separate Stock
+2414:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2416:TRANSFORM/szMenuRowText:Fold Stock
+2416:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2417:TRANSFORM/szMenuRowText:Unfold Stock
+2417:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2416:TRANSFORM/szMenuRowText:Separate Stock
+2416:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2418:TRANSFORM/szMenuRowText:Retract Stock
+2418:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2419:TRANSFORM/szMenuRowText:Extend Stock
+2419:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2418:TRANSFORM/szMenuRowText:Separate Stock
+2418:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2420:TRANSFORM/szMenuRowText:Fold Stock
+2420:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2421:TRANSFORM/szMenuRowText:Unfold Stock
+2421:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2420:TRANSFORM/szMenuRowText:Separate Stock
+2420:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2422:TRANSFORM/szMenuRowText:Fold Stock
+2422:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2423:TRANSFORM/szMenuRowText:Unfold Stock
+2423:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2422:TRANSFORM/szMenuRowText:Separate Stock
+2422:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2424:TRANSFORM/szMenuRowText:Retract Stock
+2424:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2425:TRANSFORM/szMenuRowText:Extend Stock
+2425:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2424:TRANSFORM/szMenuRowText:Separate Stock
+2424:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2426:TRANSFORM/szMenuRowText:Fold Stock
+2426:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2427:TRANSFORM/szMenuRowText:Unfold Stock
+2427:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2426:TRANSFORM/szMenuRowText:Separate Stock
+2426:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2428:TRANSFORM/szMenuRowText:Retract Stock
+2428:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2429:TRANSFORM/szMenuRowText:Extend Stock
+2429:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2428:TRANSFORM/szMenuRowText:Separate Stock
+2428:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+775:TRANSFORM/szMenuRowText:Fold Stock
+775:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on top of the gun.
+2430:TRANSFORM/szMenuRowText:Unfold Stock
+2430:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2366:TRANSFORM/szMenuRowText:Fold Stock
+2366:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on top of the gun.
+2431:TRANSFORM/szMenuRowText:Unfold Stock
+2431:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2432:TRANSFORM/szMenuRowText:Fold Stock
+2432:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2433:TRANSFORM/szMenuRowText:Unfold Stock
+2433:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2432:TRANSFORM/szMenuRowText:Separate Stock
+2432:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+32:TRANSFORM/szMenuRowText:Fold Stock
+32:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2434:TRANSFORM/szMenuRowText:Unfold Stock
+2434:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2367:TRANSFORM/szMenuRowText:Fold Stock
+2367:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2435:TRANSFORM/szMenuRowText:Unfold Stock
+2435:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2436:TRANSFORM/szMenuRowText:Fold Stock
+2436:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2437:TRANSFORM/szMenuRowText:Unfold Stock
+2437:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2436:TRANSFORM/szMenuRowText:Separate Stock
+2436:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2438:TRANSFORM/szMenuRowText:Retract Stock
+2438:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2439:TRANSFORM/szMenuRowText:Extend Stock
+2439:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2438:TRANSFORM/szMenuRowText:Separate Stock
+2438:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+621:TRANSFORM/szMenuRowText:Retract Stock
+621:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2440:TRANSFORM/szMenuRowText:Extend Stock
+2440:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+340:TRANSFORM/szMenuRowText:Fold Stock
+340:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2441:TRANSFORM/szMenuRowText:Unfold Stock
+2441:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+731:TRANSFORM/szMenuRowText:Fold Stock
+731:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on top of the gun.
+2442:TRANSFORM/szMenuRowText:Unfold Stock
+2442:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1178:TRANSFORM/szMenuRowText:Retract Stock
+1178:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2443:TRANSFORM/szMenuRowText:Extend Stock
+2443:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+628:TRANSFORM/szMenuRowText:Fold Stock
+628:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2444:TRANSFORM/szMenuRowText:Unfold Stock
+2444:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+725:TRANSFORM/szMenuRowText:Fold Stock
+725:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2445:TRANSFORM/szMenuRowText:Unfold Stock
+2445:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1067:TRANSFORM/szMenuRowText:Fold Stock
+1067:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2446:TRANSFORM/szMenuRowText:Unfold Stock
+2446:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1177:TRANSFORM/szMenuRowText:Fold Stock
+1177:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2447:TRANSFORM/szMenuRowText:Unfold Stock
+2447:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+345:TRANSFORM/szMenuRowText:Fold Stock
+345:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2448:TRANSFORM/szMenuRowText:Unfold Stock
+2448:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+761:TRANSFORM/szMenuRowText:Fold Stock
+761:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2449:TRANSFORM/szMenuRowText:Unfold Stock
+2449:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+343:TRANSFORM/szMenuRowText:Retract Stock
+343:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2450:TRANSFORM/szMenuRowText:Extend Stock
+2450:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2363:TRANSFORM/szMenuRowText:Retract Stock
+2363:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2451:TRANSFORM/szMenuRowText:Extend Stock
+2451:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2452:TRANSFORM/szMenuRowText:Fold Stock
+2452:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2453:TRANSFORM/szMenuRowText:Unfold Stock
+2453:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2452:TRANSFORM/szMenuRowText:Separate Stock
+2452:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2454:TRANSFORM/szMenuRowText:Fold Stock
+2454:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2455:TRANSFORM/szMenuRowText:Unfold Stock
+2455:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2454:TRANSFORM/szMenuRowText:Separate Stock
+2454:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+643:TRANSFORM/szMenuRowText:Fold Stock
+643:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2456:TRANSFORM/szMenuRowText:Unfold Stock
+2456:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+642:TRANSFORM/szMenuRowText:Fold Stock
+642:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2457:TRANSFORM/szMenuRowText:Unfold Stock
+2457:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+346:TRANSFORM/szMenuRowText:Retract Stock
+346:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2458:TRANSFORM/szMenuRowText:Extend Stock
+2458:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+69:TRANSFORM/szMenuRowText:Retract Stock
+69:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2459:TRANSFORM/szMenuRowText:Extend Stock
+2459:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+16:TRANSFORM/szMenuRowText:Fold Stock
+16:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2460:TRANSFORM/szMenuRowText:Unfold Stock
+2460:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+672:TRANSFORM/szMenuRowText:Fold Stock
+672:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2461:TRANSFORM/szMenuRowText:Unfold Stock
+2461:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+626:TRANSFORM/szMenuRowText:Fold Stock
+626:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2462:TRANSFORM/szMenuRowText:Unfold Stock
+2462:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+677:TRANSFORM/szMenuRowText:Fold Stock
+677:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2463:TRANSFORM/szMenuRowText:Unfold Stock
+2463:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+794:TRANSFORM/szMenuRowText:Retract Stock
+794:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2464:TRANSFORM/szMenuRowText:Extend Stock
+2464:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+671:TRANSFORM/szMenuRowText:Fold Stock
+671:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2465:TRANSFORM/szMenuRowText:Unfold Stock
+2465:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1190:TRANSFORM/szMenuRowText:Fold Stock
+1190:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2466:TRANSFORM/szMenuRowText:Unfold Stock
+2466:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1332:TRANSFORM/szMenuRowText:Retract Stock
+1332:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2467:TRANSFORM/szMenuRowText:Extend Stock
+2467:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+1333:TRANSFORM/szMenuRowText:Retract Stock
+1333:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2468:TRANSFORM/szMenuRowText:Extend Stock
+2468:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+1334:TRANSFORM/szMenuRowText:Retract Stock
+1334:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2469:TRANSFORM/szMenuRowText:Extend Stock
+2469:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+763:TRANSFORM/szMenuRowText:Retract Stock
+763:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2470:TRANSFORM/szMenuRowText:Extend Stock
+2470:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+12:TRANSFORM/szMenuRowText:Retract Stock
+12:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2471:TRANSFORM/szMenuRowText:Extend Stock
+2471:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+662:TRANSFORM/szMenuRowText:Retract Stock
+662:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2472:TRANSFORM/szMenuRowText:Extend Stock
+2472:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+1066:TRANSFORM/szMenuRowText:Retract Stock
+1066:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2473:TRANSFORM/szMenuRowText:Extend Stock
+2473:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+691:TRANSFORM/szMenuRowText:Fold Stock
+691:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2474:TRANSFORM/szMenuRowText:Unfold Stock
+2474:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+664:TRANSFORM/szMenuRowText:Fold Stock
+664:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2475:TRANSFORM/szMenuRowText:Unfold Stock
+2475:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+13:TRANSFORM/szMenuRowText:Retract Stock
+13:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2476:TRANSFORM/szMenuRowText:Extend Stock
+2476:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+750:TRANSFORM/szMenuRowText:Fold Stock
+750:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2477:TRANSFORM/szMenuRowText:Unfold Stock
+2477:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+756:TRANSFORM/szMenuRowText:Fold Stock
+756:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2478:TRANSFORM/szMenuRowText:Unfold Stock
+2478:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+606:TRANSFORM/szMenuRowText:Fold Stock
+606:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2479:TRANSFORM/szMenuRowText:Unfold Stock
+2479:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2480:TRANSFORM/szMenuRowText:Retract Stock
+2480:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2481:TRANSFORM/szMenuRowText:Extend Stock
+2481:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2480:TRANSFORM/szMenuRowText:Separate Stock
+2480:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2482:TRANSFORM/szMenuRowText:Retract Stock
+2482:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2483:TRANSFORM/szMenuRowText:Extend Stock
+2483:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2482:TRANSFORM/szMenuRowText:Separate Stock
+2482:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+715:TRANSFORM/szMenuRowText:Fold Stock
+715:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2484:TRANSFORM/szMenuRowText:Unfold Stock
+2484:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+714:TRANSFORM/szMenuRowText:Fold Stock
+714:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2485:TRANSFORM/szMenuRowText:Unfold Stock
+2485:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+652:TRANSFORM/szMenuRowText:Fold Stock
+652:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2486:TRANSFORM/szMenuRowText:Unfold Stock
+2486:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+666:TRANSFORM/szMenuRowText:Fold Stock
+666:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2487:TRANSFORM/szMenuRowText:Unfold Stock
+2487:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+14:TRANSFORM/szMenuRowText:Fold Stock
+14:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2488:TRANSFORM/szMenuRowText:Unfold Stock
+2488:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+609:TRANSFORM/szMenuRowText:Fold Stock
+609:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2489:TRANSFORM/szMenuRowText:Unfold Stock
+2489:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2490:TRANSFORM/szMenuRowText:Retract Stock
+2490:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2491:TRANSFORM/szMenuRowText:Extend Stock
+2491:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2490:TRANSFORM/szMenuRowText:Separate Stock
+2490:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2492:TRANSFORM/szMenuRowText:Retract Stock
+2492:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2493:TRANSFORM/szMenuRowText:Extend Stock
+2493:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2492:TRANSFORM/szMenuRowText:Separate Stock
+2492:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+785:TRANSFORM/szMenuRowText:Fold Stock
+785:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2494:TRANSFORM/szMenuRowText:Unfold Stock
+2494:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+608:TRANSFORM/szMenuRowText:Fold Stock
+608:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2495:TRANSFORM/szMenuRowText:Unfold Stock
+2495:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2496:TRANSFORM/szMenuRowText:Retract Stock
+2496:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2497:TRANSFORM/szMenuRowText:Extend Stock
+2497:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2496:TRANSFORM/szMenuRowText:Separate Stock
+2496:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2498:TRANSFORM/szMenuRowText:Retract Stock
+2498:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2499:TRANSFORM/szMenuRowText:Extend Stock
+2499:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2498:TRANSFORM/szMenuRowText:Separate Stock
+2498:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+656:TRANSFORM/szMenuRowText:Fold Stock
+656:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2500:TRANSFORM/szMenuRowText:Unfold Stock
+2500:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+790:TRANSFORM/szMenuRowText:Fold Stock
+790:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2501:TRANSFORM/szMenuRowText:Unfold Stock
+2501:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+782:TRANSFORM/szMenuRowText:Retract Stock
+782:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2502:TRANSFORM/szMenuRowText:Extend Stock
+2502:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+349:TRANSFORM/szMenuRowText:Fold Stock
+349:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2503:TRANSFORM/szMenuRowText:Unfold Stock
+2503:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1195:TRANSFORM/szMenuRowText:Retract Stock
+1195:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2504:TRANSFORM/szMenuRowText:Extend Stock
+2504:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+651:TRANSFORM/szMenuRowText:Fold Stock
+651:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2505:TRANSFORM/szMenuRowText:Unfold Stock
+2505:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+792:TRANSFORM/szMenuRowText:Fold Stock
+792:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2506:TRANSFORM/szMenuRowText:Unfold Stock
+2506:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2508:TRANSFORM/szMenuRowText:Fold Stock
+2508:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2509:TRANSFORM/szMenuRowText:Unfold Stock
+2509:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2508:TRANSFORM/szMenuRowText:Separate Stock
+2508:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2510:TRANSFORM/szMenuRowText:Fold Stock
+2510:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2511:TRANSFORM/szMenuRowText:Unfold Stock
+2511:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2510:TRANSFORM/szMenuRowText:Separate Stock
+2510:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2512:TRANSFORM/szMenuRowText:Retract Stock
+2512:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2513:TRANSFORM/szMenuRowText:Extend Stock
+2513:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2512:TRANSFORM/szMenuRowText:Separate Stock
+2512:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2514:TRANSFORM/szMenuRowText:Retract Stock
+2514:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2515:TRANSFORM/szMenuRowText:Extend Stock
+2515:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2514:TRANSFORM/szMenuRowText:Separate Stock
+2514:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+653:TRANSFORM/szMenuRowText:Fold Stock
+653:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2516:TRANSFORM/szMenuRowText:Unfold Stock
+2516:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+350:TRANSFORM/szMenuRowText:Fold Stock
+350:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2517:TRANSFORM/szMenuRowText:Unfold Stock
+2517:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+755:TRANSFORM/szMenuRowText:Fold Stock
+755:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2518:TRANSFORM/szMenuRowText:Unfold Stock
+2518:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+665:TRANSFORM/szMenuRowText:Fold Stock
+665:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2519:TRANSFORM/szMenuRowText:Unfold Stock
+2519:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+752:TRANSFORM/szMenuRowText:Fold Stock
+752:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2520:TRANSFORM/szMenuRowText:Unfold Stock
+2520:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+788:TRANSFORM/szMenuRowText:Fold Stock
+788:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2521:TRANSFORM/szMenuRowText:Unfold Stock
+2521:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+713:TRANSFORM/szMenuRowText:Fold Stock
+713:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2522:TRANSFORM/szMenuRowText:Unfold Stock
+2522:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+611:TRANSFORM/szMenuRowText:Fold Stock
+611:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2523:TRANSFORM/szMenuRowText:Unfold Stock
+2523:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2524:TRANSFORM/szMenuRowText:Retract Stock
+2524:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2525:TRANSFORM/szMenuRowText:Extend Stock
+2525:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2524:TRANSFORM/szMenuRowText:Separate Stock
+2524:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2526:TRANSFORM/szMenuRowText:Retract Stock
+2526:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2527:TRANSFORM/szMenuRowText:Extend Stock
+2527:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2526:TRANSFORM/szMenuRowText:Separate Stock
+2526:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+633:TRANSFORM/szMenuRowText:Retract Stock
+633:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2528:TRANSFORM/szMenuRowText:Extend Stock
+2528:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+23:TRANSFORM/szMenuRowText:Retract Stock
+23:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2529:TRANSFORM/szMenuRowText:Extend Stock
+2529:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+1072:TRANSFORM/szMenuRowText:Retract Stock
+1072:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2530:TRANSFORM/szMenuRowText:Extend Stock
+2530:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+1070:TRANSFORM/szMenuRowText:Retract Stock
+1070:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2531:TRANSFORM/szMenuRowText:Extend Stock
+2531:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+614:TRANSFORM/szMenuRowText:Fold Stock
+614:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2532:TRANSFORM/szMenuRowText:Unfold Stock
+2532:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+614:TRANSFORM/szMenuRowText:Separate Stock
+614:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2090:TRANSFORM/szMenuRowText:Fold Stock
+2090:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2533:TRANSFORM/szMenuRowText:Unfold Stock
+2533:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+616:TRANSFORM/szMenuRowText:Fold Stock
+616:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2534:TRANSFORM/szMenuRowText:Unfold Stock
+2534:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+602:TRANSFORM/szMenuRowText:Fold Stock
+602:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2535:TRANSFORM/szMenuRowText:Unfold Stock
+2535:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+610:TRANSFORM/szMenuRowText:Fold Stock
+610:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2536:TRANSFORM/szMenuRowText:Unfold Stock
+2536:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2537:TRANSFORM/szMenuRowText:Retract Stock
+2537:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2538:TRANSFORM/szMenuRowText:Extend Stock
+2538:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2537:TRANSFORM/szMenuRowText:Separate Stock
+2537:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2539:TRANSFORM/szMenuRowText:Retract Stock
+2539:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2540:TRANSFORM/szMenuRowText:Extend Stock
+2540:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2539:TRANSFORM/szMenuRowText:Separate Stock
+2539:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+613:TRANSFORM/szMenuRowText:Fold Stock
+613:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2541:TRANSFORM/szMenuRowText:Unfold Stock
+2541:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+613:TRANSFORM/szMenuRowText:Separate Stock
+613:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+708:TRANSFORM/szMenuRowText:Fold Stock
+708:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2542:TRANSFORM/szMenuRowText:Unfold Stock
+2542:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2543:TRANSFORM/szMenuRowText:Fold Stock
+2543:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2544:TRANSFORM/szMenuRowText:Unfold Stock
+2544:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2544:TRANSFORM/szMenuRowText:Separate Stock
+2544:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+612:TRANSFORM/szMenuRowText:Fold Stock
+612:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2545:TRANSFORM/szMenuRowText:Unfold Stock
+2545:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+612:TRANSFORM/szMenuRowText:Separate Stock
+612:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+742:TRANSFORM/szMenuRowText:Fold Stock
+742:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2546:TRANSFORM/szMenuRowText:Unfold Stock
+2546:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+791:TRANSFORM/szMenuRowText:Fold Stock
+791:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2547:TRANSFORM/szMenuRowText:Unfold Stock
+2547:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+607:TRANSFORM/szMenuRowText:Fold Stock
+607:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2548:TRANSFORM/szMenuRowText:Unfold Stock
+2548:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2549:TRANSFORM/szMenuRowText:Retract Stock
+2549:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2550:TRANSFORM/szMenuRowText:Extend Stock
+2550:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2549:TRANSFORM/szMenuRowText:Separate Stock
+2549:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2551:TRANSFORM/szMenuRowText:Retract Stock
+2551:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2552:TRANSFORM/szMenuRowText:Extend Stock
+2552:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2551:TRANSFORM/szMenuRowText:Separate Stock
+2551:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+603:TRANSFORM/szMenuRowText:Fold Stock
+603:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2553:TRANSFORM/szMenuRowText:Unfold Stock
+2553:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+617:TRANSFORM/szMenuRowText:Fold Stock
+617:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2554:TRANSFORM/szMenuRowText:Unfold Stock
+2554:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+797:TRANSFORM/szMenuRowText:Fold Stock
+797:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2555:TRANSFORM/szMenuRowText:Unfold Stock
+2555:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+793:TRANSFORM/szMenuRowText:Fold Stock
+793:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2556:TRANSFORM/szMenuRowText:Unfold Stock
+2556:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2557:TRANSFORM/szMenuRowText:Retract Stock
+2557:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2558:TRANSFORM/szMenuRowText:Extend Stock
+2558:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2557:TRANSFORM/szMenuRowText:Separate Stock
+2557:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+796:TRANSFORM/szMenuRowText:Retract Stock
+796:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2559:TRANSFORM/szMenuRowText:Extend Stock
+2559:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+667:TRANSFORM/szMenuRowText:Retract Stock
+667:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2560:TRANSFORM/szMenuRowText:Extend Stock
+2560:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2561:TRANSFORM/szMenuRowText:Fold Stock
+2561:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2562:TRANSFORM/szMenuRowText:Unfold Stock
+2562:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2561:TRANSFORM/szMenuRowText:Separate Stock
+2561:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2563:TRANSFORM/szMenuRowText:Fold Stock
+2563:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2564:TRANSFORM/szMenuRowText:Unfold Stock
+2564:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2563:TRANSFORM/szMenuRowText:Separate Stock
+2563:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2565:TRANSFORM/szMenuRowText:Fold Stock
+2565:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2566:TRANSFORM/szMenuRowText:Unfold Stock
+2566:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2565:TRANSFORM/szMenuRowText:Separate Stock
+2565:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2567:TRANSFORM/szMenuRowText:Fold Stock
+2567:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2568:TRANSFORM/szMenuRowText:Unfold Stock
+2568:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2567:TRANSFORM/szMenuRowText:Separate Stock
+2567:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+655:TRANSFORM/szMenuRowText:Fold Stock
+655:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2569:TRANSFORM/szMenuRowText:Unfold Stock
+2569:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+648:TRANSFORM/szMenuRowText:Fold Stock
+648:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2570:TRANSFORM/szMenuRowText:Unfold Stock
+2570:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2364:TRANSFORM/szMenuRowText:Fold Stock
+2364:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2571:TRANSFORM/szMenuRowText:Unfold Stock
+2571:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2572:TRANSFORM/szMenuRowText:Fold Stock
+2572:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2573:TRANSFORM/szMenuRowText:Unfold Stock
+2573:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2572:TRANSFORM/szMenuRowText:Separate Stock
+2572:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2574:TRANSFORM/szMenuRowText:Fold Stock
+2574:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2575:TRANSFORM/szMenuRowText:Unfold Stock
+2575:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2574:TRANSFORM/szMenuRowText:Separate Stock
+2574:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2576:TRANSFORM/szMenuRowText:Retract Stock
+2576:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2577:TRANSFORM/szMenuRowText:Extend Stock
+2577:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2576:TRANSFORM/szMenuRowText:Separate Stock
+2576:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+787:TRANSFORM/szMenuRowText:Fold Stock
+787:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2578:TRANSFORM/szMenuRowText:Unfold Stock
+2578:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1077:TRANSFORM/szMenuRowText:Retract Stock
+1077:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2579:TRANSFORM/szMenuRowText:Extend Stock
+2579:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2580:TRANSFORM/szMenuRowText:Fold Stock
+2580:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2581:TRANSFORM/szMenuRowText:Unfold Stock
+2581:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2580:TRANSFORM/szMenuRowText:Separate Stock
+2580:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+1187:TRANSFORM/szMenuRowText:Fold Stock
+1187:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2582:TRANSFORM/szMenuRowText:Unfold Stock
+2582:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+668:TRANSFORM/szMenuRowText:Fold Stock
+668:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2583:TRANSFORM/szMenuRowText:Unfold Stock
+2583:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+749:TRANSFORM/szMenuRowText:Fold Stock
+749:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2584:TRANSFORM/szMenuRowText:Unfold Stock
+2584:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1076:TRANSFORM/szMenuRowText:Retract Stock
+1076:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2585:TRANSFORM/szMenuRowText:Extend Stock
+2585:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2351:TRANSFORM/szMenuRowText:Retract Stock
+2351:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2586:TRANSFORM/szMenuRowText:Extend Stock
+2586:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+650:TRANSFORM/szMenuRowText:Retract Stock
+650:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2587:TRANSFORM/szMenuRowText:Extend Stock
+2587:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2353:TRANSFORM/szMenuRowText:Retract Stock
+2353:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2588:TRANSFORM/szMenuRowText:Extend Stock
+2588:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+669:TRANSFORM/szMenuRowText:Fold Stock
+669:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2589:TRANSFORM/szMenuRowText:Unfold Stock
+2589:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2355:TRANSFORM/szMenuRowText:Fold Stock
+2355:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2590:TRANSFORM/szMenuRowText:Unfold Stock
+2590:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2591:TRANSFORM/szMenuRowText:Fold Stock
+2591:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2592:TRANSFORM/szMenuRowText:Unfold Stock
+2592:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2591:TRANSFORM/szMenuRowText:Separate Stock
+2591:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2593:TRANSFORM/szMenuRowText:Fold Stock
+2593:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2594:TRANSFORM/szMenuRowText:Unfold Stock
+2594:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2593:TRANSFORM/szMenuRowText:Separate Stock
+2593:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2595:TRANSFORM/szMenuRowText:Fold Stock
+2595:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2596:TRANSFORM/szMenuRowText:Unfold Stock
+2596:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2595:TRANSFORM/szMenuRowText:Separate Stock
+2595:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2597:TRANSFORM/szMenuRowText:Fold Stock
+2597:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2598:TRANSFORM/szMenuRowText:Unfold Stock
+2598:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2597:TRANSFORM/szMenuRowText:Separate Stock
+2597:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2599:TRANSFORM/szMenuRowText:Fold Stock
+2599:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2600:TRANSFORM/szMenuRowText:Unfold Stock
+2600:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2599:TRANSFORM/szMenuRowText:Separate Stock
+2599:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2601:TRANSFORM/szMenuRowText:Fold Stock
+2601:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2602:TRANSFORM/szMenuRowText:Unfold Stock
+2602:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2601:TRANSFORM/szMenuRowText:Separate Stock
+2601:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2603:TRANSFORM/szMenuRowText:Fold Stock
+2603:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. The folded stock will leave no space for sights/optics on the sidemount.
+2604:TRANSFORM/szMenuRowText:Unfold Stock
+2604:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2603:TRANSFORM/szMenuRowText:Separate Stock
+2603:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2088:TRANSFORM/szMenuRowText:Retract Stock
+2088:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2613:TRANSFORM/szMenuRowText:Extend Stock
+2613:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2374:TRANSFORM/szMenuRowText:Retract Stock
+2374:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2614:TRANSFORM/szMenuRowText:Extend Stock
+2614:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2605:TRANSFORM/szMenuRowText:Fold Stock
+2605:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2606:TRANSFORM/szMenuRowText:Unfold Stock
+2606:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2605:TRANSFORM/szMenuRowText:Separate Stock
+2605:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2607:TRANSFORM/szMenuRowText:Retract Stock
+2607:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2608:TRANSFORM/szMenuRowText:Extend Stock
+2608:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2607:TRANSFORM/szMenuRowText:Separate Stock
+2607:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+734:TRANSFORM/szMenuRowText:Fold Stock
+734:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2609:TRANSFORM/szMenuRowText:Unfold Stock
+2609:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+1069:TRANSFORM/szMenuRowText:Fold Stock
+1069:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2610:TRANSFORM/szMenuRowText:Unfold Stock
+2610:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2611:TRANSFORM/szMenuRowText:Retract Stock
+2611:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2612:TRANSFORM/szMenuRowText:Extend Stock
+2612:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2611:TRANSFORM/szMenuRowText:Separate Stock
+2611:TRANSFORM/szTooltipText:Separate the attached stock from the gun again.
+2071:TRANSFORM/szMenuRowText:Fold Stock
+2071:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2615:TRANSFORM/szMenuRowText:Unfold Stock
+2615:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2072:TRANSFORM/szMenuRowText:Fold Stock
+2072:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2616:TRANSFORM/szMenuRowText:Unfold Stock
+2616:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2073:TRANSFORM/szMenuRowText:Fold Stock
+2073:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2617:TRANSFORM/szMenuRowText:Unfold Stock
+2617:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2074:TRANSFORM/szMenuRowText:Fold Stock
+2074:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2618:TRANSFORM/szMenuRowText:Unfold Stock
+2618:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2075:TRANSFORM/szMenuRowText:Fold Stock
+2075:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2619:TRANSFORM/szMenuRowText:Unfold Stock
+2619:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2076:TRANSFORM/szMenuRowText:Fold Stock
+2076:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2620:TRANSFORM/szMenuRowText:Unfold Stock
+2620:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2077:TRANSFORM/szMenuRowText:Fold Stock
+2077:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2621:TRANSFORM/szMenuRowText:Unfold Stock
+2621:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2078:TRANSFORM/szMenuRowText:Fold Stock
+2078:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2622:TRANSFORM/szMenuRowText:Unfold Stock
+2622:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2079:TRANSFORM/szMenuRowText:Fold Stock
+2079:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2623:TRANSFORM/szMenuRowText:Unfold Stock
+2623:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2080:TRANSFORM/szMenuRowText:Fold Stock
+2080:TRANSFORM/szTooltipText:Fold the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2624:TRANSFORM/szMenuRowText:Unfold Stock
+2624:TRANSFORM/szTooltipText:Unfold the stock to make the gun ready for combat again.
+2065:TRANSFORM/szMenuRowText:Retract Stock
+2065:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2627:TRANSFORM/szMenuRowText:Extend Stock
+2627:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2067:TRANSFORM/szMenuRowText:Retract Stock
+2067:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2625:TRANSFORM/szMenuRowText:Extend Stock
+2625:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2068:TRANSFORM/szMenuRowText:Retract Stock
+2068:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2626:TRANSFORM/szMenuRowText:Extend Stock
+2626:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2061:TRANSFORM/szMenuRowText:Retract Stock
+2061:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2628:TRANSFORM/szMenuRowText:Extend Stock
+2628:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2062:TRANSFORM/szMenuRowText:Retract Stock
+2062:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2629:TRANSFORM/szMenuRowText:Extend Stock
+2629:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2063:TRANSFORM/szMenuRowText:Retract Stock
+2063:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2630:TRANSFORM/szMenuRowText:Extend Stock
+2630:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+2064:TRANSFORM/szMenuRowText:Retract Stock
+2064:TRANSFORM/szTooltipText:Retract the stock to reduce the length of the gun. In this stage it isn't suited really well for combat, though.
+2631:TRANSFORM/szMenuRowText:Extend Stock
+2631:TRANSFORM/szTooltipText:Extend the stock to make the gun ready for combat again.
+915:TRANSFORM/szMenuRowText:Disassemble Launcher
+915:TRANSFORM/szTooltipText:Disassemble the RPG-16 to reduce the length of the launcher for easier transportation.
+2632:TRANSFORM/szMenuRowText:Assemble Launcher
+2632:TRANSFORM/szTooltipText:Assemble the RPG-16 again to make the launcher ready for combat.
+778:TRANSFORM/szMenuRowText:Disassemble Gun
+778:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+2069:TRANSFORM/szMenuRowText:Disassemble Gun
+2069:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+2070:TRANSFORM/szMenuRowText:Disassemble Gun
+2070:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+2072:TRANSFORM/szMenuRowText:Disassemble Gun
+2072:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+2073:TRANSFORM/szMenuRowText:Disassemble Gun
+2073:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+2074:TRANSFORM/szMenuRowText:Disassemble Gun
+2074:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+2075:TRANSFORM/szMenuRowText:Disassemble Gun
+2075:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+2076:TRANSFORM/szMenuRowText:Disassemble Gun
+2076:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+2077:TRANSFORM/szMenuRowText:Disassemble Gun
+2077:TRANSFORM/szTooltipText:Disassemble the gun and separate the major components.
+727:TRANSFORM/szMenuRowText:Disassemble Gun
+727:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+20:TRANSFORM/szMenuRowText:Disassemble Gun
+20:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+726:TRANSFORM/szMenuRowText:Disassemble Gun
+726:TRANSFORM/szTooltipText:Disassemble the gun and separate the barrel from the receiver.
+346:TRANSFORM/szMenuRowText:Disassemble Gun
+346:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+763:TRANSFORM/szMenuRowText:Disassemble Gun
+763:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+762:TRANSFORM/szMenuRowText:Disassemble Gun
+762:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2512:TRANSFORM/szMenuRowText:Disassemble Gun
+2512:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+632:TRANSFORM/szMenuRowText:Disassemble Gun
+632:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2514:TRANSFORM/szMenuRowText:Disassemble Gun
+2514:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+12:TRANSFORM/szMenuRowText:Disassemble Gun
+12:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+633:TRANSFORM/szMenuRowText:Disassemble Gun
+633:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1076:TRANSFORM/szMenuRowText:Disassemble Gun
+1076:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+23:TRANSFORM/szMenuRowText:Disassemble Gun
+23:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+795:TRANSFORM/szMenuRowText:Disassemble Gun
+795:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2557:TRANSFORM/szMenuRowText:Disassemble Gun
+2557:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+796:TRANSFORM/szMenuRowText:Disassemble Gun
+796:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1334:TRANSFORM/szMenuRowText:Disassemble Gun
+1334:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1333:TRANSFORM/szMenuRowText:Disassemble Gun
+1333:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1332:TRANSFORM/szMenuRowText:Disassemble Gun
+1332:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2089:TRANSFORM/szMenuRowText:Disassemble Gun
+2089:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2611:TRANSFORM/szMenuRowText:Disassemble Gun
+2611:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+760:TRANSFORM/szMenuRowText:Disassemble Gun
+760:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2607:TRANSFORM/szMenuRowText:Disassemble Gun
+2607:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1066:TRANSFORM/szMenuRowText:Disassemble Gun
+1066:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+662:TRANSFORM/szMenuRowText:Disassemble Gun
+662:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1070:TRANSFORM/szMenuRowText:Disassemble Gun
+1070:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+1072:TRANSFORM/szMenuRowText:Disassemble Gun
+1072:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2061:TRANSFORM/szMenuRowText:Disassemble Gun
+2061:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2062:TRANSFORM/szMenuRowText:Disassemble Gun
+2062:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2063:TRANSFORM/szMenuRowText:Disassemble Gun
+2063:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2064:TRANSFORM/szMenuRowText:Disassemble Gun
+2064:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2065:TRANSFORM/szMenuRowText:Disassemble Gun
+2065:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2066:TRANSFORM/szMenuRowText:Disassemble Gun
+2066:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2067:TRANSFORM/szMenuRowText:Disassemble Gun
+2067:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+2068:TRANSFORM/szMenuRowText:Disassemble Gun
+2068:TRANSFORM/szTooltipText:Disassemble the gun and separate upper and lower receiver.
+6501:TRANSFORM/szMenuRowText:Open
+6501:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6503:TRANSFORM/szMenuRowText:Open
+6503:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6505:TRANSFORM/szMenuRowText:Open
+6505:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6507:TRANSFORM/szMenuRowText:Open
+6507:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6509:TRANSFORM/szMenuRowText:Open
+6509:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6511:TRANSFORM/szMenuRowText:Open
+6511:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6513:TRANSFORM/szMenuRowText:Open
+6513:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6515:TRANSFORM/szMenuRowText:Open
+6515:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6517:TRANSFORM/szMenuRowText:Open
+6517:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6519:TRANSFORM/szMenuRowText:Open
+6519:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6521:TRANSFORM/szMenuRowText:Open
+6521:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6523:TRANSFORM/szMenuRowText:Open
+6523:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6525:TRANSFORM/szMenuRowText:Open
+6525:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6527:TRANSFORM/szMenuRowText:Open
+6527:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6529:TRANSFORM/szMenuRowText:Open
+6529:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6531:TRANSFORM/szMenuRowText:Open
+6531:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6533:TRANSFORM/szMenuRowText:Open
+6533:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6535:TRANSFORM/szMenuRowText:Open
+6535:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6537:TRANSFORM/szMenuRowText:Open
+6537:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6539:TRANSFORM/szMenuRowText:Open
+6539:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6541:TRANSFORM/szMenuRowText:Open
+6541:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6543:TRANSFORM/szMenuRowText:Open
+6543:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6545:TRANSFORM/szMenuRowText:Open
+6545:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6547:TRANSFORM/szMenuRowText:Open
+6547:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6549:TRANSFORM/szMenuRowText:Open
+6549:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6551:TRANSFORM/szMenuRowText:Open
+6551:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6553:TRANSFORM/szMenuRowText:Open
+6553:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6555:TRANSFORM/szMenuRowText:Open
+6555:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6557:TRANSFORM/szMenuRowText:Open
+6557:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6559:TRANSFORM/szMenuRowText:Open
+6559:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6561:TRANSFORM/szMenuRowText:Open
+6561:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6563:TRANSFORM/szMenuRowText:Open
+6563:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6565:TRANSFORM/szMenuRowText:Open
+6565:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6567:TRANSFORM/szMenuRowText:Open
+6567:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6569:TRANSFORM/szMenuRowText:Open
+6569:TRANSFORM/szTooltipText:Open the holster and take the contents.
+6571:TRANSFORM/szMenuRowText:Open
+6571:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6573:TRANSFORM/szMenuRowText:Open
+6573:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6575:TRANSFORM/szMenuRowText:Open
+6575:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6577:TRANSFORM/szMenuRowText:Open
+6577:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6579:TRANSFORM/szMenuRowText:Open
+6579:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6581:TRANSFORM/szMenuRowText:Open
+6581:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6583:TRANSFORM/szMenuRowText:Open
+6583:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6585:TRANSFORM/szMenuRowText:Open
+6585:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6587:TRANSFORM/szMenuRowText:Open
+6587:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6941:TRANSFORM/szMenuRowText:Open
+6941:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6589:TRANSFORM/szMenuRowText:Open
+6589:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6591:TRANSFORM/szMenuRowText:Open
+6591:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6593:TRANSFORM/szMenuRowText:Open
+6593:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6595:TRANSFORM/szMenuRowText:Open
+6595:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6935:TRANSFORM/szMenuRowText:Open
+6935:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6597:TRANSFORM/szMenuRowText:Open
+6597:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6599:TRANSFORM/szMenuRowText:Open
+6599:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6601:TRANSFORM/szMenuRowText:Open
+6601:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6603:TRANSFORM/szMenuRowText:Open
+6603:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6605:TRANSFORM/szMenuRowText:Open
+6605:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6607:TRANSFORM/szMenuRowText:Open
+6607:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6609:TRANSFORM/szMenuRowText:Open
+6609:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6611:TRANSFORM/szMenuRowText:Open
+6611:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6613:TRANSFORM/szMenuRowText:Open
+6613:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6615:TRANSFORM/szMenuRowText:Open
+6615:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6617:TRANSFORM/szMenuRowText:Open
+6617:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6619:TRANSFORM/szMenuRowText:Open
+6619:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6621:TRANSFORM/szMenuRowText:Open
+6621:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6623:TRANSFORM/szMenuRowText:Open
+6623:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6625:TRANSFORM/szMenuRowText:Open
+6625:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6937:TRANSFORM/szMenuRowText:Open
+6937:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6627:TRANSFORM/szMenuRowText:Open
+6627:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6629:TRANSFORM/szMenuRowText:Open
+6629:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6631:TRANSFORM/szMenuRowText:Open
+6631:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6633:TRANSFORM/szMenuRowText:Open
+6633:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6943:TRANSFORM/szMenuRowText:Open
+6943:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6635:TRANSFORM/szMenuRowText:Open
+6635:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6637:TRANSFORM/szMenuRowText:Open
+6637:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6639:TRANSFORM/szMenuRowText:Open
+6639:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6641:TRANSFORM/szMenuRowText:Open
+6641:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6643:TRANSFORM/szMenuRowText:Open
+6643:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6645:TRANSFORM/szMenuRowText:Open
+6645:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6647:TRANSFORM/szMenuRowText:Open
+6647:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6649:TRANSFORM/szMenuRowText:Open
+6649:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6651:TRANSFORM/szMenuRowText:Open
+6651:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6653:TRANSFORM/szMenuRowText:Open
+6653:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6655:TRANSFORM/szMenuRowText:Open
+6655:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6657:TRANSFORM/szMenuRowText:Open
+6657:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6659:TRANSFORM/szMenuRowText:Open
+6659:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6661:TRANSFORM/szMenuRowText:Open
+6661:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6663:TRANSFORM/szMenuRowText:Open
+6663:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6665:TRANSFORM/szMenuRowText:Open
+6665:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6667:TRANSFORM/szMenuRowText:Open
+6667:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6669:TRANSFORM/szMenuRowText:Open
+6669:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6671:TRANSFORM/szMenuRowText:Open
+6671:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6673:TRANSFORM/szMenuRowText:Open
+6673:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6675:TRANSFORM/szMenuRowText:Open
+6675:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6677:TRANSFORM/szMenuRowText:Open
+6677:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6679:TRANSFORM/szMenuRowText:Open
+6679:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6681:TRANSFORM/szMenuRowText:Open
+6681:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6945:TRANSFORM/szMenuRowText:Open
+6945:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6683:TRANSFORM/szMenuRowText:Open
+6683:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6685:TRANSFORM/szMenuRowText:Open
+6685:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6687:TRANSFORM/szMenuRowText:Open
+6687:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6689:TRANSFORM/szMenuRowText:Open
+6689:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6691:TRANSFORM/szMenuRowText:Open
+6691:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6693:TRANSFORM/szMenuRowText:Open
+6693:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6695:TRANSFORM/szMenuRowText:Open
+6695:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6697:TRANSFORM/szMenuRowText:Open
+6697:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6947:TRANSFORM/szMenuRowText:Open
+6947:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6961:TRANSFORM/szMenuRowText:Open
+6961:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6699:TRANSFORM/szMenuRowText:Open
+6699:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6701:TRANSFORM/szMenuRowText:Open
+6701:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6703:TRANSFORM/szMenuRowText:Open
+6703:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6705:TRANSFORM/szMenuRowText:Open
+6705:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6707:TRANSFORM/szMenuRowText:Open
+6707:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6709:TRANSFORM/szMenuRowText:Open
+6709:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6711:TRANSFORM/szMenuRowText:Open
+6711:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6713:TRANSFORM/szMenuRowText:Open
+6713:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6715:TRANSFORM/szMenuRowText:Open
+6715:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6717:TRANSFORM/szMenuRowText:Open
+6717:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6719:TRANSFORM/szMenuRowText:Open
+6719:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6949:TRANSFORM/szMenuRowText:Open
+6949:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6721:TRANSFORM/szMenuRowText:Open
+6721:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6723:TRANSFORM/szMenuRowText:Open
+6723:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6725:TRANSFORM/szMenuRowText:Open
+6725:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6727:TRANSFORM/szMenuRowText:Open
+6727:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6729:TRANSFORM/szMenuRowText:Open
+6729:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6731:TRANSFORM/szMenuRowText:Open
+6731:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6733:TRANSFORM/szMenuRowText:Open
+6733:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6735:TRANSFORM/szMenuRowText:Open
+6735:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6737:TRANSFORM/szMenuRowText:Open
+6737:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6951:TRANSFORM/szMenuRowText:Open
+6951:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6739:TRANSFORM/szMenuRowText:Open
+6739:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6741:TRANSFORM/szMenuRowText:Open
+6741:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6743:TRANSFORM/szMenuRowText:Open
+6743:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6745:TRANSFORM/szMenuRowText:Open
+6745:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6747:TRANSFORM/szMenuRowText:Open
+6747:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6749:TRANSFORM/szMenuRowText:Open
+6749:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6751:TRANSFORM/szMenuRowText:Open
+6751:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6753:TRANSFORM/szMenuRowText:Open
+6753:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6755:TRANSFORM/szMenuRowText:Open
+6755:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6757:TRANSFORM/szMenuRowText:Open
+6757:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6759:TRANSFORM/szMenuRowText:Open
+6759:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6953:TRANSFORM/szMenuRowText:Open
+6953:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6963:TRANSFORM/szMenuRowText:Open
+6963:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6761:TRANSFORM/szMenuRowText:Open
+6761:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6965:TRANSFORM/szMenuRowText:Open
+6965:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6763:TRANSFORM/szMenuRowText:Open
+6763:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6765:TRANSFORM/szMenuRowText:Open
+6765:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6767:TRANSFORM/szMenuRowText:Open
+6767:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6769:TRANSFORM/szMenuRowText:Open
+6769:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6771:TRANSFORM/szMenuRowText:Open
+6771:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6773:TRANSFORM/szMenuRowText:Open
+6773:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6775:TRANSFORM/szMenuRowText:Open
+6775:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6777:TRANSFORM/szMenuRowText:Open
+6777:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6779:TRANSFORM/szMenuRowText:Open
+6779:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6955:TRANSFORM/szMenuRowText:Open
+6955:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6781:TRANSFORM/szMenuRowText:Open
+6781:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6783:TRANSFORM/szMenuRowText:Open
+6783:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6785:TRANSFORM/szMenuRowText:Open
+6785:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6787:TRANSFORM/szMenuRowText:Open
+6787:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6789:TRANSFORM/szMenuRowText:Open
+6789:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6957:TRANSFORM/szMenuRowText:Open
+6957:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6791:TRANSFORM/szMenuRowText:Open
+6791:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6793:TRANSFORM/szMenuRowText:Open
+6793:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6795:TRANSFORM/szMenuRowText:Open
+6795:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6797:TRANSFORM/szMenuRowText:Open
+6797:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6799:TRANSFORM/szMenuRowText:Open
+6799:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6801:TRANSFORM/szMenuRowText:Open
+6801:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6803:TRANSFORM/szMenuRowText:Open
+6803:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6805:TRANSFORM/szMenuRowText:Open
+6805:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6807:TRANSFORM/szMenuRowText:Open
+6807:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6809:TRANSFORM/szMenuRowText:Open
+6809:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6811:TRANSFORM/szMenuRowText:Open
+6811:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6813:TRANSFORM/szMenuRowText:Open
+6813:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6815:TRANSFORM/szMenuRowText:Open
+6815:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6817:TRANSFORM/szMenuRowText:Open
+6817:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6819:TRANSFORM/szMenuRowText:Open
+6819:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6821:TRANSFORM/szMenuRowText:Open
+6821:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6823:TRANSFORM/szMenuRowText:Open
+6823:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6825:TRANSFORM/szMenuRowText:Open
+6825:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6827:TRANSFORM/szMenuRowText:Open
+6827:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6829:TRANSFORM/szMenuRowText:Open
+6829:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6831:TRANSFORM/szMenuRowText:Open
+6831:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6833:TRANSFORM/szMenuRowText:Open
+6833:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6835:TRANSFORM/szMenuRowText:Open
+6835:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6837:TRANSFORM/szMenuRowText:Open
+6837:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6839:TRANSFORM/szMenuRowText:Open
+6839:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6841:TRANSFORM/szMenuRowText:Open
+6841:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6843:TRANSFORM/szMenuRowText:Open
+6843:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6845:TRANSFORM/szMenuRowText:Open
+6845:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6847:TRANSFORM/szMenuRowText:Open
+6847:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6849:TRANSFORM/szMenuRowText:Open
+6849:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6851:TRANSFORM/szMenuRowText:Open
+6851:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6853:TRANSFORM/szMenuRowText:Open
+6853:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6855:TRANSFORM/szMenuRowText:Open
+6855:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6857:TRANSFORM/szMenuRowText:Open
+6857:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6859:TRANSFORM/szMenuRowText:Open
+6859:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6861:TRANSFORM/szMenuRowText:Open
+6861:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6863:TRANSFORM/szMenuRowText:Open
+6863:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6865:TRANSFORM/szMenuRowText:Open
+6865:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6867:TRANSFORM/szMenuRowText:Open
+6867:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6869:TRANSFORM/szMenuRowText:Open
+6869:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6871:TRANSFORM/szMenuRowText:Open
+6871:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6873:TRANSFORM/szMenuRowText:Open
+6873:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6875:TRANSFORM/szMenuRowText:Open
+6875:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6877:TRANSFORM/szMenuRowText:Open
+6877:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6879:TRANSFORM/szMenuRowText:Open
+6879:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6959:TRANSFORM/szMenuRowText:Open
+6959:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6881:TRANSFORM/szMenuRowText:Open
+6881:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6883:TRANSFORM/szMenuRowText:Open
+6883:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6885:TRANSFORM/szMenuRowText:Open
+6885:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6887:TRANSFORM/szMenuRowText:Open
+6887:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6889:TRANSFORM/szMenuRowText:Open
+6889:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6891:TRANSFORM/szMenuRowText:Open
+6891:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6893:TRANSFORM/szMenuRowText:Open
+6893:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6895:TRANSFORM/szMenuRowText:Open
+6895:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6939:TRANSFORM/szMenuRowText:Open
+6939:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6897:TRANSFORM/szMenuRowText:Open
+6897:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6899:TRANSFORM/szMenuRowText:Open
+6899:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6901:TRANSFORM/szMenuRowText:Open
+6901:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6903:TRANSFORM/szMenuRowText:Open
+6903:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6905:TRANSFORM/szMenuRowText:Open
+6905:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6907:TRANSFORM/szMenuRowText:Open
+6907:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6909:TRANSFORM/szMenuRowText:Open
+6909:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6911:TRANSFORM/szMenuRowText:Open
+6911:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6913:TRANSFORM/szMenuRowText:Open
+6913:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6915:TRANSFORM/szMenuRowText:Open
+6915:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6917:TRANSFORM/szMenuRowText:Open
+6917:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6919:TRANSFORM/szMenuRowText:Open
+6919:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6921:TRANSFORM/szMenuRowText:Open
+6921:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6923:TRANSFORM/szMenuRowText:Open
+6923:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6925:TRANSFORM/szMenuRowText:Open
+6925:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6927:TRANSFORM/szMenuRowText:Open
+6927:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6929:TRANSFORM/szMenuRowText:Open
+6929:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6931:TRANSFORM/szMenuRowText:Open
+6931:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+6933:TRANSFORM/szMenuRowText:Open
+6933:TRANSFORM/szTooltipText:Open the gun bag and take the contents.
+1:TRANSFORM/szMenuRowText:Generate missing Attachments
+1:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2:TRANSFORM/szMenuRowText:Generate missing Attachments
+2:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+3:TRANSFORM/szMenuRowText:Generate missing Attachments
+3:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+4:TRANSFORM/szMenuRowText:Generate missing Attachments
+4:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+5:TRANSFORM/szMenuRowText:Generate missing Attachments
+5:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+6:TRANSFORM/szMenuRowText:Generate missing Attachments
+6:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+7:TRANSFORM/szMenuRowText:Generate missing Attachments
+7:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+8:TRANSFORM/szMenuRowText:Generate missing Attachments
+8:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+11:TRANSFORM/szMenuRowText:Generate missing Attachments
+11:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+17:TRANSFORM/szMenuRowText:Generate missing Attachments
+17:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+18:TRANSFORM/szMenuRowText:Generate missing Attachments
+18:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+19:TRANSFORM/szMenuRowText:Generate missing Attachments
+19:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+20:TRANSFORM/szMenuRowText:Generate missing Attachments
+20:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+21:TRANSFORM/szMenuRowText:Generate missing Attachments
+21:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+22:TRANSFORM/szMenuRowText:Generate missing Attachments
+22:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+24:TRANSFORM/szMenuRowText:Generate missing Attachments
+24:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+25:TRANSFORM/szMenuRowText:Generate missing Attachments
+25:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+26:TRANSFORM/szMenuRowText:Generate missing Attachments
+26:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+27:TRANSFORM/szMenuRowText:Generate missing Attachments
+27:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+28:TRANSFORM/szMenuRowText:Generate missing Attachments
+28:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+29:TRANSFORM/szMenuRowText:Generate missing Attachments
+29:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+30:TRANSFORM/szMenuRowText:Generate missing Attachments
+30:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+31:TRANSFORM/szMenuRowText:Generate missing Attachments
+31:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+33:TRANSFORM/szMenuRowText:Generate missing Attachments
+33:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+35:TRANSFORM/szMenuRowText:Generate missing Attachments
+35:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+55:TRANSFORM/szMenuRowText:Generate missing Attachments
+55:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+56:TRANSFORM/szMenuRowText:Generate missing Attachments
+56:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+61:TRANSFORM/szMenuRowText:Generate missing Attachments
+61:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+65:TRANSFORM/szMenuRowText:Generate missing Attachments
+65:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+67:TRANSFORM/szMenuRowText:Generate missing Attachments
+67:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+68:TRANSFORM/szMenuRowText:Generate missing Attachments
+68:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+331:TRANSFORM/szMenuRowText:Generate missing Attachments
+331:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+332:TRANSFORM/szMenuRowText:Generate missing Attachments
+332:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+333:TRANSFORM/szMenuRowText:Generate missing Attachments
+333:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+334:TRANSFORM/szMenuRowText:Generate missing Attachments
+334:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+335:TRANSFORM/szMenuRowText:Generate missing Attachments
+335:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+336:TRANSFORM/szMenuRowText:Generate missing Attachments
+336:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+337:TRANSFORM/szMenuRowText:Generate missing Attachments
+337:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+338:TRANSFORM/szMenuRowText:Generate missing Attachments
+338:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+339:TRANSFORM/szMenuRowText:Generate missing Attachments
+339:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+342:TRANSFORM/szMenuRowText:Generate missing Attachments
+342:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+344:TRANSFORM/szMenuRowText:Generate missing Attachments
+344:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+347:TRANSFORM/szMenuRowText:Generate missing Attachments
+347:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+348:TRANSFORM/szMenuRowText:Generate missing Attachments
+348:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+397:TRANSFORM/szMenuRowText:Generate missing Attachments
+397:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+605:TRANSFORM/szMenuRowText:Generate missing Attachments
+605:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+615:TRANSFORM/szMenuRowText:Generate missing Attachments
+615:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+618:TRANSFORM/szMenuRowText:Generate missing Attachments
+618:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+620:TRANSFORM/szMenuRowText:Generate missing Attachments
+620:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+622:TRANSFORM/szMenuRowText:Generate missing Attachments
+622:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+623:TRANSFORM/szMenuRowText:Generate missing Attachments
+623:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+624:TRANSFORM/szMenuRowText:Generate missing Attachments
+624:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+625:TRANSFORM/szMenuRowText:Generate missing Attachments
+625:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+629:TRANSFORM/szMenuRowText:Generate missing Attachments
+629:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+630:TRANSFORM/szMenuRowText:Generate missing Attachments
+630:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+631:TRANSFORM/szMenuRowText:Generate missing Attachments
+631:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+632:TRANSFORM/szMenuRowText:Generate missing Attachments
+632:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+634:TRANSFORM/szMenuRowText:Generate missing Attachments
+634:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+635:TRANSFORM/szMenuRowText:Generate missing Attachments
+635:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+636:TRANSFORM/szMenuRowText:Generate missing Attachments
+636:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+637:TRANSFORM/szMenuRowText:Generate missing Attachments
+637:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+638:TRANSFORM/szMenuRowText:Generate missing Attachments
+638:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+639:TRANSFORM/szMenuRowText:Generate missing Attachments
+639:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+640:TRANSFORM/szMenuRowText:Generate missing Attachments
+640:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+644:TRANSFORM/szMenuRowText:Generate missing Attachments
+644:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+645:TRANSFORM/szMenuRowText:Generate missing Attachments
+645:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+646:TRANSFORM/szMenuRowText:Generate missing Attachments
+646:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+647:TRANSFORM/szMenuRowText:Generate missing Attachments
+647:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+648:TRANSFORM/szMenuRowText:Generate missing Attachments
+648:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+651:TRANSFORM/szMenuRowText:Generate missing Attachments
+651:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+652:TRANSFORM/szMenuRowText:Generate missing Attachments
+652:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+654:TRANSFORM/szMenuRowText:Generate missing Attachments
+654:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+657:TRANSFORM/szMenuRowText:Generate missing Attachments
+657:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+658:TRANSFORM/szMenuRowText:Generate missing Attachments
+658:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+659:TRANSFORM/szMenuRowText:Generate missing Attachments
+659:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+660:TRANSFORM/szMenuRowText:Generate missing Attachments
+660:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+662:TRANSFORM/szMenuRowText:Generate missing Attachments
+662:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+663:TRANSFORM/szMenuRowText:Generate missing Attachments
+663:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+670:TRANSFORM/szMenuRowText:Generate missing Attachments
+670:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+674:TRANSFORM/szMenuRowText:Generate missing Attachments
+674:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+675:TRANSFORM/szMenuRowText:Generate missing Attachments
+675:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+676:TRANSFORM/szMenuRowText:Generate missing Attachments
+676:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+678:TRANSFORM/szMenuRowText:Generate missing Attachments
+678:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+679:TRANSFORM/szMenuRowText:Generate missing Attachments
+679:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+680:TRANSFORM/szMenuRowText:Generate missing Attachments
+680:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+681:TRANSFORM/szMenuRowText:Generate missing Attachments
+681:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+682:TRANSFORM/szMenuRowText:Generate missing Attachments
+682:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+683:TRANSFORM/szMenuRowText:Generate missing Attachments
+683:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+684:TRANSFORM/szMenuRowText:Generate missing Attachments
+684:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+685:TRANSFORM/szMenuRowText:Generate missing Attachments
+685:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+686:TRANSFORM/szMenuRowText:Generate missing Attachments
+686:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+689:TRANSFORM/szMenuRowText:Generate missing Attachments
+689:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+690:TRANSFORM/szMenuRowText:Generate missing Attachments
+690:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+693:TRANSFORM/szMenuRowText:Generate missing Attachments
+693:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+694:TRANSFORM/szMenuRowText:Generate missing Attachments
+694:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+695:TRANSFORM/szMenuRowText:Generate missing Attachments
+695:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+696:TRANSFORM/szMenuRowText:Generate missing Attachments
+696:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+697:TRANSFORM/szMenuRowText:Generate missing Attachments
+697:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+698:TRANSFORM/szMenuRowText:Generate missing Attachments
+698:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+702:TRANSFORM/szMenuRowText:Generate missing Attachments
+702:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+703:TRANSFORM/szMenuRowText:Generate missing Attachments
+703:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+704:TRANSFORM/szMenuRowText:Generate missing Attachments
+704:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+705:TRANSFORM/szMenuRowText:Generate missing Attachments
+705:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+706:TRANSFORM/szMenuRowText:Generate missing Attachments
+706:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+707:TRANSFORM/szMenuRowText:Generate missing Attachments
+707:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+709:TRANSFORM/szMenuRowText:Generate missing Attachments
+709:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+710:TRANSFORM/szMenuRowText:Generate missing Attachments
+710:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+711:TRANSFORM/szMenuRowText:Generate missing Attachments
+711:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+712:TRANSFORM/szMenuRowText:Generate missing Attachments
+712:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+716:TRANSFORM/szMenuRowText:Generate missing Attachments
+716:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+717:TRANSFORM/szMenuRowText:Generate missing Attachments
+717:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+718:TRANSFORM/szMenuRowText:Generate missing Attachments
+718:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+719:TRANSFORM/szMenuRowText:Generate missing Attachments
+719:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+721:TRANSFORM/szMenuRowText:Generate missing Attachments
+721:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+722:TRANSFORM/szMenuRowText:Generate missing Attachments
+722:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+723:TRANSFORM/szMenuRowText:Generate missing Attachments
+723:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+724:TRANSFORM/szMenuRowText:Generate missing Attachments
+724:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+728:TRANSFORM/szMenuRowText:Generate missing Attachments
+728:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+729:TRANSFORM/szMenuRowText:Generate missing Attachments
+729:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+732:TRANSFORM/szMenuRowText:Generate missing Attachments
+732:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+733:TRANSFORM/szMenuRowText:Generate missing Attachments
+733:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+735:TRANSFORM/szMenuRowText:Generate missing Attachments
+735:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+736:TRANSFORM/szMenuRowText:Generate missing Attachments
+736:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+737:TRANSFORM/szMenuRowText:Generate missing Attachments
+737:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+738:TRANSFORM/szMenuRowText:Generate missing Attachments
+738:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+739:TRANSFORM/szMenuRowText:Generate missing Attachments
+739:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+740:TRANSFORM/szMenuRowText:Generate missing Attachments
+740:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+741:TRANSFORM/szMenuRowText:Generate missing Attachments
+741:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+743:TRANSFORM/szMenuRowText:Generate missing Attachments
+743:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+744:TRANSFORM/szMenuRowText:Generate missing Attachments
+744:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+745:TRANSFORM/szMenuRowText:Generate missing Attachments
+745:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+746:TRANSFORM/szMenuRowText:Generate missing Attachments
+746:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+747:TRANSFORM/szMenuRowText:Generate missing Attachments
+747:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+748:TRANSFORM/szMenuRowText:Generate missing Attachments
+748:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+751:TRANSFORM/szMenuRowText:Generate missing Attachments
+751:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+753:TRANSFORM/szMenuRowText:Generate missing Attachments
+753:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+754:TRANSFORM/szMenuRowText:Generate missing Attachments
+754:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+757:TRANSFORM/szMenuRowText:Generate missing Attachments
+757:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+758:TRANSFORM/szMenuRowText:Generate missing Attachments
+758:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+759:TRANSFORM/szMenuRowText:Generate missing Attachments
+759:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+760:TRANSFORM/szMenuRowText:Generate missing Attachments
+760:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+762:TRANSFORM/szMenuRowText:Generate missing Attachments
+762:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+764:TRANSFORM/szMenuRowText:Generate missing Attachments
+764:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+765:TRANSFORM/szMenuRowText:Generate missing Attachments
+765:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+766:TRANSFORM/szMenuRowText:Generate missing Attachments
+766:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+767:TRANSFORM/szMenuRowText:Generate missing Attachments
+767:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+768:TRANSFORM/szMenuRowText:Generate missing Attachments
+768:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+769:TRANSFORM/szMenuRowText:Generate missing Attachments
+769:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+770:TRANSFORM/szMenuRowText:Generate missing Attachments
+770:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+771:TRANSFORM/szMenuRowText:Generate missing Attachments
+771:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+772:TRANSFORM/szMenuRowText:Generate missing Attachments
+772:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+773:TRANSFORM/szMenuRowText:Generate missing Attachments
+773:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+774:TRANSFORM/szMenuRowText:Generate missing Attachments
+774:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+776:TRANSFORM/szMenuRowText:Generate missing Attachments
+776:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+777:TRANSFORM/szMenuRowText:Generate missing Attachments
+777:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+778:TRANSFORM/szMenuRowText:Generate missing Attachments
+778:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+779:TRANSFORM/szMenuRowText:Generate missing Attachments
+779:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+780:TRANSFORM/szMenuRowText:Generate missing Attachments
+780:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+781:TRANSFORM/szMenuRowText:Generate missing Attachments
+781:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+782:TRANSFORM/szMenuRowText:Generate missing Attachments
+782:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+783:TRANSFORM/szMenuRowText:Generate missing Attachments
+783:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+784:TRANSFORM/szMenuRowText:Generate missing Attachments
+784:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+786:TRANSFORM/szMenuRowText:Generate missing Attachments
+786:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+787:TRANSFORM/szMenuRowText:Generate missing Attachments
+787:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+788:TRANSFORM/szMenuRowText:Generate missing Attachments
+788:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+789:TRANSFORM/szMenuRowText:Generate missing Attachments
+789:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+790:TRANSFORM/szMenuRowText:Generate missing Attachments
+790:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+791:TRANSFORM/szMenuRowText:Generate missing Attachments
+791:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+792:TRANSFORM/szMenuRowText:Generate missing Attachments
+792:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+793:TRANSFORM/szMenuRowText:Generate missing Attachments
+793:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+795:TRANSFORM/szMenuRowText:Generate missing Attachments
+795:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+797:TRANSFORM/szMenuRowText:Generate missing Attachments
+797:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+798:TRANSFORM/szMenuRowText:Generate missing Attachments
+798:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+799:TRANSFORM/szMenuRowText:Generate missing Attachments
+799:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+800:TRANSFORM/szMenuRowText:Generate missing Attachments
+800:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+887:TRANSFORM/szMenuRowText:Generate missing Attachments
+887:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+888:TRANSFORM/szMenuRowText:Generate missing Attachments
+888:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+889:TRANSFORM/szMenuRowText:Generate missing Attachments
+889:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+890:TRANSFORM/szMenuRowText:Generate missing Attachments
+890:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+891:TRANSFORM/szMenuRowText:Generate missing Attachments
+891:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+892:TRANSFORM/szMenuRowText:Generate missing Attachments
+892:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+893:TRANSFORM/szMenuRowText:Generate missing Attachments
+893:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+894:TRANSFORM/szMenuRowText:Generate missing Attachments
+894:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+896:TRANSFORM/szMenuRowText:Generate missing Attachments
+896:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+897:TRANSFORM/szMenuRowText:Generate missing Attachments
+897:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+898:TRANSFORM/szMenuRowText:Generate missing Attachments
+898:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+899:TRANSFORM/szMenuRowText:Generate missing Attachments
+899:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+900:TRANSFORM/szMenuRowText:Generate missing Attachments
+900:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+908:TRANSFORM/szMenuRowText:Generate missing Attachments
+908:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1064:TRANSFORM/szMenuRowText:Generate missing Attachments
+1064:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1065:TRANSFORM/szMenuRowText:Generate missing Attachments
+1065:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1066:TRANSFORM/szMenuRowText:Generate missing Attachments
+1066:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1070:TRANSFORM/szMenuRowText:Generate missing Attachments
+1070:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1071:TRANSFORM/szMenuRowText:Generate missing Attachments
+1071:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1072:TRANSFORM/szMenuRowText:Generate missing Attachments
+1072:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1073:TRANSFORM/szMenuRowText:Generate missing Attachments
+1073:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1074:TRANSFORM/szMenuRowText:Generate missing Attachments
+1074:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1077:TRANSFORM/szMenuRowText:Generate missing Attachments
+1077:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1078:TRANSFORM/szMenuRowText:Generate missing Attachments
+1078:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1179:TRANSFORM/szMenuRowText:Generate missing Attachments
+1179:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1190:TRANSFORM/szMenuRowText:Generate missing Attachments
+1190:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1191:TRANSFORM/szMenuRowText:Generate missing Attachments
+1191:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1192:TRANSFORM/szMenuRowText:Generate missing Attachments
+1192:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1193:TRANSFORM/szMenuRowText:Generate missing Attachments
+1193:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1194:TRANSFORM/szMenuRowText:Generate missing Attachments
+1194:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+1201:TRANSFORM/szMenuRowText:Generate missing Attachments
+1201:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2061:TRANSFORM/szMenuRowText:Generate missing Attachments
+2061:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2062:TRANSFORM/szMenuRowText:Generate missing Attachments
+2062:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2063:TRANSFORM/szMenuRowText:Generate missing Attachments
+2063:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2064:TRANSFORM/szMenuRowText:Generate missing Attachments
+2064:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2065:TRANSFORM/szMenuRowText:Generate missing Attachments
+2065:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2066:TRANSFORM/szMenuRowText:Generate missing Attachments
+2066:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2067:TRANSFORM/szMenuRowText:Generate missing Attachments
+2067:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2068:TRANSFORM/szMenuRowText:Generate missing Attachments
+2068:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2079:TRANSFORM/szMenuRowText:Generate missing Attachments
+2079:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2080:TRANSFORM/szMenuRowText:Generate missing Attachments
+2080:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2083:TRANSFORM/szMenuRowText:Generate missing Attachments
+2083:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2085:TRANSFORM/szMenuRowText:Generate missing Attachments
+2085:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2087:TRANSFORM/szMenuRowText:Generate missing Attachments
+2087:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.
+2089:TRANSFORM/szMenuRowText:Generate missing Attachments
+2089:TRANSFORM/szTooltipText:Only use this, if the weapon is missing its default attachments, like iron sights or integral scopes etc.

@@ -1,3 +1,0 @@
-StructureConstruct.xml, StructureDeconstruct.xml
-跟1.13也对不上号，随便翻译
-

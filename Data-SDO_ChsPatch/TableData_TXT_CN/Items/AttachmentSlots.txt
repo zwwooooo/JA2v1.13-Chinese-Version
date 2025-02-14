@@ -1,0 +1,74 @@
+0:ATTACHMENTSLOT/szSlotName:别碰我
+1:ATTACHMENTSLOT/szSlotName:默认插槽 1
+2:ATTACHMENTSLOT/szSlotName:默认插槽 2
+3:ATTACHMENTSLOT/szSlotName:默认插槽 3
+4:ATTACHMENTSLOT/szSlotName:默认插槽 4
+5:ATTACHMENTSLOT/szSlotName:枪口附件
+6:ATTACHMENTSLOT/szSlotName:激光附件
+7:ATTACHMENTSLOT/szSlotName:共轴瞄准具
+8:ATTACHMENTSLOT/szSlotName:战斗光学/瞄准具 - 如果你能看到这个，请使用武器上的物品转换功能！如果问题仍然存在，请报告此错误。
+9:ATTACHMENTSLOT/szSlotName:枪托附件
+10:ATTACHMENTSLOT/szSlotName:弹匣适配器
+11:ATTACHMENTSLOT/szSlotName:内部附件
+12:ATTACHMENTSLOT/szSlotName:外部：扳机组
+13:ATTACHMENTSLOT/szSlotName:下挂附件
+14:ATTACHMENTSLOT/szSlotName:单发步枪榴弹
+15:ATTACHMENTSLOT/szSlotName:单发火箭发射器
+16:ATTACHMENTSLOT/szSlotName:步枪榴弹 1
+17:ATTACHMENTSLOT/szSlotName:步枪榴弹 2
+18:ATTACHMENTSLOT/szSlotName:步枪榴弹 3
+19:ATTACHMENTSLOT/szSlotName:步枪榴弹 4
+20:ATTACHMENTSLOT/szSlotName:步枪榴弹 5
+21:ATTACHMENTSLOT/szSlotName:步枪榴弹 6
+22:ATTACHMENTSLOT/szSlotName:火箭发射器插槽 1
+23:ATTACHMENTSLOT/szSlotName:火箭发射器插槽 2
+24:ATTACHMENTSLOT/szSlotName:火箭发射器插槽 3
+25:ATTACHMENTSLOT/szSlotName:火箭发射器插槽 4
+26:ATTACHMENTSLOT/szSlotName:机械瞄具 - 你不应该看到这个。使用此物品的物品转换功能来重新创建附件。如果不可行，请报告此错误。
+27:ATTACHMENTSLOT/szSlotName:应急瞄具 - 你不应该看到这个。使用此物品的物品转换功能来重新创建附件。如果不可行，请报告此错误。
+28:ATTACHMENTSLOT/szSlotName:嵌套附件（瞄准镜）
+29:ATTACHMENTSLOT/szSlotName:瞄准镜放大倍数插槽 1 - 如果你能看到这个，请使用瞄准镜上的物品转换功能！如果问题仍然存在，请报告此错误。
+30:ATTACHMENTSLOT/szSlotName:瞄准镜放大倍数插槽 2 - 如果你能看到这个，请使用瞄准镜上的物品转换功能！如果问题仍然存在，请报告此错误。
+31:ATTACHMENTSLOT/szSlotName:瞄准镜放大倍数插槽 3 - 如果你能看到这个，请使用瞄准镜上的物品转换功能！如果问题仍然存在，请报告此错误。
+32:ATTACHMENTSLOT/szSlotName:刀插槽
+33:ATTACHMENTSLOT/szSlotName:步枪背带
+34:ATTACHMENTSLOT/szSlotName:清洁工具包
+35:ATTACHMENTSLOT/szSlotName:电池
+36:ATTACHMENTSLOT/szSlotName:MOLLE 大腿装备左上
+37:ATTACHMENTSLOT/szSlotName:MOLLE 大腿装备右上
+38:ATTACHMENTSLOT/szSlotName:MOLLE 大腿装备左下
+39:ATTACHMENTSLOT/szSlotName:MOLLE 大腿装备右下
+40:ATTACHMENTSLOT/szSlotName:MOLLE 大腿装备底部中
+41:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 1
+42:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 2
+43:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 3
+44:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 4
+45:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 5
+46:ATTACHMENTSLOT/szSlotName:MOLLE 背心上排 6 中
+47:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 1
+48:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 2
+49:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 3
+50:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 4
+51:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 5
+52:ATTACHMENTSLOT/szSlotName:MOLLE 背心下排 6 中
+53:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第一列 1
+54:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第一列 2
+55:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第二列 1
+56:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第二列 2
+57:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第三列 1 中
+58:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第三列 2
+59:ATTACHMENTSLOT/szSlotName:MOLLE 腰带第三列 3
+60:ATTACHMENTSLOT/szSlotName:MOLLE 背包第一列 1
+61:ATTACHMENTSLOT/szSlotName:MOLLE 背包第一列 2
+62:ATTACHMENTSLOT/szSlotName:MOLLE 背包第二列 1
+63:ATTACHMENTSLOT/szSlotName:MOLLE 背包第二列 2
+64:ATTACHMENTSLOT/szSlotName:MOLLE 背包第三列 1 中
+65:ATTACHMENTSLOT/szSlotName:MOLLE 背包第三列 2 中
+66:ATTACHMENTSLOT/szSlotName:MOLLE 背包第三列 3 中
+67:ATTACHMENTSLOT/szSlotName:MOLLE 背包第三列 4 中
+68:ATTACHMENTSLOT/szSlotName:头盔附件：瞄准装置
+69:ATTACHMENTSLOT/szSlotName:头盔附件：迷彩罩
+70:ATTACHMENTSLOT/szSlotName:头盔附件：面部保护
+71:ATTACHMENTSLOT/szSlotName:背心附件：装甲板
+72:ATTACHMENTSLOT/szSlotName:背心附件：迷彩衬衫
+73:ATTACHMENTSLOT/szSlotName:护腿附件：腿部保护器
