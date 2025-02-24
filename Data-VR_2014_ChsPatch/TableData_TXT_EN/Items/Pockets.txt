@@ -1,0 +1,67 @@
+0:POCKET/pName:NIV Default Nothing
+1:POCKET/pName:NIV Default Gun Sling
+2:POCKET/pName:NIV Default Knife
+3:POCKET/pName:NIV Default Vehicle
+4:POCKET/pName:General Large
+5:POCKET/pName:Combat Pack
+6:POCKET/pName:Ammo Belt
+7:POCKET/pName:SMG Holster
+8:POCKET/pName:General Medium
+9:POCKET/pName:Large Mag x2
+10:POCKET/pName:AR Mag x1
+11:POCKET/pName:Pistol Holster Small
+12:POCKET/pName:SMG Mag x1
+13:POCKET/pName:40mm Grenade x2
+14:POCKET/pName:Grenade twin
+15:POCKET/pName:Pistol Mag x1
+16:POCKET/pName:General Tiny
+17:POCKET/pName:General Small
+18:POCKET/pName:NIV Default Belt Clip
+19:POCKET/pName:Speedloader x2
+20:POCKET/pName:FirstAidKit Pocket
+22:POCKET/pName:nothing
+23:POCKET/pName:AR Mag x2
+24:POCKET/pName:AR Mag x3
+25:POCKET/pName:SMG Mag x2
+26:POCKET/pName:SMG Mag x3
+27:POCKET/pName:Pistol Mag x2
+28:POCKET/pName:Pistol Mag x3
+29:POCKET/pName:40mm Grenade x3
+30:POCKET/pName:General Misc
+31:POCKET/pName:Pistol Holster Large
+32:POCKET/pName:Revolver Holster
+33:POCKET/pName:nothing
+34:POCKET/pName:Rocket Rifle Ammo
+35:POCKET/pName:60mm Mortar Leg
+36:POCKET/pName:Explosives
+37:POCKET/pName:Throwing Knife
+38:POCKET/pName:Grenade Lg twin
+39:POCKET/pName:Short Rifle Mag x2
+40:POCKET/pName:Shotgun Shells
+41:POCKET/pName:Sniper Mag x2
+42:POCKET/pName:nothing
+43:POCKET/pName:nothing
+44:POCKET/pName:60mmm Mortar Bag
+45:POCKET/pName:Bolt Clip
+46:POCKET/pName:nothing
+47:POCKET/pName:40mm Grenade x6
+48:POCKET/pName:Combat Pack small
+49:POCKET/pName:40mm Grenade x1
+50:POCKET/pName:RPG Rocket
+51:POCKET/pName:Drum Magazine
+52:POCKET/pName:Grenade single
+53:POCKET/pName:Grenade Lg single
+54:POCKET/pName:40mm Grenade x4 c.p.
+55:POCKET/pName:Revolver Combat Pack
+56:POCKET/pName:Explosives Small
+57:POCKET/pName:Combat Pack Gun Sling
+58:POCKET/pName:Pistol Combat Pack
+59:POCKET/pName:Large Mag x1
+60:POCKET/pName:Kits
+61:POCKET/pName:Belt Clip
+62:POCKET/pName:Combat Pack Medium
+63:POCKET/pName:RPK Mag x1
+64:POCKET/pName:RPK Mag x2
+65:POCKET/pName:Grenade x3
+66:POCKET/pName:Lg Grenade x3
+67:POCKET/pName:GL Holster

@@ -3191,9 +3191,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>93</uiIndex>
@@ -4623,9 +4620,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>149</uiIndex>
@@ -4656,9 +4650,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>150</uiIndex>
@@ -4689,9 +4680,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>151</uiIndex>
@@ -4724,9 +4712,6 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>152</uiIndex>
@@ -4751,9 +4736,6 @@
 		<NotInEditor>1</NotInEditor>
 		<HiddenAddon>1</HiddenAddon>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>153</uiIndex>
@@ -4775,9 +4757,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>154</uiIndex>
@@ -4799,9 +4778,6 @@
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>155</uiIndex>
@@ -4823,9 +4799,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>156</uiIndex>
@@ -4847,9 +4820,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>157</uiIndex>
@@ -4873,9 +4843,6 @@
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>158</uiIndex>
@@ -4890,9 +4857,6 @@
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>159</uiIndex>
@@ -4907,9 +4871,6 @@
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>160</uiIndex>
@@ -5812,7 +5773,6 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -5841,7 +5801,21 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
+		<STAND_MODIFIERS>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>190</uiIndex>
@@ -5867,7 +5841,21 @@
 		<AimBonus>-1</AimBonus>
 		<APBonus>-1</APBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
+		<STAND_MODIFIERS>
+			<PercentBase>-5</PercentBase>
+			<PercentCap>-2</PercentCap>
+			<PercentCounterForceAccuracy>-5</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+			<PercentBase>-10</PercentBase>
+			<PercentCap>-4</PercentCap>
+			<PercentCounterForceAccuracy>-10</PercentCounterForceAccuracy>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+			<PercentBase>-7</PercentBase>
+			<PercentCap>-3</PercentCap>
+			<PercentCounterForceAccuracy>-7</PercentCounterForceAccuracy>
+		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
 		<uiIndex>191</uiIndex>
@@ -5891,7 +5879,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -6127,7 +6114,7 @@
 		<DayVisionRangeBonus>60</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>50</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
-		<usSpotting>20</usSpotting>
+		<usSpotting>50</usSpotting>
 	</ITEM>
 	<ITEM>
 		<uiIndex>200</uiIndex>
@@ -6506,9 +6493,9 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<NightVisionRangeBonus>0</NightVisionRangeBonus>
-		<DayVisionRangeBonus>0</DayVisionRangeBonus>
+		<DayVisionRangeBonus>5</DayVisionRangeBonus>
 		<CaveVisionRangeBonus>0</CaveVisionRangeBonus>
-		<BrightLightVisionRangeBonus>1</BrightLightVisionRangeBonus>	<!-- only for the purpose of swapping day/night goggles -->
+		<BrightLightVisionRangeBonus>5</BrightLightVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>213</uiIndex>
@@ -6616,9 +6603,6 @@
 		<ubCoolness>7</ubCoolness>
 		<Damageable>1</Damageable>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>217</uiIndex>
@@ -6639,9 +6623,6 @@
 		<NotBuyable>1</NotBuyable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>218</uiIndex>
@@ -6662,9 +6643,6 @@
 		<Damageable>1</Damageable>
 		<Jar>1</Jar>
 		<ContainsLiquid>1</ContainsLiquid>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>219</uiIndex>
@@ -6682,9 +6660,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>220</uiIndex>
@@ -6756,9 +6731,6 @@
 		<Unaerodynamic>1</Unaerodynamic>
 		<Medical>1</Medical>
 		<DrugType>1</DrugType>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>223</uiIndex>
@@ -6859,9 +6831,6 @@
 		<ItemSize>10</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>227</uiIndex>
@@ -6879,9 +6848,6 @@
 		<ItemSize>11</ItemSize>
 		<NotBuyable>1</NotBuyable>
 		<Unaerodynamic>1</Unaerodynamic>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>228</uiIndex>
@@ -6898,9 +6864,6 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>229</uiIndex>
@@ -6960,9 +6923,6 @@
 		<usPrice>100</usPrice>
 		<Damageable>1</Damageable>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>232</uiIndex>
@@ -7000,9 +6960,6 @@
 		<ItemSize>34</ItemSize>
 		<Metal>1</Metal>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>234</uiIndex>
@@ -7018,9 +6975,6 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>34</ItemSize>
 		<NotBuyable>1</NotBuyable>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>235</uiIndex>
@@ -7168,9 +7122,6 @@
 		<SnowCamoBonus>-5</SnowCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>242</uiIndex>
@@ -7257,9 +7208,6 @@
 		<Duckbill>1</Duckbill>
 		<spreadPattern>DuckbillSpread</spreadPattern>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>245</uiIndex>
@@ -7273,7 +7221,7 @@
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>106</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>30</usPrice>
@@ -12977,9 +12925,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>464</uiIndex>
@@ -13005,9 +12950,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>465</uiIndex>
@@ -13032,9 +12974,6 @@
 		<RangeBonus>120</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>466</uiIndex>
@@ -13059,9 +12998,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>467</uiIndex>
@@ -13086,9 +13022,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>468</uiIndex>
@@ -13111,9 +13044,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>469</uiIndex>
@@ -13266,9 +13196,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>475</uiIndex>
@@ -13291,9 +13218,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>476</uiIndex>
@@ -13316,9 +13240,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>477</uiIndex>
@@ -13341,9 +13262,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>478</uiIndex>
@@ -13366,9 +13284,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>479</uiIndex>
@@ -13417,9 +13332,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>481</uiIndex>
@@ -13442,9 +13354,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>482</uiIndex>
@@ -13467,9 +13376,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>483</uiIndex>
@@ -13544,9 +13450,6 @@
 		<BigGunList>1</BigGunList>
 		<SciFi>1</SciFi>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>486</uiIndex>
@@ -13570,9 +13473,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>487</uiIndex>
@@ -13596,9 +13496,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>488</uiIndex>
@@ -13621,9 +13518,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>489</uiIndex>
@@ -13646,9 +13540,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>490</uiIndex>
@@ -13671,9 +13562,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>491</uiIndex>
@@ -13698,9 +13586,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>492</uiIndex>
@@ -13725,9 +13610,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>493</uiIndex>
@@ -13752,9 +13634,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>494</uiIndex>
@@ -13779,9 +13658,6 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<PercentRecoilModifier>-20</PercentRecoilModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>495</uiIndex>
@@ -14008,9 +13884,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>504</uiIndex>
@@ -14033,9 +13906,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>505</uiIndex>
@@ -14058,9 +13928,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>506</uiIndex>
@@ -14083,9 +13950,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>507</uiIndex>
@@ -14108,9 +13972,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>508</uiIndex>
@@ -14133,9 +13994,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>509</uiIndex>
@@ -14158,9 +14016,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>510</uiIndex>
@@ -14233,9 +14088,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>513</uiIndex>
@@ -14258,9 +14110,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>514</uiIndex>
@@ -14283,9 +14132,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>515</uiIndex>
@@ -14309,9 +14155,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>516</uiIndex>
@@ -14334,9 +14177,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>517</uiIndex>
@@ -14361,9 +14201,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>518</uiIndex>
@@ -14386,9 +14223,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>519</uiIndex>
@@ -14413,9 +14247,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>520</uiIndex>
@@ -14491,9 +14322,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>523</uiIndex>
@@ -14516,9 +14344,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>524</uiIndex>
@@ -14541,9 +14366,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>525</uiIndex>
@@ -14566,9 +14388,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>526</uiIndex>
@@ -14591,9 +14410,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>527</uiIndex>
@@ -14616,9 +14432,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>528</uiIndex>
@@ -14641,9 +14454,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>529</uiIndex>
@@ -14666,9 +14476,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>530</uiIndex>
@@ -14691,9 +14498,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>531</uiIndex>
@@ -14716,9 +14520,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>532</uiIndex>
@@ -14741,9 +14542,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>533</uiIndex>
@@ -14766,9 +14564,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>534</uiIndex>
@@ -14792,9 +14587,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>535</uiIndex>
@@ -14817,9 +14609,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>536</uiIndex>
@@ -14844,9 +14633,6 @@
 		<RangeBonus>70</RangeBonus>
 		<PercentAccuracyModifier>10</PercentAccuracyModifier>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>537</uiIndex>
@@ -14869,9 +14655,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>538</uiIndex>
@@ -14894,9 +14677,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>539</uiIndex>
@@ -14919,9 +14699,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>540</uiIndex>
@@ -14945,9 +14722,6 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>80</PercentNoiseReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>541</uiIndex>
@@ -14971,9 +14745,6 @@
 		<SciFi>1</SciFi>
 		<PercentNoiseReduction>60</PercentNoiseReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>542</uiIndex>
@@ -14996,9 +14767,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>543</uiIndex>
@@ -15021,15 +14789,12 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>544</uiIndex>
 		<szItemName>9mm MS Mag AP</szItemName>
 		<szLongItemName>9mm Metal Storm Mag, AP</szLongItemName>
-		<szItemDesc>无需机械装填和射击，Metal Storm的堆叠电子发射弹药承诺在低重量下提供可靠的大规模火力。这个捆绑包配置为6个枪管中的72发9mm弹药。</szItemDesc>
+		<szItemDesc>这个9毫米金属风暴弹匣为他们的前沿武器设计提供了电子充能弹药。</szItemDesc>
 		<szBRName>9mm Metal Storm Mag AP</szBRName>
 		<szBRDesc>无需机械装填和射击，Metal Storm的堆叠电子发射弹药承诺在低重量下提供可靠的大规模火力。这个捆绑包配置为6个枪管中的72发9mm弹药。</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -15074,9 +14839,6 @@
 		<RangeBonus>50</RangeBonus>
 		<DamageBonus>3</DamageBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>546</uiIndex>
@@ -15099,9 +14861,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>547</uiIndex>
@@ -15123,9 +14882,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>548</uiIndex>
@@ -15149,9 +14905,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>549</uiIndex>
@@ -15204,9 +14957,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>551</uiIndex>
@@ -15287,9 +15037,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>554</uiIndex>
@@ -15339,9 +15086,6 @@
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>556</uiIndex>
@@ -18651,9 +18395,9 @@
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>		<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>		<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
-		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>		<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<AvailableAttachmentPoint>9223372036854775808</AvailableAttachmentPoint>	<!-- UB Launcher - EGLM -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
@@ -20785,7 +20529,7 @@
 		<uiIndex>704</uiIndex>
 		<szItemName>QBZ-97</szItemName>
 		<szLongItemName>QBZ-97</szLongItemName>
-		<szItemDesc>这款中国突击步枪的出口版本试图进一步倾斜贸易平衡，使其对中国有利，但像没有为左撇子提供的、较高的瞄准器和奇怪的选择开关这样的烦人特征无疑为其贴上了“中国制造”的印记。</szItemDesc>
+		<szItemDesc>这种中国突击步枪的出口版本试图进一步使贸易平衡向中国倾斜，尽管没有为左撇子设计、高瞄准具和奇怪的保险开关等令人烦恼的特点确实让它贴上了“中国制造”的标签。</szItemDesc>
 		<szBRName>QBZ-97</szBRName>
 		<szBRDesc>我们的中国人民解放军突击步枪出口版本提供了良好的性价比，但我们强烈建议配备后市场瞄准器。</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -29588,7 +29332,7 @@
 		<uiIndex>950</uiIndex>
 		<szItemName>LAM-Flashlight</szItemName>
 		<szLongItemName>Rifle LAM-Flashlight Combo</szLongItemName>
-		<szItemDesc>这个激光瞄准模块和战术组合旨在安装在现代步枪的导轨接口系统上。</szItemDesc>
+		<szItemDesc>这种激光瞄准模块和战术组合旨在适配现代步枪导轨接口系统。</szItemDesc>
 		<szBRName>Rifle LAM-Flashlight</szBRName>
 		<szBRDesc>这个激光瞄准模块和战术手电的组合旨在安装在现代步枪的导轨接口系统上。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
@@ -30483,7 +30227,7 @@
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>200</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>8</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>50</usPrice>
@@ -31115,9 +30859,6 @@
 		<BrightLightVisionRangeBonus>40</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>40</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1000</uiIndex>
@@ -31159,9 +30900,6 @@
 		<BrightLightVisionRangeBonus>80</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>8.0</ScopeMagFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1001</uiIndex>
@@ -31271,9 +31009,6 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.1</overheatCooldownModificator>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1004</uiIndex>
@@ -31577,7 +31312,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
-<!--		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>	-->
+		<PercentReadyTimeAPReduction>5</PercentReadyTimeAPReduction>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>70</PercentMaxCounterForce>
@@ -31829,11 +31564,9 @@
 		<szItemDesc>一块撕裂的布片。完全没有鼻涕。</szItemDesc>
 		<szBRName>Rag</szBRName>
 		<szBRDesc>不通过BR销售。</szBRDesc>
-		<usItemClass>4096</usItemClass>		
-<!--		<usItemClass>268435456</usItemClass>	-->
+		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>		
 		<nasAttachmentClass>1</nasAttachmentClass>
-		<ubCursor>5</ubCursor>
 		<ItemFlag>1024</ItemFlag>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>204</ubGraphicNum>
@@ -31841,11 +31574,7 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>1</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<Unaerodynamic>1</Unaerodynamic>
-		<FirstAidKit>1</FirstAidKit>
-		<PoisonPercentage>2</PoisonPercentage>
-		<PercentStatusDrainReduction>-700</PercentStatusDrainReduction>
+		<ubCoolness>1</ubCoolness>		
 		<BigGunList>1</BigGunList>
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
@@ -31972,9 +31701,6 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<ToHitBonus>-3</ToHitBonus>
 		<BurstSizeBonus>3</BurstSizeBonus>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1027</uiIndex>
@@ -32002,9 +31728,6 @@
 		<UrbanCamoBonus>100</UrbanCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1028</uiIndex>
@@ -32032,9 +31755,6 @@
 		<DesertCamoBonus>100</DesertCamoBonus>
 		<CamouflageKit>1</CamouflageKit>
 		<HiddenAddon>1</HiddenAddon>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1029</uiIndex>
@@ -33662,12 +33382,7 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<ShowStatus>1</ShowStatus>		
-		<CamoBonus>16</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>20</CamoBonus>
@@ -33696,13 +33411,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1081</uiIndex>
@@ -33724,13 +33437,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1082</uiIndex>
@@ -33752,13 +33463,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1083</uiIndex>
@@ -33780,11 +33489,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>16</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>10</CamoBonus>
@@ -33812,11 +33516,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>16</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<CamoBonus>15</CamoBonus>
@@ -33844,13 +33543,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>26</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>25</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -33875,13 +33570,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>18</CamoBonus>		
-		<DesertCamoBonus>18</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -33906,13 +33597,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>20</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -33937,13 +33624,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>18</CamoBonus>		
-		<DesertCamoBonus>18</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -33968,13 +33651,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -33999,13 +33678,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -34030,13 +33705,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1092</uiIndex>
@@ -34058,13 +33731,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1093</uiIndex>
@@ -34086,13 +33757,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1094</uiIndex>
@@ -34114,11 +33783,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -34145,11 +33809,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -34176,11 +33835,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -34207,11 +33861,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -34238,11 +33887,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -34269,11 +33913,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -36770,13 +36409,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1171</uiIndex>
@@ -36798,13 +36435,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1172</uiIndex>
@@ -36826,13 +36461,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1173</uiIndex>
@@ -36853,13 +36486,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1174</uiIndex>
@@ -36881,13 +36512,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1175</uiIndex>
@@ -36909,13 +36538,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1176</uiIndex>
@@ -36937,7 +36564,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<ItemFlag>16384</ItemFlag>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1177</uiIndex>
@@ -37672,13 +37301,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1197</uiIndex>
@@ -37810,11 +37438,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -37899,13 +37522,12 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1204</uiIndex>
@@ -37926,11 +37548,6 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -37953,11 +37570,6 @@
 		<bRepairEase>2</bRepairEase>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>6</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -37981,11 +37593,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -38009,11 +37616,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -38037,11 +37639,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>5</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -44742,9 +44339,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1479</uiIndex>
@@ -44769,9 +44363,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>120</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1480</uiIndex>
@@ -44795,9 +44386,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1481</uiIndex>
@@ -44820,9 +44408,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1482</uiIndex>
@@ -44845,9 +44430,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1483</uiIndex>
@@ -44871,9 +44453,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1484</uiIndex>
@@ -44895,9 +44474,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1485</uiIndex>
@@ -44920,9 +44496,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1486</uiIndex>
@@ -44945,9 +44518,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1487</uiIndex>
@@ -44970,9 +44540,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1488</uiIndex>
@@ -44996,9 +44563,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1489</uiIndex>
@@ -45020,9 +44584,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1490</uiIndex>
@@ -45045,9 +44606,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1491</uiIndex>
@@ -45071,9 +44629,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<RangeBonus>70</RangeBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1492</uiIndex>
@@ -45096,9 +44651,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1493</uiIndex>
@@ -45121,9 +44673,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1494</uiIndex>
@@ -45145,9 +44694,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1495</uiIndex>
@@ -45169,9 +44715,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1496</uiIndex>
@@ -45193,9 +44736,6 @@
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1497</uiIndex>
@@ -45218,9 +44758,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1498</uiIndex>
@@ -45244,9 +44781,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1499</uiIndex>
@@ -45269,9 +44803,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1500</uiIndex>
@@ -45294,9 +44825,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1501</uiIndex>
@@ -45319,9 +44847,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>1</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1502</uiIndex>
@@ -45345,9 +44870,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1503</uiIndex>
@@ -45370,9 +44892,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1504</uiIndex>
@@ -45395,9 +44914,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1505</uiIndex>
@@ -45421,9 +44937,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1506</uiIndex>
@@ -45447,9 +44960,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1507</uiIndex>
@@ -45472,9 +44982,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1508</uiIndex>
@@ -45498,9 +45005,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1509</uiIndex>
@@ -45523,9 +45027,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1510</uiIndex>
@@ -45549,9 +45050,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1511</uiIndex>
@@ -45574,9 +45072,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1512</uiIndex>
@@ -45599,9 +45094,6 @@
 		<BigGunList>1</BigGunList>
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1513</uiIndex>
@@ -45624,9 +45116,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1514</uiIndex>
@@ -45650,9 +45139,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1515</uiIndex>
@@ -45674,9 +45160,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1516</uiIndex>
@@ -45700,9 +45183,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1517</uiIndex>
@@ -45725,9 +45205,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1518</uiIndex>
@@ -45751,9 +45228,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1519</uiIndex>
@@ -45776,17 +45250,14 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1520</uiIndex>
 		<szItemName>6.8x43mm SPC Box AP</szItemName>
 		<szLongItemName>6.8x43mm SPC子弹盒, AP</szLongItemName>
-		<szItemDesc>新型6.8x43mm SPC特种部队弹药。比标准北约5.56mm弹药更具射程和效果。</szItemDesc>
+		<szItemDesc>新的6.8x43mm SPC是一种中间步枪弹药，旨在超越为特种部队社区设计的5.56弹药。</szItemDesc>
 		<szBRName>6.8x43mm SPC Box AP</szBRName>
-		<szBRDesc>新型6.8x43mm SPC特种部队弹药。比标准北约5.56mm弹药更具射程和效果。</szBRDesc>
+		<szBRDesc>6.8x43mm SPC特种部队弹药的射程和效果优于标准的北约5.56mm弹药。</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>640</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -45802,17 +45273,14 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>	
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1521</uiIndex>
 		<szItemName>6.8x43mm SPC Box HP</szItemName>
 		<szLongItemName>6.8x43mm SPC子弹盒, HP</szLongItemName>
-		<szItemDesc>6.8x43mm特种用途弹药是在特种作战社区参与下开发的，旨在提供比5.56x45mm更具致命性的子弹。现在他们终于得到了。</szItemDesc>
+		<szItemDesc>6.8x43mm特种用途弹药是在特种作战社区的参与下开发的，他们希望这种弹药的致命性要高于5.56x45mm。现在他们实现了这一目标。</szItemDesc>
 		<szBRName>6.8x43mm SPC Box HP</szBRName>
-		<szBRDesc>6.8x43mm特种用途弹药是在特种作战社区参与下开发的，旨在提供比5.56x45mm更具致命性的子弹。现在他们终于得到了。</szBRDesc>
+		<szBRDesc>将5.56弹药的外部弹道升级到由雷明顿和第五特种部队集团射击单位开发的6.8x43mm特种用途弹药。</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>639</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -45827,9 +45295,6 @@
 		<BigGunList>1</BigGunList>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1522</uiIndex>
@@ -45949,8 +45414,8 @@
 		<nasAttachmentClass>256</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<AttachmentPoint>549755813888</AttachmentPoint>	<!-- Rifle Sling -->
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>1101</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>218</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
@@ -45958,12 +45423,6 @@
 		<ubCoolness>3</ubCoolness>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<PercentReadyTimeAPReduction>10</PercentReadyTimeAPReduction>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>5</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
 		<STAND_MODIFIERS/>
@@ -48501,6 +47960,9 @@
 		<Sinks>1</Sinks>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1631</uiIndex>
@@ -48828,13 +48290,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1642</uiIndex>
@@ -48856,13 +48316,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1643</uiIndex>
@@ -48884,13 +48342,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1644</uiIndex>
@@ -48912,13 +48369,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
+		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1645</uiIndex>
@@ -48940,13 +48396,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1646</uiIndex>
@@ -48968,13 +48423,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1647</uiIndex>
@@ -48996,13 +48450,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1648</uiIndex>
@@ -49024,13 +48476,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1649</uiIndex>
@@ -49054,13 +48504,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1650</uiIndex>
@@ -49087,13 +48535,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>4</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1651</uiIndex>
@@ -49117,13 +48564,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1652</uiIndex>
@@ -49150,13 +48595,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>4</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1653</uiIndex>
@@ -49183,13 +48627,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>2</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1654</uiIndex>
@@ -49216,13 +48659,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>2</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1655</uiIndex>
@@ -49249,13 +48691,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>2</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1656</uiIndex>
@@ -49282,13 +48723,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1657</uiIndex>
@@ -49315,13 +48752,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>2</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1658</uiIndex>
@@ -49348,13 +48784,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1659</uiIndex>
@@ -49381,13 +48816,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1660</uiIndex>
@@ -49414,13 +48848,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1661</uiIndex>
@@ -49447,13 +48880,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>4</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1662</uiIndex>
@@ -49480,13 +48912,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>2</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1663</uiIndex>
@@ -49513,13 +48944,11 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1664</uiIndex>
@@ -49546,13 +48975,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1665</uiIndex>
@@ -49575,13 +49003,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1666</uiIndex>
@@ -49604,13 +49030,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1667</uiIndex>
@@ -49634,13 +49059,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<StealthBonus>10</StealthBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1668</uiIndex>
@@ -49664,13 +49088,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -49700,13 +49120,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1670</uiIndex>
@@ -49733,13 +49149,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1671</uiIndex>
@@ -49766,13 +49181,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1672</uiIndex>
@@ -49799,13 +49213,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1673</uiIndex>
@@ -49832,13 +49245,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1674</uiIndex>
@@ -49865,11 +49277,6 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -49898,13 +49305,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1676</uiIndex>
@@ -49928,13 +49334,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1677</uiIndex>
@@ -49961,13 +49366,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1678</uiIndex>
@@ -49994,13 +49398,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>2</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1679</uiIndex>
@@ -50027,13 +49430,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>2</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>1</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1680</uiIndex>
@@ -50060,13 +49459,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1681</uiIndex>
@@ -50093,13 +49488,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1682</uiIndex>
@@ -50122,13 +49516,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>15</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1683</uiIndex>
@@ -50151,13 +49541,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1684</uiIndex>
@@ -50184,13 +49570,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1685</uiIndex>
@@ -50217,13 +49602,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1686</uiIndex>
@@ -50250,13 +49634,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1687</uiIndex>
@@ -50283,13 +49666,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1688</uiIndex>
@@ -50316,13 +49695,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1689</uiIndex>
@@ -50349,13 +49724,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1690</uiIndex>
@@ -50378,13 +49749,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1691</uiIndex>
@@ -50406,13 +49776,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<StealthBonus>-10</StealthBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1692</uiIndex>
@@ -50459,13 +49829,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>25</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1694</uiIndex>
@@ -50488,13 +49854,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>6</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1695</uiIndex>
@@ -50552,13 +49914,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>3</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1697</uiIndex>
@@ -50755,13 +50113,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1706</uiIndex>
@@ -50784,13 +50141,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1707</uiIndex>
@@ -50813,13 +50169,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1708</uiIndex>
@@ -50842,13 +50196,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>1709</uiIndex>
@@ -54170,6 +53523,8 @@
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>17592186044416</AvailableAttachmentPoint>	<!-- Scopes - Sniper 10x -->
 		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
@@ -54610,25 +53965,29 @@
 		<PercentTunnelVision>15</PercentTunnelVision>
 		<DefaultAttachment>1010</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2014</uiIndex>
 		<szItemName>AUG-A2 RAS CQB</szItemName>
 		<szLongItemName>施泰尔AUG-A2 RAS CQB</szLongItemName>
-		<szItemDesc>美国枪械控制游说集团的“邪恶突击步枪”海报，外观未来感十足的奥地利军用标准步枪。此版本的枪管比标准AUG-A2稍短。这一版本配备了Picatinny导轨，而不是基本光学。</szItemDesc>
+		<szItemDesc>这个版本的枪管比标准的AUG-A2稍短。与基本光学瞄准器不同，这个版本配备了皮卡汀尼导轨。</szItemDesc>
 		<szBRName>Steyr AUG-A2 RAS CQB</szBRName>
 		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2014</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->	
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->		
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
-		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
+		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->		
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>425</ubGraphicNum>
@@ -54649,26 +54008,34 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<DefaultAttachment>1010</DefaultAttachment>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2015</uiIndex>
 		<szItemName>AUG-A2 RAS</szItemName>
 		<szLongItemName>施泰尔AUG-A2 RAS</szLongItemName>
-		<szItemDesc>模块化A3现在配备了装配Picatinny导轨，可用于更多附件。</szItemDesc>
+		<szItemDesc>模块化的A2现在更加适应性强，配备了皮卡汀尼导轨，可以使用更多种类的附件。</szItemDesc>
 		<szBRName>Steyr AUG-A2 RAS</szBRName>
 		<szBRDesc>不出售。合并物品。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2015</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
+		<AvailableAttachmentPoint>1024</AvailableAttachmentPoint>		<!-- Muzzle - AR Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
+		<AvailableAttachmentPoint>2147483648</AvailableAttachmentPoint>		<!-- Adapter - 5.56x45 C-Mag -->	
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->		
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
+		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
+		<AvailableAttachmentPoint>576460752303423488</AvailableAttachmentPoint>	<!-- UB Launcher - M203PI -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
 		<ubGraphicNum>423</ubGraphicNum>
@@ -54702,13 +54069,18 @@
 		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2016</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
+		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>			<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->	
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -54730,9 +54102,6 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2017</uiIndex>
@@ -54743,13 +54112,17 @@
 		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2017</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			<!-- Laser - Rifle Lam -->
 		<AvailableAttachmentPoint>64</AvailableAttachmentPoint>			<!-- UB - Bayonet -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
+		<AvailableAttachmentPoint>8589934592</AvailableAttachmentPoint>		<!-- Internal - Trigger Group -->	
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
-		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->
 		<AvailableAttachmentPoint>8796093022208</AvailableAttachmentPoint>	<!-- Scopes - Battle 7x -->
 		<ubCursor>3</ubCursor>
@@ -54787,12 +54160,14 @@
 		<szBRDesc>像黄油一样切穿凯夫拉。这款FN-P90是一款后坐式手枪，具备强大的弹道能力。所有控制均完全可双手操作，脚架手柄装在两侧，并配有两个开放瞄准器。该版本配备了Picatinny导轨。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2018</ubClassIndex>
+		<AvailableAttachmentPoint>4</AvailableAttachmentPoint>			<!-- Laser - Small -->
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>			<!-- Laser - LAM -->
 		<AvailableAttachmentPoint>768</AvailableAttachmentPoint>	<!-- Muzzle - Pistol/SMG Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>	<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>	<!-- Sights - Holo/ISM-V-IR -->
 		<AvailableAttachmentPoint>34359738368</AvailableAttachmentPoint>	<!-- Internal - Rod and Spring -->
 		<AvailableAttachmentPoint>549755813888</AvailableAttachmentPoint>	<!-- Rifle Sling -->
+		<AvailableAttachmentPoint>1099511627776</AvailableAttachmentPoint>	<!-- Scopes - Small 2x -->
 		<AvailableAttachmentPoint>4398046511104</AvailableAttachmentPoint>	<!-- Scopes - Acog 4x -->	
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>4</ubGraphicType>
@@ -54814,9 +54189,6 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2019</uiIndex>
@@ -54881,6 +54253,7 @@
 		<AvailableAttachmentPoint>4096</AvailableAttachmentPoint>		<!-- Muzzle - Flash Suppressor -->
 		<AvailableAttachmentPoint>1048576</AvailableAttachmentPoint>		<!-- Sights - Reflex -->
 		<AvailableAttachmentPoint>2097152</AvailableAttachmentPoint>		<!-- Sights - Holo/ISM-V-IR -->
+		<AvailableAttachmentPoint>4194304</AvailableAttachmentPoint>		<!-- Sights - Night/Thermal Sight -->
 		<AvailableAttachmentPoint>33554432</AvailableAttachmentPoint>		<!-- UB - Bipod -->
 		<AvailableAttachmentPoint>134217728</AvailableAttachmentPoint>		<!-- UB - Foregrip -->
 		<AvailableAttachmentPoint>268435456</AvailableAttachmentPoint>		<!-- UB - Grippod/GripLight -->
@@ -54913,7 +54286,7 @@
 		<uiIndex>2021</uiIndex>
 		<szItemName>CAWS RAS</szItemName>
 		<szLongItemName>HK CAWS RAS</szLongItemName>
-		<szItemDesc>海克勒&amp;科赫的实验性近战武器系统。它发射由Olin/Winchester开发的特殊12号口径带弹壳的铅子，具有比传统霰弹枪更远的射程。可实现半自动和全自动操作，并配备了G36光学瞄准器，以允许更多现代附件。</szItemDesc>
+		<szItemDesc>一种经过改装的近战武器系统，配备了G36导轨套件，以允许安装更多现代附件。</szItemDesc>
 		<szBRName>HK CAWS RAS</szBRName>
 		<szBRDesc>不出售。</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -58763,7 +58136,7 @@
 		<szLongItemName>CheyTac干预M200</szLongItemName>
 		<szItemDesc>基于EDM Arms Windrunner，这款相对紧凑和轻便的步枪保持了最佳组的世界纪录, 以3发子弹在距离2122米时达到42厘米内的聚集。</szItemDesc>
 		<szBRName>CheyTac Intervention M200</szBRName>
-		<szBRDesc>结合了其在2500码内轻松打击目标的能力和CheyTac的专利平衡飞行弹，您得到一支准确度优于世界上任何其他步枪的步枪。</szBRDesc>
+		<szBRDesc>结合其轻松锁定2500码目标的能力以及CheyTac专利的平衡飞行弹头，你得到了一个能提供更高精度、子弹下降和漂移少于世界上任何其他步枪的武器。</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>2114</ubClassIndex>
 		<AvailableAttachmentPoint>8</AvailableAttachmentPoint>		<!-- Laser - LAM -->
@@ -62619,7 +61992,7 @@
 		<ubGraphicNum>153</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ItemSize>24</ItemSize>
 		<usPrice>378</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
@@ -62640,8 +62013,8 @@
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>154</ubGraphicNum>
 		<ubWeight>10</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>20</ItemSize>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>24</ItemSize>
 		<usPrice>360</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<Metal>1</Metal>
@@ -64810,10 +64183,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2403</uiIndex>
@@ -64844,10 +64213,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2404</uiIndex>
@@ -64878,10 +64243,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2405</uiIndex>
@@ -64910,10 +64271,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2406</uiIndex>
@@ -64944,10 +64301,6 @@
 		<TripWireActivation>1</TripWireActivation>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2407</uiIndex>
@@ -64980,10 +64333,6 @@
 		<PercentAPReduction>-20</PercentAPReduction>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2408</uiIndex>
@@ -65014,10 +64363,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_UsedInventory>2</BR_UsedInventory>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2409</uiIndex>
@@ -65047,10 +64392,6 @@
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
 		<BR_UsedInventory>1</BR_UsedInventory>		
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2410</uiIndex>
@@ -65079,11 +64420,7 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>2465</buddyitem>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2411</uiIndex>
@@ -65145,10 +64482,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2413</uiIndex>
@@ -65177,10 +64510,6 @@
 		<Attachment>1</Attachment>
 		<HiddenAddon>1</HiddenAddon>
 		<TripWireActivation>1</TripWireActivation>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2414</uiIndex>
@@ -65209,10 +64538,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2415</uiIndex>
@@ -65241,10 +64566,6 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2416</uiIndex>
@@ -66568,7 +65889,7 @@
 		<ubCursor>6</ubCursor>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>457</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>8</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>50</usPrice>
@@ -67797,7 +67118,6 @@
 		<ShowStatus>1</ShowStatus>
 		<NotBuyable>1</NotBuyable>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2533</uiIndex>
@@ -67823,7 +67143,6 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-1</AimBonus>
 		<LeatherJacket>1</LeatherJacket>
-		<ItemFlag>16384</ItemFlag>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -68752,13 +68071,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2602</uiIndex>
@@ -68779,11 +68097,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>16</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<StealthBonus>20</StealthBonus>
@@ -68807,13 +68120,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2604</uiIndex>
@@ -68834,13 +68146,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<UrbanCamoBonus>5</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2605</uiIndex>
@@ -68861,13 +68173,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2606</uiIndex>
@@ -68888,13 +68198,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>24</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>35</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2607</uiIndex>
@@ -68915,13 +68224,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2608</uiIndex>
@@ -68942,13 +68249,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>10</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2609</uiIndex>
@@ -68969,13 +68275,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>12</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2610</uiIndex>
@@ -68996,13 +68301,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>8</UrbanCamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2611</uiIndex>
@@ -69023,11 +68324,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>10</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2612</uiIndex>
@@ -69048,13 +68344,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>10</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2613</uiIndex>
@@ -69075,13 +68370,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
+		<UrbanCamoBonus>5</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2614</uiIndex>
@@ -69102,13 +68397,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<DesertCamoBonus>25</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2615</uiIndex>
@@ -69129,13 +68422,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>20</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2616</uiIndex>
@@ -69156,13 +68448,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>3</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2617</uiIndex>
@@ -69183,12 +68474,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2618</uiIndex>
@@ -69209,13 +68499,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2619</uiIndex>
@@ -69236,18 +68525,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2620</uiIndex>
@@ -69268,13 +68551,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>16</CamoBonus>
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2621</uiIndex>
@@ -69295,13 +68577,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2622</uiIndex>
@@ -69322,13 +68603,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2623</uiIndex>
@@ -69349,13 +68628,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<UrbanCamoBonus>10</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2624</uiIndex>
@@ -69376,12 +68655,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<SciFi>1</SciFi>
+		<CamoBonus>8</CamoBonus>
+		<DesertCamoBonus>8</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2625</uiIndex>
@@ -69403,11 +68682,10 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<SciFi>1</SciFi>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2626</uiIndex>
@@ -69429,13 +68707,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2627</uiIndex>
@@ -69456,13 +68733,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2628</uiIndex>
@@ -69483,13 +68759,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2629</uiIndex>
@@ -69509,13 +68785,14 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>7</CamoBonus>
+		<UrbanCamoBonus>7</UrbanCamoBonus>
+		<DesertCamoBonus>7</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2630</uiIndex>
@@ -69537,13 +68814,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2631</uiIndex>
@@ -69564,13 +68840,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>2</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2632</uiIndex>
@@ -69591,13 +68866,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>4</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2633</uiIndex>
@@ -69618,13 +68892,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>8</CamoBonus>
+		<DesertCamoBonus>8</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2634</uiIndex>
@@ -69644,12 +68918,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>16</CamoBonus>
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
+		<CamoBonus>25</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2635</uiIndex>
@@ -69669,12 +68942,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2636</uiIndex>
@@ -69695,13 +68967,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<DesertCamoBonus>4</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2637</uiIndex>
@@ -69722,13 +68994,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>6</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2638</uiIndex>
@@ -69749,13 +69021,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2639</uiIndex>
@@ -69776,13 +69047,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<DesertCamoBonus>4</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2640</uiIndex>
@@ -69803,13 +69074,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2641</uiIndex>
@@ -69830,13 +69100,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2642</uiIndex>
@@ -69857,13 +69126,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2643</uiIndex>
@@ -69884,13 +69152,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2644</uiIndex>
@@ -69911,13 +69178,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2645</uiIndex>
@@ -69938,13 +69203,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>3</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2646</uiIndex>
@@ -69971,13 +69235,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2647</uiIndex>
@@ -69998,13 +69261,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>5</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2648</uiIndex>
@@ -70025,13 +69287,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>15</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2649</uiIndex>
@@ -70051,13 +69312,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>6</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>15</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2650</uiIndex>
@@ -70078,13 +69338,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2651</uiIndex>
@@ -70105,13 +69364,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>15</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2652</uiIndex>
@@ -70132,13 +69390,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2653</uiIndex>
@@ -70159,13 +69416,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>25</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2654</uiIndex>
@@ -70186,13 +69442,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>12</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2655</uiIndex>
@@ -70212,13 +69464,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>15</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2656</uiIndex>
@@ -70239,13 +69490,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>8</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<StealthBonus>15</StealthBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2657</uiIndex>
@@ -70266,12 +69516,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>12</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
+		<CamoBonus>12</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2658</uiIndex>
@@ -70292,13 +69541,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
+		<UrbanCamoBonus>5</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2659</uiIndex>
@@ -70319,13 +69568,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2660</uiIndex>
@@ -70346,11 +69594,7 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<CamoBonus>8</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2661</uiIndex>
@@ -70371,13 +69615,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>10</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2662</uiIndex>
@@ -70398,13 +69641,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>8</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2663</uiIndex>
@@ -70427,11 +69669,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2664</uiIndex>
@@ -70454,11 +69691,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2665</uiIndex>
@@ -70481,11 +69713,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2666</uiIndex>
@@ -70508,11 +69735,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2667</uiIndex>
@@ -70535,11 +69757,6 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2668</uiIndex>
@@ -70562,11 +69779,10 @@
 		<ShowStatus>1</ShowStatus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2669</uiIndex>
@@ -70587,13 +69803,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>5</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2670</uiIndex>
@@ -70613,12 +69828,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
+		<CamoBonus>25</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2671</uiIndex>
@@ -70638,12 +69852,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>10</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
+		<CamoBonus>15</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2672</uiIndex>
@@ -70664,13 +69877,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<DesertCamoBonus>20</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2673</uiIndex>
@@ -70691,13 +69903,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>20</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2674</uiIndex>
@@ -70718,13 +69929,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2675</uiIndex>
@@ -70745,13 +69954,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<UrbanCamoBonus>20</UrbanCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2676</uiIndex>
@@ -70771,12 +69979,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>12</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
+		<CamoBonus>20</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2677</uiIndex>
@@ -70797,13 +70004,9 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2678</uiIndex>
@@ -70824,13 +70027,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>8</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2679</uiIndex>
@@ -70851,11 +70052,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>8</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 	</ITEM>
@@ -70878,13 +70074,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>4</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2681</uiIndex>
@@ -70907,21 +70102,17 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2682</uiIndex>
 		<szItemName>12G Pouch</szItemName>
 		<szLongItemName>ETAC霰弹枪弹药袋</szLongItemName>
-		<szItemDesc>ETAC霰弹枪弹壳袋是下一代战士新的弹药存储标准。设计用于在任何环境中提供最大耐用性，这些轻便的沙漠MARPAT迷彩袋由1680D尼龙外层制成，具有吸收冲击和排湿的功能。</szItemDesc>
+		<szItemDesc>一个漂亮的弹药袋，适合那些喜欢为他们最爱的散弹枪携带额外弹药的人。</szItemDesc>
 		<szBRName>ETAC Shotgun Ammo Pouch</szBRName>
-		<szBRDesc>ETAC霰弹枪弹壳袋是下一代战士新的弹药存储标准。设计用于在任何环境中提供最大耐用性。</szBRDesc>
+		<szBRDesc>旨在在任何环境下运输你的散弹壳，同时提供最大的耐用性。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -70940,13 +70131,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2683</uiIndex>
@@ -70954,7 +70141,7 @@
 		<szLongItemName>ETAC小型掉袋</szLongItemName>
 		<szItemDesc>ETAC小型掉袋是下一代战士新的弹药存储标准。设计用于在任何环境中提供最大耐用性，这些轻便的沙漠MARPAT迷彩袋由1680D尼龙外层制成，具有吸收冲击和排湿的功能。</szItemDesc>
 		<szBRName>ETAC Small Drop Pouch</szBRName>
-		<szBRDesc>ETAC小型掉袋是下一代战士新的弹药存储标准。设计用于在任何环境中提供最大耐用性。</szBRDesc>
+		<szBRDesc>由ETAC设计的小型掉落袋，旨在在任何环境中提供最大的耐用性。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -70973,13 +70160,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2684</uiIndex>
@@ -71006,13 +70192,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2685</uiIndex>
@@ -71020,7 +70202,7 @@
 		<szLongItemName>ETAC三重AR弹匣袋</szLongItemName>
 		<szItemDesc>这个轻便的沙漠MARPAT迷彩袋可容纳3个你的突击步枪弹匣。</szItemDesc>
 		<szBRName>ETAC Tri AR Mag Pouch</szBRName>
-		<szBRDesc>ETAC AR弹匣袋是下一代战士新的弹药存储标准。设计用于在任何环境中提供最大耐用性。</szBRDesc>
+		<szBRDesc>一种下一代弹药袋，可携带最多三个弹匣。旨在在任何环境中提供最大的耐用性。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -71039,13 +70221,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2686</uiIndex>
@@ -71072,13 +70250,9 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2687</uiIndex>
@@ -71105,13 +70279,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2688</uiIndex>
@@ -71138,13 +70311,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2689</uiIndex>
@@ -71171,13 +70343,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>1</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2690</uiIndex>
@@ -71204,13 +70375,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>4</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2691</uiIndex>
@@ -71237,13 +70407,12 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<DesertCamoBonus>3</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<CamoBonus>2</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2692</uiIndex>
@@ -71264,13 +70433,13 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>4</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>
+		<CamoBonus>3</CamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2693</uiIndex>
@@ -71292,13 +70461,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>25</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2694</uiIndex>
@@ -71319,13 +70487,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>16</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>20</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2695</uiIndex>
@@ -71346,13 +70513,12 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<DesertCamoBonus>2</DesertCamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2696</uiIndex>
@@ -71374,13 +70540,11 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>10</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2697</uiIndex>
@@ -71418,11 +70582,6 @@
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
 		<Attachment>1</Attachment>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>0</BR_NewInventory>
 		<BR_UsedInventory>2</BR_UsedInventory>		
 	</ITEM>
@@ -71465,19 +70624,14 @@
 		<usItemClass>131072</usItemClass>
 		<nasLayoutClass>16</nasLayoutClass>
 		<ubClassIndex>207</ubClassIndex>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>1102</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>218</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>16</ItemSize>
 		<usPrice>80</usPrice>
 		<ubCoolness>0</ubCoolness>
 		<Sinks>1</Sinks>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
 		<BR_NewInventory>8</BR_NewInventory>
 		<BR_UsedInventory>0</BR_UsedInventory>
 	</ITEM>
@@ -72696,32 +71850,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2799</uiIndex>
-		<szItemName>Carabiner</szItemName>
-		<szLongItemName>自制拳套</szLongItemName>
-		<szItemDesc>一种方便的弹簧加载金属环扣，可用于安全关键系统，特别是攀岩或附加和整理负重装备。</szItemDesc>
-		<szBRName>Carabiner</szBRName>
-		<szBRDesc>我们的军用级高强度弹簧加载附件夹具具有易于握持的功能形状，宽敞的篮形设计可容纳滑索和跑绳，扩展你的LBE和MOLLE装备。</szBRDesc>
-		<usItemClass>128</usItemClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>49</ubClassIndex>
-		<ubCursor>2</ubCursor>
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>215</ubGraphicNum>
-		<ubWeight>1</ubWeight>
-		<ItemSize>10</ItemSize>
-		<usPrice>20</usPrice>
-		<ubCoolness>0</ubCoolness>
-		<bRepairEase>2</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<Metal>1</Metal>
-		<Sinks>1</Sinks>
-		<ShowStatus>1</ShowStatus>
-		<Attachment>1</Attachment>
-		<BR_NewInventory>0</BR_NewInventory>
-		<BR_UsedInventory>0</BR_UsedInventory>
-		<StealthBonus>-10</StealthBonus>
-		<BrassKnuckles>1</BrassKnuckles>
+		<szItemName>Nada</szItemName>
+		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
+		<szItemDesc>Index 2799</szItemDesc>
+		<usItemClass>1</usItemClass>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -73138,7 +72271,7 @@
 		<CaveVisionRangeBonus>-60</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>90</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>70</PercentTunnelVision>
-		<usSpotting>95</usSpotting>
+		<usSpotting>85</usSpotting>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -73886,7 +73019,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>5</ubGraphicType>
 		<ubGraphicNum>862</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>25</usPrice>
@@ -74441,7 +73574,7 @@
 		<usItemClass>268435456</usItemClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>106</ubGraphicNum>
-		<ubWeight>7</ubWeight>
+		<ubWeight>10</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>25</usPrice>
@@ -74520,22 +73653,6 @@
 		<BrightLightVisionRangeBonus>35</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>45</PercentTunnelVision>
 		<ScopeMagFactor>3.5</ScopeMagFactor>
-	</ITEM>
-	<ITEM>
-		<uiIndex>2860</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>无</szLongItemName>
-		<szItemDesc>索引2860</szItemDesc>
-		<szBRName>Nothing</szBRName>
-		<szBRDesc>无</szBRDesc>
-		<usItemClass>1</usItemClass>
-		<ItemSize>34</ItemSize>
-		<NotBuyable>1</NotBuyable>
-		<BigGunList>1</BigGunList>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2861</uiIndex>
@@ -74898,9 +74015,9 @@
 		<uiIndex>2876</uiIndex>
 		<szItemName>Sightmark RS</szItemName>
 		<szLongItemName>Sightmark反射瞄准器</szLongItemName>
-		<szItemDesc>对于它的尺寸来说极其轻便，Ultra Shot是Sightmark反射瞄准器系列中最大和最强的瞄准器。完美适合霰弹枪或步枪，Ultra Shot反射瞄准器配备内置的综合导轨，可适配所有标准皮卡丁尼或Weaver底座。</szItemDesc>
+		<szItemDesc>这款坚固耐用的防震反射瞄准镜具有广角镜头和耐刮涂层，能够提供清晰、稳健的视野和毫不妥协的可靠性。</szItemDesc>
 		<szBRName>Sightmark Reflex sight</szBRName>
-		<szBRDesc>对于它的尺寸来说极其轻便，Ultra Shot是Sightmark反射瞄准器系列中最大和最强的瞄准器。完美适合霰弹枪或步枪，Ultra Shot反射瞄准器配备内置的综合导轨，可适配所有标准皮卡丁尼或Weaver底座。</szBRDesc>
+		<szBRDesc>Ultra Shot由坚固、轻便的6061-T6铝制成，是Sightmark反射瞄准镜系列中最大、最强大的款式。它非常适合散弹枪或配备集成威弗安装座的步枪，能够适配所有标准的皮卡汀尼或威弗底座。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasAttachmentClass>64</nasAttachmentClass>
 		<ubGraphicType>4</ubGraphicType>
@@ -75761,7 +74878,7 @@
 		<ubCoolness>1</ubCoolness>
 		<WaterDamages>1</WaterDamages>
 		<Damageable>1</Damageable>
-		<FoodType>39</FoodType>
+		<FoodType>13</FoodType>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2912</uiIndex>
@@ -75821,7 +74938,7 @@
 		<ubCoolness>1</ubCoolness>
 		<Damageable>1</Damageable>
 		<WaterDamages>1</WaterDamages>
-		<FoodType>40</FoodType>
+		<FoodType>12</FoodType>
 	</ITEM>
 	<ITEM>
 		<uiIndex>2915</uiIndex>
@@ -78317,8 +77434,7 @@
 		<ubClassIndex>182</ubClassIndex>
 		<ubGraphicType>6</ubGraphicType>
 		<ubGraphicNum>363</ubGraphicNum>
-<!--		<ubWeight>120</ubWeight>	-->
-		<ubWeight>25</ubWeight>
+		<ubWeight>120</ubWeight>
 		<ItemSize>31</ItemSize>
 		<usPrice>1995</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -78330,11 +77446,10 @@
 		<NotBuyable>1</NotBuyable>
 		<AimBonus>-2</AimBonus>
 		<APBonus>-3</APBonus>
-		<CamoBonus>8</CamoBonus>		
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<CamoBonus>10</CamoBonus>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3002</uiIndex>
@@ -78720,11 +77835,6 @@
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<ShowStatus>1</ShowStatus>
-		<CamoBonus>-10</CamoBonus>		
-		<DesertCamoBonus>-10</DesertCamoBonus>
-		<UrbanCamoBonus>-10</UrbanCamoBonus>
-		<SnowCamoBonus>-10</SnowCamoBonus>
-		<StealthBonus>-10</StealthBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3020</uiIndex>
@@ -78850,11 +77960,11 @@
 		<NotBuyable>1</NotBuyable>
 		<SciFi>1</SciFi>
 		<DefaultUndroppable>1</DefaultUndroppable>
-		<CamoBonus>0</CamoBonus>		
-		<DesertCamoBonus>12</DesertCamoBonus>
-		<UrbanCamoBonus>0</UrbanCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
+		<APBonus>5</APBonus>
+		<CamoBonus>30</CamoBonus>
+		<StealthBonus>3</StealthBonus>	
+		<HearingRangeBonus>2</HearingRangeBonus>
+		<DayVisionRangeBonus>1</DayVisionRangeBonus>
 	</ITEM>
 	<ITEM>
 		<uiIndex>3027</uiIndex>
@@ -79123,226 +78233,6 @@
 		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3043</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3043</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3044</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3044</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3045</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3045</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3046</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3046</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3047</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3047</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3048</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3048</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3049</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3049</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3050</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3050</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3051</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3051</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3052</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3052</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3053</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3053</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3054</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3054</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3055</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3055</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3056</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3056</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3057</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3057</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3058</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3058</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3059</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3059</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3060</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3060</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3061</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3061</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3062</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3062</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3063</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
@@ -79354,120 +78244,10 @@
 		<PRONE_MODIFIERS/>
 	</ITEM>
 	<ITEM>
-		<uiIndex>3064</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3064</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3065</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3065</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
 		<uiIndex>3066</uiIndex>
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
 		<szItemDesc>Index 3066</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3067</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3067</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3068</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3068</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3069</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3069</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3070</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3070</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3071</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3071</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3072</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3072</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3073</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3073</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3074</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3074</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>
@@ -79545,294 +78325,6 @@
 		<szItemName>Nada</szItemName>
 		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
 		<szItemDesc>Index 3081</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3082</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3082</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3083</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3083</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3084</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3084</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3085</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3085</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3086</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3086</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3087</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3087</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3088</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3088</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3089</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3089</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3090</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3090</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3091</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3091</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3092</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3092</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3093</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3093</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3094</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3094</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3095</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3095</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3096</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3096</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3097</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3097</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3098</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3098</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3099</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3099</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3100</uiIndex>
-		<szItemName>Tactical Sling</szItemName>
-		<szLongItemName>战术背带</szLongItemName>
-		<szItemDesc>这款战术背带可以在射击时稳定步枪，因为它通过将步枪拉紧到支撑臂上来帮助稳定性。</szItemDesc>
-		<szBRName>Tactical Sling</szBRName>
-		<szBRDesc>这款战术背带可以在射击时稳定步枪，因为它通过将步枪拉紧到支撑臂上来帮助稳定性。</szBRDesc>
-		<usItemClass>268435456</usItemClass>
-		<AttachmentClass>524288</AttachmentClass>
-		<nasAttachmentClass>256</nasAttachmentClass>
-		<nasLayoutClass>1</nasLayoutClass>
-		<AttachmentPoint>549755813888</AttachmentPoint>	<!-- Rifle Sling -->
-		<ubGraphicType>2</ubGraphicType>
-		<ubGraphicNum>218</ubGraphicNum>
-		<ubWeight>2</ubWeight>
-		<ubPerPocket>4</ubPerPocket>
-		<ItemSize>16</ItemSize>
-		<usPrice>80</usPrice>
-		<ubCoolness>3</ubCoolness>
-		<Sinks>1</Sinks>
-		<Attachment>1</Attachment>
-		<ToHitBonus>10</ToHitBonus>
-		<BurstToHitBonus>3</BurstToHitBonus>
-		<AutoFireToHitBonus>3</AutoFireToHitBonus>
-		<PercentReadyTimeAPReduction>-20</PercentReadyTimeAPReduction>
-		<CamoBonus>0</CamoBonus>
-		<UrbanCamoBonus>1</UrbanCamoBonus>
-		<DesertCamoBonus>0</DesertCamoBonus>
-		<SnowCamoBonus>0</SnowCamoBonus>
-		<StealthBonus>0</StealthBonus>
-		<BR_NewInventory>5</BR_NewInventory>
-		<BR_UsedInventory>2</BR_UsedInventory>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3101</uiIndex>
-		<szItemName>Tourist RS</szItemName>
-		<szLongItemName>旅游背包</szLongItemName>
-		<szItemDesc>这个背包让你可以携带更大的装备而不会引起太多注意。</szItemDesc>
-		<szBRName>Tourist Rucksack</szBRName>
-		<szBRDesc>这个背包让你可以携带更大的装备而不会引起太多注意。</szBRDesc>
-		<usItemClass>131072</usItemClass>
-		<nasLayoutClass>32</nasLayoutClass>
-		<ubClassIndex>208</ubClassIndex>
-		<ubGraphicType>5</ubGraphicType>
-		<ubGraphicNum>1100</ubGraphicNum>
-		<ItemFlag>16384</ItemFlag>
-		<ubWeight>38</ubWeight>
-		<ItemSize>27</ItemSize>
-		<usPrice>750</usPrice>
-		<ubCoolness>1</ubCoolness>
-		<bRepairEase>2</bRepairEase>
-		<Damageable>1</Damageable>
-		<Repairable>1</Repairable>
-		<ShowStatus>1</ShowStatus>
-		<CamoBonus>-20</CamoBonus>
-		<UrbanCamoBonus>-20</UrbanCamoBonus>
-		<DesertCamoBonus>-20</DesertCamoBonus>
-		<SnowCamoBonus>-20</SnowCamoBonus>
-		<StealthBonus>-20</StealthBonus>
-		<BR_NewInventory>2</BR_NewInventory>
-		<BR_UsedInventory>1</BR_UsedInventory>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3102</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3102</szItemDesc>
-		<usItemClass>1</usItemClass>
-		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<STAND_MODIFIERS/>
-		<CROUCH_MODIFIERS/>
-		<PRONE_MODIFIERS/>
-	</ITEM>
-	<ITEM>
-		<uiIndex>3103</uiIndex>
-		<szItemName>Nada</szItemName>
-		<szLongItemName>Auto-generated Nothing Item</szLongItemName>
-		<szItemDesc>Index 3103</szItemDesc>
 		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS/>

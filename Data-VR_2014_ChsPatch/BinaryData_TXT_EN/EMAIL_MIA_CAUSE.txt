@@ -1,0 +1,8 @@
+While serving $PLACE$, $MERCNAME$ got separated from the rest of the squad and is now believed to be missing in action. Until further information is gathered, this mercenary remains unavailable. ±
+During patrol on assignment $PLACE$, $MERCNAME$ got separated from the rest of the squad and is now believed to be M.I.A. Until further information is gathered, this mercenary remains unavailable. ±
+Following a major battle with enemy forces $PLACE$, contact with $MERCNAME$ was lost. Until further information is gathered, this mercenary remains unavailable. ±
+After an operation behind enemy line $PLACE$, $MERCNAME$ is now believed to be missing in action. Until further information is gathered, this mercenary remains unavailable. ±
+After enemy ambush $PLACE$, $MERCNAME$ got separated from the rest of the squad and is now believed to be missing in action. Until further information is gathered, this mercenary remains unavailable. ±
+Last seen charging towards enemy lines $PLACE$, $MERCNAME$ is now believed to be missing in action. Until further information is gathered, this mercenary remains unavailable. ±
+$MERCNAME$ is now believed to be missing in action after contact with entire squad was lost $PLACE$. Until further information is gathered, this mercenary remains unavailable. ±
+Following enemy airstrike $PLACE$, $MERCNAME$ is now believed to be missing in action. Until further information is gathered, this mercenary remains unavailable. ±

@@ -10,11 +10,11 @@ Vengeance Reloaded 简介
 
 目录说明
 
-- Data-VR_2014_ChsPatch：Vengeance Reloaded 的中文补丁
+- Data-VR_2014_ChsPatch：针对 Data-Vengeance、Data-Maps-Tiles、Data-AIMv53、Data-PCM 的中文补丁
 - Data-VR_2014+AI：sevenfm 的 VengeanceReloaded_ru.7z 里面的额外 VR 文件，应该是兼容 7609 AI。
-- Data-Data-VR_2014_ChsPatch：针对 Data-Vengeance、Data-Maps-Tiles、Data-AIMv53、Data-PCM 的中文补丁
-- Data-Data-VR_2014_ChsPatch+AI：针对 Data-Vengeance、Data-Maps-Tiles、Data-AIMv53、Data-PCM、Data-VR_2014+AI 的中文补丁
-- \_\_Translation_Work_Folder：这是翻译工作目录，直接放这里，方便后期更新和跟踪
+- Data-VR_2014_ChsPatch+AI_AddOn：针对 Data-VR_2014+AI 的中文额外补丁
+- ja2_2014_VR_cn.exe：VR 的中文版 ja2.exe
+- ja2_2014_VR+AI_cn.exe：VR 的 AI 中文版 ja2.exe
 
 玩法1：
 

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <AMMOLIST>
 	<AMMO>
 		<uiIndex>0</uiIndex>
@@ -7,13 +7,13 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>1</uiIndex>
-		<AmmoCaliber>.38 Spc</AmmoCaliber>
-		<BRCaliber>.38 Spc</BRCaliber>
+		<AmmoCaliber>.38 特殊</AmmoCaliber>
+		<BRCaliber>.38 特殊</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>2</uiIndex>
-		<AmmoCaliber>9x19mm</AmmoCaliber>
-		<BRCaliber>9x19mm</BRCaliber>
+		<AmmoCaliber>9x19毫米</AmmoCaliber>
+		<BRCaliber>9x19毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>3</uiIndex>
@@ -22,13 +22,13 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>4</uiIndex>
-		<AmmoCaliber>.357 Mag</AmmoCaliber>
-		<BRCaliber>.357 Mag</BRCaliber>
+		<AmmoCaliber>.357 马格南</AmmoCaliber>
+		<BRCaliber>.357 马格南</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>5</uiIndex>
-		<AmmoCaliber>12 gauge</AmmoCaliber>
-		<BRCaliber>12 gauge</BRCaliber>
+		<AmmoCaliber>12号霰弹</AmmoCaliber>
+		<BRCaliber>12号霰弹</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>6</uiIndex>
@@ -37,53 +37,53 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>7</uiIndex>
-		<AmmoCaliber>5.45x39mm</AmmoCaliber>
-		<BRCaliber>5.45x39mm</BRCaliber>
+		<AmmoCaliber>5.45x39毫米</AmmoCaliber>
+		<BRCaliber>5.45x39毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>8</uiIndex>
-		<AmmoCaliber>5.56x45mm</AmmoCaliber>
-		<BRCaliber>5.56x45mm</BRCaliber>
+		<AmmoCaliber>5.56x45毫米</AmmoCaliber>
+		<BRCaliber>5.56x45毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>9</uiIndex>
-		<AmmoCaliber>7.62x51mm</AmmoCaliber>
-		<BRCaliber>7.62x51mm</BRCaliber>
+		<AmmoCaliber>7.62x51毫米</AmmoCaliber>
+		<BRCaliber>7.62x51毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>10</uiIndex>
-		<AmmoCaliber>7.62x39mm</AmmoCaliber>
-		<BRCaliber>7.62x39mm</BRCaliber>
+		<AmmoCaliber>7.62x39毫米</AmmoCaliber>
+		<BRCaliber>7.62x39毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>11</uiIndex>
-		<AmmoCaliber>4.7x33mm</AmmoCaliber>
-		<BRCaliber>4.7x33mm</BRCaliber>
+		<AmmoCaliber>4.7x33毫米</AmmoCaliber>
+		<BRCaliber>4.7x33毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>12</uiIndex>
-		<AmmoCaliber>5.7x28mm</AmmoCaliber>
-		<BRCaliber>5.7x28mm</BRCaliber>
+		<AmmoCaliber>5.7x28毫米</AmmoCaliber>
+		<BRCaliber>5.7x28毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>13</uiIndex>
-		<AmmoCaliber>Monster</AmmoCaliber>
-		<BRCaliber>Monster</BRCaliber>
+		<AmmoCaliber>怪物</AmmoCaliber>
+		<BRCaliber>怪物</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>14</uiIndex>
-		<AmmoCaliber>Rocket</AmmoCaliber>
-		<BRCaliber>Rocket</BRCaliber>
+		<AmmoCaliber>火箭</AmmoCaliber>
+		<BRCaliber>火箭</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>15</uiIndex>
-		<AmmoCaliber>Dart</AmmoCaliber>
-		<BRCaliber>Dart</BRCaliber>
+		<AmmoCaliber>飞镖</AmmoCaliber>
+		<BRCaliber>飞镖</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>16</uiIndex>
-		<AmmoCaliber>flame</AmmoCaliber>
-		<BRCaliber>flame</BRCaliber>
+		<AmmoCaliber>火焰</AmmoCaliber>
+		<BRCaliber>火焰</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>17</uiIndex>
@@ -92,28 +92,28 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>18</uiIndex>
-		<AmmoCaliber>9x39mm</AmmoCaliber>
-		<BRCaliber>9x39mm</BRCaliber>
+		<AmmoCaliber>9x39毫米</AmmoCaliber>
+		<BRCaliber>9x39毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>19</uiIndex>
-		<AmmoCaliber>4.6x30mm</AmmoCaliber>
-		<BRCaliber>4.6x30mm</BRCaliber>
+		<AmmoCaliber>4.6x30毫米</AmmoCaliber>
+		<BRCaliber>4.6x30毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>20</uiIndex>
-		<AmmoCaliber>7.62x25mm</AmmoCaliber>
-		<BRCaliber>7.62x25mm</BRCaliber>
+		<AmmoCaliber>7.62x25毫米</AmmoCaliber>
+		<BRCaliber>7.62x25毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>21</uiIndex>
-		<AmmoCaliber>12.7mm</AmmoCaliber>
-		<BRCaliber>12.7mm</BRCaliber>
+		<AmmoCaliber>12.7毫米</AmmoCaliber>
+		<BRCaliber>12.7毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>22</uiIndex>
-		<AmmoCaliber>9x18mm</AmmoCaliber>
-		<BRCaliber>9x18mm</BRCaliber>
+		<AmmoCaliber>9x18毫米</AmmoCaliber>
+		<BRCaliber>9x18毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>23</uiIndex>
@@ -127,53 +127,53 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>25</uiIndex>
-		<AmmoCaliber>.338 Lapua</AmmoCaliber>
+		<AmmoCaliber>.338 拉普阿</AmmoCaliber>
 		<BRCaliber>.338 LM</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>26</uiIndex>
-		<AmmoCaliber>.44 Mag</AmmoCaliber>
-		<BRCaliber>.44 Mag</BRCaliber>
+		<AmmoCaliber>.44 马格南</AmmoCaliber>
+		<BRCaliber>.44 马格南</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>27</uiIndex>
-		<AmmoCaliber>10mm</AmmoCaliber>
-		<BRCaliber>10mm</BRCaliber>
+		<AmmoCaliber>10毫米</AmmoCaliber>
+		<BRCaliber>10毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>28</uiIndex>
-		<AmmoCaliber>12.3x50mm</AmmoCaliber>
-		<BRCaliber>12.3x50mm</BRCaliber>
+		<AmmoCaliber>12.3x50毫米</AmmoCaliber>
+		<BRCaliber>12.3x50毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>29</uiIndex>
-		<AmmoCaliber>9x21mm</AmmoCaliber>
-		<BRCaliber>9x21mm</BRCaliber>
+		<AmmoCaliber>9x21毫米</AmmoCaliber>
+		<BRCaliber>9x21毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>30</uiIndex>
-		<AmmoCaliber>7.62x37mm</AmmoCaliber>
-		<BRCaliber>7.62x37mm</BRCaliber>
+		<AmmoCaliber>7.62x37毫米</AmmoCaliber>
+		<BRCaliber>7.62x37毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>31</uiIndex>
-		<AmmoCaliber>9mm SP-5</AmmoCaliber>
-		<BRCaliber>9mm SP-5</BRCaliber>
+		<AmmoCaliber>9毫米 SP-5</AmmoCaliber>
+		<BRCaliber>9毫米 SP-5</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>32</uiIndex>
-		<AmmoCaliber>9mm SP-6</AmmoCaliber>
-		<BRCaliber>9mm SP-6</BRCaliber>
+		<AmmoCaliber>9毫米 SP-6</AmmoCaliber>
+		<BRCaliber>9毫米 SP-6</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>33</uiIndex>
-		<AmmoCaliber>5.45x18mm</AmmoCaliber>
-		<BRCaliber>5.45x18mm</BRCaliber>
+		<AmmoCaliber>5.45x18毫米</AmmoCaliber>
+		<BRCaliber>5.45x18毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>34</uiIndex>
-		<AmmoCaliber>9mm MS</AmmoCaliber>
-		<BRCaliber>9mm MS</BRCaliber>
+		<AmmoCaliber>9毫米 MS</AmmoCaliber>
+		<BRCaliber>9毫米 MS</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>35</uiIndex>
@@ -182,43 +182,43 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>36</uiIndex>
-		<AmmoCaliber>.454 Casull</AmmoCaliber>
-		<BRCaliber>.454 Casull</BRCaliber>
+		<AmmoCaliber>.454 卡苏尔</AmmoCaliber>
+		<BRCaliber>.454 卡苏尔</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>37</uiIndex>
-		<AmmoCaliber>.45 WinMag</AmmoCaliber>
-		<BRCaliber>.45 WinMag</BRCaliber>
+		<AmmoCaliber>.45 温彻斯特马格南</AmmoCaliber>
+		<BRCaliber>.45 温彻斯特马格南</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>38</uiIndex>
-		<AmmoCaliber>.50 Beowulf</AmmoCaliber>
-		<BRCaliber>.50 Beowulf</BRCaliber>
+		<AmmoCaliber>.50 贝奥武夫</AmmoCaliber>
+		<BRCaliber>.50 贝奥武夫</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>39</uiIndex>
-		<AmmoCaliber>.300 WinMag</AmmoCaliber>
-		<BRCaliber>.300 WinMag</BRCaliber>
+		<AmmoCaliber>.300 温彻斯特马格南</AmmoCaliber>
+		<BRCaliber>.300 温彻斯特马格南</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>40</uiIndex>
-		<AmmoCaliber>7.92x57mm</AmmoCaliber>
-		<BRCaliber>7.92x57mm</BRCaliber>
+		<AmmoCaliber>7.92x57毫米</AmmoCaliber>
+		<BRCaliber>7.92x57毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>41</uiIndex>
-		<AmmoCaliber>12.7x97mm Subsonic</AmmoCaliber>
-		<BRCaliber>12.7x97mm</BRCaliber>
+		<AmmoCaliber>12.7x97毫米 低音</AmmoCaliber>
+		<BRCaliber>12.7x97毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>42</uiIndex>
-		<AmmoCaliber>6.8x43mm SPC</AmmoCaliber>
-		<BRCaliber>6.8x43mm</BRCaliber>
+		<AmmoCaliber>6.8x43毫米 SPC</AmmoCaliber>
+		<BRCaliber>6.8x43毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>43</uiIndex>
-		<AmmoCaliber>5.56x45mm SCF</AmmoCaliber>
-		<BRCaliber>5.56mm SCF</BRCaliber>
+		<AmmoCaliber>5.56x45毫米 SCF</AmmoCaliber>
+		<BRCaliber>5.56毫米 SCF</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>44</uiIndex>
@@ -227,8 +227,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>45</uiIndex>
-		<AmmoCaliber>.30 car</AmmoCaliber>
-		<BRCaliber>.30 car</BRCaliber>
+		<AmmoCaliber>.30 短步枪</AmmoCaliber>
+		<BRCaliber>.30 短步枪</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>46</uiIndex>
@@ -237,18 +237,18 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>47</uiIndex>
-		<AmmoCaliber>6x35mm</AmmoCaliber>
-		<BRCaliber>6x35mm</BRCaliber>
+		<AmmoCaliber>6x35毫米</AmmoCaliber>
+		<BRCaliber>6x35毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>48</uiIndex>
-		<AmmoCaliber>Cannon Ball</AmmoCaliber>
-		<BRCaliber>Cannon Ball</BRCaliber>
+		<AmmoCaliber>炮弹</AmmoCaliber>
+		<BRCaliber>炮弹</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>49</uiIndex>
-		<AmmoCaliber>Pepper Spray</AmmoCaliber>
-		<BRCaliber>Pepper Spray</BRCaliber>
+		<AmmoCaliber>喷雾剂</AmmoCaliber>
+		<BRCaliber>喷雾剂</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>50</uiIndex>
@@ -302,8 +302,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>60</uiIndex>
-		<AmmoCaliber>14.5x114mm</AmmoCaliber>
-		<BRCaliber>14.5x114mm</BRCaliber>
+		<AmmoCaliber>14.5x114毫米</AmmoCaliber>
+		<BRCaliber>14.5x114毫米</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>61</uiIndex>
@@ -507,8 +507,8 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>101</uiIndex>
-		<AmmoCaliber>Bolt</AmmoCaliber>
-		<BRCaliber>Bolt</BRCaliber>
+		<AmmoCaliber>螺栓</AmmoCaliber>
+		<BRCaliber>螺栓</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>102</uiIndex>
@@ -522,7 +522,7 @@
 	</AMMO>
 	<AMMO>
 		<uiIndex>104</uiIndex>
-		<AmmoCaliber>Railgun Dart</AmmoCaliber>
-		<BRCaliber>Railgun Dart</BRCaliber>
+		<AmmoCaliber>轨道炮飞镖</AmmoCaliber>
+		<BRCaliber>轨道炮飞镖</BRCaliber>
 	</AMMO>
 </AMMOLIST>
