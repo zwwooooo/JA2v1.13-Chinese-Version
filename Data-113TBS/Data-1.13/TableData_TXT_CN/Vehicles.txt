@@ -484,9 +484,9 @@
 161:VEHICLE/Name:凯迪拉克
 161:VEHICLE/LongName:凯迪拉克
 161:VEHICLE/ShortName:凯迪拉克
-162:VEHICLE/Name:卡车
-162:VEHICLE/LongName:冰激凌卡车
-162:VEHICLE/ShortName:卡车
+162:VEHICLE/Name:冰淇淋车
+162:VEHICLE/LongName:冰淇淋车
+162:VEHICLE/ShortName:冰淇淋车
 163:VEHICLE/Name:直升机
 163:VEHICLE/LongName:直升机
 163:VEHICLE/ShortName:直升机
