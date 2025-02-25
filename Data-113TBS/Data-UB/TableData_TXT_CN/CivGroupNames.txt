@@ -1,25 +1,25 @@
 0:NAME/szGroup:None
 1:NAME/szGroup:Rebel
-2:NAME/szGroup:KingPin
-3:NAME/szGroup:Sanmona Arms
-4:NAME/szGroup:Angels
-5:NAME/szGroup:Beggars
-6:NAME/szGroup:Tourists
-7:NAME/szGroup:Alma Militia
-8:NAME/szGroup:Doctors
-9:NAME/szGroup:Couple1
-10:NAME/szGroup:Hicks
-11:NAME/szGroup:Warden
-12:NAME/szGroup:Junkyard
-13:NAME/szGroup:Factory Kids
-14:NAME/szGroup:Queens
+2:NAME/szGroup:KingPin黑帮
+3:NAME/szGroup:Sanmona武装力量
+4:NAME/szGroup:赞助人
+5:NAME/szGroup:乞丐
+6:NAME/szGroup:观光客
+7:NAME/szGroup:Alma民兵
+8:NAME/szGroup:医生
+9:NAME/szGroup:夫妻
+10:NAME/szGroup:乡下人
+11:NAME/szGroup:典狱官
+12:NAME/szGroup:废品回收站
+13:NAME/szGroup:工厂设施
+14:NAME/szGroup:女王
 15:NAME/szGroup:Vareez Sector I10
 16:NAME/szGroup:Devin
 17:NAME/szGroup:Vareez Sector I11
 18:NAME/szGroup:Terry
 19:NAME/szGroup:Dynamo, Shank
-20:NAME/szGroup:Militia
-21:NAME/szGroup:Prisoner
+20:NAME/szGroup:民兵
+21:NAME/szGroup:俘虏
 22:NAME/szGroup:Empty Slot22
 23:NAME/szGroup:Empty Slot23
 24:NAME/szGroup:Empty Slot24
