@@ -6,6 +6,10 @@ JA2 v1.13 Gamedata TBS 汉化版 - TBS 1.13 lang zh_CN (又名 TBS Chinese(GB) p
 
 dev：“JA2 1.13开发版”简称
 
+日志例子说明：  
+6097fd8+7aa0e18, 4ee5e9c: v1  
+6097fd8+7aa0e18为1.13开发版gamedir版本+源码版本，4ee5e9c为gamedir-languages版本，v1此版本修改标识  
+
 ja2_dev_cn.exe 源码  
 https://github.com/1dot13/source
 
