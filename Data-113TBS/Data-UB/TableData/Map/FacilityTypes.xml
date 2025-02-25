@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <FACILITYTYPES>
 	<FACILITYTYPE>
 		<ubIndex>1</ubIndex>
@@ -7,7 +7,7 @@
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>DOCTOR</ubAssignmentType>
-			<szTooltipText>可以给你的伤员提供治疗，这里有先进的医疗设施，和技术精湛的医师。 </szTooltipText>
+			<szTooltipText>可以给你的伤员提供治疗，这里有先进的医疗设施，和技术精湛的医师。</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>150</usPerformance>
 			<usKitDegrade>40</usKitDegrade>

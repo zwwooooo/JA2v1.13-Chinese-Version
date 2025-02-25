@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <CIV_GROUP_NAMES>
   <NAME>
 	<uiIndex>0</uiIndex>
@@ -17,91 +17,91 @@
  <NAME>
 	<uiIndex>2</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>KingPin</szGroup>
+    <szGroup>KingPin黑帮</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>3</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Sanmona Arms</szGroup>
+    <szGroup>Sanmona武装力量</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>4</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Angels</szGroup>
+    <szGroup>赞助人</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>5</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Beggars</szGroup>
+    <szGroup>乞丐</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>6</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Tourists</szGroup>
+    <szGroup>观光客</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>7</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Alma Militia</szGroup>
+    <szGroup>Alma民兵</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>8</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Doctors</szGroup>
+    <szGroup>医生</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>9</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Couple1</szGroup>
+    <szGroup>夫妻</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>10</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Hicks</szGroup>
+    <szGroup>乡下人</szGroup>
 	<AddToBattle>1</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>11</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Warden</szGroup>
+    <szGroup>典狱官</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>0</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>12</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Junkyard</szGroup>
+    <szGroup>废品回收站</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>13</uiIndex>
 	<Enabled>1</Enabled>
-    <szGroup>Factory Kids</szGroup>
+    <szGroup>工厂设施</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
   <NAME>
 	<uiIndex>14</uiIndex>
 	<Enabled>0</Enabled>
-    <szGroup>Queens</szGroup>
+    <szGroup>女王</szGroup>
 	<AddToBattle>0</AddToBattle>
 	<Loyalty>1</Loyalty>
   </NAME>
@@ -144,7 +144,7 @@
 	 <!-- This is the group assassins use, thus the name -->
 		<uiIndex>20</uiIndex>
 		<Enabled>0</Enabled>
-		<szGroup>Militia</szGroup>
+		<szGroup>民兵</szGroup>
 		<AddToBattle>0</AddToBattle>
 		<Loyalty>0</Loyalty>
 	</NAME>
@@ -152,7 +152,7 @@
     <!-- Prisoners of war the player keeps in his prison -->
 		<uiIndex>21</uiIndex>
 		<Enabled>1</Enabled>
-		<szGroup>Prisoner</szGroup>
+		<szGroup>俘虏</szGroup>
 		<AddToBattle>0</AddToBattle>
 		<Loyalty>0</Loyalty>
 	</NAME>
