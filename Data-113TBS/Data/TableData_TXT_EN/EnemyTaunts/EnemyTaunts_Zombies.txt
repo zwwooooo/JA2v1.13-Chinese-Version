@@ -1,0 +1,75 @@
+0:TAUNT/szText:Is this some kind of a joke?
+1:TAUNT/szText:There's no more room in hell!
+2:TAUNT/szText:They're coming to get us!
+3:TAUNT/szText:Great, that's exactly what this country needs. A fucking zombie apocalypse!
+3:TAUNT/szTextCensored:Great, that's exactly what this country needs. A freaking zombie apocalypse!
+4:TAUNT/szText:Remember, aim for the head, aim for the head...
+5:TAUNT/szText:Really? I mean.. c'mon!
+6:TAUNT/szText:That's just fucked up!
+6:TAUNT/szTextCensored:That's just messed up!
+7:TAUNT/szText:What's next? Werewolves? Vampires?
+8:TAUNT/szText:Come for me! Come on, you rotting corpse!
+9:TAUNT/szText:I'll send you back to hell!
+10:TAUNT/szText:Send them more paramedics!
+11:TAUNT/szText:Oh shit! It can smell my brain!
+12:TAUNT/szText:It's not zombie! Technically, they're just infected...
+13:TAUNT/szText:Is this running one or walking one? I'm confused...
+14:TAUNT/szText:It's alive!
+15:TAUNT/szText:Maybe it's friendly.
+16:TAUNT/szText:It's alive... ish.
+17:TAUNT/szText:Nothing's ever real until it's real.
+18:TAUNT/szText:They live!
+19:TAUNT/szText:There must be some rational explanation. Virus, space radiation, maybe a meteor...
+20:TAUNT/szText:I will not negotiate with undead!
+21:TAUNT/szText:So there IS a life after death!
+22:TAUNT/szText:Holy shit. Plot twist!
+23:TAUNT/szText:Fuck, I think I forgot to take my pills.
+23:TAUNT/szTextCensored:Crap, I think I forgot to take my pills.
+24:TAUNT/szText:That's it, no more drugs for me.
+25:TAUNT/szText:I knew that movie was based on a true story!
+26:TAUNT/szText:You're one spooky motherfucker, man.
+26:TAUNT/szTextCensored:You're one spooky dude, man.
+27:TAUNT/szText:Oooh. Zombies. How original.
+28:TAUNT/szText:Zombie over here!
+29:TAUNT/szText:Fuck global warming, we've got real problems here!
+29:TAUNT/szTextCensored:Screw global warming, we've got real problems here!
+30:TAUNT/szText:Undead!
+31:TAUNT/szText:This is a bad dream!
+32:TAUNT/szText:Blasphemy!
+33:TAUNT/szText:Come on! It wasn't even 17 seconds!
+34:TAUNT/szText:At a certain point in your life you realize you know more dead people than living.
+35:TAUNT/szText:I'm scared to pieces!
+36:TAUNT/szText:It's amazing how fast the world can go from bad to total shit storm.
+37:TAUNT/szText:It could be worse. They could be nazi!
+38:TAUNT/szText:Where's my lawnmower when I need it?
+39:TAUNT/szText:It's against the nature, you freak!
+40:TAUNT/szText:Hmmm... I bet I would make a cool zombie myself.
+41:TAUNT/szText:No! I don't want to become one of you!
+42:TAUNT/szText:Stay away from my precious gray matter!
+43:TAUNT/szText:Please, don't eat me! I'm fat and have too much sugar in my blood!
+44:TAUNT/szText:Aaaah! Should I cut it off now?!
+45:TAUNT/szText:They're gonna eat me! Oh my GOOOOOOD!
+46:TAUNT/szText:Not my face! My beautiful face!
+47:TAUNT/szText:Oh, the PAIN!
+48:TAUNT/szText:Suddenly, I'm getting a real hankering for brains!
+49:TAUNT/szText:And stay dead! This time!
+50:TAUNT/szText:You're dead... again.
+51:TAUNT/szText:Rest in pieces!
+52:TAUNT/szText:If it stands up again, I'm gonna piss myself.
+53:TAUNT/szText:Stay down!
+54:TAUNT/szText:Get back where you came from!
+55:TAUNT/szText:Zed is dead.
+56:TAUNT/szText:Looks like someone here had a bad morning.
+57:TAUNT/szText:Now that's what I call a genre shift!
+58:TAUNT/szText:You know what could come in handy right now? A freaking chainsaw!
+59:TAUNT/szText:Quickly, someone distract them with fireworks or something!
+60:TAUNT/szText:*whistles* It's a dead man's party! Who could ask for more...
+61:TAUNT/szText:It's time to kick some zombie ass!
+62:TAUNT/szText:If it bleeds, I can kill it!
+63:TAUNT/szText:Men, women, children, zombies... I'll kill all of you!
+64:TAUNT/szText:It lives... again!
+65:TAUNT/szText:Hey! That's an insurance scam!
+66:TAUNT/szText:OK, that's just ridiculous.
+67:TAUNT/szText:Looks like someone got out of the wrong side of the grave!
+68:TAUNT/szText:Yup, that should work. Unless it's one of these modern zombies, that are actually infected or some other bullshit.
+69:TAUNT/szText:Either it's dead for good, or about to grow two new ones. Let's hope for the former.

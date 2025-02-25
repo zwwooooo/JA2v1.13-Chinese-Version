@@ -1,0 +1,41 @@
+1:POCKET/pName:枪背带
+2:POCKET/pName:刀
+6:POCKET/pName:弹链包
+7:POCKET/pName:冲锋枪套
+9:POCKET/pName:长弹匣包
+10:POCKET/pName:AR弹匣包
+10:POCKET/popup/subMenu/name:grenades
+11:POCKET/pName:手枪枪套
+12:POCKET/pName:冲锋枪弹匣包
+13:POCKET/pName:枪榴弹包
+14:POCKET/pName:手榴弹包
+15:POCKET/pName:手枪弹匣包
+19:POCKET/pName:快装器弹袋
+22:POCKET/pName:大型弹链包
+4:POCKET/pName:大通用包
+4:POCKET/popup/subMenu/name:weapons
+4:POCKET/popup/subMenu/name:ammo
+4:POCKET/popup/subMenu/subMenu/name:RPG rockets
+4:POCKET/popup/subMenu/subMenu/name:Rifle grenades
+4:POCKET/popup/subMenu/name:grenades
+5:POCKET/pName:杂物包
+5:POCKET/popup/subMenu/name:weapons
+5:POCKET/popup/subMenu/name:ammo
+5:POCKET/popup/subMenu/subMenu/name:RPG rockets
+5:POCKET/popup/subMenu/subMenu/name:Rifle grenades
+5:POCKET/popup/subMenu/name:grenades
+8:POCKET/pName:中型杂物包
+8:POCKET/popup/subMenu/name:ammo
+8:POCKET/popup/subMenu/name:grenades
+8:POCKET/popup/subMenu/name:kits
+8:POCKET/popup/subMenu/name:face gear
+16:POCKET/pName:小口袋
+16:POCKET/popup/subMenu/name:grenades
+16:POCKET/popup/subMenu/name:misc
+16:POCKET/popup/subMenu/name:kits
+17:POCKET/pName:大口袋
+17:POCKET/popup/subMenu/name:grenades
+17:POCKET/popup/subMenu/name:misc
+17:POCKET/popup/subMenu/name:kits
+20:POCKET/pName:急救包
+21:POCKET/pName:针筒包

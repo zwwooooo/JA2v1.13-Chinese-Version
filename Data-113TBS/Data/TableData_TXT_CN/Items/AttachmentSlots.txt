@@ -1,0 +1,26 @@
+0:ATTACHMENTSLOT/szSlotName:Don't touch me
+1:ATTACHMENTSLOT/szSlotName:默认延展槽1
+2:ATTACHMENTSLOT/szSlotName:默认延展槽2
+3:ATTACHMENTSLOT/szSlotName:默认延展槽3
+4:ATTACHMENTSLOT/szSlotName:默认延展槽4
+5:ATTACHMENTSLOT/szSlotName:枪管附件
+6:ATTACHMENTSLOT/szSlotName:激光附件
+7:ATTACHMENTSLOT/szSlotName:准星附件
+8:ATTACHMENTSLOT/szSlotName:瞄准镜附件
+9:ATTACHMENTSLOT/szSlotName:弹仓附件
+10:ATTACHMENTSLOT/szSlotName:弹药附件
+11:ATTACHMENTSLOT/szSlotName:内部附件
+12:ATTACHMENTSLOT/szSlotName:外部附件1
+13:ATTACHMENTSLOT/szSlotName:枪管下附件
+14:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+15:ATTACHMENTSLOT/szSlotName:火箭发射器槽
+16:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+17:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+18:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+19:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+20:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+21:ATTACHMENTSLOT/szSlotName:步枪榴弹器
+22:ATTACHMENTSLOT/szSlotName:火箭发射器槽
+23:ATTACHMENTSLOT/szSlotName:火箭发射器槽
+24:ATTACHMENTSLOT/szSlotName:火箭发射器槽
+25:ATTACHMENTSLOT/szSlotName:火箭发射器槽

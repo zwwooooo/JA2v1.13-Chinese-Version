@@ -1,0 +1,48 @@
+0:TAUNT/szText:It was all part of my plan!
+1:TAUNT/szText:I've had enough!
+2:TAUNT/szText:Oh my God!
+3:TAUNT/szText:They ain't paying us enough for this shit...
+4:TAUNT/szText:When did things go so wrong?
+5:TAUNT/szText:I'll be back! With friends!
+6:TAUNT/szText:You'll pay for this... another day!
+7:TAUNT/szText:You're not playing fair!
+8:TAUNT/szText:Don't think I will forgive ya!
+9:TAUNT/szText:Mommy!
+10:TAUNT/szText:I'll be back when you least expect me, fucker!
+10:TAUNT/szTextCensored:I'll be back when you least expect me, punk!
+11:TAUNT/szText:I'll leave you alive... for now.
+12:TAUNT/szText:Enough is enough!
+13:TAUNT/szText:Screw this! I'm outta here!
+14:TAUNT/szText:Screw this! I'm not even a real soldier!
+15:TAUNT/szText:Tactical retreat!
+16:TAUNT/szText:I've seen enough.
+17:TAUNT/szText:Nope, nope, nope.
+18:TAUNT/szText:Run to the hills!
+19:TAUNT/szText:Let's call it a draw.
+20:TAUNT/szText:They said "join the army". Not for this shit!
+21:TAUNT/szText:I regret nothing!
+22:TAUNT/szText:Game over, man!
+23:TAUNT/szText:Let's be friends!
+24:TAUNT/szText:Party's over!
+25:TAUNT/szText:Violence is not an answer!
+26:TAUNT/szText:I'm too beautiful to die!
+27:TAUNT/szText:Screw you guys, I'm going home!
+28:TAUNT/szText:Make love, not war!
+29:TAUNT/szText:I, ehrm, left the lights on in my place. Gotta go!
+30:TAUNT/szText:Leave me your phone number, and I'll get back to ya!
+31:TAUNT/szText:I can't deal with this anymore!
+32:TAUNT/szText:I'm getting the hell out of here!
+33:TAUNT/szText:I will not fight those bastards alone!
+34:TAUNT/szText:I am outta here.
+35:TAUNT/szText:The army... I should have known better!
+36:TAUNT/szText:Coming here... What was I even thinking?
+37:TAUNT/szText:I'm surrounded by idiots! I'm out!
+38:TAUNT/szText:No weapons! No friends! No hope!
+39:TAUNT/szText:I never wanted to join the army! My mom forced me to!
+40:TAUNT/szText:Wait till my brother hears about this, he's gonna kick your ass!
+41:TAUNT/szText:Sometimes the road less travelled is less travelled for a reason!
+42:TAUNT/szText:OK, that was the last straw!
+43:TAUNT/szText:You're cheating!
+44:TAUNT/szText:It's time to consider retirement...
+45:TAUNT/szText:Don't think it's over! I'll hunt you down wherever you go!
+46:TAUNT/szText:Why can't we all just get along?

@@ -1,0 +1,5 @@
+0:TAUNT/szText:什么？谁？我听不到！
+1:TAUNT/szText:呃！我的耳朵出血了！
+2:TAUNT/szText:什么在嗡嗡响？
+3:TAUNT/szText:嗯？怎么这么安静...
+4:TAUNT/szText:突然这么安静。怎么回事？

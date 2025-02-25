@@ -1,0 +1,510 @@
+0:EMAIL/Subject:AIM服务器转发：来自Barry Unger的消息
+0:EMAIL/Message:哈喽！这是来自Barry Unger的信息以响应你在我们的电话应答系统上的留言。我已经返回，如果你还对我提供的服务感兴趣，现在可以通过AIM的网站联系到我。 ± ± 谢谢。 ±
+1:EMAIL/Subject:AIM服务器转发：来自Keith Hanson的消息
+1:EMAIL/Message:嘿，我是Blood。你的消息已收到。我已经回来了，如果你还想联系的话，打电话。 ±
+2:EMAIL/Subject:AIM服务器转发：来自Rudy Roberts的消息
+2:EMAIL/Message:你好。我是Rudy Roberts。不久前，你留了口信给我，我写信给你是为了通知你现在我可以为你服务了。另外，提醒你一下，我经常接到工作，你最好尽快联系我。 ± ± 谢谢。 ±
+3:EMAIL/Subject:AIM服务器转发：来自Steve Bornell的消息
+3:EMAIL/Message:我是Steve Bornell Grizzly。你在AIM上给我留了口信。我回来了。请联系我。我恨他妈的高科技。EXIT.. Send.. Stop.. HTTP..什么乱七八糟的破玩意儿！ ±
+4:EMAIL/Subject:AIM服务器转发：来自Victoria Waters的消息
+4:EMAIL/Message:收到你的消息，如果你还在找人，到AIM和我谈谈。
+5:EMAIL/Subject:AIM服务器转发：来自Trevor Colby的消息
+5:EMAIL/Message:收到你的消息。Sheila和我都回来了，我假定你要找的是我，除非Sheila做了些我不知道的事情。通过AIM找我，我们会搞清楚的。 ±
+6:EMAIL/Subject:AIM服务器转发：来自Helmut Grunther的消息
+6:EMAIL/Message:哈喽，我是Grunty。你在我的机器上留了口信。现在我给你留一个。我已完成任务并回来了。 ±
+7:EMAIL/Subject:AIM服务器转发：来自Ivan Dolvich的消息
+7:EMAIL/Message:哈喽，我在家了。 ±
+8:EMAIL/Subject:AIM服务器转发：来自Bobby Gontarski的消息
+8:EMAIL/Message:这是Robert Gontarski给你留的口信。我在AIM可以为你服务，你可以在网站上看到我。 ±
+9:EMAIL/Subject:AIM服务器转发：来自Igor Dolvich的消息
+9:EMAIL/Message:哈喽，我是Igor Dolvich，是传奇人物Ivan Dolvich的侄子，在回复你的信息。现在可以和我讨论工作的事情。我在寻找一个酒厂的合作赞助，他们可以把商标贴在我的枪上，作为交换给我一些他们的产品就可以了。 ±
+10:EMAIL/Subject:AIM服务器转发：НАИdАМ ПИЖИЙСИ
+10:EMAIL/Message:>>这是通过AIM服务器转发的匿名邮件。你在找Shadow。我可能在AIM的站点上停留片刻。你永远都不要讲出去。 ±
+11:EMAIL/Subject:AIM服务器转发：来自Ernie Spragg的消息
+11:EMAIL/Message:你好朋友！非常抱歉你打电话时我不在，但是当时是我的一个爆炸时间，如果你明白我的意思的话！你给Red打电话，你可以在AIM上找到我。 ±
+12:EMAIL/Subject:AIM服务器转发：来自Carl Simmons的消息
+12:EMAIL/Message:你留了口信。看来我们有些事情要谈。你知道在哪里可以找到我。 ±
+13:EMAIL/Subject:AIM服务器转发：来自Fidel Dahan的消息
+13:EMAIL/Message:抱歉我没能及时联系你。他们拿走了Fidel的电脑，他们说他们发现了坏图片的文件，这不是真的，我不知道他们怎么找到的。现在是工作的好时间，你到AIM，我们谈谈。 ±
+14:EMAIL/Subject:AIM服务器转发：来自Cynthia Guzzman的消息
+14:EMAIL/Message:Hello，你给我留了口信？让我们谈谈看能否一起做点什么。 ±
+15:EMAIL/Subject:AIM服务器转发：来自Sidney Nettleson的消息
+15:EMAIL/Message:谢谢你对我感兴趣。我想你一定知道，我是AIM中最著名的专家。如果你想更深入地了解我，我现在就可以和你交流。 ±
+16:EMAIL/Subject:AIM服务器转发：来自Gus Tarballs的消息
+16:EMAIL/Message:傻瓜！真希望你从未打过电话！当我在中东打高尔夫时听到了你的嗡嗡声。我现在不忙了，也许我们可以做单大生意。 ±
+17:EMAIL/Subject:AIM服务器转发：来自Monica Sonderguaad的消息
+17:EMAIL/Message:Hello，我已回到AIM。如果你愿意，我可以讨论合作的可能性。（此外，如果你雇佣了Gumpy，这个你从杂志中扯下来的免费帐户中的一员，那就不必再费口舌了） ±
+18:EMAIL/Subject:AIM服务器转发：来自Ice Williams的消息
+18:EMAIL/Message:我是ICE。听说你在找我，并收到了你的口信。如果你想合作，我会挤时间和你谈的。 ±
+19:EMAIL/Subject:AIM服务器转发：来自Dr. Donna Houston的消息
+19:EMAIL/Message:谢谢你联系我，我是Dr. Donna Houston。完成了上一个任务，现在可以和你谈几分钟了。当然，我在随时待命，所以很遗憾，我不能保证任何事情。 ±
+20:EMAIL/Subject:AIM服务器转发：来自Dr. Clifford Highball的消息
+20:EMAIL/Message:Dr. Clifford Highball现在有空了。 ±
+21:EMAIL/Subject:AIM服务器转发：来自John Peters的消息
+21:EMAIL/Message:我回来了。 ± ± Bull ±
+22:EMAIL/Subject:AIM服务器转发：来自Frank Hennessy的消息
+22:EMAIL/Message:我收到了你的口信。我很快就要离开，欲谈从速。 ±
+23:EMAIL/Subject:AIM服务器转发：来自Louisa Garneau的消息
+23:EMAIL/Message:如果你想击毙什么东西，给我电话，其它事情我不感兴趣。 ±
+24:EMAIL/Subject:AIM服务器转发：来自Ron Higgens的消息
+24:EMAIL/Message:我是Ron Higgens。收到你的口信。 ±
+25:EMAIL/Subject:AIM服务器转发：来自Charlene Higgens的消息
+25:EMAIL/Message:Hi，我是Charlene，我会在这里呆一段时间，除非有什么事情冒出来。 ±
+26:EMAIL/Subject:AIM服务器转发：来自Kirk Stevenson的消息
+26:EMAIL/Message:你想找我？我在了。 ±
+27:EMAIL/Subject:AIM服务器转发：来自Corp. Len Anderson的消息
+27:EMAIL/Message:谢谢你联系我，如果你想现在讨论你的任务，你可以通过AIM找我。谢谢！ ± ± Corp. Len Anderson ±
+28:EMAIL/Subject:AIM服务器转发：来自Dr. Daniel Quinten的消息
+28:EMAIL/Message:很高兴收到你的口信。如果你还在找够格的医务人员，我现在有点时间可以见你。我会很高兴地考虑你说的每件事情。 ±
+29:EMAIL/Subject:AIM服务器转发：来自Earl Walker的消息
+29:EMAIL/Message:我在了。你想谈话？你知道怎么找我。
+30:EMAIL/Subject:AIM服务器转发：来自Stephen Rothman的消息
+30:EMAIL/Message:多谢你联系我。如你所知，我正在致力于成为AIM的新的顶尖人物，所以我经常接一些高水平、高难度的任务。现在我有时间和你谈话，但我猜想时间非常有限。 ±
+31:EMAIL/Subject:AIM服务器转发：来自Robert James Sullivan的消息
+31:EMAIL/Message:收到口信，我现在在AIM，正在等待新任务。我们谈谈。我不认为机会会反复出现，但是你从不知道。 ±
+32:EMAIL/Subject:AIM服务器转发：来自J.P. Viau的消息
+32:EMAIL/Message:Malice在办公室，我准备好了。 ±
+33:EMAIL/Subject:AIM服务器转发：来自Dr. Q. Huaong的消息
+33:EMAIL/Message:收到你的口信。你应该还有生意要和我谈，我现在可以和你会谈。 ±
+34:EMAIL/Subject:AIM服务器转发：来自Edgar Smorth的消息
+34:EMAIL/Message:收到。你想？来吧。 ±
+35:EMAIL/Subject:AIM服务器转发：来自Thor Kaufman的消息
+35:EMAIL/Message:Hello，抱歉没能和你通话。这是我繁忙的一周。无论如何，如果你还有兴趣谈的话，我并不是所有事情都定死了。 ±
+36:EMAIL/Subject:AIM服务器转发：来自Sheila Sterling的消息
+36:EMAIL/Message:你好，我是Scope Sterling，在回复你的口信。你应该有事情和我谈，我在AIM。 ±
+37:EMAIL/Subject:AIM服务器转发：来自Peter Sanderson的消息
+37:EMAIL/Message:你给我打了电话？当时我在洗手间，给我回电。 ±
+38:EMAIL/Subject:AIM服务器转发：来自Dr. Michael Dawson的消息
+38:EMAIL/Message:太好了！我收到你的口信，我正在找一些可以做的工作。谢谢！ ± Michael Dawson, M.D. ±
+39:EMAIL/Subject:AIM服务器转发：来自Norma Jessop的消息
+39:EMAIL/Message:收到你留在我机器上的悲惨消息。你想占用我的宝贵时间，你知道我在哪儿。 ±
+40:EMAIL/Subject:主题：无
+40:EMAIL/Message:信息：无
+41:EMAIL/Subject:主题：无
+41:EMAIL/Message:信息：无
+42:EMAIL/Subject:主题：无
+42:EMAIL/Message:信息：无
+43:EMAIL/Subject:主题：无
+43:EMAIL/Message:信息：无
+44:EMAIL/Subject:主题：无
+44:EMAIL/Message:信息：无
+45:EMAIL/Subject:主题：无
+45:EMAIL/Message:信息：无
+46:EMAIL/Subject:主题：无
+46:EMAIL/Message:信息：无
+47:EMAIL/Subject:主题：无
+47:EMAIL/Message:信息：无
+48:EMAIL/Subject:主题：无
+48:EMAIL/Message:信息：无
+49:EMAIL/Subject:主题：无
+49:EMAIL/Message:信息：无
+50:EMAIL/Subject:主题：无
+50:EMAIL/Message:信息：无
+51:EMAIL/Subject:主题：无
+51:EMAIL/Message:信息：无
+52:EMAIL/Subject:主题：无
+52:EMAIL/Message:信息：无
+53:EMAIL/Subject:主题：无
+53:EMAIL/Message:信息：无
+54:EMAIL/Subject:主题：无
+54:EMAIL/Message:信息：无
+55:EMAIL/Subject:主题：无
+55:EMAIL/Message:信息：无
+56:EMAIL/Subject:主题：无
+56:EMAIL/Message:信息：无
+57:EMAIL/Subject:主题：无
+57:EMAIL/Message:信息：无
+58:EMAIL/Subject:主题：无
+58:EMAIL/Message:信息：无
+59:EMAIL/Subject:主题：无
+59:EMAIL/Message:信息：无
+60:EMAIL/Subject:主题：无
+60:EMAIL/Message:信息：无
+61:EMAIL/Subject:主题：无
+61:EMAIL/Message:信息：无
+62:EMAIL/Subject:主题：无
+62:EMAIL/Message:信息：无
+63:EMAIL/Subject:主题：无
+63:EMAIL/Message:信息：无
+64:EMAIL/Subject:主题：无
+64:EMAIL/Message:信息：无
+65:EMAIL/Subject:主题：无
+65:EMAIL/Message:信息：无
+66:EMAIL/Subject:主题：无
+66:EMAIL/Message:信息：无
+67:EMAIL/Subject:主题：无
+67:EMAIL/Message:信息：无
+68:EMAIL/Subject:主题：无
+68:EMAIL/Message:信息：无
+69:EMAIL/Subject:主题：无
+69:EMAIL/Message:信息：无
+70:EMAIL/Subject:主题：无
+70:EMAIL/Message:信息：无
+71:EMAIL/Subject:主题：无
+71:EMAIL/Message:信息：无
+72:EMAIL/Subject:主题：无
+72:EMAIL/Message:信息：无
+73:EMAIL/Subject:主题：无
+73:EMAIL/Message:信息：无
+74:EMAIL/Subject:主题：无
+74:EMAIL/Message:信息：无
+75:EMAIL/Subject:主题：无
+75:EMAIL/Message:信息：无
+76:EMAIL/Subject:主题：无
+76:EMAIL/Message:信息：无
+77:EMAIL/Subject:主题：无
+77:EMAIL/Message:信息：无
+78:EMAIL/Subject:主题：无
+78:EMAIL/Message:信息：无
+79:EMAIL/Subject:主题：无
+79:EMAIL/Message:信息：无
+80:EMAIL/Subject:主题：无
+80:EMAIL/Message:信息：无
+81:EMAIL/Subject:主题：无
+81:EMAIL/Message:信息：无
+82:EMAIL/Subject:主题：无
+82:EMAIL/Message:信息：无
+83:EMAIL/Subject:主题：无
+83:EMAIL/Message:信息：无
+84:EMAIL/Subject:主题：无
+84:EMAIL/Message:信息：无
+85:EMAIL/Subject:主题：无
+85:EMAIL/Message:信息：无
+86:EMAIL/Subject:主题：无
+86:EMAIL/Message:信息：无
+87:EMAIL/Subject:主题：无
+87:EMAIL/Message:信息：无
+88:EMAIL/Subject:主题：无
+88:EMAIL/Message:信息：无
+89:EMAIL/Subject:主题：无
+89:EMAIL/Message:信息：无
+90:EMAIL/Subject:主题：无
+90:EMAIL/Message:信息：无
+91:EMAIL/Subject:主题：无
+91:EMAIL/Message:信息：无
+92:EMAIL/Subject:主题：无
+92:EMAIL/Message:信息：无
+93:EMAIL/Subject:主题：无
+93:EMAIL/Message:信息：无
+94:EMAIL/Subject:主题：无
+94:EMAIL/Message:信息：无
+95:EMAIL/Subject:主题：无
+95:EMAIL/Message:信息：无
+96:EMAIL/Subject:主题：无
+96:EMAIL/Message:信息：无
+97:EMAIL/Subject:主题：无
+97:EMAIL/Message:信息：无
+98:EMAIL/Subject:主题：无
+98:EMAIL/Message:信息：无
+99:EMAIL/Subject:主题：无
+99:EMAIL/Message:信息：无
+100:EMAIL/Subject:主题：无
+100:EMAIL/Message:信息：无
+101:EMAIL/Subject:主题：无
+101:EMAIL/Message:信息：无
+102:EMAIL/Subject:主题：无
+102:EMAIL/Message:信息：无
+103:EMAIL/Subject:主题：无
+103:EMAIL/Message:信息：无
+104:EMAIL/Subject:主题：无
+104:EMAIL/Message:信息：无
+105:EMAIL/Subject:主题：无
+105:EMAIL/Message:信息：无
+106:EMAIL/Subject:主题：无
+106:EMAIL/Message:信息：无
+107:EMAIL/Subject:主题：无
+107:EMAIL/Message:信息：无
+108:EMAIL/Subject:主题：无
+108:EMAIL/Message:信息：无
+109:EMAIL/Subject:主题：无
+109:EMAIL/Message:信息：无
+110:EMAIL/Subject:主题：无
+110:EMAIL/Message:信息：无
+111:EMAIL/Subject:主题：无
+111:EMAIL/Message:信息：无
+112:EMAIL/Subject:主题：无
+112:EMAIL/Message:信息：无
+113:EMAIL/Subject:主题：无
+113:EMAIL/Message:信息：无
+114:EMAIL/Subject:主题：无
+114:EMAIL/Message:信息：无
+115:EMAIL/Subject:主题：无
+115:EMAIL/Message:信息：无
+116:EMAIL/Subject:主题：无
+116:EMAIL/Message:信息：无
+117:EMAIL/Subject:主题：无
+117:EMAIL/Message:信息：无
+118:EMAIL/Subject:主题：无
+118:EMAIL/Message:信息：无
+119:EMAIL/Subject:主题：无
+119:EMAIL/Message:信息：无
+120:EMAIL/Subject:主题：无
+120:EMAIL/Message:信息：无
+121:EMAIL/Subject:主题：无
+121:EMAIL/Message:信息：无
+122:EMAIL/Subject:主题：无
+122:EMAIL/Message:信息：无
+123:EMAIL/Subject:主题：无
+123:EMAIL/Message:信息：无
+124:EMAIL/Subject:主题：无
+124:EMAIL/Message:信息：无
+125:EMAIL/Subject:主题：无
+125:EMAIL/Message:信息：无
+126:EMAIL/Subject:主题：无
+126:EMAIL/Message:信息：无
+127:EMAIL/Subject:主题：无
+127:EMAIL/Message:信息：无
+128:EMAIL/Subject:主题：无
+128:EMAIL/Message:信息：无
+129:EMAIL/Subject:主题：无
+129:EMAIL/Message:信息：无
+130:EMAIL/Subject:主题：无
+130:EMAIL/Message:信息：无
+131:EMAIL/Subject:主题：无
+131:EMAIL/Message:信息：无
+132:EMAIL/Subject:主题：无
+132:EMAIL/Message:信息：无
+133:EMAIL/Subject:主题：无
+133:EMAIL/Message:信息：无
+134:EMAIL/Subject:主题：无
+134:EMAIL/Message:信息：无
+135:EMAIL/Subject:主题：无
+135:EMAIL/Message:信息：无
+136:EMAIL/Subject:主题：无
+136:EMAIL/Message:信息：无
+137:EMAIL/Subject:主题：无
+137:EMAIL/Message:信息：无
+138:EMAIL/Subject:主题：无
+138:EMAIL/Message:信息：无
+139:EMAIL/Subject:主题：无
+139:EMAIL/Message:信息：无
+140:EMAIL/Subject:主题：无
+140:EMAIL/Message:信息：无
+141:EMAIL/Subject:主题：无
+141:EMAIL/Message:信息：无
+142:EMAIL/Subject:主题：无
+142:EMAIL/Message:信息：无
+143:EMAIL/Subject:主题：无
+143:EMAIL/Message:信息：无
+144:EMAIL/Subject:主题：无
+144:EMAIL/Message:信息：无
+145:EMAIL/Subject:主题：无
+145:EMAIL/Message:信息：无
+146:EMAIL/Subject:主题：无
+146:EMAIL/Message:信息：无
+147:EMAIL/Subject:主题：无
+147:EMAIL/Message:信息：无
+148:EMAIL/Subject:主题：无
+148:EMAIL/Message:信息：无
+149:EMAIL/Subject:主题：无
+149:EMAIL/Message:信息：无
+150:EMAIL/Subject:主题：无
+150:EMAIL/Message:信息：无
+151:EMAIL/Subject:主题：无
+151:EMAIL/Message:信息：无
+152:EMAIL/Subject:主题：无
+152:EMAIL/Message:信息：无
+153:EMAIL/Subject:主题：无
+153:EMAIL/Message:信息：无
+154:EMAIL/Subject:主题：无
+154:EMAIL/Message:信息：无
+155:EMAIL/Subject:主题：无
+155:EMAIL/Message:信息：无
+156:EMAIL/Subject:主题：无
+156:EMAIL/Message:信息：无
+157:EMAIL/Subject:主题：无
+157:EMAIL/Message:信息：无
+158:EMAIL/Subject:主题：无
+158:EMAIL/Message:信息：无
+159:EMAIL/Subject:主题：无
+159:EMAIL/Message:信息：无
+160:EMAIL/Subject:主题：无
+160:EMAIL/Message:信息：无
+161:EMAIL/Subject:主题：无
+161:EMAIL/Message:信息：无
+162:EMAIL/Subject:主题：无
+162:EMAIL/Message:信息：无
+163:EMAIL/Subject:主题：无
+163:EMAIL/Message:信息：无
+164:EMAIL/Subject:主题：无
+164:EMAIL/Message:信息：无
+165:EMAIL/Subject:主题：无
+165:EMAIL/Message:信息：无
+166:EMAIL/Subject:主题：无
+166:EMAIL/Message:信息：无
+167:EMAIL/Subject:主题：无
+167:EMAIL/Message:信息：无
+168:EMAIL/Subject:主题：无
+168:EMAIL/Message:信息：无
+169:EMAIL/Subject:主题：无
+169:EMAIL/Message:信息：无
+170:EMAIL/Subject:转发自AIM服务器：Victor Kolesnikov的信件
+170:EMAIL/Message:你好，这是Monk，留言已收到。我已经回来了，你可以联系我了。 ± ± 等你的电话。 ± 
+171:EMAIL/Subject:转发自AIM服务器：Janno Allik的信件
+171:EMAIL/Message:我已经准备好接受任务了。我有空干任何事情 ± ± Janno Allik ± 
+172:EMAIL/Subject:转发自AIM服务器：Lennart Vilde的信件
+172:EMAIL/Message:Lennart Vilde已经准备好了！ ± 
+173:EMAIL/Subject:转发自AIM服务器：Henning von Branitz的信件
+173:EMAIL/Message:你的留言我已收到，谢谢。请到AIM主页联系我，然后讨论招募事宜。 ± ± 那时见！ ± ± Henning von Branitz ± 
+174:EMAIL/Subject:转发自AIM服务器：Luc Fabre的信件
+174:EMAIL/Message:收到留言，Merci（谢谢）！ 你能考虑我我非常高兴。你知道在哪里能找到我。 ± ± 希望能收到你的电话。 ± 
+175:EMAIL/Subject:转发自AIM服务器：Dr. Laura Colin的信件
+175:EMAIL/Message:你好！非常高兴你能给我留言，我很感兴趣。 ± ± 请再上AIM，我愿意听听详细事宜 ± ± 此致敬礼！ ± ± Dr. Laura Colin ± 
+176:EMAIL/Subject:转发自AIM服务器：Graziella Girelli的信件
+176:EMAIL/Message:你上次想联系我但是没有成功。± ± 你懂得？家庭聚会啦。我现在已经厌倦了我的家庭，你能再上AIM联系我的话我会非常高兴 ± ± Ciao（再见）！ ± 
+177:EMAIL/Subject:转发自AIM服务器：Rudolf Steiger的信件
+177:EMAIL/Message:你知道我每天有多少个电话要接吗？每个蠢货都认为他可以Call我。 ± ± 反正我回来了，前提是你真的有有趣的工作给我的话。 ± 
+178:EMAIL/Subject:主题：无
+178:EMAIL/Message:信息：无
+179:EMAIL/Subject:主题：无
+179:EMAIL/Message:信息：无
+180:EMAIL/Subject:主题：无
+180:EMAIL/Message:信息：无
+181:EMAIL/Subject:主题：无
+181:EMAIL/Message:信息：无
+182:EMAIL/Subject:主题：无
+182:EMAIL/Message:信息：无
+183:EMAIL/Subject:主题：无
+183:EMAIL/Message:信息：无
+184:EMAIL/Subject:主题：无
+184:EMAIL/Message:信息：无
+185:EMAIL/Subject:主题：无
+185:EMAIL/Message:信息：无
+186:EMAIL/Subject:转发自AIM服务器：Dr. Mitch Shudlem的信件
+186:EMAIL/Message:我刚从以前的工作中回来，现在可以和你谈工作了。 ± ± 忠告-如果你想讨价还价，那是在浪费时间。 ± Dr. Mitch Shudlem ±
+187:EMAIL/Subject:转发自AIM服务器：Howard Melfield的信件
+187:EMAIL/Message:你好，小伙子！我刚收到你的留言。如果您仍然感兴趣，请通过我们的网站与我联系。  ± ± Howard Melfield ± A.I.M健康与安全部主任 ± A.I.M圣诞派对委员会主任 ± 
+188:EMAIL/Subject:主题：无
+188:EMAIL/Message:信息：无
+189:EMAIL/Subject:主题：无
+189:EMAIL/Message:信息：无
+190:EMAIL/Subject:主题：无
+190:EMAIL/Message:信息：无
+191:EMAIL/Subject:主题：无
+191:EMAIL/Message:信息：无
+192:EMAIL/Subject:主题：无
+192:EMAIL/Message:信息：无
+193:EMAIL/Subject:主题：无
+193:EMAIL/Message:信息：无
+194:EMAIL/Subject:主题：无
+194:EMAIL/Message:信息：无
+195:EMAIL/Subject:主题：无
+195:EMAIL/Message:信息：无
+196:EMAIL/Subject:主题：无
+196:EMAIL/Message:信息：无
+197:EMAIL/Subject:主题：无
+197:EMAIL/Message:信息：无
+198:EMAIL/Subject:主题：无
+198:EMAIL/Message:信息：无
+199:EMAIL/Subject:主题：无
+199:EMAIL/Message:信息：无
+200:EMAIL/Subject:主题：无
+200:EMAIL/Message:信息：无
+201:EMAIL/Subject:主题：无
+201:EMAIL/Message:信息：无
+202:EMAIL/Subject:主题：无
+202:EMAIL/Message:信息：无
+203:EMAIL/Subject:主题：无
+203:EMAIL/Message:信息：无
+204:EMAIL/Subject:主题：无
+204:EMAIL/Message:信息：无
+205:EMAIL/Subject:主题：无
+205:EMAIL/Message:信息：无
+206:EMAIL/Subject:主题：无
+206:EMAIL/Message:信息：无
+207:EMAIL/Subject:主题：无
+207:EMAIL/Message:信息：无
+208:EMAIL/Subject:主题：无
+208:EMAIL/Message:信息：无
+209:EMAIL/Subject:主题：无
+209:EMAIL/Message:信息：无
+210:EMAIL/Subject:主题：无
+210:EMAIL/Message:信息：无
+211:EMAIL/Subject:主题：无
+211:EMAIL/Message:信息：无
+212:EMAIL/Subject:主题：无
+212:EMAIL/Message:信息：无
+213:EMAIL/Subject:主题：无
+213:EMAIL/Message:信息：无
+214:EMAIL/Subject:主题：无
+214:EMAIL/Message:信息：无
+215:EMAIL/Subject:主题：无
+215:EMAIL/Message:信息：无
+216:EMAIL/Subject:主题：无
+216:EMAIL/Message:信息：无
+217:EMAIL/Subject:主题：无
+217:EMAIL/Message:信息：无
+218:EMAIL/Subject:主题：无
+218:EMAIL/Message:信息：无
+219:EMAIL/Subject:主题：无
+219:EMAIL/Message:信息：无
+220:EMAIL/Subject:主题：无
+220:EMAIL/Message:信息：无
+221:EMAIL/Subject:主题：无
+221:EMAIL/Message:信息：无
+222:EMAIL/Subject:主题：无
+222:EMAIL/Message:信息：无
+223:EMAIL/Subject:转发自AIM服务器：Gary Roachburn的信件
+223:EMAIL/Message:嗨,我现在很自由. ± ± 联系我. ±
+224:EMAIL/Subject:主题：无
+224:EMAIL/Message:信息：无
+225:EMAIL/Subject:主题：无
+225:EMAIL/Message:信息：无
+226:EMAIL/Subject:主题：无
+226:EMAIL/Message:信息：无
+227:EMAIL/Subject:主题：无
+227:EMAIL/Message:信息：无
+228:EMAIL/Subject:转发自AIM服务器：Dr. Ahmad Koolhan的信件
+228:EMAIL/Message:Dr. Koolhan在这里.我刚从利比亚做完任务回来. ± ± 你可以在AIM联系我. ±
+229:EMAIL/Subject:主题：无
+229:EMAIL/Message:信息：无
+230:EMAIL/Subject:转发自AIM服务器：Glen Hatchet的信件
+230:EMAIL/Message:在, DIY之王. 你需要我? ± ± ***, 你知道在哪里可以找到我的。. ± 老板 ±
+231:EMAIL/Subject:转发自AIM服务器：Johnny Edwards的信件
+231:EMAIL/Message:嗨, 我已经完成了我在圭亚那的实习。 ± ± 打电话给我. ±
+232:EMAIL/Subject:转发自AIM服务器：Alan Webster的信件
+232:EMAIL/Message:哈喽, 我听到了你的消息。± ± 如果你还想让我... 我加入！ ±
+233:EMAIL/Subject:转发自AIM服务器：Spike Scallion少校的信件
+233:EMAIL/Message:上校, 我等你的电话, 孩子! ±
+234:EMAIL/Subject:转发自AIM服务器：Jimmy Upton的信件
+234:EMAIL/Message:OK,我愿意为你工作。± ± 但我已经知道我的目的地…因为我不能在某些国家。 ± 日安. ±
+235:EMAIL/Subject:转发自AIM服务器：Timothy Jenkins的信件
+235:EMAIL/Message:嗨, 如果你需要一个神枪手. ± ± 随时联系我 ± 欢迎. ±
+236:EMAIL/Subject:转发自AIM服务器：Capt. Bob Adams的信件
+236:EMAIL/Message:哈喽, 你有活儿给我？ ± ± 联系我，给我更多的细节。± Cpt. Adams ±
+237:EMAIL/Subject:转发自AIM服务器：Leo Kelly上校的信件
+237:EMAIL/Message:Kelly上校在此, 我很乐意帮你完成任务。这是我的工作。 ± Kelly上校 ±
+238:EMAIL/Subject:转发自AIM服务器：Vincenzo Massimo的信件
+238:EMAIL/Message:你好, 我已经收到你的信息。 ± ± 如果你有一个合同，我…我现在有空。 ± 再见。±
+239:EMAIL/Subject:转发自AIM服务器：Marty Moffat的信件
+239:EMAIL/Message:你好，老板, 我回AIM了。 ± ± Badaboum. ±
+240:EMAIL/Subject:转发自AIM服务器：Bud Hellar中将的信件
+240:EMAIL/Message:你好，先生。 我很乐意为你工作。 ± ± 你可以随时联系我。 ± 敬上, ± Hellar中将 ±
+241:EMAIL/Subject:转发自AIM服务器：Russel Hunter的信件
+241:EMAIL/Message:我收到了你的消息 我是一个爆破和野战的专家 ± ± 很快就能见到你了 ± Russel Hunter. ±
+242:EMAIL/Subject:转发自AIM服务器： Mark Kranhuim博士的信件
+242:EMAIL/Message:先生, 一种乐趣，这是我收到的信息， ± ± 我的障碍是我的中医药知识补偿 ± ± 你知道我的地址和电话号码。 ± ± 诚挚的问候, ± Kranhium博士 ±
+243:EMAIL/Subject:转发自AIM服务器：Patrick Phillips的信件
+243:EMAIL/Message:嗨, 我现在在AIM。 ± ± 我可以等... 但不要拖延, 因为我就是耐性。 ± ± 问候, ± Artiste ±
+244:EMAIL/Subject:主题：无
+244:EMAIL/Message:信息：无
+245:EMAIL/Subject:转发自AIM服务器：Anita Backman的信件
+245:EMAIL/Message:哈喽! *.....* 我愿意加入你们... ± ± **.........** ± ± 你忠诚的, ± Anita *** ............. *** ±
+246:EMAIL/Subject:转发自AIM服务器：Hector Alvarez的信件
+246:EMAIL/Message:哈喽, 谢谢你给我一个机会来证明我的价值。我是急性子... ± ± 当你需要的时候打电话给我。 ± ± 恭敬, ± Hector ±
+247:EMAIL/Subject:主题：无
+247:EMAIL/Message:信息：无
+248:EMAIL/Subject:转发自AIM服务器：Margaret Trammel博士的信件
+248:EMAIL/Message:哈喽, 我收到你的消息。 ± ± 我喜欢这活动, 但我不是好相处的人. 如果你想和我寻求冒险…忘了我 ± Trammel博士 ±
+249:EMAIL/Subject:主题：无
+249:EMAIL/Message:信息：无
+250:EMAIL/Subject:转发自AIM服务器：Murray Ebstern的信件
+250:EMAIL/Message:这是关于什么的？ ± ± 欧耶, 别听我的回忆和我那些谣言。 ± ± 我准备征服世界... 我开玩笑的, 少年. ± ± 如果你雇用我，在任何情况下，你都不会失望的。± ± 最好那方面, ± Moses ±
+251:EMAIL/Subject:转发自AIM服务器：Lesley Petersen的信件
+251:EMAIL/Message:我看到你试图联系我，嗯。 ± ± 如果你找一个爆破专家，嗯，我在AIM。 ± Smoke ±
+252:EMAIL/Subject:主题：无
+252:EMAIL/Message:信息：无
+253:EMAIL/Subject:主题：无
+253:EMAIL/Message:信息：无
+254:EMAIL/Subject:主题：无
+254:EMAIL/Message:信息：无

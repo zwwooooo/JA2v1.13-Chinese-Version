@@ -1,0 +1,10 @@
+1:RANK/szRank:Recruit
+2:RANK/szRank:Private
+3:RANK/szRank:Corporal
+4:RANK/szRank:Specialist
+5:RANK/szRank:Sergeant
+6:RANK/szRank:Staff Sergeant
+7:RANK/szRank:Lieutenant
+8:RANK/szRank:Captain
+9:RANK/szRank:Major
+10:RANK/szRank:Colonel

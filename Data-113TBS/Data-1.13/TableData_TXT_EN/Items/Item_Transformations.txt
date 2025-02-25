@@ -1,0 +1,86 @@
+194:TRANSFORM/szMenuRowText:Tear apart
+194:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+195:TRANSFORM/szMenuRowText:Tear apart
+195:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+296:TRANSFORM/szMenuRowText:Tear apart
+296:TRANSFORM/szTooltipText:Tear this T-Shirt into two pieces of cloth.
+950:TRANSFORM/szMenuRowText:ON
+950:TRANSFORM/szTooltipText:Switch on flashlight.
+1015:TRANSFORM/szMenuRowText:Build mode
+1015:TRANSFORM/szTooltipText:Ready for building.
+1528:TRANSFORM/szMenuRowText:Remove tripwire
+1528:TRANSFORM/szTooltipText:Remove tripwire from stun grenade.
+1529:TRANSFORM/szMenuRowText:Remove tripwire
+1529:TRANSFORM/szTooltipText:Remove tripwire from tear gas grenade.
+1530:TRANSFORM/szMenuRowText:Remove tripwire
+1530:TRANSFORM/szTooltipText:Remove tripwire from mustard gas grenade.
+1531:TRANSFORM/szMenuRowText:Remove tripwire
+1531:TRANSFORM/szTooltipText:Remove tripwire from mini grenade.
+1532:TRANSFORM/szMenuRowText:Remove tripwire
+1532:TRANSFORM/szTooltipText:Remove tripwire from MK2 grenade.
+1533:TRANSFORM/szMenuRowText:Remove tripwire
+1533:TRANSFORM/szTooltipText:Remove tripwire from emergency flare.
+1534:TRANSFORM/szMenuRowText:Remove tripwire
+1534:TRANSFORM/szTooltipText:Remove tripwire from smoke grenade.
+1543:TRANSFORM/szMenuRowText:Combat mode
+1543:TRANSFORM/szTooltipText:Ready for combat.
+1591:TRANSFORM/szMenuRowText:Transform tripwire
+1591:TRANSFORM/szTooltipText:Make tripwire stackable.
+1592:TRANSFORM/szMenuRowText:Transform tripwire
+1592:TRANSFORM/szTooltipText:Make tripwire stackable.
+1593:TRANSFORM/szMenuRowText:Transform tripwire
+1593:TRANSFORM/szTooltipText:Make tripwire stackable.
+1594:TRANSFORM/szMenuRowText:Transform tripwire
+1594:TRANSFORM/szTooltipText:Make tripwire stackable.
+1595:TRANSFORM/szMenuRowText:Transform tripwire
+1595:TRANSFORM/szTooltipText:Make tripwire stackable.
+1596:TRANSFORM/szMenuRowText:Transform tripwire
+1596:TRANSFORM/szTooltipText:Make tripwire stackable.
+1597:TRANSFORM/szMenuRowText:Transform tripwire
+1597:TRANSFORM/szTooltipText:Make tripwire stackable.
+1598:TRANSFORM/szMenuRowText:Transform tripwire
+1598:TRANSFORM/szTooltipText:Make tripwire stackable.
+1599:TRANSFORM/szMenuRowText:Transform tripwire
+1599:TRANSFORM/szTooltipText:Make tripwire stackable.
+1600:TRANSFORM/szMenuRowText:Transform tripwire
+1600:TRANSFORM/szTooltipText:Make tripwire stackable.
+1601:TRANSFORM/szMenuRowText:Transform tripwire
+1601:TRANSFORM/szTooltipText:Make tripwire stackable.
+1602:TRANSFORM/szMenuRowText:Transform tripwire
+1602:TRANSFORM/szTooltipText:Make tripwire stackable.
+1603:TRANSFORM/szMenuRowText:Transform tripwire
+1603:TRANSFORM/szTooltipText:Make tripwire stackable.
+1604:TRANSFORM/szMenuRowText:Transform tripwire
+1604:TRANSFORM/szTooltipText:Make tripwire stackable.
+1605:TRANSFORM/szMenuRowText:Transform tripwire
+1605:TRANSFORM/szTooltipText:Make tripwire stackable.
+1635:TRANSFORM/szMenuRowText:OFF
+1635:TRANSFORM/szTooltipText:Switch off flashlight.
+1636:TRANSFORM/szMenuRowText:ON
+1636:TRANSFORM/szTooltipText:Switch on flashlight.
+1637:TRANSFORM/szMenuRowText:OFF
+1637:TRANSFORM/szTooltipText:Switch off flashlight.
+1722:TRANSFORM/szMenuRowText:Separate Stacks
+1722:TRANSFORM/szTooltipText:Separate into 2 small stacks.
+1723:TRANSFORM/szMenuRowText:Separate Stacks
+1723:TRANSFORM/szTooltipText:Separate into 2 medium stacks.
+1723:TRANSFORM/szMenuRowText:Separate Stacks
+1723:TRANSFORM/szTooltipText:Separate into 1 medium and 2 small stacks.
+1723:TRANSFORM/szMenuRowText:Separate Stacks
+1723:TRANSFORM/szTooltipText:Separate into 4 small stacks.
+1008:TRANSFORM/szMenuRowText:Fold stock
+1008:TRANSFORM/szTooltipText:Fold stock.
+1745:TRANSFORM/szMenuRowText:Unfold stock
+1745:TRANSFORM/szTooltipText:Unfold stock.
+1746:TRANSFORM/szMenuRowText:Fold stock
+1746:TRANSFORM/szTooltipText:Fold stock.
+1747:TRANSFORM/szMenuRowText:Unfold stock
+1747:TRANSFORM/szTooltipText:Unfold stock.
+1009:TRANSFORM/szMenuRowText:Retract stock
+1009:TRANSFORM/szTooltipText:Retract stock.
+1748:TRANSFORM/szMenuRowText:Extend stock
+1748:TRANSFORM/szTooltipText:Extend stock.
+1749:TRANSFORM/szMenuRowText:Retract stock
+1749:TRANSFORM/szTooltipText:Retract stock.
+1750:TRANSFORM/szMenuRowText:Extend stock
+1750:TRANSFORM/szTooltipText:Extend stock.

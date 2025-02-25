@@ -1,0 +1,59 @@
+0:TAUNT/szText:哦，Foxy。我还没抽出空给你读我写给你的诗呢... 
+1:TAUNT/szText:活该，你个婊子！
+2:TAUNT/szText:该怎么说呢，我比你强吧。
+3:TAUNT/szText:我会怀念你的片子的...
+4:TAUNT/szText:尘归尘，土归土。
+5:TAUNT/szText:去死吧，Hellar！
+6:TAUNT/szText:那个门一次转得太厉害了...
+7:TAUNT/szText:在地狱里腐烂吧，你这个专门在背后捅刀子的混球。
+8:TAUNT/szText:去爬山吧，Mike！靠，这句话在我心里听起来可是相当不错...
+9:TAUNT/szText:我会给你亲笔签名的，Gillitt，在你的悼词册子里！
+10:TAUNT/szText:我知道我要比你强，Gillitt！
+11:TAUNT/szText:我刚刚打败了Miguel Cordona！终于女王能听到我的名字了！
+12:TAUNT/szText:想看看魔术吗？嘭！他没了！
+13:TAUNT/szText:哦不，他倒下了！小心冲击波！
+14:TAUNT/szText:你真可怜，陌生人，小家伙，我同情你。
+15:TAUNT/szText:嘿，Cordona！迪迪女王向你问好！
+16:TAUNT/szText:反叛贼军，杀了你我就能获得晋升！
+17:TAUNT/szText:嘣-嘣！就像“士兵突击”！
+18:TAUNT/szText:枪林弹雨！
+19:TAUNT/szText:骑上你的本田滚回老家去吧！
+20:TAUNT/szText:原谅我，我有罪！
+21:TAUNT/szText:该死的僵尸，滚回你的墓地里去！
+22:TAUNT/szText:请你再说说你在Gettysburg战役中的传奇故事吧！
+23:TAUNT/szText:这个靶子好打得很！
+24:TAUNT/szText:Jumbo，耳朵不错！那双耳朵挂在我的项链上肯定好看！
+25:TAUNT/szText:你的上帝去哪儿了？！
+26:TAUNT/szText:神父，第五戒律算什么？你这个该死的伪君子！
+27:TAUNT/szText:那个疯婊子是谁？
+28:TAUNT/szText:你这么老了还能干这个，怪老头？
+29:TAUNT/szText:那么多脂肪不能保护你的内脏？
+30:TAUNT/szText:不，Lynx，不是你！我是想把你的头挂载壁炉上！
+31:TAUNT/szText:这个家伙傻掉了 - 他以为他头虎鲸！
+32:TAUNT/szText:多可笑啊，你打起架来像一头肥母牛！
+33:TAUNT/szText:别发抖了！害得我打不中你！
+34:TAUNT/szText:别动！地晃得我没法瞄准！
+35:TAUNT/szText:卧槽，是Gus Tarballs！这下完蛋了！
+35:TAUNT/szTextCensored:Holy shit, it's Gus Tarballs! We're screwed!
+36:TAUNT/szText:嘿，那个家伙演过“Wild, Wild East”！我是你的超级粉丝！
+37:TAUNT/szText:发现敌人！操，想逃过他不容易...
+38:TAUNT/szText:好啊，伙计！
+39:TAUNT/szText:你让我想起了我的中国朋友...Ug Lee!
+40:TAUNT/szText:哟，这不是我最喜欢的名人嘛！我在战壕里贴满了你的海报...
+41:TAUNT/szText:你知道吗，我现在就想揍你，但是我不想脏了我的手！
+42:TAUNT/szText:你的枪真漂亮！是真的吗？还是复制品？
+43:TAUNT/szText:伙计们，不要打偏了！
+44:TAUNT/szText:嘿，伙计们，我想这个应该怀孕了！
+45:TAUNT/szText:快，谁去呼叫上尉Ahab!
+46:TAUNT/szText:你迷路了？“Free Willy”的面试要往那别走！
+47:TAUNT/szText:求求你不要吃掉我！
+48:TAUNT/szText:嘿，亲爱的，你在那儿做什么？你不会用洗衣机吗？
+49:TAUNT/szText:伙计们快看，我发现化石了！
+50:TAUNT/szText:伙计们快看，我发现化石了！
+51:TAUNT/szText:伙计们快看，我发现化石了！
+52:TAUNT/szText:伙计们快看，恐龙还活着！
+53:TAUNT/szText:伙计们快看，恐龙还活着！
+54:TAUNT/szText:伙计们快看，恐龙还活着！
+55:TAUNT/szText:哇哦，你的人品...不错。
+56:TAUNT/szText:你让我想起了那个年轻时傻气的施瓦辛格！
+57:TAUNT/szText:嘿，混球！80年代的打电话了，说他们还要那时的发型！

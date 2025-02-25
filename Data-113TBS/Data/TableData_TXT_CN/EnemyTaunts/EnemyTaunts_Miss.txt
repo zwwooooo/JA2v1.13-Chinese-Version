@@ -1,0 +1,11 @@
+0:TAUNT/szText:操！
+1:TAUNT/szText:混蛋！
+1:TAUNT/szTextCensored:You freak!
+2:TAUNT/szText:我勒个去！
+3:TAUNT/szText:别逼我过去！
+4:TAUNT/szText:畜生！
+5:TAUNT/szText:草泥马。
+6:TAUNT/szText:你是想给我留点面子吗？
+7:TAUNT/szText:在靶场感觉很简单啊...
+8:TAUNT/szText:这只是热身！
+9:TAUNT/szText:我只是随便试试。

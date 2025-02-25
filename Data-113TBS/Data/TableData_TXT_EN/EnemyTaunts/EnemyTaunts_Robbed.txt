@@ -1,0 +1,9 @@
+0:TAUNT/szText:Hey, who touched me?
+1:TAUNT/szText:Hey, didn't your momma buy your own toys?
+2:TAUNT/szText:Damn, this one was swift!
+3:TAUNT/szText:Stealing stuff will only get you killed!
+4:TAUNT/szText:Hey! That's mine!
+5:TAUNT/szText:Get your own stuff, you cheapskate!
+6:TAUNT/szText:Meh... keep it, it's junk anyway!
+7:TAUNT/szText:I'll cut off your hands for that, you bastard!
+8:TAUNT/szText:I'll show you how we treat thieves in these parts!

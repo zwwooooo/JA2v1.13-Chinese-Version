@@ -1,0 +1,20 @@
+0:TAUNT/szText:I heard that!
+1:TAUNT/szText:Who's there?
+2:TAUNT/szText:What was that?
+3:TAUNT/szText:Hey! What the...
+4:TAUNT/szText:Show yourself!
+5:TAUNT/szText:I warn you... my detection skills are at their PEAK!
+6:TAUNT/szText:What the hell was that?
+7:TAUNT/szText:I'm not deaf, you know?
+8:TAUNT/szText:Hey!
+9:TAUNT/szText:Come out, coward!
+10:TAUNT/szText:Hey! Who's making all that racket?
+11:TAUNT/szText:Just show yourself, wherever you are!
+12:TAUNT/szText:Hey! I've heard something suspicious!
+13:TAUNT/szText:Anybody there?
+14:TAUNT/szText:Shoulda check it out.
+15:TAUNT/szText:Is someone being clever?
+16:TAUNT/szText:Strange noises...
+17:TAUNT/szText:It was just a wind... wait a sec, there's no wind!
+18:TAUNT/szText:Show yourself! We're friendly... and don't know how to fight.
+19:TAUNT/szText:I got a bad feeling on this one.

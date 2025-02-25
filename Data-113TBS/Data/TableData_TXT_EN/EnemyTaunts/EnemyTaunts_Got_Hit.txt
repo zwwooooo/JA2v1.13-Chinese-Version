@@ -1,0 +1,46 @@
+0:TAUNT/szText:Aaaggh!
+1:TAUNT/szText:I see red...
+2:TAUNT/szText:Damn, I'm barely conscious.
+3:TAUNT/szText:Ugh!
+4:TAUNT/szText:This... hurts!
+5:TAUNT/szText:You will regret... uhh... this.
+6:TAUNT/szText:Crap!
+7:TAUNT/szText:What the...!
+8:TAUNT/szText:Ouch!
+9:TAUNT/szText:You fuck!
+9:TAUNT/szTextCensored:You bastard!
+10:TAUNT/szText:Oh, you little piece of shit!
+10:TAUNT/szTextCensored:Oh, you little piece of...
+11:TAUNT/szText:Fuck, you'll pay for that!
+11:TAUNT/szTextCensored:Damn, you'll pay for that!
+12:TAUNT/szText:You fucked with the wrong guy!
+12:TAUNT/szTextCensored:You messed with the wrong guy!
+13:TAUNT/szText:Now you have... pissed me off.
+14:TAUNT/szText:It was nothing!
+15:TAUNT/szText:I'm still here!
+16:TAUNT/szText:Didn't feel a thing!
+17:TAUNT/szText:Pain is just weakness leaving my body!
+18:TAUNT/szText:Pain is just an illusion!
+19:TAUNT/szText:Who do you think you are?
+20:TAUNT/szText:Oh, come on!
+21:TAUNT/szText:Why me?!
+22:TAUNT/szText:This hurts you more then it hurts me.
+23:TAUNT/szText:I'm allergic to pain!
+24:TAUNT/szText:You son of a bitch!
+25:TAUNT/szText:It's a goddamn commando squad!
+26:TAUNT/szText:Why is this shit always happening to me!?
+27:TAUNT/szText:Oh no, how could this happen?
+28:TAUNT/szText:I'm not angry! You will know when I'm angry!
+29:TAUNT/szText:Oh... I'd love to smack you right now!
+30:TAUNT/szText:I'm going to beat the crap out of you!
+31:TAUNT/szText:That's it, you're fucking dead!
+31:TAUNT/szTextCensored:That's it, you're freaking dead!
+32:TAUNT/szText:I'll punch you, I'll stab you, I'll strangle you! You know... that's what friends do!
+33:TAUNT/szText:God will find a way to get back at you, and it ain't gonna be pretty.
+34:TAUNT/szText:Little enemies... little wounds!
+35:TAUNT/szText:I really hate needless violence.
+36:TAUNT/szText:If you shoot me again, I'll wrap your gun around your neck!
+37:TAUNT/szText:Oh, poor thing... she broke her nails!
+38:TAUNT/szText:I'll take that gun from you, stick it up your ass and pull the trigger till it goes click!
+39:TAUNT/szText:This? This is nothing!
+40:TAUNT/szText:It's OK! My face cushioned the fall!

@@ -1,0 +1,19 @@
+0:TAUNT/szText:Let's see what's inside this pinata!
+1:TAUNT/szText:When I'm finished with you, you'll sing soprano!
+2:TAUNT/szText:Hey, your shoelaces are untied!
+3:TAUNT/szText:There's mustard on your shirt!
+4:TAUNT/szText:I'll break every single bone in your body!
+5:TAUNT/szText:Need a nose job?
+6:TAUNT/szText:Normally, I wouldn't hit a woman... oh, who am I kidding!
+7:TAUNT/szText:Punish!
+8:TAUNT/szText:I think you'll enjoy this.
+9:TAUNT/szText:I'll squash you like a bug!
+10:TAUNT/szText:I'll stab you until you say 'ouch, I'm dead'!
+11:TAUNT/szText:I'll carve ya up like a chicken!
+12:TAUNT/szText:Bleed for me!
+13:TAUNT/szText:I can't believe they're paying me for this!
+14:TAUNT/szText:Chop chop chop!
+15:TAUNT/szText:I'll gut you like a fish!
+16:TAUNT/szText:You could use a shave!
+17:TAUNT/szText:Time for harakiri, asshole!
+18:TAUNT/szText:I'm going to cut out your living guts!

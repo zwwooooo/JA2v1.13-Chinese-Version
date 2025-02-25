@@ -1,0 +1,59 @@
+0:TAUNT/szText:Oh, Foxy. I didn't even have time to read you my poem....
+1:TAUNT/szText:Serves you right, you slut!
+2:TAUNT/szText:What can I say, I'm a better draw.
+3:TAUNT/szText:I'm gonna miss your cinematography...
+4:TAUNT/szText:Ashes to ashes, dust to dust.
+5:TAUNT/szText:Go to hell, Hellar!
+6:TAUNT/szText:That door revolved one time too many...
+7:TAUNT/szText:Rot in hell, you backstabbing bastard.
+8:TAUNT/szText:Take a hike, Mike! Damn, that sounded better in my head...
+9:TAUNT/szText:I'll give you my autograph, Gillitt... in your condolence book!
+10:TAUNT/szText:I knew I was better than you, Gillitt!
+11:TAUNT/szText:I just whacked Miguel Cordona! Finally, the Queen will hear about me!
+12:TAUNT/szText:Wanna see a magic trick? Bam, he's gone!
+13:TAUNT/szText:Oh no, he's going down! Prepare for the shockwave!
+14:TAUNT/szText:You are a sad, strange little man, and you have my pity!
+15:TAUNT/szText:Hey, Cordona! Queen Dee Dee says hi!
+16:TAUNT/szText:I'll get a promotion for killing you, rebel scum!
+17:TAUNT/szText:Bang-bang! Just like in 'Attack of the Clydesdales'!
+18:TAUNT/szText:Much Dust, Many Bullets!
+19:TAUNT/szText:Get back on your Honda, and travel away!
+20:TAUNT/szText:Forgive me, for I have sinned!
+21:TAUNT/szText:Get back to your grave, you freakin' zombie!
+22:TAUNT/szText:Please, tell us the story about Gettysburg again!
+23:TAUNT/szText:Now that's an easy target!
+24:TAUNT/szText:Nice ears, Jumbo! They'll look fine on my necklace!
+25:TAUNT/szText:Where's your God now?!
+26:TAUNT/szText:Father, what about the fifth commandment? You damn hypocrite!
+27:TAUNT/szText:Who's that psycho chick?
+28:TAUNT/szText:Aren't you a bit old for this, geezer?
+29:TAUNT/szText:All the fat didn't protect your internal organs?
+30:TAUNT/szText:No, not you Lynx! I wanted to hang your head over the chimney!
+31:TAUNT/szText:This one's delusional - he thinks he's a killer whale!
+32:TAUNT/szText:How appropriate, you fight like a big fat cow!
+33:TAUNT/szText:Stop shaking! I can't hit you!
+34:TAUNT/szText:Stop moving! I can't aim when the ground is shaking!
+35:TAUNT/szText:Holy shit, it's Gus Tarballs! We're fucked!
+35:TAUNT/szTextCensored:Holy shit, it's Gus Tarballs! We're screwed!
+36:TAUNT/szText:Hey, it's the guy from 'Wild, Wild East'! I'm your biggest fan!
+37:TAUNT/szText:Enemy detected! Damn, he's hard to miss...
+38:TAUNT/szText:Howdy, pardner!
+39:TAUNT/szText:You remind me of my Chinese friend... Ug Lee!
+40:TAUNT/szText:Well, if it ain't my favourite celebrity! I have all your posters back in the barracks...
+41:TAUNT/szText:You know, I could slap you right now, but I don't want a slut on my hand!
+42:TAUNT/szText:Nice guns you've got there! Are they real, or just replicas?
+43:TAUNT/szText:Guys, don't shoot the cushions!
+44:TAUNT/szText:Hey guys, I think this one's pregnant!
+45:TAUNT/szText:Quick, someone call Captain Ahab!
+46:TAUNT/szText:Are you lost? The auditions for 'Free Willy' are that way!
+47:TAUNT/szText:Please, don't eat me!
+48:TAUNT/szText:Hey honey, what are you doing here? You couldn't handle the washing machine?
+49:TAUNT/szText:Look guys, I've found a fossil!
+50:TAUNT/szText:Look guys, I've found a fossil!
+51:TAUNT/szText:Look guys, I've found a fossil!
+52:TAUNT/szText:Look guys, the dinosaurs are still alive!
+53:TAUNT/szText:Look guys, the dinosaurs are still alive!
+54:TAUNT/szText:Look guys, the dinosaurs are still alive!
+55:TAUNT/szText:Wow, you've got nice... personality.
+56:TAUNT/szText:You remind me of a younger, dumber Schwarzenegger!
+57:TAUNT/szText:Hey, asshole! Eighties called, they want their haircut back!

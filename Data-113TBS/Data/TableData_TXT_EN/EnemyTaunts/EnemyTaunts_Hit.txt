@@ -1,0 +1,21 @@
+0:TAUNT/szText:Does it hurt to be dead?
+1:TAUNT/szText:Bingo!
+2:TAUNT/szText:Excellence is not a skill. It's an attitude.
+3:TAUNT/szText:Poor thing! He's bleeding.. Hold on, I'll find you a tampon.
+4:TAUNT/szText:How's karma tasting? Not so good?
+5:TAUNT/szText:The doctor is in!
+6:TAUNT/szText:Operation successful!
+7:TAUNT/szText:You taste like chicken!
+8:TAUNT/szText:You know what would be nice right now? Fava beans and a glass of chianti!
+9:TAUNT/szText:Chop chop chop!
+10:TAUNT/szText:Fresh meat!
+11:TAUNT/szText:I'll drink your blood!
+12:TAUNT/szText:Don't worry, it's disinfected!
+13:TAUNT/szText:Mmmmmincemeat!
+14:TAUNT/szText:Bullseye!
+15:TAUNT/szText:Watch out, the lightning may strike... Oh, it just did!
+16:TAUNT/szText:I see you... and now I can see through you!
+17:TAUNT/szText:Normally I wouldn't hit a woman... Oh, who am I kidding!
+18:TAUNT/szText:See? Girls can fight too!
+19:TAUNT/szText:Girl power!
+20:TAUNT/szText:I now pronounce you... man and bullet.

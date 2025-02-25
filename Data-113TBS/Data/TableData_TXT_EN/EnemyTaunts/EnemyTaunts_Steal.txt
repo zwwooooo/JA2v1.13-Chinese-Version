@@ -1,0 +1,5 @@
+0:TAUNT/szText:Hey, gimme that!
+1:TAUNT/szText:Nice toy!
+2:TAUNT/szText:Give me that, you're not using it properly anyway!
+3:TAUNT/szText:Ooh, shiny!
+4:TAUNT/szText:Nice stuff you... had... there!

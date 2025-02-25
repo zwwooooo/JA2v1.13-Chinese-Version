@@ -1,0 +1,6 @@
+0:TAUNT/szText:大家注意！我们确认遇到敌兵！
+1:TAUNT/szText:大家听着，事情有些不妙！
+2:TAUNT/szText:谁能过去查看一下？
+3:TAUNT/szText:可能遇敌！哦，我希望就是他们。好久没有杀人了。
+4:TAUNT/szText:让我猜猜，又是一次误报。
+5:TAUNT/szText:请问，谁能过去看看吗？

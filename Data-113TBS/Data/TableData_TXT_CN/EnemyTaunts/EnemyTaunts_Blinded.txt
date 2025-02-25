@@ -1,0 +1,11 @@
+0:TAUNT/szText:操，我的眼睛！
+0:TAUNT/szTextCensored:啊，我的眼睛！
+1:TAUNT/szText:我什么都看不见了！
+2:TAUNT/szText:谁把灯关了？！
+3:TAUNT/szText:呃，我的眼睛！
+4:TAUNT/szText:哦天啊，我瞎了！
+5:TAUNT/szText:妈的，牧师说得对！杀人确实会让人失明！
+6:TAUNT/szText:谁来帮帮我！我看不见了！
+7:TAUNT/szText:你以为我瞎了就找不到你？我可以闻到你在瑟瑟发抖！
+8:TAUNT/szText:我的眼睛着火了！
+9:TAUNT/szText:哦你好黑暗，我的老朋友。

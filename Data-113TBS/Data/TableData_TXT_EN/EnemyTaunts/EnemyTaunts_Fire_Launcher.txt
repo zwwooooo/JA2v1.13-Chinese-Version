@@ -1,0 +1,30 @@
+0:TAUNT/szText:Say hello to my lil' friend!
+1:TAUNT/szText:Barbecue time!
+2:TAUNT/szText:Suck it down!
+3:TAUNT/szText:Bam!
+4:TAUNT/szText:Kaboom!
+5:TAUNT/szText:Dodge this!
+6:TAUNT/szText:I like it!
+7:TAUNT/szText:Hahaha!
+8:TAUNT/szText:Die in fire, bitch!
+9:TAUNT/szText:Die in fire, son of a bitch!
+10:TAUNT/szText:Say your prayers!
+11:TAUNT/szText:Hell yeah!
+12:TAUNT/szText:There's no kill like overkill!
+13:TAUNT/szText:My gun's bigger than yours!
+14:TAUNT/szText:I got a present for ya!
+15:TAUNT/szText:Watch and learn.
+16:TAUNT/szText:Special delivery!
+17:TAUNT/szText:You should see your face now!
+18:TAUNT/szText:Didn't see THAT coming, huh?
+19:TAUNT/szText:Checkmate!
+20:TAUNT/szText:I always wanted to do this.
+21:TAUNT/szText:Peace through power!
+22:TAUNT/szText:This job ain't that bad.
+23:TAUNT/szText:Now I remember why I joined the army!
+24:TAUNT/szText:Ooh, somebody stop me!
+25:TAUNT/szText:You're welcome!
+26:TAUNT/szText:There goes the neighborhood!
+27:TAUNT/szText:Denied!
+28:TAUNT/szText:Hold my beer and watch this!
+29:TAUNT/szText:If I had a dick, this is when I would tell you to suck it!

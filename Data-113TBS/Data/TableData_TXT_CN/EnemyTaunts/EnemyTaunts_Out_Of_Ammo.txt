@@ -1,0 +1,6 @@
+0:TAUNT/szText:我现在该怎么办？
+1:TAUNT/szText:子弹打完了！
+2:TAUNT/szText:我这边快没子弹了！
+3:TAUNT/szText:需要弹药！
+4:TAUNT/szText:我没子弹了！
+5:TAUNT/szText:需要补充弹药！

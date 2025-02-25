@@ -1,0 +1,39 @@
+0:TAUNT/szText:敌人！
+1:TAUNT/szText:敌人！！！
+2:TAUNT/szText:那里有一个！
+3:TAUNT/szText:准备受刑吧！
+4:TAUNT/szText:哦，嗨！
+5:TAUNT/szText:天啊，你那么丑，都算是现代艺术了！
+6:TAUNT/szText:嘿，宝贝，我啥都不做就能把你逼疯了！
+7:TAUNT/szText:嘿，宝贝，你是欠条本吗？因为你浑身写满了欠抽！
+8:TAUNT/szText:嘿，宝贝，从天堂掉到地上摔得一定很疼吧？
+9:TAUNT/szText:好吧，去叫上你的小伙伴们吧...我在这等着！
+10:TAUNT/szText:嘿，宝贝，你是从玩具店逃出来的吗？你就是个活芭比！
+11:TAUNT/szText:看看谁来野餐了！
+12:TAUNT/szText:你来这儿一定是发疯了吧！
+13:TAUNT/szText:嘿，伙计，这家伙很痛苦，我们应该给他一个了结吧！
+14:TAUNT/szText:救命！我遇到了一个停不下来的怪物！
+15:TAUNT/szText:你看上去很累，也许我们该让你闭上眼睛...永远地！
+16:TAUNT/szText:你的父母是近亲吗？
+17:TAUNT/szText:我们知道人都没有那么漂亮，不过你那张鬼脸是怎么回事吗？
+17:TAUNT/szTextCensored:Now, we know that we aren't all that cute, but what the hell happened to you?
+18:TAUNT/szText:让我猜猜...你父母是用弹弓喂你吃饭的吗？
+19:TAUNT/szText:我可以用霰弹枪在你的脸上来一发，你看上去会更漂亮一点！
+20:TAUNT/szText:喔！谁把大猩猩放出来了？
+21:TAUNT/szText:喔，你真是好...他妈的丑啊！
+21:TAUNT/szTextCensored:Wow, you're pretty... freakin' ugly!
+22:TAUNT/szText:卧槽，他们都是异装癖啊！
+23:TAUNT/szText:姑娘，看你那发型...你大概是金发...狗吧！
+24:TAUNT/szText:你的那张脸就是大规模杀伤性武器！
+25:TAUNT/szText:作为外星人，你是怎么看人类的？
+26:TAUNT/szText:约个会怎样 - 只有你，我和一卷胶带？
+27:TAUNT/szText:约个会怎样 - 只有你，我和一卷胶带？
+28:TAUNT/szText:嘿，帅哥，你背包里装的是什么？三明治吗？
+29:TAUNT/szText:嘿，姑娘，你背包里装的是什么？三明治吗？
+30:TAUNT/szText:如果我扔一根棍子，你会跑过去捡吗？
+31:TAUNT/szText:如果你不跑的话我怎么会打偏呢？
+32:TAUNT/szText:哦，天哪，看看你。还有谁受伤了吗？
+33:TAUNT/szText:哦，天哪，看看你。还有谁受伤了吗？
+34:TAUNT/szText:嘿，混蛋！在这儿！
+35:TAUNT/szText:我一生都没有见过这么多闭塞乡下的混蛋。
+35:TAUNT/szTextCensored:Never seen so many backwards ass country retards in my life.

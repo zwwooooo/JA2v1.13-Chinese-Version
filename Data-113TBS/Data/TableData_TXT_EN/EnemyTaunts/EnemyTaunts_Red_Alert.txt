@@ -1,0 +1,32 @@
+0:TAUNT/szText:They're here!
+1:TAUNT/szText:Now the fun can start!
+2:TAUNT/szText:I've waited a looong time for this.
+3:TAUNT/szText:Sucker with the lowest body count buys drinks!
+4:TAUNT/szText:They have no idea what they are in for...
+5:TAUNT/szText:Everyone get ready!
+6:TAUNT/szText:Killing time!
+7:TAUNT/szText:I call dibs on any rocket launchers we loot from their corpses!
+8:TAUNT/szText:Finally! Some carnage!
+9:TAUNT/szText:Oh, I can't wait to get my hands on them!
+10:TAUNT/szText:Finally, my training will pay off.
+11:TAUNT/szText:Everybody, wake up!
+12:TAUNT/szText:Time to earn my paycheck...
+13:TAUNT/szText:Now I'll be able to prove myself.
+14:TAUNT/szText:We have the tactical advantage!
+15:TAUNT/szText:Maybe I'll get a medal!
+16:TAUNT/szText:We're under attack!
+17:TAUNT/szText:Oh, ain't that just great?
+18:TAUNT/szText:Can't guy get a nap around here?
+19:TAUNT/szText:Enemy attack. That's something new.
+20:TAUNT/szText:Yay. 'Cause nobody saw that coming.
+21:TAUNT/szText:I'm totally gonna desert as soon as we start losing.
+22:TAUNT/szText:Thanks for turning my shitty day into a complete disaster, assholes!
+23:TAUNT/szText:Take positions!
+24:TAUNT/szText:I hoped this would never happen...
+25:TAUNT/szText:Fire at will!
+26:TAUNT/szText:It was bound to happen eventually.
+27:TAUNT/szText:Alert! Alert!
+28:TAUNT/szText:Intruders!
+29:TAUNT/szText:We've got company!
+30:TAUNT/szText:Enemy detected!
+31:TAUNT/szText:Enemy over here!

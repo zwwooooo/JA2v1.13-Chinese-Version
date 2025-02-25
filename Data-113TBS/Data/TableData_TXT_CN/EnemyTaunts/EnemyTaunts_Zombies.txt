@@ -1,0 +1,75 @@
+0:TAUNT/szText:这是一个笑话吗？
+1:TAUNT/szText:地狱里都住满了吗！
+2:TAUNT/szText:它们来报复我们了！
+3:TAUNT/szText:很好，这个国家正需要这些。他妈的僵尸灭城！
+3:TAUNT/szTextCensored:Great, that's exactly what this country needs. A freaking zombie apocalypse!
+4:TAUNT/szText:记住，瞄准头部，瞄准头部...
+5:TAUNT/szText:真的？我的意思是...靠！
+6:TAUNT/szText:一切都他妈的乱套了！
+6:TAUNT/szTextCensored:That's just messed up!
+7:TAUNT/szText:接下来？狼人？吸血鬼？
+8:TAUNT/szText:来吃我啊！来啊，你们这些烂尸！
+9:TAUNT/szText:我要把你们送回地狱！
+10:TAUNT/szText:给它们送去些医务兵！
+11:TAUNT/szText:哦不！它们能闻到我的大脑！
+12:TAUNT/szText:这不是僵尸！严格说，它们只是被感染了...
+13:TAUNT/szText:它们是在跑还是在走？我糊涂了...
+14:TAUNT/szText:它们是活的！
+15:TAUNT/szText:也许它们是友善的。
+16:TAUNT/szText:它们是...活生生的。
+17:TAUNT/szText:没什么不是真的，这就是真的。
+18:TAUNT/szText:它们复活了！
+19:TAUNT/szText:一定有什么合理的解释。病毒，宇宙辐射，也许是彗星...
+20:TAUNT/szText:我不需要跟活死人谈判！
+21:TAUNT/szText:那么死后也是有生活的！
+22:TAUNT/szText:我的天哪。剧情曲折！
+23:TAUNT/szText:操，也许我忘了吃药了。
+23:TAUNT/szTextCensored:Crap, I think I forgot to take my pills.
+24:TAUNT/szText:就这样吧，不能再嗑药了。
+25:TAUNT/szText:我就知道那些电影都是取材于现实的！
+26:TAUNT/szText:伙计，你长的真他妈的恐怖。
+26:TAUNT/szTextCensored:You're one spooky dude, man.
+27:TAUNT/szText:哦哦哦。僵尸。好真实哦。
+28:TAUNT/szText:这儿有僵尸！
+29:TAUNT/szText:操他妈的全球变暖，我们这才是真的麻烦！
+29:TAUNT/szTextCensored:Screw global warming, we've got real problems here!
+30:TAUNT/szText:活死人！
+31:TAUNT/szText:这是一场噩梦！
+32:TAUNT/szText:亵渎神灵！
+33:TAUNT/szText:别啊！连17秒都还不到！
+34:TAUNT/szText:在你的一生中你总有一天会意识到你认识的死人比活人多。
+35:TAUNT/szText:吓死我了！
+36:TAUNT/szText:你会很惊讶地发现这个从一团糟变成彻底的灾难是多么的快。
+37:TAUNT/szText:这可能会更糟。它们也许是纳粹！
+38:TAUNT/szText:我需要的时候却找不到我的割草机了！
+39:TAUNT/szText:这是反自然规律的，你们这些怪物！
+40:TAUNT/szText:唔...我想也许我会变成一个帅气的僵尸。
+41:TAUNT/szText:不！我不想变成你们的一员！
+42:TAUNT/szText:离我珍贵的脑子远一点！
+43:TAUNT/szText:请不要吃我！我太胖了，而且血糖很高！
+44:TAUNT/szText:嗷嗷！我现在该把它切下来吗？！
+45:TAUNT/szText:他们要吃了我！哦我的上帝啊啊啊！
+46:TAUNT/szText:别吃我的脸！我美丽的脸！
+47:TAUNT/szText:哦，好疼！
+48:TAUNT/szText:突然，我变得很想吃脑子！
+49:TAUNT/szText:这回给过乖乖地死着！
+50:TAUNT/szText:你又...死了。
+51:TAUNT/szText:永眠吧！
+52:TAUNT/szText:如果它们再站起来，我就要发疯了。
+53:TAUNT/szText:好好躺着！
+54:TAUNT/szText:从哪里来回哪里去吧！
+55:TAUNT/szText:犹大死了。
+56:TAUNT/szText:看来有人被吵醒了。
+57:TAUNT/szText:这就是我所说的相变！
+58:TAUNT/szText:你知道现在什么最好用吗？当然是电锯！
+59:TAUNT/szText:谁快用焰火啥的吸引它们的注意力！
+60:TAUNT/szText:*吹口哨* 死人的派对！谁能多叫一些来...
+61:TAUNT/szText:是时候踢一踢僵尸的屁股了！
+62:TAUNT/szText:如果它会流血，我就能杀掉它！
+63:TAUNT/szText:男人，女人，小孩，僵尸...见一个杀一个！
+64:TAUNT/szText:它又...活过来了！
+65:TAUNT/szText:嘿！这是保险欺诈！
+66:TAUNT/szText:好吧，这实在是太匪夷所思了。
+67:TAUNT/szText:看来有人在墓地里走错方向了。
+68:TAUNT/szText:耶，这也许管用。除非是啥现代僵尸，那些被病毒感染了啥的。
+69:TAUNT/szText:要么就死翘翘了，要么还能长出来两个。希望是前者。

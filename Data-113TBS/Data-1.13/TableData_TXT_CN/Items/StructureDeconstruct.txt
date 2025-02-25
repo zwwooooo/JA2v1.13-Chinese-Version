@@ -1,0 +1,5 @@
+0:STRUCTURE/szTileSetDisplayName:沙袋
+1:STRUCTURE/szTileSetDisplayName:铁丝网
+2:STRUCTURE/szTileSetDisplayName:中型木堆
+3:STRUCTURE/szTileSetDisplayName:大型木堆
+4:STRUCTURE/szTileSetDisplayName:木墙

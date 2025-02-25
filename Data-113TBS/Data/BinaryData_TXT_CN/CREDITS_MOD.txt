@@ -1,0 +1,36 @@
+@T,C144,R144,D16,B40,S10,J1,{;JA2 1.13 & DBB汉化人员
+@T,C144,};（按中英文字母顺序）
+@T,C133,{;Adamsun
+@T,C133;anzhifei
+@T,C133;darkguitar
+@T,C133;DemonGuo
+@T,C133;风魔博文
+@T,C133;HLTVrocks
+@T,C133;jagged
+@T,C133;龙之帝国小猪
+@T,C133;mmm
+@T,C133;MojaKenzo
+@T,C133;馒头不如米饭
+@T,C133;mustang_er
+@T,C133;nemo111
+@T,C133;noword
+@T,C133;seanfx
+@T,C133;threewings
+@T,C133;退壳挺
+@T,C133;wasteboy
+@T,C133;无名亡者
+@T,C133;ziwen
+@T,C133,};zwwooooo
+@T,C144,R144,D16,B40,S10,J1;代码
+@T,C133,{;noword
+@T,C133,};zwwooooo
+@T,C144,R144,D16,B40,S10,J1,{;特别鸣谢
+@T,C144,};（对汉化提供建议&帮助）
+@T,C133,{;daboboye
+@T,C133;hugo_hu
+@T,C133;磊少
+@T,C133;lonelyman
+@T,C133;starfinder
+@T,C133;maxwinterking
+@T,C133,};mqkakui
+@T,C144,J0;JA2 1.13汉化是建立在原金版TBS汉化的基础上，感谢原金版全体汉化人员！

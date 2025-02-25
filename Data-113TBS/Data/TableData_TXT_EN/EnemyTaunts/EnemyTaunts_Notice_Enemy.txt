@@ -1,0 +1,21 @@
+0:TAUNT/szText:Fantastic.
+1:TAUNT/szText:'Surely they wouldn't dare to attack you.' Riiight.
+2:TAUNT/szText:Everybody stay calm, and we will make it through.
+3:TAUNT/szText:Da'ffff...!
+4:TAUNT/szText:Big mistake!
+5:TAUNT/szText:Holy crap!
+6:TAUNT/szText:Enemy!
+7:TAUNT/szText:Enemy!!!
+8:TAUNT/szText:There is one!
+9:TAUNT/szText:Intruders!
+10:TAUNT/szText:Holy shit!
+11:TAUNT/szText:I spy with my little eye!
+12:TAUNT/szText:I have a sighting!
+13:TAUNT/szText:Enemy forces!
+14:TAUNT/szText:Enemy detected!
+15:TAUNT/szText:Enemy over here!
+16:TAUNT/szText:Holy shit! Kill it before it breeds!
+17:TAUNT/szText:No offense lady, but I wouldn't touch you with a stick!
+18:TAUNT/szText:Look who's come to the picnic!
+19:TAUNT/szText:You've got to be crazy to come here!
+20:TAUNT/szText:Over here, you morons! 

@@ -1,0 +1,5 @@
+0:TAUNT/szText:嘿，这个给我！
+1:TAUNT/szText:不错的玩意！
+2:TAUNT/szText:给我，反正你的用法也不对！
+3:TAUNT/szText:哦哦哦，好漂亮！
+4:TAUNT/szText:你的东西...很...漂...亮！

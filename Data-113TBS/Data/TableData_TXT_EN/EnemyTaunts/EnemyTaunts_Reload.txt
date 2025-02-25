@@ -1,0 +1,5 @@
+0:TAUNT/szText:Cover me, I'm reloading!
+1:TAUNT/szText:I'm out, reloading!
+2:TAUNT/szText:Gotta reload!
+3:TAUNT/szText:Reloading!
+4:TAUNT/szText:Gotta put new batteries in my kill machine!

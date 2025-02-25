@@ -1,0 +1,3 @@
+0:DELIVERYMETHOD/description:Overnight express
+1:DELIVERYMETHOD/description:2 Business Days
+2:DELIVERYMETHOD/description:Standard Service

@@ -1,0 +1,3 @@
+1:FACILITYTYPE/szFacilityName:Legacy Militia Training Facility
+2:FACILITYTYPE/szFacilityName:Small Sleazy Bar
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:

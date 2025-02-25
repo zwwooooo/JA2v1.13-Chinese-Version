@@ -1,0 +1,159 @@
+0:LOADSCREENHINT/szName:This template should never show up
+1:LOADSCREENHINT/szName:Most dedicated machine guns have replaceable barrels. Use this to rapidly cool down your gun during combat.
+2:LOADSCREENHINT/szName:Use your knife on a corpse to retrieve its uniform or pick up the body.
+3:LOADSCREENHINT/szName:Spies can use enemy uniforms to disguise themselves as soldiers.
+4:LOADSCREENHINT/szName:You can toggle between different scopes and sights by pressing [.].
+5:LOADSCREENHINT/szName:Leaving fresh food lying around for a few days will spoil it, making it unhealthy.
+6:LOADSCREENHINT/szName:You can cure poisoning by taking an antidote or using the DOCTOR assignment.
+7:LOADSCREENHINT/szName:If an 'M' appears on your gun, that means it is currently mounted onto something, resulting in better stability.
+8:LOADSCREENHINT/szName:Press [CTRL]+[Z] to lock/release the mouse cursor in windowed mode. Useful when exiting a sector in the tactical screen.
+9:LOADSCREENHINT/szName:Doorway blocked? Press [X] when standing next to someone to swap places.
+10:LOADSCREENHINT/szName:Need help? Help yourself by pressing [H] in strategic screen. And visit the helpful bears at www.bears-pit.com.
+11:LOADSCREENHINT/szName:Turn the wheel to your fortune. Increase your Chance to Hit (CtH) in all fire modes with the [MOUSE-WHEEL]. [ALT]+[MOUSE-WHEEL] sets the size of auto-fire volleys.
+12:LOADSCREENHINT/szName:Some sectors offer facilities like bars or mines that you can assign mercs to in the strategic screen. Tool tips hinting at a facility's function appear when assigning a merc.
+13:LOADSCREENHINT/szName:Guild of thieves. Steal an opponent's gun with the hand-cursor [CTRL]+[LEFT-MOUSE-BUTTON]. If an enemy is kissing the dust in a non-dying state you may strip off everything.
+14:LOADSCREENHINT/szName:EOD flag signals. Mind you, the blue flags you may put on a tile to mark a mine or trap you've spotted are also visible and reacted to by the enemy.
+15:LOADSCREENHINT/szName:Holding [END] in the tactical screen shows the currently selected merc's detailed field of vision, ranging from red (cannot spot anyone) to green (spot somebody lying prone).
+16:LOADSCREENHINT/szName:Red Alert! Holding [DEL] in the tactical screen shows how well enemies you know of can see the selected merc, ranging from red (will be seen even if prone) to green (perfect concealment).
+17:LOADSCREENHINT/szName:Jagged windowing. Shoot the glass (if you want to avoid taking damage), face the open window, and climb through it with [SHIFT]+[J].
+18:LOADSCREENHINT/szName:While in sector inventory, click a merc's empty inventory slots for a list of items that can fit.
+19:LOADSCREENHINT/szName:While in sector inventory, click an item's empty attachment slots for a list of compatible attachments.
+20:LOADSCREENHINT/szName:While in sector inventory, [CTRL]+[LEFT-MOUSE-BUTTON] on a merc's empty inventory slots for a categorized list of items in that sector.
+21:LOADSCREENHINT/szName:When choosing items via popup menus (accessible through clicking empty inventory / attachment slots), the least damaged item will be chosen.
+22:LOADSCREENHINT/szName:Press [CTRL]+[SHIFT]+[X] to enable real-time sneaking. When active, you won't enter turn-based mode when you spot enemy soldiers - as long as they are not alerted of your presence.
+23:LOADSCREENHINT/szName:Press [CTRL]+[X] to enter turn-based mode while real-time sneaking is active. This only works when you see enemy soldiers.
+24:LOADSCREENHINT/szName:Illuminate nighttime enemies with flares to increase your chance of shooting them.
+25:LOADSCREENHINT/szName:Your merc is under fire and can't fall back? Cover them with smoke grenades.
+26:LOADSCREENHINT/szName:Depending on your settings, fully repairing a gun cleans it as well.
+27:LOADSCREENHINT/szName:Shops not only sell, but also buy some of your gear. They can be quite picky, though.
+28:LOADSCREENHINT/szName:Afraid enemies will interrupt you? Shoot their legs and hope they'll fall.
+29:LOADSCREENHINT/szName:It is harder to hit a running enemy.
+30:LOADSCREENHINT/szName:Open a useful sector menu with [CTRL]+[.].
+31:LOADSCREENHINT/szName:Increase the number of bullets on automatic fire with [RIGHT-MOUSE-BUTTON].
+32:LOADSCREENHINT/szName:Merge alcohol with a rag to create a molotov cocktail.
+33:LOADSCREENHINT/szName:Some NPCs can be bribed...
+34:LOADSCREENHINT/szName:Sneaking while running seems unintuitive, but it works.
+35:LOADSCREENHINT/szName:You can quickly kill a prone enemy with a knife.
+36:LOADSCREENHINT/szName:If the enemy is alerted, they might call in reinforcements...
+37:LOADSCREENHINT/szName:Bobby Ray's website will be available once you find somewhere to receive shipments.
+38:LOADSCREENHINT/szName:Sneaking near unaware enemies trains your agility, but it's risky.
+39:LOADSCREENHINT/szName:Punching increases your dexterity and strength.
+40:LOADSCREENHINT/szName:Doctoring and arming bombs will increase your wisdom.
+41:LOADSCREENHINT/szName:Remote bombs can be detonated with a remote detonator - put it in your hands and press [RIGHT-MOUSE-BUTTON].
+42:LOADSCREENHINT/szName:If you want to automatically move items, you can use the MOVEITEM-assignment within cities.
+43:LOADSCREENHINT/szName:You can toggle firemodes with [B].
+44:LOADSCREENHINT/szName:Pressing [SHIFT]+[R] in the tactical screen orders your entire team to reload.
+45:LOADSCREENHINT/szName:Press [S] to stand and walk, [C] to crouch, [P] to go prone and [R] to stand and run.
+46:LOADSCREENHINT/szName:Press [Z] to toggle sneak mode.
+47:LOADSCREENHINT/szName:Throwing knives can instantly kill an enemy if he is not alerted.
+48:LOADSCREENHINT/szName:You can open a useful description box by clicking [RIGHT-MOUSE-BUTTON] on an item.
+49:LOADSCREENHINT/szName:Long-term mercenary contracts are cheaper... in the long term.
+50:LOADSCREENHINT/szName:Not paying M.E.R.C. bills might have consequences...
+51:LOADSCREENHINT/szName:If the enemy conquers your sectors, they might take your stuff.
+52:LOADSCREENHINT/szName:Doctors can instantly restore some lost health via surgery - but this will drain your medical supplies.
+53:LOADSCREENHINT/szName:Taking too many drugs has consequences.
+54:LOADSCREENHINT/szName:If you ever get airborne, don't forget about those SAM sites.
+55:LOADSCREENHINT/szName:At the start of combat use [SHIFT]+[B] to drop all backpacks your mercs carry. At the end of combat use [CTRL]+[SHIFT]+[F] to pick them all back up.
+56:LOADSCREENHINT/szName:You can destroy blue flags on mines by throwing grenades on them. Enemies may step on unflagged mines. Then again, you might too.
+57:LOADSCREENHINT/szName:Press [L] to look into a direction. Press [L] again to ready your weapon and look through a scope, if one is present on your gun.
+58:LOADSCREENHINT/szName:Always try to end a turn with your mercs at least crouched. It protects you from unintentional friendly fire.
+59:LOADSCREENHINT/szName:You can spray an area with auto fire. Select auto fire, choose how many bullets you want to fire, press and hold [LEFT-MOUSE-BUTTON] on the first target, and drag it around the desired area.
+60:LOADSCREENHINT/szName:Cambria has a hospital where you can heal your mercs.
+61:LOADSCREENHINT/szName:Bipods only give bonuses if you are lying prone or when the gun is mounted onto something.
+62:LOADSCREENHINT/szName:Heavy weapons take a lot of energy if you fire or even hold them ready while standing. Go prone to save energy.
+63:LOADSCREENHINT/szName:When you can, always use cover.
+64:LOADSCREENHINT/szName:Rebel militia can take some enemy fire away from your mercs. Don't count on them to do all the work, though.
+65:LOADSCREENHINT/szName:Mobile militia can follow mercs while travelling on the map as long as a merc group is one sector away from them. Wait for them to arrive at your position.
+66:LOADSCREENHINT/szName:In the militia redistribution menu, holding [CTRL] will move 5 militia. [SHIFT] will move all in a sector.
+67:LOADSCREENHINT/szName:Mobile militia can help you when you attack a town if you keep them with you and call them as reinforcements before battle.
+68:LOADSCREENHINT/szName:On top of the sector inventory screen, there are buttons that help sort and filter items. Hanging your mouse over each button will show an explanation for that button.
+69:LOADSCREENHINT/szName:HP ammo does great damage but is easily stopped by body armor. AP ammo can penetrate body armor but does less damage.
+70:LOADSCREENHINT/szName:Unarmored targets, like bloodcats, take a lot of damage from HP ammo.
+71:LOADSCREENHINT/szName:Helping locals will boost their loyalty. Talking to them may sometimes reveal some useful information as well.
+72:LOADSCREENHINT/szName:You need to have a certain level of loyalty in a town before you can train militia there.
+73:LOADSCREENHINT/szName:Mercs with the Teaching skill train militia faster.
+74:LOADSCREENHINT/szName:Press [O] to open up the options menu in-game.
+75:LOADSCREENHINT/szName:Press [ALT]+[S] to quicksave the game in a quicksave slot. [ALT]+[L] will quickload from the quicksave slot.
+76:LOADSCREENHINT/szName:Press [CTRL]+[S] to open up the save menu instantly.
+77:LOADSCREENHINT/szName:In the main menu, holding [ALT] while clicking the 'Continue saved game' option will instantly load the last saved game.
+78:LOADSCREENHINT/szName:Yellow shirts are admin troops and police that have poor equipment and weapons, and get replaced by regulars not long after you arrive in Arulco.
+79:LOADSCREENHINT/szName:Red shirts are Deidranna's regular army and will be your most common opponent.
+80:LOADSCREENHINT/szName:Black shirts are elite mercenaries hired by Deidranna. They have the best equipment, weapons, and attributes. Higher difficulty levels increase their numbers.
+81:LOADSCREENHINT/szName:Green militia can be trained further to become regular militia. Regular militia is more useful but costs more to train and maintain.
+82:LOADSCREENHINT/szName:Veteran militia can't be trained. Militia can become veteran after combat if they performed well.
+83:LOADSCREENHINT/szName:Try to bandage a dying merc as soon as possible, otherwise the merc may bleed to death.
+84:LOADSCREENHINT/szName:Always try to give a sidearm to your snipers. Snipers are of limited use in close combat situations.
+85:LOADSCREENHINT/szName:Stun grenades can help you render enemies helpless. You can steal equipment from helpless enemies.
+86:LOADSCREENHINT/szName:Try to stun or suppress enemies before throwing a tear gas grenade at them. That will prevent them from getting out of the gas cloud or using gas masks.
+87:LOADSCREENHINT/szName:Always check if an enemy has a gas mask before using tear gas. Hold [ALT] while targeting an enemy to see his details. The level of details depends on the distance from the selected merc.
+88:LOADSCREENHINT/szName:Make sure you keep your gun fully loaded at all times with [ALT]+[R].
+89:LOADSCREENHINT/szName:Don't forget to use cover.
+90:LOADSCREENHINT/szName:If trees get in your LoS (Line of Sight), press [T] to clear things up. You can press the [DELETE] key to get a better feel for your surroundings.
+91:LOADSCREENHINT/szName:L.B.E. stands for Load Bearing Equipment and allows you to customize your inventory slots.
+92:LOADSCREENHINT/szName:Switch between ground and rooftop targets with the [TAB] key.
+93:LOADSCREENHINT/szName:Shoot from behind cover and know how many AP's it takes to get your butt back down again.
+94:LOADSCREENHINT/szName:Pay attention to what mercs hear, it can save you a whole lot of pain if you know where they're coming from!
+95:LOADSCREENHINT/szName:You'll see a white "Ping" blink on the location of any overheard sounds.
+96:LOADSCREENHINT/szName:Firing your weapon can draw some heat away from an injured merc or someone who's in it knee deep!
+97:LOADSCREENHINT/szName:Stay away from light sources at night and try to use them to your advantage.
+98:LOADSCREENHINT/szName:Press [ALT]+[Z] to order all your mercs into stealth mode, and [=] to select them all.
+99:LOADSCREENHINT/szName:Relying on sound is even more important at night. Without the proper equipment you'll hear more than you can see.
+100:LOADSCREENHINT/szName:Night operations may be your best bet early on, when you are relying on pistols and SMGs.
+101:LOADSCREENHINT/szName:Press [G] to toggle the artificial light around mercs on and off.
+102:LOADSCREENHINT/szName:If you get caught in a thunderstorm, be on your toes: A flash of lightning can give away your position and the rain makes it harder to see.
+103:LOADSCREENHINT/szName:Don't stay bunched together, a stray burst or grenade can do serious damage to a whole squad.
+104:LOADSCREENHINT/szName:Every move you make determines how the battle unfolds.
+105:LOADSCREENHINT/szName:Always deal with the present threat before carrying out another plan.
+106:LOADSCREENHINT/szName:When moving around on a rooftop, try to move in straight lines; moving diagonally can slow you down.
+107:LOADSCREENHINT/szName:Marbles can be surprisingly useful in a fist fight.
+108:LOADSCREENHINT/szName:If you need to get somewhere fast, make sure you don't exceed 100 percent weight on the mercs. It will slow the squad down.
+109:LOADSCREENHINT/szName:Counting bullets during a fight is tough. Don't be surprised when the mercs forget how many they have left.
+110:LOADSCREENHINT/szName:Each mercenary has a different approach and effectiveness when talking to an NPC. Different backgrounds may have an effect on them too. Don't expect Biff to be good at threatening people.
+111:LOADSCREENHINT/szName:Each mercenary has a different sleeping pattern, ranging from 3 to 12 hours to fully restore energy. The "Night Ops" trait reduces this time.
+112:LOADSCREENHINT/szName:Each mercenary has a different tolerance for the number of merc deaths and your overall reputation in Arulco.
+113:LOADSCREENHINT/szName:Avoid keeping two people who don't like each other in the same sector for more than an hour.
+114:LOADSCREENHINT/szName:Certain mercenaries are practically incapable of increasing their stats. You can't teach an old dog new tricks, at least not in a useful timeframe.
+115:LOADSCREENHINT/szName:Game manuals, a hotkey list, a map editor tutorial, and more useful documents can be found in the "Docs" folder in your JA2 installation directory.
+116:LOADSCREENHINT/szName:Game resolution and the playing of intro movies can be tweaked in "Ja2.ini".
+117:LOADSCREENHINT/szName:Do you want to fight against real players or cooperate with your friends? Try the 1.13 multiplayer mode.
+118:LOADSCREENHINT/szName:Press [CTRL]+[ALT]+[G] to toggle mercenary formation movement. When ON and you select more than one merc, they will keep their current formation.
+119:LOADSCREENHINT/szName:Press [CTRL]+[SHIFT]+[S] to sell all items in the current sector inventory at once.
+120:LOADSCREENHINT/szName:Press [CTRL]+[SHIFT]+[E] to load vehicles with as many items as possible from the current sector. [SHIFT]+[E] will unload all items from the vehicle to the current sector.
+121:LOADSCREENHINT/szName:If a merc can't hit a target from their current location, try to suppress with auto fire and then change to a better position.
+122:LOADSCREENHINT/szName:Exploring the farms and city sectors can uncover lots of useful items, like gas for vehicles.
+123:LOADSCREENHINT/szName:In the tactical screen, pressing and holding [RIGHT-MOUSE-BUTTON] over a merc will open up a menu similar to the one on the strategic screen.
+124:LOADSCREENHINT/szName:Press [CTRL]+[C] to open the Cover Display Menu.
+125:LOADSCREENHINT/szName:Press [CTRL]+[V] to open the useful Inventory Manipulations Menu.
+126:LOADSCREENHINT/szName:Press [D] to enter turn-based mode immediately if there is an enemy in the sector.
+127:LOADSCREENHINT/szName:Press [CTRL]+[D] to end your interrupt and there will be no interrupts until next turn.
+128:LOADSCREENHINT/szName:Press [A] or [ALT]+[RIGHTCLICK] to open the Skills Menu, where reinforcements or artillery strikes can be called in by a radio operator.
+129:LOADSCREENHINT/szName:Defensive minefields can be safely placed in captured towns and SAMs, as mercs and militia will avoid them.
+130:LOADSCREENHINT/szName:You can inspect traps before trying to disarm them. Recommended if you are happy with your current number of extremities.
+131:LOADSCREENHINT/szName:Click with the hand-cursor on a blue flag, and the flag can be removed or the trap inspected with the useful Disarm Menu.
+132:LOADSCREENHINT/szName:Placing mines, concertina wire or sandbags is more convenient while holding [SHIFT], relieving the need to manually take a new item from a merc's inventory.
+133:LOADSCREENHINT/szName:If you select several mercs and order movement with [SHIFT] pressed, they will move in formation, trying to keep their relative positions.
+134:LOADSCREENHINT/szName:Press [SHIFT]+[T] to quickly transform the object in your hand.
+135:LOADSCREENHINT/szName:Press [SHIFT]+[O] to quickly transform the scope on your weapon, if you're playing a mod that uses this feature.
+136:LOADSCREENHINT/szName:Press [SHIFT]+[Y] to quickly transform the laser sight on your weapon, if you're playing a mod that uses this feature.
+137:LOADSCREENHINT/szName:Press [SHIFT]+[L] to quickly transform the flashlight in your hand.
+138:LOADSCREENHINT/szName:Out of first aid kits after a tough fight? You can use a knife on a corpse to retrieve their uniform, cut the uniform to rags and then combine those to create makeshift bandages.
+139:LOADSCREENHINT/szName:You can block enemy fire by carrying a riot shield in your hand. Better shields block more damage.
+140:LOADSCREENHINT/szName:If you hover with an empty hand over a map structure, you can sometimes interact with it. Sometimes it's just a sound... sometimes it's something more.
+141:LOADSCREENHINT/szName:If a spy talks to unalerted enemies, they can try to secretly recruit them to your cause.
+142:LOADSCREENHINT/szName:Check out the Features Screen to toggle 1.13 features on and off! You can access it through the Options Screen.
+143:LOADSCREENHINT/szName:Press [\] to break window glass with crowbar or any two-handed weapon.
+144:LOADSCREENHINT/szName:Press [A] or [ALT]+[RIGHTCLICK] to open the Skills Menu, which has many useful actions.
+145:LOADSCREENHINT/szName:Press [SHIFT]+[P] to quickly transform stock on a weapon.
+146:LOADSCREENHINT/szName:Press [ALT]+[Q] to change the launching angle when using a grenade launcher.
+147:LOADSCREENHINT/szName:Press [ALT]+[A] to start auto bandaging mercs.
+148:LOADSCREENHINT/szName:Press [Q] to change the scope mode of a weapon.
+149:LOADSCREENHINT/szName:Press [ESC] to: close the Skills Menu, stop moving, stop dragging, unready weapon.
+150:LOADSCREENHINT/szName:When deploying mercs, you can use the arrow keys to scroll the map. This is useful in mods that use bigger than normal maps.
+151:LOADSCREENHINT/szName:Suppress the enemy. Unloading on full auto in their general direction uses up a lot of ammunition, but it can drain the enemy's APs and make them less capable of shooting back.
+152:LOADSCREENHINT/szName:Fire and maneuver! Split your mercs into two or more groups: while one group moves forward or falls back, the others support them with aimed and suppressive fire.
+153:LOADSCREENHINT/szName:Single shots from long range are often less effective in the New Chance to Hit (NCTH) system. More liberal use of automatic and burst fire can compensate for lower hit probabilities.
+154:LOADSCREENHINT/szName:Closing in with the enemy can be dangerous, but it's also often the fastest way to eliminate them.
+155:LOADSCREENHINT/szName:In the New Chance to Hit system, the fewer aim levels a weapon has, the fewer APs it needs to reach its maximum aimed accuracy.
+156:LOADSCREENHINT/szName:Stick to cover! It saves lives.
+157:LOADSCREENHINT/szName:Artillery is the king of battle. Just a few well-placed mortar shells or rocket-propelled grenades can turn the tide of an engagement.
+158:LOADSCREENHINT/szName:A spotter will increase the accuracy of all nearby mercs who are using sniper rifles. Use the Skills Menu [A] to assign a merc with binoculars in their hands to spotting duty.

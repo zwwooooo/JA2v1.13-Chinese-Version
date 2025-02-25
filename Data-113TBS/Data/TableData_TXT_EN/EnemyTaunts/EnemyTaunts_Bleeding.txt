@@ -1,0 +1,12 @@
+0:TAUNT/szText:I'm leaking!
+1:TAUNT/szText:I'm bleeding!
+2:TAUNT/szText:Everyone, throw whatever you're doing and help me!
+3:TAUNT/szText:Mmmm... blood.
+4:TAUNT/szText:I need medical attention!
+5:TAUNT/szText:I'm spilling blood!
+6:TAUNT/szText:Hey! It DOES taste like iron!
+7:TAUNT/szText:Oh, I'm getting light-headed!
+8:TAUNT/szText:Does it count toward my Honorary Donor card?
+9:TAUNT/szText:I'm bleeding... It was supposed to be them, not me!
+10:TAUNT/szText:Gonna need some sewing!
+11:TAUNT/szText:Oh no... my precious fluids!

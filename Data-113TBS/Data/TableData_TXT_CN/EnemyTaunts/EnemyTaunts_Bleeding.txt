@@ -1,0 +1,12 @@
+0:TAUNT/szText:我在流血！
+1:TAUNT/szText:我出血了！
+2:TAUNT/szText:大家赶紧停下手中的活来帮帮我！
+3:TAUNT/szText:唔...是血
+4:TAUNT/szText:我需要治疗！
+5:TAUNT/szText:我在喷血！
+6:TAUNT/szText:嘿！尝起来确实有铁锈味！
+7:TAUNT/szText:呃，我有点头晕了！
+8:TAUNT/szText:能记到我的献血卡上吗？
+9:TAUNT/szText:我在流血...应该是他们不是我！
+10:TAUNT/szText:需要缝上几针！
+11:TAUNT/szText:哦不...我珍贵的血！

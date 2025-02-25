@@ -1,0 +1,4 @@
+0:TYPE/sNameType:矿井
+0:TYPE/sMineral:银矿
+1:TYPE/sNameType:矿井
+1:TYPE/sMineral:银矿

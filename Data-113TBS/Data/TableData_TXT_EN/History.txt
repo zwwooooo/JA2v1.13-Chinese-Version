@@ -1,0 +1,80 @@
+0:TEXT/sHistory:
+1:TEXT/sHistory:%s was hired from A.I.M.
+2:TEXT/sHistory:%s was hired from M.E.R.C.
+3:TEXT/sHistory:%s died.
+4:TEXT/sHistory:Settled Accounts at M.E.R.C.
+5:TEXT/sHistory:Accepted Assignment From Enrico Chivaldori
+6:TEXT/sHistory:IMP Profile Generated
+7:TEXT/sHistory:Purchased Insurance Contract for %s.
+8:TEXT/sHistory:Canceled Insurance Contract for %s.
+9:TEXT/sHistory:Insurance Claim Payout for %s.
+10:TEXT/sHistory:Extended %s's contract by a day.
+11:TEXT/sHistory:Extended %s's contract by 1 week.
+12:TEXT/sHistory:Extended %s's contract by 2 weeks.
+13:TEXT/sHistory:%s was dismissed.
+14:TEXT/sHistory:%s quit.
+15:TEXT/sHistory:quest started.
+16:TEXT/sHistory:quest completed.
+17:TEXT/sHistory:Talked to head miner of %s
+18:TEXT/sHistory:Liberated %s
+19:TEXT/sHistory:Cheat Used
+20:TEXT/sHistory:Food should be in Omerta by tomorrow
+21:TEXT/sHistory:%s left team to become Daryl Hick's wife
+22:TEXT/sHistory:%s's contract expired.
+23:TEXT/sHistory:%s was recruited.
+24:TEXT/sHistory:Enrico complained about lack of progress
+25:TEXT/sHistory:Battle won
+26:TEXT/sHistory:%s mine started running out of ore
+27:TEXT/sHistory:%s mine ran out of ore
+28:TEXT/sHistory:%s mine was shut down
+29:TEXT/sHistory:%s mine was reopened
+30:TEXT/sHistory:Found out about a prison called Tixa.
+31:TEXT/sHistory:Heard about a secret weapons plant called Orta.
+32:TEXT/sHistory:Scientist in Orta donated a slew of rocket rifles.
+33:TEXT/sHistory:Queen Deidranna has a use for dead bodies.
+34:TEXT/sHistory:Frank talked about fighting matches in San Mona.
+35:TEXT/sHistory:A patient thinks he saw something in the mines.
+36:TEXT/sHistory:Met someone named Devin - he sells explosives.
+37:TEXT/sHistory:Ran into the famous ex-AIM merc Mike!
+38:TEXT/sHistory:Met Tony - he deals in arms.
+39:TEXT/sHistory:Got a rocket rifle from Sergeant Krott.
+40:TEXT/sHistory:Gave Kyle the deed to Angel's leather shop.
+41:TEXT/sHistory:Madlab offered to build a robot.
+42:TEXT/sHistory:Gabby can make stealth concoction for bugs.
+43:TEXT/sHistory:Keith is out of business.
+44:TEXT/sHistory:Howard provided cyanide to Queen Deidranna.
+45:TEXT/sHistory:Met Keith - all purpose dealer in Cambria.
+46:TEXT/sHistory:Met Howard - deals pharmaceuticals in Balime
+47:TEXT/sHistory:Met Perko - runs a small repair business.
+48:TEXT/sHistory:Met Sam of Balime - runs a hardware shop.
+49:TEXT/sHistory:Franz deals in electronics and other goods.
+50:TEXT/sHistory:Arnold runs a repair shop in Grumm.
+51:TEXT/sHistory:Fredo repairs electronics in Grumm.
+52:TEXT/sHistory:Received donation from rich guy in Balime.
+53:TEXT/sHistory:Met a junkyard dealer named Jake.
+54:TEXT/sHistory:Some bum gave us an electronic keycard.
+55:TEXT/sHistory:Bribed Walter to unlock the door to the basement.
+56:TEXT/sHistory:If Dave has gas, he'll provide free fillups.
+57:TEXT/sHistory:Greased Pablo's palms.
+58:TEXT/sHistory:Kingpin keeps money in San Mona mine.
+59:TEXT/sHistory:%s won Extreme Fighting match
+60:TEXT/sHistory:%s lost Extreme Fighting match
+61:TEXT/sHistory:%s was disqualified in Extreme Fighting
+62:TEXT/sHistory:Found a lot of money stashed in the abandoned mine.
+63:TEXT/sHistory:Encountered assassin sent by Kingpin.
+64:TEXT/sHistory:Lost control of sector
+65:TEXT/sHistory:Defended sector
+66:TEXT/sHistory:Lost battle
+67:TEXT/sHistory:Fatal ambush
+68:TEXT/sHistory:Wiped out enemy ambush
+69:TEXT/sHistory:Unsuccessful attack
+70:TEXT/sHistory:Successful attack!
+71:TEXT/sHistory:Creatures attacked
+72:TEXT/sHistory:Killed by bloodcats
+73:TEXT/sHistory:Slaughtered bloodcats
+74:TEXT/sHistory:%s was killed
+75:TEXT/sHistory:Gave Carmen a terrorist's head
+76:TEXT/sHistory:Slay left
+77:TEXT/sHistory:Killed %s
+78:TEXT/sHistory:Met Waldo - aircraft mechanic.
+79:TEXT/sHistory:Helicopter repairs started. Estimated time: %d hour(s).

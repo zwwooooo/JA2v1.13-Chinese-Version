@@ -1,0 +1,11 @@
+0:TAUNT/szText:Crap!
+1:TAUNT/szText:You fuck!
+1:TAUNT/szTextCensored:You freak!
+2:TAUNT/szText:Oh, come on!
+3:TAUNT/szText:Don't make me go over there!
+4:TAUNT/szText:Son of a bitch!
+5:TAUNT/szText:Goddamnit.
+6:TAUNT/szText:Are you tryin' to make me look good?
+7:TAUNT/szText:At the circus it looked easier...
+8:TAUNT/szText:It was just a warning shot!
+9:TAUNT/szText:I wasn't even trying.

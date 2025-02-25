@@ -1,0 +1,17 @@
+0:DESTINATION/name:Austin
+1:DESTINATION/name:Baghdad
+2:DESTINATION/name:Drassen
+3:DESTINATION/name:Hong Kong
+4:DESTINATION/name:Beirut
+5:DESTINATION/name:London
+6:DESTINATION/name:Los Angeles
+7:DESTINATION/name:Meduna
+8:DESTINATION/name:Metavira
+9:DESTINATION/name:Miami
+10:DESTINATION/name:Moscow
+11:DESTINATION/name:New York
+12:DESTINATION/name:Ottawa
+13:DESTINATION/name:Paris
+14:DESTINATION/name:Tripoli
+15:DESTINATION/name:Tokyo
+16:DESTINATION/name:Vancouver

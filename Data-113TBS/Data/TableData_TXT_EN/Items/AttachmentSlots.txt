@@ -1,0 +1,26 @@
+0:ATTACHMENTSLOT/szSlotName:Don't touch me
+1:ATTACHMENTSLOT/szSlotName:Default slot 1
+2:ATTACHMENTSLOT/szSlotName:Default slot 2
+3:ATTACHMENTSLOT/szSlotName:Default slot 3
+4:ATTACHMENTSLOT/szSlotName:Default slot 4
+5:ATTACHMENTSLOT/szSlotName:Barrel Attachments
+6:ATTACHMENTSLOT/szSlotName:Laser Attachments
+7:ATTACHMENTSLOT/szSlotName:Sight Attachments
+8:ATTACHMENTSLOT/szSlotName:Scope Attachments
+9:ATTACHMENTSLOT/szSlotName:Stock Attachments
+10:ATTACHMENTSLOT/szSlotName:Ammo Attachments
+11:ATTACHMENTSLOT/szSlotName:Internal Attachments
+12:ATTACHMENTSLOT/szSlotName:External Attachments 1
+13:ATTACHMENTSLOT/szSlotName:Underbarrel Attachments
+14:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+15:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+16:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+17:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+18:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+19:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+20:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+21:ATTACHMENTSLOT/szSlotName:Rifle Grenade
+22:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+23:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+24:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot
+25:ATTACHMENTSLOT/szSlotName:Rocket Launcher Slot

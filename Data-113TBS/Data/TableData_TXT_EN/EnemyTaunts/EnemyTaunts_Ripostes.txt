@@ -1,0 +1,116 @@
+0:TAUNT/szText:And I've made contact with you! Prepare to die!
+1:TAUNT/szText:Couple? We're not married!
+2:TAUNT/szText:I don't know, maybe I'll send them my CV after I kill you!
+3:TAUNT/szText:PX? What the fuck does that even mean?
+3:TAUNT/szTextCensored:PX? What the hell does that even mean?
+4:TAUNT/szText:No shit, Sherlock!
+5:TAUNT/szText:It will be a one-way trip for you!
+6:TAUNT/szText:Oh yes, by all means! Move out in the open!
+7:TAUNT/szText:Luck is for wusses, real professionals depend on their skill!
+8:TAUNT/szText:What? I can SEE you and HEAR you, you moron!
+9:TAUNT/szText:Yeah, and don't even think about a lunch break!
+10:TAUNT/szText:I'm sorry, didn't catch the name!
+11:TAUNT/szText:Doesn't matter, you'll be dead soon enough.
+12:TAUNT/szText:So THAT'S why she didn't get my postcard.
+13:TAUNT/szText:Indeed I do!
+14:TAUNT/szText:You know there's no such animal, right?
+15:TAUNT/szText:Not yet. But soon you'll meet him!
+16:TAUNT/szText:Trouble is my second name!
+17:TAUNT/szText:Like a bulldog!
+18:TAUNT/szText:You should be!
+19:TAUNT/szText:Your wish is my command!
+20:TAUNT/szText:Nobody ever does.
+21:TAUNT/szText:Just wait, and this trouble will run into YOU!
+22:TAUNT/szText:Scoundrel? I'll make you eat those words!
+23:TAUNT/szText:No, thank you!
+24:TAUNT/szText:We'll see who's about to teach whom!
+25:TAUNT/szText:You're right!
+26:TAUNT/szText:You don't deserve a chance!
+27:TAUNT/szText:Horoscopes lie!
+28:TAUNT/szText:Ding dong!
+29:TAUNT/szText:It's still not too late!
+30:TAUNT/szText:We'll check ourselves!
+31:TAUNT/szText:Need bubbles, sir?
+32:TAUNT/szText:Did you just call me an ass?!
+33:TAUNT/szText:Whatever.
+34:TAUNT/szText:I didn't understand a single word!
+35:TAUNT/szText:It will only get closer!
+36:TAUNT/szText:I'm not really evil... just misunderstood.
+37:TAUNT/szText:It's about to turn into full tournee!
+38:TAUNT/szText:"Stupid fools"? Are you even trying?
+39:TAUNT/szText:As you wish!
+40:TAUNT/szText:Hey! I'm a lady!
+41:TAUNT/szText:I'll dig you one! Six feet under!
+42:TAUNT/szText:Don't worry, I'll send you some!
+43:TAUNT/szText:I'll show you!
+44:TAUNT/szText:You'll wish you wouldn't ask!
+45:TAUNT/szText:You got it wrong, let me educate you!
+46:TAUNT/szText:Was that a rhetorical question?
+47:TAUNT/szText:Now, whose fault is it, if your cocksucker boss buys second hand guns?
+47:TAUNT/szTextCensored:Now, whose fault is it, if your cheap ass boss buys second hand guns?
+48:TAUNT/szText:And soon so will be you!
+49:TAUNT/szText:The only thing layin' low here is you, bitch!
+50:TAUNT/szText:Yeah right, that's why you're sweating!
+51:TAUNT/szText:Advice for today: avoid long travels, new relationships and BULLETS!
+52:TAUNT/szText:Mine said I will kill a lot of people today! I hope it will come true too!
+53:TAUNT/szText:Do people seriously believe in those things? Pathetic.
+54:TAUNT/szText:Tough? I could make that shot with my eyes closed.
+55:TAUNT/szText:And that's just the beginning!
+56:TAUNT/szText:He loves you no more!
+57:TAUNT/szText:OK, this one's out. Next!
+58:TAUNT/szText:You'll be sorry for saying that!
+59:TAUNT/szText:Well, now we can play hide and seek!
+60:TAUNT/szText:You're right! It's the whole company here!
+61:TAUNT/szText:You should have used the plural! Guys, lots of guys!
+62:TAUNT/szText:We'll see about that...
+63:TAUNT/szText:No, it doesn't, but don't worry, we'll be gentle!
+64:TAUNT/szText:Nice grammar, asshole!
+65:TAUNT/szText:Need supplies, wacko?
+66:TAUNT/szText:Here, I'll give you some!
+67:TAUNT/szText:No, you just suck, that's it! No air involved!
+68:TAUNT/szText:Never got this - why bring a knife to a gun fight?
+69:TAUNT/szText:Funny indeed, we had so much fun with him as target practice!
+70:TAUNT/szText:I know some jokes too. For example: you're a joke!
+71:TAUNT/szText:Hey man, the gun isn't stupid, you are!
+72:TAUNT/szText:Suits you fine, huh?
+73:TAUNT/szText:Relax! Why make such a fuss?
+74:TAUNT/szText:The only thing you're gonna get is your butt kicked!
+75:TAUNT/szText:Oh yeah? Wait for the next one!
+76:TAUNT/szText:It was just a warning shot!
+77:TAUNT/szText:I'll scratch you to death!
+78:TAUNT/szText:That's not a scratch. It's a fucking canyon!
+78:TAUNT/szTextCensored:That's not a scratch. It's a freaking canyon!
+79:TAUNT/szText:No. You need to die!
+80:TAUNT/szText:I'll dig you one too with it!
+81:TAUNT/szText:Kiss my ass!
+82:TAUNT/szText:Fireball? What the fuck do you think this is, some kind of video game?
+82:TAUNT/szTextCensored:Fireball? What the hell do you think this is, some kind of video game?
+83:TAUNT/szText:It's OK, I'm here. Follow my voice!
+84:TAUNT/szText:That's what she said!
+85:TAUNT/szText:Please, let it be a close encounter of the sexy kind!
+86:TAUNT/szText:I'm ready any time you are!
+87:TAUNT/szText:Now, now, you're hurting our feelings!
+88:TAUNT/szText:Come on, there's always a room to try something new!
+89:TAUNT/szText:Come over here, I'll give you some.
+90:TAUNT/szText:Is that what it's called these days?
+91:TAUNT/szText:That must be the first time you've ever said that!
+92:TAUNT/szText:Oh, now I'm getting jealous.
+93:TAUNT/szText:I can help you deal with the grief, if you want!
+94:TAUNT/szText:Where? Where?
+95:TAUNT/szText:Maybe I could help you with that?
+96:TAUNT/szText:You need to empty the chamber...
+97:TAUNT/szText:But that's nothing new for you, eh?
+98:TAUNT/szText:Damn, that doesn't even deserve a witty response!
+99:TAUNT/szText:Are you even listening to what you're saying?
+100:TAUNT/szText:Oh, I'll give you one! Just you wait!
+101:TAUNT/szText:You should consider changing your masseur. I volunteer!
+102:TAUNT/szText:Yeah, I bet you did. God.
+103:TAUNT/szText:Oooh. Not today!
+104:TAUNT/szText:No!
+105:TAUNT/szText:Anything for you, princess.
+106:TAUNT/szText:I work this way on women.
+107:TAUNT/szText:Are you doing this on purpose?
+108:TAUNT/szText:Pffft.
+109:TAUNT/szText:Pffft.
+110:TAUNT/szText:I'm just going to pretend I didn't hear that.
+111:TAUNT/szText:Hold on! I'll just drop my clothes, get my rescue tube and I'm coming to save you!

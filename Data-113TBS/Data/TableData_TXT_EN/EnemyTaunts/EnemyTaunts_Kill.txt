@@ -1,0 +1,46 @@
+0:TAUNT/szText:Viva la revolution!
+1:TAUNT/szText:Save a place in hell for your Queen!
+2:TAUNT/szText:Aaand you're dead.
+3:TAUNT/szText:Next!
+4:TAUNT/szText:That's just the beginning, fuckers!
+4:TAUNT/szTextCensored:That's just the beginning, bastards!
+5:TAUNT/szText:Time to loot a corpse, I guess.
+6:TAUNT/szText:Nice job getting yourself killed.
+7:TAUNT/szText:You OK? You look kinda... dead!
+8:TAUNT/szText:Another one to my collection.
+9:TAUNT/szText:You could at least TRY to die with some dignity.
+10:TAUNT/szText:Pathetic.
+11:TAUNT/szText:Amateur.
+12:TAUNT/szText:Let this be a lesson for all of you!
+13:TAUNT/szText:You asked for it.
+14:TAUNT/szText:Your luck ran out.
+15:TAUNT/szText:Time to pay the piper!
+16:TAUNT/szText:Someone, go check his pulse.
+17:TAUNT/szText:Someone, go check her pulse.
+18:TAUNT/szText:Adios!
+19:TAUNT/szText:In the name of all male population around the globe: we're going to miss you.
+20:TAUNT/szText:Oh, too bad. She was kinda cute.
+21:TAUNT/szText:Goodnight sweet prince.
+22:TAUNT/szText:Diagnosis: negative!
+23:TAUNT/szText:It didn't have to end like this!
+24:TAUNT/szText:Yeah! See ya!
+25:TAUNT/szText:Look what you've made me do...
+26:TAUNT/szText:That's one way to skin a cat!
+27:TAUNT/szText:Struggle is the enemy, but lead is the remedy!
+28:TAUNT/szText:Cause of death: acute lead poisoning!
+29:TAUNT/szText:Everyone deserves a happy ending, except you!
+30:TAUNT/szText:Hahaha! Jesus, he fell funny!
+31:TAUNT/szText:Hahaha! Jesus, she fell funny!
+32:TAUNT/szText:Now I have to wash my hands!
+33:TAUNT/szText:Look at my shirt, how am I going to explain this to my wife?
+34:TAUNT/szText:Bullseye!
+35:TAUNT/szText:I'm the best!
+36:TAUNT/szText:It's all in the reflexes!
+37:TAUNT/szText:Neutralised!
+38:TAUNT/szText:Target eliminated!
+39:TAUNT/szText:Another one bites the dust!
+40:TAUNT/szText:I like to look in their eyes...
+41:TAUNT/szText:One down, six billion to go...
+42:TAUNT/szText:Close and personal. Just how I like it!
+43:TAUNT/szText:Looks like a bad case of... split personality!
+44:TAUNT/szText:Did your parents have any children that lived?

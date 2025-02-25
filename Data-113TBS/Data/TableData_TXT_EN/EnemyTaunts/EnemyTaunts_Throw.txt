@@ -1,0 +1,29 @@
+0:TAUNT/szText:Catch!
+1:TAUNT/szText:Here ya go!
+2:TAUNT/szText:Pop goes the weasel.
+3:TAUNT/szText:This one's for you.
+4:TAUNT/szText:Muahaha!
+5:TAUNT/szText:Catch this, swine!
+6:TAUNT/szText:Snack on that!
+7:TAUNT/szText:How 'bout some acupuncture?
+8:TAUNT/szText:Here's a token of my gratitude!
+9:TAUNT/szText:Do you like shiny things?
+10:TAUNT/szText:Here, keep it!
+11:TAUNT/szText:No returns!
+12:TAUNT/szText:Have more where it came from!
+13:TAUNT/szText:Jerk on this, you cocky shit licker!
+13:TAUNT/szTextCensored:Jerk on this, you cocky bastard!
+14:TAUNT/szText:Take this, you maggot!
+15:TAUNT/szText:It's Christmas! And you've been VERY naughty!
+16:TAUNT/szText:Choke on this!
+17:TAUNT/szText:Incoming!
+18:TAUNT/szText:Take cover!
+19:TAUNT/szText:Grenade!
+20:TAUNT/szText:Fire in the hole!
+21:TAUNT/szText:Somebody's gonna get hurt. It ain't gonna be me!
+22:TAUNT/szText:Your life is over, asshole!
+23:TAUNT/szText:Shit, for a moment I thought I threw a pin...
+24:TAUNT/szText:Someone hold my beer and watch this!
+25:TAUNT/szText:Special offer! Two for the price of one!
+26:TAUNT/szText:Special delivery!
+27:TAUNT/szText:Here's a free sample of our products, sir!

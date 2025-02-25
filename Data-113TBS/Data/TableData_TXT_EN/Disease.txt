@@ -1,0 +1,3 @@
+0:DISEASE/szName:Disease
+0:DISEASE/szFatName:|D|i|s|e|a|s|e
+0:DISEASE/szDescription:Disease wasn't a feature in vanilla, so nothing to see here.

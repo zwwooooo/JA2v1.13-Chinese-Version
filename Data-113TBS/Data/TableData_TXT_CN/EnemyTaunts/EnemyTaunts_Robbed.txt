@@ -1,0 +1,9 @@
+0:TAUNT/szText:嘿，谁摸了我？
+1:TAUNT/szText:嘿，你妈没有给你买玩具吗？
+2:TAUNT/szText:卧槽，这家伙是个贼！
+3:TAUNT/szText:偷东西只会让你死得更快！
+4:TAUNT/szText:嘿！那是我的东西！
+5:TAUNT/szText:自己的东西自己买，穷鬼！
+6:TAUNT/szText:哎...你留着吧，反正也是个垃圾！
+7:TAUNT/szText:你个混蛋，我要把你的那双手剁下来！
+8:TAUNT/szText:我会告诉你我们这边都是怎么对待小偷的！

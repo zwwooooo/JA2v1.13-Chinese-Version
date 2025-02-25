@@ -1,0 +1,16 @@
+0:TAUNT/szText:OK, I think it's pretty safe to assume he's dead.
+1:TAUNT/szText:OK, I think it's pretty safe to assume she's dead.
+2:TAUNT/szText:I think I'll skip lunch today.
+3:TAUNT/szText:Hahaha! Fucking awesome!
+3:TAUNT/szTextCensored:Hahaha! Freaking awesome!
+4:TAUNT/szText:Fuck yeah! I love this job!
+4:TAUNT/szTextCensored:Hell yeah! I love this job!
+5:TAUNT/szText:It's OK, you weren't using it anyway.
+6:TAUNT/szText:Boom, head shot!
+7:TAUNT/szText:Wow!
+8:TAUNT/szText:Mind blown!
+9:TAUNT/szText:I wasn't even trying.
+10:TAUNT/szText:Did somebody take a picture?
+11:TAUNT/szText:Pop goes the zit!
+12:TAUNT/szText:Somebody call an ambulance!
+13:TAUNT/szText:Does this mean I can read minds now?

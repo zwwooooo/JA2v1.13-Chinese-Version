@@ -1,0 +1,5 @@
+0:TAUNT/szText:What? Hello? I can't hear anything!
+1:TAUNT/szText:Argh! My ears are bleeding!
+2:TAUNT/szText:What's this ringing?
+3:TAUNT/szText:Huh? It's all silent now...
+4:TAUNT/szText:Suddenly all went quiet. What the hell?

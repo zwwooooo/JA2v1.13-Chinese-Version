@@ -1,0 +1,5 @@
+0:STRUCTURE/szTileSetDisplayName:Sandbags
+1:STRUCTURE/szTileSetDisplayName:Concertina wire
+2:STRUCTURE/szTileSetDisplayName:medium debris
+3:STRUCTURE/szTileSetDisplayName:large debris
+4:STRUCTURE/szTileSetDisplayName:wooden wall

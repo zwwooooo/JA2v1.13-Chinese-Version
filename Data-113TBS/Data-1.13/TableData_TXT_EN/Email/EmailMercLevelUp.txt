@@ -1,0 +1,510 @@
+0:EMAIL/Subject:Subject: None
+0:EMAIL/Message:Message : None
+1:EMAIL/Subject:Subject: None
+1:EMAIL/Message:Message : None
+2:EMAIL/Subject:Subject: None
+2:EMAIL/Message:Message : None
+3:EMAIL/Subject:Subject: None
+3:EMAIL/Message:Message : None
+4:EMAIL/Subject:Subject: None
+4:EMAIL/Message:Message : None
+5:EMAIL/Subject:Subject: None
+5:EMAIL/Message:Message : None
+6:EMAIL/Subject:Subject: None
+6:EMAIL/Message:Message : None
+7:EMAIL/Subject:Subject: None
+7:EMAIL/Message:Message : None
+8:EMAIL/Subject:Subject: None
+8:EMAIL/Message:Message : None
+9:EMAIL/Subject:Subject: None
+9:EMAIL/Message:Message : None
+10:EMAIL/Subject:Subject: None
+10:EMAIL/Message:Message : None
+11:EMAIL/Subject:Subject: None
+11:EMAIL/Message:Message : None
+12:EMAIL/Subject:Subject: None
+12:EMAIL/Message:Message : None
+13:EMAIL/Subject:Subject: None
+13:EMAIL/Message:Message : None
+14:EMAIL/Subject:Subject: None
+14:EMAIL/Message:Message : None
+15:EMAIL/Subject:Subject: None
+15:EMAIL/Message:Message : None
+16:EMAIL/Subject:Subject: None
+16:EMAIL/Message:Message : None
+17:EMAIL/Subject:Subject: None
+17:EMAIL/Message:Message : None
+18:EMAIL/Subject:Subject: None
+18:EMAIL/Message:Message : None
+19:EMAIL/Subject:Subject: None
+19:EMAIL/Message:Message : None
+20:EMAIL/Subject:Subject: None
+20:EMAIL/Message:Message : None
+21:EMAIL/Subject:Subject: None
+21:EMAIL/Message:Message : None
+22:EMAIL/Subject:Subject: None
+22:EMAIL/Message:Message : None
+23:EMAIL/Subject:Subject: None
+23:EMAIL/Message:Message : None
+24:EMAIL/Subject:Subject: None
+24:EMAIL/Message:Message : None
+25:EMAIL/Subject:Subject: None
+25:EMAIL/Message:Message : None
+26:EMAIL/Subject:Subject: None
+26:EMAIL/Message:Message : None
+27:EMAIL/Subject:Subject: None
+27:EMAIL/Message:Message : None
+28:EMAIL/Subject:Subject: None
+28:EMAIL/Message:Message : None
+29:EMAIL/Subject:Subject: None
+29:EMAIL/Message:Message : None
+30:EMAIL/Subject:Subject: None
+30:EMAIL/Message:Message : None
+31:EMAIL/Subject:Subject: None
+31:EMAIL/Message:Message : None
+32:EMAIL/Subject:Subject: None
+32:EMAIL/Message:Message : None
+33:EMAIL/Subject:Subject: None
+33:EMAIL/Message:Message : None
+34:EMAIL/Subject:Subject: None
+34:EMAIL/Message:Message : None
+35:EMAIL/Subject:Subject: None
+35:EMAIL/Message:Message : None
+36:EMAIL/Subject:Subject: None
+36:EMAIL/Message:Message : None
+37:EMAIL/Subject:Subject: None
+37:EMAIL/Message:Message : None
+38:EMAIL/Subject:Subject: None
+38:EMAIL/Message:Message : None
+39:EMAIL/Subject:Subject: None
+39:EMAIL/Message:Message : None
+40:EMAIL/Subject:Notice of Fee Increase
+40:EMAIL/Message:Hereby be informed that, due to Biff's increasing performance, his fee for his services has increased as well. Personally, I'm not surprised of his professionalism. ± ± Speck T. Kline ± 
+41:EMAIL/Subject:Notice of Fee Increase
+41:EMAIL/Message:This notice is to inform you that, due to Haywire's exemplary performance, his fee have been revised. Effective immediately there will be an increase in his salary. ± ± Speck T. Kline ± 
+42:EMAIL/Subject:Notice of Fee Increase
+42:EMAIL/Message:Please be advised that, as of this moment, Gasket's fee for his services has increased, to coincide with the increase in his abilities. ± ± Speck T. Kline ± 
+43:EMAIL/Subject:Notice of Fee Increase
+43:EMAIL/Message:Please be advised that Razor's experience entitles him to a more equitable compensation. His fee has therefore been increased to more accurately reflect his worth. ± ± Speck T. Kline ± 
+44:EMAIL/Subject:Notice of Fee Increase
+44:EMAIL/Message:Please consider yourself advised that Flo's improvement in the field merits an increase in her compensation.  ± ± Speck T. Kline ± 
+45:EMAIL/Subject:Notice of Fee Increase
+45:EMAIL/Message:Please take note. Due to the improving performance of Gumpy, his fee for his services has undergone an increase. ± ± Speck T. Kline ± 
+46:EMAIL/Subject:Notice of Fee Increase
+46:EMAIL/Message:Please be advised, in consideration of Larry's dedication and increasing experience, his daily fee has been increased. ± ± Speck T. Kline ± 
+47:EMAIL/Subject:Notice of Fee Increase
+47:EMAIL/Message:Please be advised, in consideration of Larry's dedication and increasing experience, his daily fee has been increased. ± ± Speck T. Kline ± 
+48:EMAIL/Subject:Notice of Fee Increase
+48:EMAIL/Message:Please consider yourself notified that Cougar's exceptional service to date warrants an increased daily fee, effective immediately. ± ± Speck T. Kline ± 
+49:EMAIL/Subject:Notice of Fee Increase
+49:EMAIL/Message:Please consider this correspondence a legal notice. Numb's daily fee has been increased to account for his improved performance. ± ± Speck T. Kline ± 
+50:EMAIL/Subject:Notice of Fee Increase
+50:EMAIL/Message:This is a legal notice that Bubba's fee for his services has been increased to properly reflect his abilities. ± ± Speck T. Kline ± 
+51:EMAIL/Subject:Subject: None
+51:EMAIL/Message:Message : None
+52:EMAIL/Subject:Subject: None
+52:EMAIL/Message:Message : None
+53:EMAIL/Subject:Subject: None
+53:EMAIL/Message:Message : None
+54:EMAIL/Subject:Subject: None
+54:EMAIL/Message:Message : None
+55:EMAIL/Subject:Subject: None
+55:EMAIL/Message:Message : None
+56:EMAIL/Subject:Subject: None
+56:EMAIL/Message:Message : None
+57:EMAIL/Subject:Subject: None
+57:EMAIL/Message:Message : None
+58:EMAIL/Subject:Subject: None
+58:EMAIL/Message:Message : None
+59:EMAIL/Subject:Subject: None
+59:EMAIL/Message:Message : None
+60:EMAIL/Subject:Subject: None
+60:EMAIL/Message:Message : None
+61:EMAIL/Subject:Subject: None
+61:EMAIL/Message:Message : None
+62:EMAIL/Subject:Subject: None
+62:EMAIL/Message:Message : None
+63:EMAIL/Subject:Subject: None
+63:EMAIL/Message:Message : None
+64:EMAIL/Subject:Subject: None
+64:EMAIL/Message:Message : None
+65:EMAIL/Subject:Subject: None
+65:EMAIL/Message:Message : None
+66:EMAIL/Subject:Subject: None
+66:EMAIL/Message:Message : None
+67:EMAIL/Subject:Subject: None
+67:EMAIL/Message:Message : None
+68:EMAIL/Subject:Subject: None
+68:EMAIL/Message:Message : None
+69:EMAIL/Subject:Subject: None
+69:EMAIL/Message:Message : None
+70:EMAIL/Subject:Subject: None
+70:EMAIL/Message:Message : None
+71:EMAIL/Subject:Subject: None
+71:EMAIL/Message:Message : None
+72:EMAIL/Subject:Subject: None
+72:EMAIL/Message:Message : None
+73:EMAIL/Subject:Subject: None
+73:EMAIL/Message:Message : None
+74:EMAIL/Subject:Subject: None
+74:EMAIL/Message:Message : None
+75:EMAIL/Subject:Subject: None
+75:EMAIL/Message:Message : None
+76:EMAIL/Subject:Subject: None
+76:EMAIL/Message:Message : None
+77:EMAIL/Subject:Subject: None
+77:EMAIL/Message:Message : None
+78:EMAIL/Subject:Subject: None
+78:EMAIL/Message:Message : None
+79:EMAIL/Subject:Subject: None
+79:EMAIL/Message:Message : None
+80:EMAIL/Subject:Subject: None
+80:EMAIL/Message:Message : None
+81:EMAIL/Subject:Subject: None
+81:EMAIL/Message:Message : None
+82:EMAIL/Subject:Subject: None
+82:EMAIL/Message:Message : None
+83:EMAIL/Subject:Subject: None
+83:EMAIL/Message:Message : None
+84:EMAIL/Subject:Subject: None
+84:EMAIL/Message:Message : None
+85:EMAIL/Subject:Subject: None
+85:EMAIL/Message:Message : None
+86:EMAIL/Subject:Subject: None
+86:EMAIL/Message:Message : None
+87:EMAIL/Subject:Subject: None
+87:EMAIL/Message:Message : None
+88:EMAIL/Subject:Subject: None
+88:EMAIL/Message:Message : None
+89:EMAIL/Subject:Subject: None
+89:EMAIL/Message:Message : None
+90:EMAIL/Subject:Subject: None
+90:EMAIL/Message:Message : None
+91:EMAIL/Subject:Subject: None
+91:EMAIL/Message:Message : None
+92:EMAIL/Subject:Subject: None
+92:EMAIL/Message:Message : None
+93:EMAIL/Subject:Subject: None
+93:EMAIL/Message:Message : None
+94:EMAIL/Subject:Subject: None
+94:EMAIL/Message:Message : None
+95:EMAIL/Subject:Subject: None
+95:EMAIL/Message:Message : None
+96:EMAIL/Subject:Subject: None
+96:EMAIL/Message:Message : None
+97:EMAIL/Subject:Subject: None
+97:EMAIL/Message:Message : None
+98:EMAIL/Subject:Subject: None
+98:EMAIL/Message:Message : None
+99:EMAIL/Subject:Subject: None
+99:EMAIL/Message:Message : None
+100:EMAIL/Subject:Subject: None
+100:EMAIL/Message:Message : None
+101:EMAIL/Subject:Subject: None
+101:EMAIL/Message:Message : None
+102:EMAIL/Subject:Subject: None
+102:EMAIL/Message:Message : None
+103:EMAIL/Subject:Subject: None
+103:EMAIL/Message:Message : None
+104:EMAIL/Subject:Subject: None
+104:EMAIL/Message:Message : None
+105:EMAIL/Subject:Subject: None
+105:EMAIL/Message:Message : None
+106:EMAIL/Subject:Subject: None
+106:EMAIL/Message:Message : None
+107:EMAIL/Subject:Subject: None
+107:EMAIL/Message:Message : None
+108:EMAIL/Subject:Subject: None
+108:EMAIL/Message:Message : None
+109:EMAIL/Subject:Subject: None
+109:EMAIL/Message:Message : None
+110:EMAIL/Subject:Subject: None
+110:EMAIL/Message:Message : None
+111:EMAIL/Subject:Subject: None
+111:EMAIL/Message:Message : None
+112:EMAIL/Subject:Subject: None
+112:EMAIL/Message:Message : None
+113:EMAIL/Subject:Subject: None
+113:EMAIL/Message:Message : None
+114:EMAIL/Subject:Subject: None
+114:EMAIL/Message:Message : None
+115:EMAIL/Subject:Subject: None
+115:EMAIL/Message:Message : None
+116:EMAIL/Subject:Subject: None
+116:EMAIL/Message:Message : None
+117:EMAIL/Subject:Subject: None
+117:EMAIL/Message:Message : None
+118:EMAIL/Subject:Subject: None
+118:EMAIL/Message:Message : None
+119:EMAIL/Subject:Subject: None
+119:EMAIL/Message:Message : None
+120:EMAIL/Subject:Subject: None
+120:EMAIL/Message:Message : None
+121:EMAIL/Subject:Subject: None
+121:EMAIL/Message:Message : None
+122:EMAIL/Subject:Subject: None
+122:EMAIL/Message:Message : None
+123:EMAIL/Subject:Subject: None
+123:EMAIL/Message:Message : None
+124:EMAIL/Subject:Subject: None
+124:EMAIL/Message:Message : None
+125:EMAIL/Subject:Subject: None
+125:EMAIL/Message:Message : None
+126:EMAIL/Subject:Subject: None
+126:EMAIL/Message:Message : None
+127:EMAIL/Subject:Subject: None
+127:EMAIL/Message:Message : None
+128:EMAIL/Subject:Subject: None
+128:EMAIL/Message:Message : None
+129:EMAIL/Subject:Subject: None
+129:EMAIL/Message:Message : None
+130:EMAIL/Subject:Subject: None
+130:EMAIL/Message:Message : None
+131:EMAIL/Subject:Subject: None
+131:EMAIL/Message:Message : None
+132:EMAIL/Subject:Subject: None
+132:EMAIL/Message:Message : None
+133:EMAIL/Subject:Subject: None
+133:EMAIL/Message:Message : None
+134:EMAIL/Subject:Subject: None
+134:EMAIL/Message:Message : None
+135:EMAIL/Subject:Subject: None
+135:EMAIL/Message:Message : None
+136:EMAIL/Subject:Subject: None
+136:EMAIL/Message:Message : None
+137:EMAIL/Subject:Subject: None
+137:EMAIL/Message:Message : None
+138:EMAIL/Subject:Subject: None
+138:EMAIL/Message:Message : None
+139:EMAIL/Subject:Subject: None
+139:EMAIL/Message:Message : None
+140:EMAIL/Subject:Subject: None
+140:EMAIL/Message:Message : None
+141:EMAIL/Subject:Subject: None
+141:EMAIL/Message:Message : None
+142:EMAIL/Subject:Subject: None
+142:EMAIL/Message:Message : None
+143:EMAIL/Subject:Subject: None
+143:EMAIL/Message:Message : None
+144:EMAIL/Subject:Subject: None
+144:EMAIL/Message:Message : None
+145:EMAIL/Subject:Subject: None
+145:EMAIL/Message:Message : None
+146:EMAIL/Subject:Subject: None
+146:EMAIL/Message:Message : None
+147:EMAIL/Subject:Subject: None
+147:EMAIL/Message:Message : None
+148:EMAIL/Subject:Subject: None
+148:EMAIL/Message:Message : None
+149:EMAIL/Subject:Subject: None
+149:EMAIL/Message:Message : None
+150:EMAIL/Subject:Subject: None
+150:EMAIL/Message:Message : None
+151:EMAIL/Subject:Subject: None
+151:EMAIL/Message:Message : None
+152:EMAIL/Subject:Subject: None
+152:EMAIL/Message:Message : None
+153:EMAIL/Subject:Subject: None
+153:EMAIL/Message:Message : None
+154:EMAIL/Subject:Subject: None
+154:EMAIL/Message:Message : None
+155:EMAIL/Subject:Subject: None
+155:EMAIL/Message:Message : None
+156:EMAIL/Subject:Subject: None
+156:EMAIL/Message:Message : None
+157:EMAIL/Subject:Subject: None
+157:EMAIL/Message:Message : None
+158:EMAIL/Subject:Subject: None
+158:EMAIL/Message:Message : None
+159:EMAIL/Subject:Subject: None
+159:EMAIL/Message:Message : None
+160:EMAIL/Subject:Subject: None
+160:EMAIL/Message:Message : None
+161:EMAIL/Subject:Subject: None
+161:EMAIL/Message:Message : None
+162:EMAIL/Subject:Subject: None
+162:EMAIL/Message:Message : None
+163:EMAIL/Subject:Subject: None
+163:EMAIL/Message:Message : None
+164:EMAIL/Subject:Subject: None
+164:EMAIL/Message:Message : None
+165:EMAIL/Subject:Notice of Fee Increase
+165:EMAIL/Message:Hereby be informed that, due to Gastons's improving performance, his fee for his services has undergone an increase. Personally, I'm not surprised of his professionalism. ± ± Speck T. Kline ± 
+166:EMAIL/Subject:Notice of Fee Increase
+166:EMAIL/Message:Please be advised that, as of this moment, Stogie's fee for his services has increased to coincide with the increase in his abilities. ± ± Speck T. Kline ± 
+167:EMAIL/Subject:Notice of Fee Increase
+167:EMAIL/Message:Please be advised that Tex's experience entitles him to a more equitable compensation. His fee has therefore been increased to more accurately reflect his worth. ± ± Speck T. Kline ± 
+168:EMAIL/Subject:Notice of Fee Increase
+168:EMAIL/Message:Please take note. Due to the improving performance of Biggins, his fee for his services has undergone an increase. ± ± Speck T. Kline ± 
+169:EMAIL/Subject:Subject: None
+169:EMAIL/Message:Message : None
+170:EMAIL/Subject:Subject: None
+170:EMAIL/Message:Message : None
+171:EMAIL/Subject:Subject: None
+171:EMAIL/Message:Message : None
+172:EMAIL/Subject:Subject: None
+172:EMAIL/Message:Message : None
+173:EMAIL/Subject:Subject: None
+173:EMAIL/Message:Message : None
+174:EMAIL/Subject:Subject: None
+174:EMAIL/Message:Message : None
+175:EMAIL/Subject:Subject: None
+175:EMAIL/Message:Message : None
+176:EMAIL/Subject:Subject: None
+176:EMAIL/Message:Message : None
+177:EMAIL/Subject:Subject: None
+177:EMAIL/Message:Message : None
+178:EMAIL/Subject:Notice of Fee Increase
+178:EMAIL/Message:Please take note. Due to the improving performance of Spooky, his fee for his services has been increased. ± ± Speck T. Kline ± 
+179:EMAIL/Subject:Notice of Fee Increase
+179:EMAIL/Message:Please take note. Due to the improving performance of Skitz, his salary has been increased. ± ± Speck T. Kline ± 
+180:EMAIL/Subject:Notice of Fee Increase
+180:EMAIL/Message:Please take note. Due to the improving performance of Weasel, his wage for his services has been increased. ± ± Speck T. Kline ± 
+181:EMAIL/Subject:Notice of Fee Increase
+181:EMAIL/Message:Please take note. Improved performance of It entitles him to an increased salary. ± ± Speck T. Kline ± 
+182:EMAIL/Subject:Notice of Fee Increase
+182:EMAIL/Message:Please be advised that Bernie's growing experience entitles him to a more equitable compensation. His wage for his services has been increased. ± ± Speck T. Kline ± 
+183:EMAIL/Subject:Notice of Fee Increase
+183:EMAIL/Message:Please be advised that Pops' experience entitles him to a more equitable compensation. His wage for his services has been increased. ± ± Speck T. Kline ± 
+184:EMAIL/Subject:Notice of Fee Increase
+184:EMAIL/Message:Please be advised that Wally's extraordinary battlefield experience requires a more equitable compensation. His wage for his services has been increased. ± ± Speck T. Kline ± 
+185:EMAIL/Subject:Notice of Fee Increase
+185:EMAIL/Message:Please be advised that Eli's outstanding performance warrants an increase in salary. His wage has been increased. ± ± Speck T. Kline ± 
+186:EMAIL/Subject:Subject: None
+186:EMAIL/Message:Message : None
+187:EMAIL/Subject:Subject: None
+187:EMAIL/Message:Message : None
+188:EMAIL/Subject:Notice of Fee Increase
+188:EMAIL/Message:Please be advised that Lance's progressively better performance on the battlefield deserves an increase in salary. ± ± Speck T. Kline ± 
+189:EMAIL/Subject:Notice of Fee Increase
+189:EMAIL/Message:Please consider yourself informed that Dr. Leevon's exceptional service entitles him to a more equitable compensation. His wage has been increased. ± ± Speck T. Kline ± 
+190:EMAIL/Subject:Notice of Fee Increase
+190:EMAIL/Message:Due to Wink's outstanding performance and massive gain in experience, his salary has been recalculated. ± ± Speck T. Kline ± 
+191:EMAIL/Subject:Notice of Fee Increase
+191:EMAIL/Message:Due to my outstanding performance on the battlefield, I feel obliged to inform you that my salary has been increased. ± ± Speck T. Kline ± 
+192:EMAIL/Subject:Subject: None
+192:EMAIL/Message:Message : None
+193:EMAIL/Subject:Subject: None
+193:EMAIL/Message:Message : None
+194:EMAIL/Subject:Subject: None
+194:EMAIL/Message:Message : None
+195:EMAIL/Subject:Notice of Fee Increase
+195:EMAIL/Message:Due to John Kulba's outstanding performance and massive gain in experience, his salary has been recalculated. ± ± Speck T. Kline ± 
+196:EMAIL/Subject:Notice of Fee Increase
+196:EMAIL/Message:Please be advised that Elio's progressively better performance on the battlefield deserves an increase in salary. ± ± Speck T. Kline ± 
+197:EMAIL/Subject:Notice of Fee Increase
+197:EMAIL/Message:Please consider yourself informed that Juan's exceptional service entitles him to a more equitable compensation. His wage has been increased. ± ± Speck T. Kline ± 
+198:EMAIL/Subject:Notice of Fee Increase
+198:EMAIL/Message:Please take note. Due to the improving performance of Wahan, his wage for his services has been increased. ± ± Speck T. Kline ± 
+199:EMAIL/Subject:Subject: None
+199:EMAIL/Message:Message : None
+200:EMAIL/Subject:Subject: None
+200:EMAIL/Message:Message : None
+201:EMAIL/Subject:Subject: None
+201:EMAIL/Message:Message : None
+202:EMAIL/Subject:Subject: None
+202:EMAIL/Message:Message : None
+203:EMAIL/Subject:Subject: None
+203:EMAIL/Message:Message : None
+204:EMAIL/Subject:Subject: None
+204:EMAIL/Message:Message : None
+205:EMAIL/Subject:Subject: None
+205:EMAIL/Message:Message : None
+206:EMAIL/Subject:Subject: None
+206:EMAIL/Message:Message : None
+207:EMAIL/Subject:Subject: None
+207:EMAIL/Message:Message : None
+208:EMAIL/Subject:Subject: None
+208:EMAIL/Message:Message : None
+209:EMAIL/Subject:Subject: None
+209:EMAIL/Message:Message : None
+210:EMAIL/Subject:Subject: None
+210:EMAIL/Message:Message : None
+211:EMAIL/Subject:Subject: None
+211:EMAIL/Message:Message : None
+212:EMAIL/Subject:Subject: None
+212:EMAIL/Message:Message : None
+213:EMAIL/Subject:Subject: None
+213:EMAIL/Message:Message : None
+214:EMAIL/Subject:Subject: None
+214:EMAIL/Message:Message : None
+215:EMAIL/Subject:Subject: None
+215:EMAIL/Message:Message : None
+216:EMAIL/Subject:Subject: None
+216:EMAIL/Message:Message : None
+217:EMAIL/Subject:Subject: None
+217:EMAIL/Message:Message : None
+218:EMAIL/Subject:Subject: None
+218:EMAIL/Message:Message : None
+219:EMAIL/Subject:Subject: None
+219:EMAIL/Message:Message : None
+220:EMAIL/Subject:Notice of Fee Increase
+220:EMAIL/Message:Please take note. As of this moment, Postie's fee for his services has increased to coincide with the increase in his abilities. ± ± Speck T. Kline ± 
+221:EMAIL/Subject:Notice of Fee Increase
+221:EMAIL/Message:Please take note; due to improvement in Reuban's performance, his compensation for his services has undergone a revaluation.  ± ± Speck T. Kline ± 
+222:EMAIL/Subject:Notice of Fee Increase
+222:EMAIL/Message:Please take note; due to improvement in Leon's performance, his compensation for his services has undergone a revaluation.  ± ± Speck T. Kline ± 
+223:EMAIL/Subject:Notice of Fee Increase
+223:EMAIL/Message:Regarded client, due to Gary's personal improvement, his fee for his services has been re-estimated.  ± ± Speck T. Kline ± 
+224:EMAIL/Subject:Notice of Fee Increase
+224:EMAIL/Message:Please take note of this notification. Due to Sparky's significantly improved performance, her salary has been increased.  ± ± Speck T. Kline ± 
+225:EMAIL/Subject:Notice of Fee Increase
+225:EMAIL/Message:Please consider yourself informed that Beth's improved performance entitles her to an increased wage.  ± ± Speck T. Kline ± 
+226:EMAIL/Subject:Notice of Fee Increase
+226:EMAIL/Message:This notice is to inform you that, due to Sam's exemplary performance, his fee has been revised. Effective immediately there will be an increase to his salary.  ± ± Speck T. Kline ± 
+227:EMAIL/Subject:Notice of Fee Increase
+227:EMAIL/Message:This notice is to inform you that, due to Hurl's increasing effectiveness, his salary has undergone a significant recalculation.  ± ± Speck T. Kline ± 
+228:EMAIL/Subject:Subject: None
+228:EMAIL/Message:Message : None
+229:EMAIL/Subject:Subject: None
+229:EMAIL/Message:Message : None
+230:EMAIL/Subject:Subject: None
+230:EMAIL/Message:Message : None
+231:EMAIL/Subject:Subject: None
+231:EMAIL/Message:Message : None
+232:EMAIL/Subject:Subject: None
+232:EMAIL/Message:Message : None
+233:EMAIL/Subject:Subject: None
+233:EMAIL/Message:Message : None
+234:EMAIL/Subject:Subject: None
+234:EMAIL/Message:Message : None
+235:EMAIL/Subject:Subject: None
+235:EMAIL/Message:Message : None
+236:EMAIL/Subject:Subject: None
+236:EMAIL/Message:Message : None
+237:EMAIL/Subject:Subject: None
+237:EMAIL/Message:Message : None
+238:EMAIL/Subject:Subject: None
+238:EMAIL/Message:Message : None
+239:EMAIL/Subject:Subject: None
+239:EMAIL/Message:Message : None
+240:EMAIL/Subject:Subject: None
+240:EMAIL/Message:Message : None
+241:EMAIL/Subject:Subject: None
+241:EMAIL/Message:Message : None
+242:EMAIL/Subject:Subject: None
+242:EMAIL/Message:Message : None
+243:EMAIL/Subject:Subject: None
+243:EMAIL/Message:Message : None
+244:EMAIL/Subject:Notice of Fee Increase
+244:EMAIL/Message:Please be advised that Elroy's substantial experience gain entitles him to an adequately substantial salary raise. ± ± Speck T. Kline ± 
+245:EMAIL/Subject:Subject: None
+245:EMAIL/Message:Message : None
+246:EMAIL/Subject:Subject: None
+246:EMAIL/Message:Message : None
+247:EMAIL/Subject:Notice of Fee Increase
+247:EMAIL/Message:Please be informed that Reverend's wage has been increased, due to exceptional improvements in his abilities. ± ± Speck T. Kline ± 
+248:EMAIL/Subject:Subject: None
+248:EMAIL/Message:Message : None
+249:EMAIL/Subject:Notice of Fee Increase
+249:EMAIL/Message:Please consider yourself legally informed that, due to improvements in Ears' performance, his honorarium has been raised.  ± ± Speck T. Kline ± 
+250:EMAIL/Subject:Subject: None
+250:EMAIL/Message:Message : None
+251:EMAIL/Subject:Subject: None
+251:EMAIL/Message:Message : None
+252:EMAIL/Subject:Notice of Fee Increase
+252:EMAIL/Message:Please consider yourself informed that, due to improvements in Dyno's performance, his salary requires reconsideration.  ± ± Speck T. Kline ± 
+253:EMAIL/Subject:Notice of Fee Increase
+253:EMAIL/Message:Please be advised that, due to Turtle's exceptional performance, his wage has been recalculated.  ± ± Speck T. Kline ± 
+254:EMAIL/Subject:Subject: None
+254:EMAIL/Message:Message : None

@@ -1,0 +1,60 @@
+0:DISEASE/szName:Arulcan plague
+0:DISEASE/szFatName:|A|r|u|l|c|a|n |P|l|a|g|u|e
+0:DISEASE/szDescription:This rare subtype of the plague is unique to Arulco. It can be spread by insects, direct contact,&#10;or by contaminated food. There have been several deadly outbreaks in the last decade.
+1:DISEASE/szName:Typhoid
+1:DISEASE/szFatName:|T|y|p|h|o|i|d
+1:DISEASE/szDescription:Typhoid fever is a common worldwide bacterial disease transmitted by the ingestion of food or water&#10;contaminated with the feces of an infected person. Symptoms include internal bleeding, dehydration, and delirium.
+2:DISEASE/szName:Hepatitis A
+2:DISEASE/szFatName:|H|e|p|a|t|i|t|i|s |A
+2:DISEASE/szDescription:Hepatitis A is usually spread by eating or drinking contaminated food or water or through close contact with an&#10;infectious person. Symptoms may include nausea, vomiting, diarrhea, yellow skin, fever, and abdominal pain.
+3:DISEASE/szName:Tetanus
+3:DISEASE/szFatName:|T|e|t|a|n|u|s
+3:DISEASE/szDescription:Infection with tetanus generally occurs through wound contamination and often involves a cut or deep puncture&#10;wound. As the infection progresses, muscle spasms develop in the jaw and elsewhere in the body.
+4:DISEASE/szName:Tubercolosis
+4:DISEASE/szFatName:|T|u|b|e|r|c|o|l|o|s|i|s
+4:DISEASE/szDescription:Tuberculosis is a common, and in many cases fatal, infectious disease. It is spread through the air. About one in ten latent&#10;infections eventually progresses to active disease which, if left untreated, kills more than 50% of those so infected.
+5:DISEASE/szName:Cholera
+5:DISEASE/szFatName:|C|h|o|l|e|r|a
+5:DISEASE/szDescription:Main symptoms of Cholera are watery diarrhea and vomiting. This may result in dehydration and in severe cases grayish-bluish skin.&#10;Transmission occurs primarily by contaminated water or food. Severe cholera can lead to death.
+6:DISEASE/szName:Ebola
+6:DISEASE/szFatName:|E|b|o|l|a
+6:DISEASE/szDescription:A deadly virus with no known treatment, Ebola has an unusually high lethality rate of over 50%. Symptoms include nausea, vomiting,&#10;diarrhea, and internal bleeding.
+7:DISEASE/szName:Malaria
+7:DISEASE/szFatName:|M|a|l|a|r|i|a
+7:DISEASE/szDescription:Malaria is a mosquito-borne infectious disease commonly transmitted by a bite from an infected mosquito. Malaria &#10;causes symptoms that typically include fever and headache, which in severe cases can progress to coma or death.
+8:DISEASE/szName:Staphylococcus
+8:DISEASE/szFatName:|S|t|a|p|h|y|l|o|c|o|c|c|u|s
+8:DISEASE/szDescription:A staphylococcus infection is a common result of food poisoning. Symptoms include spontaneous vomiting and diarrhea.
+9:DISEASE/szName:Chlamydia
+9:DISEASE/szFatName:|C|h|l|a|m|y|d|i|a
+9:DISEASE/szDescription:Chlamydia is one of the most common sexually transmitted infections. If left untreated, chlamydial infections &#10; can cause serious reproductive and other health problems with both short-term and long-term consequences.
+10:DISEASE/szName:Ballistic trauma
+10:DISEASE/szFatName:|B|a|l|l|i|s|t|i|c |t|r|a|u|m|a
+10:DISEASE/szDescription:Ballistic trauma or gunshot wound is a form of physical trauma sustained from the discharge of arms or munitions. &#10; Non-fatal gunshot wounds frequently have severe and long-lasting effects, even after the victim has made a successful recovery.
+11:DISEASE/szName:PTSD
+11:DISEASE/szFatName:|P|T|S|D
+11:DISEASE/szDescription:|Post|traumatic |stress |disorder may develop after a person is exposed to one or more traumatic events, such as sexual assault,&#10;warfare, serious injury, or threats of imminent death that result in feelings of intense fear, horror, and powerlessness.
+12:DISEASE/szName:Broken leg
+12:DISEASE/szFatName:|B|r|o|k|e|n |l|e|g
+12:DISEASE/szDescription:The human musculoskeletal system is complicated. Your leg received a critical wound to the leg, and while it heals,&#10;your mobility is affected.
+13:DISEASE/szName:Broken arm
+13:DISEASE/szFatName:|B|r|o|k|e|n |a|r|m
+13:DISEASE/szDescription:You were heavily wounded in the arm. Apart from being very painful, this severely limits your motor abilities.
+14:DISEASE/szName:Wounded biceps
+14:DISEASE/szFatName:|W|o|u|n|d|e|d |b|i|c|e|p|s
+14:DISEASE/szDescription:A painful shot to your torso has you gasping for air. You'll have to cut back for the next days. 
+15:DISEASE/szName:Drug Addiction
+15:DISEASE/szFatName:|D|r|u|g |A|d|d|i|c|t|i|o|n
+15:DISEASE/szDescription:You've become addicted to various substances. Until your body has removed all traces of drugs, you will suffer from withdrawal.
+16:DISEASE/szName:Hungover
+16:DISEASE/szFatName:|H|u|n|g|o|v|e|r
+16:DISEASE/szDescription:That last beer was definitely spoiled.
+17:DISEASE/szName:Lung Cancer
+17:DISEASE/szFatName:|L|u|n|g |C|a|n|c|e|r
+17:DISEASE/szDescription:Lung cancer is a malignant lung tumor characterized by uncontrolled cell growth in tissues of the lung. If left untreated, this growth can spread beyond the lung.
+18:DISEASE/szName:Burns
+18:DISEASE/szFatName:|B|u|r|n|s
+18:DISEASE/szDescription:A large injury of the skin caused by fire, this is a quite painful condition and will severely affect your dexterity.
+19:DISEASE/szName:Corroded lung
+19:DISEASE/szFatName:|C|o|r|r|o|d|e|d |l|u|n|g
+19:DISEASE/szDescription:Due to exposure to chemical warfare agents, your lungs are severely damaged. This will obviously affect your stamina.

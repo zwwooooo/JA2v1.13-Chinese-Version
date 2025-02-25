@@ -1,0 +1,16 @@
+0:TAUNT/szText:好吧，我敢肯定他死定了。
+1:TAUNT/szText:好吧，我敢肯定他死定了。
+2:TAUNT/szText:今天午饭就不吃了。
+3:TAUNT/szText:哈哈啊哈！真他妈爽！
+3:TAUNT/szTextCensored:Hahaha! Freaking awesome!
+4:TAUNT/szText:去他妈的！我喜欢干这个活！
+4:TAUNT/szTextCensored:Hell yeah! I love this job!
+5:TAUNT/szText:没事的，反正你从来没用过它。
+6:TAUNT/szText:嘣，爆头！
+7:TAUNT/szText:哇哦！
+8:TAUNT/szText:脑袋炸掉了！
+9:TAUNT/szText:随便打打而已。
+10:TAUNT/szText:谁拍下来了吗？
+11:TAUNT/szText:痘痘爆掉了！
+12:TAUNT/szText:谁叫个救护车啊！
+13:TAUNT/szText:是不是说明我会远程操控啦？

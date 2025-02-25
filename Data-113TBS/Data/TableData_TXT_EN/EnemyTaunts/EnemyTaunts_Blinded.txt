@@ -1,0 +1,11 @@
+0:TAUNT/szText:Fuck, my eyeballs!
+0:TAUNT/szTextCensored:Crap, my eyeballs!
+1:TAUNT/szText:I can't see shit!
+2:TAUNT/szText:Who turned off the lights?!
+3:TAUNT/szText:Oh, my eyes!
+4:TAUNT/szText:Oh God, I'm blind!
+5:TAUNT/szText:Holy shit, priest was right! It DOES make you blind!
+6:TAUNT/szText:Somebody help me! I can't see!
+7:TAUNT/szText:You think I won't get you 'cause I'm blind? I can smell your fear!
+8:TAUNT/szText:My eyes are on fire!
+9:TAUNT/szText:Hello darkness, my old friend.

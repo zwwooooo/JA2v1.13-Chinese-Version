@@ -1,0 +1,39 @@
+0:TAUNT/szText:Enemy!
+1:TAUNT/szText:Enemy!!!
+2:TAUNT/szText:There is one!
+3:TAUNT/szText:Prepare to suffer!
+4:TAUNT/szText:Oh, hi.
+5:TAUNT/szText:My God, you're so ugly, you could be a modern-art masterpiece!
+6:TAUNT/szText:Hey babe, I'll drive you crazy even without a driver's license!
+7:TAUNT/szText:Hey babe, are you a parking ticket? 'Cause you've got fine written all over you!
+8:TAUNT/szText:Hey babe, did it hurt much when you fell from heaven?
+9:TAUNT/szText:OK, go fetch the rest of the team... I'll wait!
+10:TAUNT/szText:Hey babe, did you escape from toy store? 'Cause you're a real doll!
+11:TAUNT/szText:Look who's come to the picnic!
+12:TAUNT/szText:You've got to be crazy to come here!
+13:TAUNT/szText:Hey lads, this one's in pains, we should put an end to his misery!
+14:TAUNT/szText:HELP! I've run into an unstoppable monster!
+15:TAUNT/szText:You look tired, maybe we should put you to sleep... permanently!
+16:TAUNT/szText:Were your parents siblings?
+17:TAUNT/szText:Now, we know that we aren't all that cute, but what the fuck happened to you?
+17:TAUNT/szTextCensored:Now, we know that we aren't all that cute, but what the hell happened to you?
+18:TAUNT/szText:Lemme guess, your parents fed you with a slingshot?
+19:TAUNT/szText:I could apply you a make up with a shotgun, and you'd still look better!
+20:TAUNT/szText:Wow! Who let the gorilla out of the cage?
+21:TAUNT/szText:Wow, you're pretty... fucking ugly!
+21:TAUNT/szTextCensored:Wow, you're pretty... freakin' ugly!
+22:TAUNT/szText:Holy shit, they brought in transvestites!
+23:TAUNT/szText:Girl, with that hair... you must be a saint - saint Bernard!
+24:TAUNT/szText:Did you noticed how "awesome" ends with "me", and "ugly" starts with "u"?
+25:TAUNT/szText:As an outsider, what do you think of the human race?
+26:TAUNT/szText:How about a date - just you, me and a roll of duct tape?
+27:TAUNT/szText:How about a date - just you, me and a roll of duct tape?
+28:TAUNT/szText:Hey boy, what do you have in that backpack? Sandwiches?
+29:TAUNT/szText:Hey girl, what do you have in that backpack? Sandwiches?
+30:TAUNT/szText:If I throw a stick, will you go away?
+31:TAUNT/szText:How can I miss you if you won't go away?
+32:TAUNT/szText:Oh my God, look at you. Anyone else hurt in the accident?
+33:TAUNT/szText:Oh my God, look at you. Anyone else hurt in the accident?
+34:TAUNT/szText:Hey, asshole! Over here!
+35:TAUNT/szText:Never seen so many backwards ass country fucks in my life.
+35:TAUNT/szTextCensored:Never seen so many backwards ass country retards in my life.

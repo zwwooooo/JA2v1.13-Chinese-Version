@@ -1,0 +1,6 @@
+0:TAUNT/szText:Attention, everyone! We've got possible contact!
+1:TAUNT/szText:Listen everyone, there's some weird shit going on.
+2:TAUNT/szText:Can someone check out these noises?
+3:TAUNT/szText:Possible contact! Oh, I hope it's them. I haven't killed anything in a long time.
+4:TAUNT/szText:Let me guess, another false alarm.
+5:TAUNT/szText:Can someone else check it out, please?

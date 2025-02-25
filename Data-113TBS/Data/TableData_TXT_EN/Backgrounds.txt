@@ -1,0 +1,1041 @@
+0:BACKGROUND/szName:Background name (128 letters)
+0:BACKGROUND/szShortName:short name (20)
+0:BACKGROUND/szDescription:Enter a description here. This will show up in the laptop and can be up to 256 letters long.
+1:BACKGROUND/szName:ANC Veteran
+1:BACKGROUND/szShortName:ANC Veteran
+1:BACKGROUND/szDescription:Militant veterans of the ANC's struggle were not only versed&#10; in jungle warfare, but also in political theory.
+2:BACKGROUND/szName:Big Game Hunter
+2:BACKGROUND/szShortName:Big Game Hunter
+2:BACKGROUND/szDescription:Travel to virgin soil, seek fascinating species, and &#10;KILL THEM ALL.
+3:BACKGROUND/szName:Veteran
+3:BACKGROUND/szShortName:Veteran
+3:BACKGROUND/szDescription:After several tours of duty in the middle east,#10;Grizzly became a freelancer.
+4:BACKGROUND/szName:Mercenary/Car Mechanic
+4:BACKGROUND/szShortName:Mercenary/Mechanic
+4:BACKGROUND/szDescription:Working day and night in her car repair shop when she's&#10;not travelling around the world, Vicky is a very versed mechanic.&#10;But she never overcame her fear of confined spaces.
+5:BACKGROUND/szName:Technical Wizard/Bomber
+5:BACKGROUND/szShortName:Tech Whiz/Bomber
+5:BACKGROUND/szDescription:The difference to MacGyver is that Trevor does use &#10;guns . . . and bombs.
+6:BACKGROUND/szName:Bodyguard
+6:BACKGROUND/szShortName:Bodyguard
+6:BACKGROUND/szDescription:Superbly trained, utterly loyal, and willing to pay the &#10;ultimate price. What more could a potential employer want?.
+7:BACKGROUND/szName:Red Army Major
+7:BACKGROUND/szShortName:Red Army
+7:BACKGROUND/szDescription:Ivan's training program is the stuff of nightmares, &#10;but it pays off evidently.
+8:BACKGROUND/szName:Firefighter
+8:BACKGROUND/szShortName:Firefighter
+8:BACKGROUND/szDescription:Just because it doesn't involve shooting, it doesn't have to be &#10;less dangerous.
+9:BACKGROUND/szName:Veteran Mountain Troop
+9:BACKGROUND/szShortName:Vet Mountain Troop
+9:BACKGROUND/szDescription:After serving in Chechnya,&#10;Igor is used to harsh environments.
+10:BACKGROUND/szName:Ranger
+10:BACKGROUND/szShortName:Ranger
+10:BACKGROUND/szDescription:Survival and ambush tactics were part of Shadow's intense training.
+11:BACKGROUND/szName:Veteran Sapper
+11:BACKGROUND/szShortName:Veteran Sapper
+11:BACKGROUND/szDescription:A sapper can only make two mistakes in his life. The first one is his &#10;career choice.
+12:BACKGROUND/szName:Hitman
+12:BACKGROUND/szShortName:Hitman
+12:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+13:BACKGROUND/szName:Bomber
+13:BACKGROUND/szShortName:Bomber
+13:BACKGROUND/szDescription:Fidel is very apt at solving problems with various applications of &#10;destruction, not so much at moderation.
+14:BACKGROUND/szName:Nurse
+14:BACKGROUND/szShortName:Nurse
+14:BACKGROUND/szDescription:While she isn't a full-blown doctor, Cynthia is always a welcome sight to her comrades in the field.
+15:BACKGROUND/szName:Nobility
+15:BACKGROUND/szShortName:Nobility
+15:BACKGROUND/szDescription:Some people do not join this business out of necessity. While easy &#10;to label them as sissy aristocrats, some are actually quite capable, as they have received the best training money can buy.
+16:BACKGROUND/szName:DFK Annihilator
+16:BACKGROUND/szShortName:DFK Annihilator
+16:BACKGROUND/szDescription:Your exploits earned you the respect and recognition you deserve. Who needs legs?
+17:BACKGROUND/szName:Nurse/Soldier/Shooter
+17:BACKGROUND/szShortName:Nurse/Soldier/Shooter
+17:BACKGROUND/szDescription:That combination definitely spices up your resume.
+18:BACKGROUND/szName:Paramilitary Instructor
+18:BACKGROUND/szShortName:Instructor
+18:BACKGROUND/szDescription:Just like boyscouts. But with violence. So not really like boyscouts &#10;at all.
+19:BACKGROUND/szName:Surgeon
+19:BACKGROUND/szShortName:Surgeon
+19:BACKGROUND/szDescription:Like a surgeon... cutting for the very first time... &#10;Just kidding. Spider is THE person to seek if your guts are spilling out.
+20:BACKGROUND/szName:General Practitioner
+20:BACKGROUND/szShortName:GP Doctor
+20:BACKGROUND/szDescription:Cliff is a highly qualified doctor, though there &#10;once was a... darker... time in his life.
+21:BACKGROUND/szName:Prison Guard
+21:BACKGROUND/szShortName:Prison Guard
+21:BACKGROUND/szDescription:In longer and larger conflicts, former prison guards are natural &#10;choices for running prison camps.
+22:BACKGROUND/szName:Veteran Mercenary/Instructor
+22:BACKGROUND/szShortName:Vet Merc/Instructor
+22:BACKGROUND/szDescription:This might be Frank's last tour - there are several private &#10;organisations that are interested in recruiting him to train their staff.
+23:BACKGROUND/szName:Rejected Love/Snitch/Veteran Merc
+23:BACKGROUND/szShortName:Rejected/Snitch/Vet
+23:BACKGROUND/szDescription:Turned down by her big love, Buzz is currently filled with a lot of hatred. &#10;She chose the right job it seems.
+24:BACKGROUND/szName:SWAT Member
+24:BACKGROUND/szShortName:SWAT
+24:BACKGROUND/szDescription:Blurring the line between police and military, SWAT teams are &#10;used in urban operations too dangerous for normal law enforcement.
+25:BACKGROUND/szName:SWAT Sniper
+25:BACKGROUND/szShortName:SWAT Sniper
+25:BACKGROUND/szDescription:Blurring the line between police and military, SWAT teams are &#10;used in urban operations too dangerous for normal law enforcement.
+26:BACKGROUND/szName:Backstage Crew/Veteran Mercenary
+26:BACKGROUND/szShortName:Tech Crew/Vet Merc
+26:BACKGROUND/szDescription:Blasting sounds, fireworks, screaming people - isn't it odd how &#10;similar an acting stage is to the battlefield?
+27:BACKGROUND/szName:Green Beret
+27:BACKGROUND/szShortName:Green Beret
+27:BACKGROUND/szDescription:The Green Berets are a special operations force tasked with unconventional warfare.
+28:BACKGROUND/szName:Extreme Athlete
+28:BACKGROUND/szShortName:Extreme Athlete
+28:BACKGROUND/szDescription:If you want to put your life at risk, might as well earn &#10;cash by doing so...
+29:BACKGROUND/szName:Professional Thief
+29:BACKGROUND/szShortName:Thief
+29:BACKGROUND/szDescription:When offered to take it or leave it, you always choose 'take'.
+30:BACKGROUND/szName:Military Advisor
+30:BACKGROUND/szShortName:Military Advisor
+30:BACKGROUND/szDescription:Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.
+31:BACKGROUND/szName:Veteran Mercenary
+31:BACKGROUND/szShortName:Veteran Merc
+31:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+32:BACKGROUND/szName:Bouncer
+32:BACKGROUND/szShortName:Bouncer
+32:BACKGROUND/szDescription:Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).
+33:BACKGROUND/szName:Chinese Doctor
+33:BACKGROUND/szShortName:Chinese Doctor
+33:BACKGROUND/szDescription:Dr. Q is trained in the arts of ancient Chinese medicine. &#10;Not the fastest way to cure a patient, but it works.
+34:BACKGROUND/szName:Gang Member/Bomber
+34:BACKGROUND/szShortName:Gang Member/Bomber
+34:BACKGROUND/szDescription:Becoming a mercenary is a natural step for many gang members&#10; - job's the same, the tools and pay are much better.
+35:BACKGROUND/szName:New Age Spiritualist
+35:BACKGROUND/szShortName:New Age Spiritualist
+35:BACKGROUND/szDescription:Who needs an exam to be a practicing healer?
+36:BACKGROUND/szName:SAS
+36:BACKGROUND/szShortName:SAS
+36:BACKGROUND/szDescription:The british Special Air Service is one of the world's most &#10;famous special forces units, and is not only trained in survival techniques in all environments, it is also exceptionally well versed in airborne missions.
+37:BACKGROUND/szName:Paramilitary Instructor
+37:BACKGROUND/szShortName:Instructor
+37:BACKGROUND/szDescription:Just like boyscouts. But with violence. So not really like boyscouts &#10;at all.
+38:BACKGROUND/szName:Graduate
+38:BACKGROUND/szShortName:Graduate
+38:BACKGROUND/szDescription:Fresh out of school, with a diploma still warm in hand, it's time &#10;to finally make yourself a living.
+39:BACKGROUND/szName:Mercenary
+39:BACKGROUND/szShortName:Merc
+39:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+40:BACKGROUND/szName:Momma's Boy
+40:BACKGROUND/szShortName:Momma's Boy
+40:BACKGROUND/szDescription:Your childhood left you with significant personal issues that have &#10;yet to be solved.
+41:BACKGROUND/szName:Wanna-be Mercenary
+41:BACKGROUND/szShortName:Wanna-be Merc
+41:BACKGROUND/szDescription:You chose the awesome life of a mercenary: visit new places, &#10;meet new people, and kill them. And even get paid for it.
+42:BACKGROUND/szName:Hillbilly
+42:BACKGROUND/szShortName:Hillbilly
+42:BACKGROUND/szDescription:Overalls, straw sticking out of boots, and an inseparable blade of grass &#10;in the mouth - but with a knack for tools and all things mechanical.
+43:BACKGROUND/szName:Mad Slasher
+43:BACKGROUND/szShortName:Mad Slasher
+43:BACKGROUND/szDescription:There is something extremely not right here, but he has obviously &#10;useful talents for this business.
+44:BACKGROUND/szName:Accountant
+44:BACKGROUND/szShortName:Accountant
+44:BACKGROUND/szDescription:Knowledge learned from years of keeping books for an arms dealer &#10;leads to better deals when buying and selling guns and gear.
+45:BACKGROUND/szName:Harvard graduate
+45:BACKGROUND/szShortName:Harvard graduate
+45:BACKGROUND/szDescription:University taught you many things, but combat isn't one of them.
+46:BACKGROUND/szName:Drug Addict/Bomber
+46:BACKGROUND/szShortName:Addict/Bomber
+46:BACKGROUND/szDescription:Given the nature of today's drugs, addicts can make fearsome, &#10;yet unreliable, opponents.
+47:BACKGROUND/szName:Drug Addict
+47:BACKGROUND/szShortName:Drug Addict
+47:BACKGROUND/szDescription:This... this is it! I get it now. HEAR THAT? I GET IT NOW!
+48:BACKGROUND/szName:Rejected Army Cadet
+48:BACKGROUND/szShortName:Rejected Army Cadet
+48:BACKGROUND/szDescription:Flunked out of the military academy, but not yet finished.
+49:BACKGROUND/szName:Punk
+49:BACKGROUND/szShortName:Punk
+49:BACKGROUND/szDescription:Turning the urban environment into a jungle is a tough job, but &#10;somebody's gotta do it!
+50:BACKGROUND/szName:Prison Guard
+50:BACKGROUND/szShortName:Prison Guard
+50:BACKGROUND/szDescription:Look at this guy. Now look at you. Still feel like escaping?
+51:BACKGROUND/szName:Placeholder
+51:BACKGROUND/szShortName:Placeholder
+51:BACKGROUND/szDescription:Not needed!
+52:BACKGROUND/szName:Placeholder
+52:BACKGROUND/szShortName:Placeholder
+52:BACKGROUND/szDescription:Not needed!
+53:BACKGROUND/szName:Placeholder
+53:BACKGROUND/szShortName:Placeholder
+53:BACKGROUND/szDescription:Not needed!
+54:BACKGROUND/szName:Placeholder
+54:BACKGROUND/szShortName:Placeholder
+54:BACKGROUND/szDescription:Not needed!
+55:BACKGROUND/szName:Placeholder
+55:BACKGROUND/szShortName:Placeholder
+55:BACKGROUND/szDescription:Not needed!
+56:BACKGROUND/szName:Placeholder
+56:BACKGROUND/szShortName:Placeholder
+56:BACKGROUND/szDescription:Not needed!
+57:BACKGROUND/szName:Arulcan Rebel
+57:BACKGROUND/szShortName:Rebel
+57:BACKGROUND/szDescription:The only hope left for his oppressed people, Miguel IS the revolution.
+58:BACKGROUND/szName:Arulcan Rebel
+58:BACKGROUND/szShortName:Rebel
+58:BACKGROUND/szDescription:Miguel's right hand, Carlos keeps the men in line.
+59:BACKGROUND/szName:Rebel Scout/Medic
+59:BACKGROUND/szShortName:Rebel Scout/Medic
+59:BACKGROUND/szDescription:Aid worker turned rebel, Ira does what she can to keep the rebels alive.
+60:BACKGROUND/szName:Arulcan Rebel
+60:BACKGROUND/szShortName:Rebel
+60:BACKGROUND/szDescription:One might mistake him for a simpleton, but being alive after all these years proves Dimitri is made of sterner stuff.
+61:BACKGROUND/szName:IRA Bombexpert
+61:BACKGROUND/szShortName:IRA Bombexpert
+61:BACKGROUND/szDescription:Once building his bombs for the IRA, Devin recently considered selling his devices to other customers as well.
+62:BACKGROUND/szName:Placeholder
+62:BACKGROUND/szShortName:Placeholder
+62:BACKGROUND/szDescription:Not needed!
+63:BACKGROUND/szName:Metaviran Native
+63:BACKGROUND/szShortName:Metavira
+63:BACKGROUND/szDescription:The indigenous people of Metavira have adjusted to the hostile &#10;jungle there. After the liberation, some joined the foreigners and sought their luck elsewhere.
+64:BACKGROUND/szName:Sniper Terrorist
+64:BACKGROUND/szShortName:Sniper Terrorist
+64:BACKGROUND/szDescription:No politician would admit it, but the same governments that hunt him employ him.
+65:BACKGROUND/szName:Placeholder
+65:BACKGROUND/szShortName:Placeholder
+65:BACKGROUND/szDescription:Not needed!
+66:BACKGROUND/szName:Prisoner
+66:BACKGROUND/szShortName:Prisoner
+66:BACKGROUND/szDescription:Being held and tortured in a regime prison left you scarred for the &#10;rest of your life. You're not afraid of death anymore - but there are other things to be afraid of.
+67:BACKGROUND/szName:Prisoner
+67:BACKGROUND/szShortName:Prisoner
+67:BACKGROUND/szDescription:Being held and tortured in a regime prison left you scarred for the &#10;rest of your life. You're not afraid of death anymore - but there are other things to be afraid of.
+68:BACKGROUND/szName:Red Army/Veteran Mercenary
+68:BACKGROUND/szShortName:Red Army/Vet Merc
+68:BACKGROUND/szDescription:A veteran of international conflict, Iggy found himself on the wrong &#10;side of the conflict until he joined the rebellion.
+69:BACKGROUND/szName:General Practitioner
+69:BACKGROUND/szShortName:GP
+69:BACKGROUND/szDescription:Frustrated by the anguish and misery he sees everyday, Vince has decided &#10;it might be time for a more active resistance against the queen.
+70:BACKGROUND/szName:Military Advisor
+70:BACKGROUND/szShortName:Military Advisor
+70:BACKGROUND/szDescription:Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.
+71:BACKGROUND/szName:Placeholder
+71:BACKGROUND/szShortName:Placeholder
+71:BACKGROUND/szDescription:Not needed!
+72:BACKGROUND/szName:Crazy Redneck
+72:BACKGROUND/szShortName:Crazy Redneck
+72:BACKGROUND/szDescription:Not entirely sane, not entirely crazy, not entirely anything, &#10;your life is at a crossroads.
+73:BACKGROUND/szName:Redneck
+73:BACKGROUND/szShortName:Redneck
+73:BACKGROUND/szDescription:When the Confederacy lost the war, your family moved further south . . . &#10;and is still fighting . . . everybody.
+74:BACKGROUND/szName:Expert Handyman
+74:BACKGROUND/szShortName:Expert Handyman
+74:BACKGROUND/szDescription:In a warzone without the usual comforts, it is very useful to &#10;have people who can maintain your gear.
+75:BACKGROUND/szName:Evil Queen
+75:BACKGROUND/szShortName:Evil Queen
+75:BACKGROUND/szDescription:Living the life of an evil ruler of a small country certainly leads to astonishing survival talents.
+76:BACKGROUND/szName:Grandmother
+76:BACKGROUND/szShortName:Granny
+76:BACKGROUND/szDescription:Old people. They never seem to sleep.
+77:BACKGROUND/szName:Placeholder
+77:BACKGROUND/szShortName:Placeholder
+77:BACKGROUND/szDescription:Not needed!
+78:BACKGROUND/szName:Bounty Hunter
+78:BACKGROUND/szShortName:Bounty Hunter
+78:BACKGROUND/szDescription:Not needed!
+79:BACKGROUND/szName:Bodyguard
+79:BACKGROUND/szShortName:Bodyguard
+79:BACKGROUND/szDescription:Superbly trained, utterly loyal, and willing to pay the &#10;ultimate price. What more could a potential employer want?.
+80:BACKGROUND/szName:Doctor
+80:BACKGROUND/szShortName:Doctor
+80:BACKGROUND/szDescription:A leader of nurses, aides, and candy-stripers -- oh, and healer of mercenaries.
+81:BACKGROUND/szName:Keeper of the Bugs
+81:BACKGROUND/szShortName:Bug Caretaker
+81:BACKGROUND/szDescription:Do you wonder why Rat is a bit on the nervous side?
+82:BACKGROUND/szName:Terrorist
+82:BACKGROUND/szShortName:Terrorist
+82:BACKGROUND/szDescription:Notorious mass-murderer? Insane criminal? They're just jealous.
+83:BACKGROUND/szName:Terrorist Slasher
+83:BACKGROUND/szShortName:Terrorist Slasher
+83:BACKGROUND/szDescription:Wanted by Interpol, a meat cleaver killer and master of disguise.
+84:BACKGROUND/szName:Placeholder
+84:BACKGROUND/szShortName:Placeholder
+84:BACKGROUND/szDescription:Not needed!
+85:BACKGROUND/szName:Punk
+85:BACKGROUND/szShortName:Punk
+85:BACKGROUND/szDescription:Turning the urban environment into a jungle is a tough job, &#10;but somebody's gotta do it!
+86:BACKGROUND/szName:The Mob
+86:BACKGROUND/szShortName:Mobster
+86:BACKGROUND/szDescription:Organized crime is found anywhere. No exceptions.
+87:BACKGROUND/szName:The Mob
+87:BACKGROUND/szShortName:Mobster
+87:BACKGROUND/szDescription:Organized crime is found anywhere. No exceptions.
+88:BACKGROUND/szName:Sex slave
+88:BACKGROUND/szShortName:Sex slave
+88:BACKGROUND/szDescription:You don't want to know.
+89:BACKGROUND/szName:Shopkeeper/Craftsman
+89:BACKGROUND/szShortName:Shopkeeper/Craftsman
+89:BACKGROUND/szDescription:For many people, their trade IS trade.
+90:BACKGROUND/szName:Teenager
+90:BACKGROUND/szShortName:Teenager
+90:BACKGROUND/szDescription:So much angst.
+91:BACKGROUND/szName:Arms Dealer
+91:BACKGROUND/szShortName:Arms Dealer
+91:BACKGROUND/szDescription:You know the risk selling weapons to both sides, but the profit margin is just that good.
+92:BACKGROUND/szName:Barkeeper
+92:BACKGROUND/szShortName:Barkeeper
+92:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+93:BACKGROUND/szName:Bouncer
+93:BACKGROUND/szShortName:Bouncer
+93:BACKGROUND/szDescription:Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).
+94:BACKGROUND/szName:Bodyguard
+94:BACKGROUND/szShortName:Bodyguard
+94:BACKGROUND/szDescription:Superbly trained, utterly loyal, and willing to pay the &#10;ultimate price. What more could a potential employer want?
+95:BACKGROUND/szName:Shopkeeper/Craftsman
+95:BACKGROUND/szShortName:Shopkeeper/Craftsman
+95:BACKGROUND/szDescription:For many people, their trade IS trade.
+96:BACKGROUND/szName:Poacher/Smuggler
+96:BACKGROUND/szShortName:Poacher/Smuggler
+96:BACKGROUND/szDescription:Travel to virgin soil, seek fascinating species, and &#10;KILL THEM ALL.
+97:BACKGROUND/szName:Pilot
+97:BACKGROUND/szShortName:Pilot
+97:BACKGROUND/szDescription:Flying helicopters is second nature to him, as is getting the heck &#10;out of trouble!
+98:BACKGROUND/szName:Airport Cargo Manager/Thief
+98:BACKGROUND/szShortName:Cargo Manager/Thief
+98:BACKGROUND/szDescription:Pablo 'takes care of' the cargo coming in and going out of the Drassen airport.
+99:BACKGROUND/szName:Airport Cargo Manager
+99:BACKGROUND/szShortName:Cargo Manager
+99:BACKGROUND/szDescription:Sal tries to handle the cargo manager job.
+100:BACKGROUND/szName:Priest
+100:BACKGROUND/szShortName:Priest
+100:BACKGROUND/szDescription:Many devout followers of any religion or cult are surprisingly &#10;violent and zealous if pushed into the right (or wrong) direction.
+101:BACKGROUND/szName:Placeholder
+101:BACKGROUND/szShortName:Placeholder
+101:BACKGROUND/szDescription:Not needed!
+102:BACKGROUND/szName:Warden
+102:BACKGROUND/szShortName:Warden
+102:BACKGROUND/szDescription:Former law enforcement personnel often seek work in the mercenary world, and are the logical choice for handling captives.
+103:BACKGROUND/szName:Prisoner
+103:BACKGROUND/szShortName:Prisoner
+103:BACKGROUND/szDescription:Being held and tortured in a regime prison left you scarred for the &#10;rest of your life. You're not afraid of death anymore - but there are other things to be afraid of.
+104:BACKGROUND/szName:Placeholder
+104:BACKGROUND/szShortName:Placeholder
+104:BACKGROUND/szDescription:Not needed!
+105:BACKGROUND/szName:Placeholder
+105:BACKGROUND/szShortName:Placeholder
+105:BACKGROUND/szDescription:Not needed!
+106:BACKGROUND/szName:Head Miner
+106:BACKGROUND/szShortName:Miner
+106:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.
+107:BACKGROUND/szName:Madame
+107:BACKGROUND/szShortName:Madame
+107:BACKGROUND/szDescription:Pleasing customers in a most unsavory way while keeping her charges captive.
+108:BACKGROUND/szName:Arulcan Elder
+108:BACKGROUND/szShortName:Arulcan Elder
+108:BACKGROUND/szDescription:Respected for his wisdom and knowledge of Arulcan history.
+109:BACKGROUND/szName:Joey's Mom
+109:BACKGROUND/szShortName:Joey's Mom
+109:BACKGROUND/szDescription:Totally clueless . . . about her son.
+110:BACKGROUND/szName:The Mob
+110:BACKGROUND/szShortName:Mafioso
+110:BACKGROUND/szDescription:Mess with him, you mess with the entire family...
+111:BACKGROUND/szName:Insurgent American Terrorist
+111:BACKGROUND/szShortName:Insurgent Terrorist
+111:BACKGROUND/szDescription:Paranoid, ignorant, fascist - yep, that's you.
+112:BACKGROUND/szName:Terrorist Poisoner
+112:BACKGROUND/szShortName:Terrorist Poisoner
+112:BACKGROUND/szDescription:Wanted by Interpol, terrorists know how to live undercover unnoticed.
+113:BACKGROUND/szName:Junk Dealer/Black Marketeer
+113:BACKGROUND/szShortName:Junk Dealer
+113:BACKGROUND/szDescription:Jake deals in junk . . . and other stuff.
+114:BACKGROUND/szName:Child
+114:BACKGROUND/szShortName:Child
+114:BACKGROUND/szDescription:And there goes the Geneva convention...
+115:BACKGROUND/szName:Car Mechanic
+115:BACKGROUND/szShortName:Car Mechanic
+115:BACKGROUND/szDescription:Dave used to run a service station . . . when there was fuel for vehicles.
+116:BACKGROUND/szName:Homeless Man
+116:BACKGROUND/szShortName:Homeless Man
+116:BACKGROUND/szDescription:The Queen had Skipper's family murdered, and his home burned to the ground.
+117:BACKGROUND/szName:Frontman
+117:BACKGROUND/szShortName:Frontman
+117:BACKGROUND/szDescription:Not needed!
+118:BACKGROUND/szName:Tourist
+118:BACKGROUND/szShortName:Tourist
+118:BACKGROUND/szDescription:Could you take a picture, please?
+119:BACKGROUND/szName:Tourist
+119:BACKGROUND/szShortName:Tourist
+119:BACKGROUND/szDescription:Could you take a picture, please?
+120:BACKGROUND/szName:General
+120:BACKGROUND/szShortName:General
+120:BACKGROUND/szDescription:This mercenary General is definitely not in your squad!
+121:BACKGROUND/szName:Sergeant Krott
+121:BACKGROUND/szShortName:Sergeant
+121:BACKGROUND/szDescription:Drafted into the Arulcan Army, this sergeant would rather be at &#10;home with his family.
+122:BACKGROUND/szName:Corporatist
+122:BACKGROUND/szShortName:Corporatist
+122:BACKGROUND/szDescription:Rich classist bankrolling the Queen for social status.
+123:BACKGROUND/szName:B-Movie Star/Trophy Wife
+123:BACKGROUND/szShortName:B-Movie Star
+123:BACKGROUND/szDescription:Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.
+124:BACKGROUND/szName:Shopkeeper
+124:BACKGROUND/szShortName:Shopkeeper
+124:BACKGROUND/szDescription:For many people, their trade IS trade.
+125:BACKGROUND/szName:Apothecary
+125:BACKGROUND/szShortName:Apothecary
+125:BACKGROUND/szDescription:For many people, their trade IS trade.
+126:BACKGROUND/szName:Shopkeeper/Craftsman
+126:BACKGROUND/szShortName:Shopkeeper/Craftsman
+126:BACKGROUND/szDescription:For many people, their trade IS trade.
+127:BACKGROUND/szName:WWII Veteran
+127:BACKGROUND/szShortName:Veteran
+127:BACKGROUND/szDescription:In his prime, he'd have put all you youngsters to shame.
+128:BACKGROUND/szName:Expert Handyman
+128:BACKGROUND/szShortName:Expert Handyman
+128:BACKGROUND/szDescription:In a warzone without the usual comforts, it is very useful to &#10;have people who can maintain your gear.
+129:BACKGROUND/szName:Shopkeeper
+129:BACKGROUND/szShortName:Shopkeeper
+129:BACKGROUND/szDescription:For many people, their trade IS trade.
+130:BACKGROUND/szName:Handyman
+130:BACKGROUND/szShortName:Handyman
+130:BACKGROUND/szDescription:Got something that needs fixing? Here's your man.
+131:BACKGROUND/szName:Scientist
+131:BACKGROUND/szShortName:Scientist
+131:BACKGROUND/szDescription:Single-minded scientist working for the Queen . . .
+132:BACKGROUND/szName:Nurse
+132:BACKGROUND/szShortName:Nurse
+132:BACKGROUND/szDescription:While not full-blown doctors, nurses are still in high demand &#10;in warzones, due to that grim business.
+133:BACKGROUND/szName:Bouncer
+133:BACKGROUND/szShortName:Bouncer
+133:BACKGROUND/szDescription:Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).
+134:BACKGROUND/szName:Twit
+134:BACKGROUND/szShortName:Twit
+134:BACKGROUND/szDescription:Married to The Warden, two-faced, cowardly, unfaithful to the &#10;point of facilitating murder.
+135:BACKGROUND/szName:Butt Monkey
+135:BACKGROUND/szShortName:Butt Monkey
+135:BACKGROUND/szDescription:One would expect the constant abuse and ridicule you withstand to eventually &#10;lead you to reconsider your life choices. Nope.
+136:BACKGROUND/szName:Placeholder
+136:BACKGROUND/szShortName:Placeholder
+136:BACKGROUND/szDescription:Not needed!
+137:BACKGROUND/szName:Placeholder
+137:BACKGROUND/szShortName:Placeholder
+137:BACKGROUND/szDescription:Not needed!
+138:BACKGROUND/szName:Helicopter Mechanic
+138:BACKGROUND/szShortName:Heli Mechanic
+138:BACKGROUND/szDescription:The best (and likely only) heli mechanic in Arulco.
+139:BACKGROUND/szName:Factory Owner
+139:BACKGROUND/szShortName:Factory Owner
+139:BACKGROUND/szDescription:A personal friend of Deidranna and a ruthless exploiter. How did you manage to recruit her?
+140:BACKGROUND/szName:Hitman
+140:BACKGROUND/szShortName:Hitman
+140:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+141:BACKGROUND/szName:Hitman
+141:BACKGROUND/szShortName:Hitman
+141:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+142:BACKGROUND/szName:Hitman
+142:BACKGROUND/szShortName:Hitman
+142:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+143:BACKGROUND/szName:Hitman
+143:BACKGROUND/szShortName:Hitman
+143:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+144:BACKGROUND/szName:Hitman
+144:BACKGROUND/szShortName:Hitman
+144:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+145:BACKGROUND/szName:Hitman
+145:BACKGROUND/szShortName:Hitman
+145:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+146:BACKGROUND/szName:Scientist
+146:BACKGROUND/szShortName:Scientist
+146:BACKGROUND/szDescription:Pursuing your insatiable appetite for knowledge led you into &#10;committing atrocities for The Queen, which you now seek to rectify.
+147:BACKGROUND/szName:Shopkeeper
+147:BACKGROUND/szShortName:Shopkeeper
+147:BACKGROUND/szDescription:For many people, their trade IS trade.
+148:BACKGROUND/szName:Head Miner
+148:BACKGROUND/szShortName:Miner
+148:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.
+149:BACKGROUND/szName:Veteran Mercenary
+149:BACKGROUND/szShortName:Veteran Merc
+149:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+150:BACKGROUND/szName:Redneck
+150:BACKGROUND/szShortName:Redneck
+150:BACKGROUND/szDescription:When the Confederacy lost the war, your family moved further south . . . &#10;and is still fighting . . . everybody.
+151:BACKGROUND/szName:Barkeeper
+151:BACKGROUND/szShortName:Barkeeper
+151:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+152:BACKGROUND/szName:Barkeeper
+152:BACKGROUND/szShortName:Barkeeper
+152:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+153:BACKGROUND/szName:Barkeeper
+153:BACKGROUND/szShortName:Barkeeper
+153:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+154:BACKGROUND/szName:Barkeeper
+154:BACKGROUND/szShortName:Barkeeper
+154:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+155:BACKGROUND/szName:Mentally Challenged
+155:BACKGROUND/szShortName:Mentally Challenged
+155:BACKGROUND/szDescription:Poor Manny...
+156:BACKGROUND/szName:Head Miner
+156:BACKGROUND/szShortName:Miner
+156:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.
+157:BACKGROUND/szName:Head Miner
+157:BACKGROUND/szShortName:Miner
+157:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.
+158:BACKGROUND/szName:Head Miner
+158:BACKGROUND/szShortName:Miner
+158:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start &#10;to look for easier cash.
+159:BACKGROUND/szName:Technical Wizard
+159:BACKGROUND/szShortName:Tech Whiz
+159:BACKGROUND/szDescription:No matter if it's thirty-years-old junk or the latest electronic &#10;gadget, a tech whiz can rewire, reassemble and reconfigure it with their eyes closed.
+160:BACKGROUND/szName:Placeholder
+160:BACKGROUND/szShortName:Placeholder
+160:BACKGROUND/szDescription:Not needed!
+161:BACKGROUND/szName:Placeholder
+161:BACKGROUND/szShortName:Placeholder
+161:BACKGROUND/szDescription:Not needed!
+162:BACKGROUND/szName:Placeholder
+162:BACKGROUND/szShortName:Placeholder
+162:BACKGROUND/szDescription:Not needed!
+163:BACKGROUND/szName:Placeholder
+163:BACKGROUND/szShortName:Placeholder
+163:BACKGROUND/szDescription:Not needed!
+164:BACKGROUND/szName:Placeholder
+164:BACKGROUND/szShortName:Placeholder
+164:BACKGROUND/szDescription:Not needed!
+165:BACKGROUND/szName:UN Peacekeeper
+165:BACKGROUND/szShortName:UN
+165:BACKGROUND/szDescription:Nations of the entire world provide these troops to solve all &#10;conflicts without any violence. Sadly, this statement is false.
+166:BACKGROUND/szName:Veteran Mercenary
+166:BACKGROUND/szShortName:Veteran Merc
+166:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+167:BACKGROUND/szName:B-Movie Star/Veteran Mercenary
+167:BACKGROUND/szShortName:Movie Star/Vet Merc
+167:BACKGROUND/szDescription:Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.
+168:BACKGROUND/szName:Veteran Mercenary/Bomber
+168:BACKGROUND/szShortName:Veteran Merc/Bomber
+168:BACKGROUND/szDescription:You were already famous in this business before those youngsters were &#10;even born. After years of battle, there's hardly anything that can shake you up.
+169:BACKGROUND/szName:Placeholder
+169:BACKGROUND/szShortName:Placeholder
+169:BACKGROUND/szDescription:Not needed!
+170:BACKGROUND/szName:Red Army
+170:BACKGROUND/szShortName:Red Army
+170:BACKGROUND/szDescription:With Russian stoicism, the Red Army prevailed against Hitler, &#10;Father Frost, and chronic shortages.
+171:BACKGROUND/szName:Red Army
+171:BACKGROUND/szShortName:Red Army
+171:BACKGROUND/szDescription:The Red Army prevailed against Hitler, Father Frost, &#10;and chronic shortages.
+172:BACKGROUND/szName:Red Army
+172:BACKGROUND/szShortName:Red Army
+172:BACKGROUND/szDescription:The Red Army prevailed against Hitler, Father Frost, &#10;and chronic shortages
+173:BACKGROUND/szName:Military Advisor
+173:BACKGROUND/szShortName:Military Advisor
+173:BACKGROUND/szDescription:Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.
+174:BACKGROUND/szName:Bouncer
+174:BACKGROUND/szShortName:Bouncer
+174:BACKGROUND/szDescription:Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).
+175:BACKGROUND/szName:Surgeon/Refugee
+175:BACKGROUND/szShortName:Surgeon/Refugee
+175:BACKGROUND/szDescription:Leaving your homeland has left you bitter. Learning to cut human &#10;flesh relieved your pain.
+176:BACKGROUND/szName:Circus Artist
+176:BACKGROUND/szShortName:Circus Artist
+176:BACKGROUND/szDescription:Let's hope you are as good at evading bullets as you &#10;are at evading knifes while tied to a board.
+177:BACKGROUND/szName:GSG9
+177:BACKGROUND/szShortName:GSG9
+177:BACKGROUND/szDescription:Formed after the disastrous Munich massacre in 1972, GSG9 is a &#10;german counter-terrorism unit.
+178:BACKGROUND/szName:SOG Member
+178:BACKGROUND/szShortName:SOG
+178:BACKGROUND/szDescription:The Studies and Observations Group was a classified special forces &#10;unit conducting unconventional warfare in Vietnam.
+179:BACKGROUND/szName:Mad Bomber
+179:BACKGROUND/szShortName:Mad Bomber
+179:BACKGROUND/szDescription:Explosives experts are hard to find . . . but everyone wishes &#10;they hadn't found this one!
+180:BACKGROUND/szName:Snitch
+180:BACKGROUND/szShortName:Snitch
+180:BACKGROUND/szDescription:You know all about your teammates, wether or not they care.
+181:BACKGROUND/szName:Wrestler
+181:BACKGROUND/szShortName:Wrestler
+181:BACKGROUND/szDescription:It might be more of a spectacle than actual fighting, but getting thrown &#10;around a ring without breaking a neck still takes a lot of skill.
+182:BACKGROUND/szName:Veteran Physician
+182:BACKGROUND/szShortName:Veteran Physician
+182:BACKGROUND/szDescription:Several years of evaluating human lives ironically left your own &#10;health in disrepair - cheap cigarrettes flushed down with strong coffee took their toll. &#10;The object-like way you started to treat your patients also doesn't make you very popular.
+183:BACKGROUND/szName:Veteran Mercenary/Undertaker
+183:BACKGROUND/szShortName:Vet/Undertaker
+183:BACKGROUND/szDescription:Pops has seen it all. What's left to frighten him?
+184:BACKGROUND/szName:Smith/Poor Shot
+184:BACKGROUND/szShortName:Smith/Poor Shot
+184:BACKGROUND/szDescription:Due to extreme short-sightedness Wally is a poor shot with next to no chance of improvement.
+185:BACKGROUND/szName:Surgeon
+185:BACKGROUND/szShortName:Surgeon
+185:BACKGROUND/szDescription:Everyone can cut human flesh - but sewing it back is a quest for &#10;the best!
+186:BACKGROUND/szName:General Practitioner
+186:BACKGROUND/szShortName:GP
+186:BACKGROUND/szDescription:A versatile and educated doctor can save a human life, no matter what &#10;his patient caught - a virus or a bullet.
+187:BACKGROUND/szName:Office Worker/Snitch
+187:BACKGROUND/szShortName:Office Worker
+187:BACKGROUND/szDescription:Air conditioning, watered-down coffee, and some papers to push &#10;- what else can you expect from life?
+188:BACKGROUND/szName:Coward/Teacher/Snitch
+188:BACKGROUND/szShortName:Coward/Snitch
+188:BACKGROUND/szDescription:When they said "those who can, do; those who can't, teach" - they &#10;were talking about Lance.
+189:BACKGROUND/szName:Pretender
+189:BACKGROUND/szShortName:Pretender
+189:BACKGROUND/szDescription:Pretending to be anything and everything he is not, nobody knows &#10;who he actually is.
+190:BACKGROUND/szName:Baseball player
+190:BACKGROUND/szShortName:Athlete
+190:BACKGROUND/szDescription:If your team ever needs someone to throw grenades on an even field, you'll be the man.
+191:BACKGROUND/szName:Technical Wizard
+191:BACKGROUND/szShortName:Tech Whiz
+191:BACKGROUND/szDescription:No matter if it's thirty-years-old junk or the latest electronic &#10;gadget, a tech whiz can rewire, reassemble and reconfigure it with their eyes closed.
+192:BACKGROUND/szName:Placeholder
+192:BACKGROUND/szShortName:Placeholder
+192:BACKGROUND/szDescription:Not needed!
+193:BACKGROUND/szName:Placeholder
+193:BACKGROUND/szShortName:Placeholder
+193:BACKGROUND/szDescription:Not needed!
+194:BACKGROUND/szName:Placeholder
+194:BACKGROUND/szShortName:Placeholder
+194:BACKGROUND/szDescription:Not needed!
+195:BACKGROUND/szName:Tourist Merc
+195:BACKGROUND/szShortName:Tourist
+195:BACKGROUND/szDescription:Subscribing to Soldier of Fortune magazine is as close to being a &#10;mercenary as you ever came . . . until now.
+196:BACKGROUND/szName:Metaviran Native
+196:BACKGROUND/szShortName:Metavira
+196:BACKGROUND/szDescription:The indigenous people of Metavira have adjusted to the hostile &#10;jungle there. After the liberation, some joined the foreigners and sought their luck elsewhere.
+197:BACKGROUND/szName:Metaviran Native
+197:BACKGROUND/szShortName:Metavira
+197:BACKGROUND/szDescription:The indigenous people of Metavira have adjusted to the hostile &#10;jungle there. After the liberation, some joined the foreigners and sought their luck elsewhere.
+198:BACKGROUND/szName:Metaviran Shaman
+198:BACKGROUND/szShortName:Shaman
+198:BACKGROUND/szDescription:Leaders of their communities since ages long forgotten, shamans &#10;possess medical knowledge unseen by western eyes.
+199:BACKGROUND/szName:Placeholder
+199:BACKGROUND/szShortName:Placeholder
+199:BACKGROUND/szDescription:Not needed!
+200:BACKGROUND/szName:Placeholder
+200:BACKGROUND/szShortName:Placeholder
+200:BACKGROUND/szDescription:Not needed!
+201:BACKGROUND/szName:Placeholder
+201:BACKGROUND/szShortName:Placeholder
+201:BACKGROUND/szDescription:Not needed!
+202:BACKGROUND/szName:Placeholder
+202:BACKGROUND/szShortName:Placeholder
+202:BACKGROUND/szDescription:Not needed!
+203:BACKGROUND/szName:Placeholder
+203:BACKGROUND/szShortName:Placeholder
+203:BACKGROUND/szDescription:Not needed!
+204:BACKGROUND/szName:Placeholder
+204:BACKGROUND/szShortName:Placeholder
+204:BACKGROUND/szDescription:Not needed!
+205:BACKGROUND/szName:Placeholder
+205:BACKGROUND/szShortName:Placeholder
+205:BACKGROUND/szDescription:Not needed!
+206:BACKGROUND/szName:Placeholder
+206:BACKGROUND/szShortName:Placeholder
+206:BACKGROUND/szDescription:Not needed!
+207:BACKGROUND/szName:Placeholder
+207:BACKGROUND/szShortName:Placeholder
+207:BACKGROUND/szDescription:Not needed!
+208:BACKGROUND/szName:Placeholder
+208:BACKGROUND/szShortName:Placeholder
+208:BACKGROUND/szDescription:Not needed!
+209:BACKGROUND/szName:Placeholder
+209:BACKGROUND/szShortName:Placeholder
+209:BACKGROUND/szDescription:Not needed!
+210:BACKGROUND/szName:Placeholder
+210:BACKGROUND/szShortName:Placeholder
+210:BACKGROUND/szDescription:Not needed!
+211:BACKGROUND/szName:Placeholder
+211:BACKGROUND/szShortName:Placeholder
+211:BACKGROUND/szDescription:Not needed!
+212:BACKGROUND/szName:Placeholder
+212:BACKGROUND/szShortName:Placeholder
+212:BACKGROUND/szDescription:Not needed!
+213:BACKGROUND/szName:Placeholder
+213:BACKGROUND/szShortName:Placeholder
+213:BACKGROUND/szDescription:Not needed!
+214:BACKGROUND/szName:Placeholder
+214:BACKGROUND/szShortName:Placeholder
+214:BACKGROUND/szDescription:Not needed!
+215:BACKGROUND/szName:Placeholder
+215:BACKGROUND/szShortName:Placeholder
+215:BACKGROUND/szDescription:Not needed!
+216:BACKGROUND/szName:Placeholder
+216:BACKGROUND/szShortName:Placeholder
+216:BACKGROUND/szDescription:Not needed!
+217:BACKGROUND/szName:Placeholder
+217:BACKGROUND/szShortName:Placeholder
+217:BACKGROUND/szDescription:Not needed!
+218:BACKGROUND/szName:Placeholder
+218:BACKGROUND/szShortName:Placeholder
+218:BACKGROUND/szDescription:Not needed!
+219:BACKGROUND/szName:The Mob
+219:BACKGROUND/szShortName:Mobster
+219:BACKGROUND/szDescription:Organized crime is found anywhere. No exceptions.
+220:BACKGROUND/szName:Postal Worker
+220:BACKGROUND/szShortName:Postal Worker
+220:BACKGROUND/szDescription:Through rain, snow, sleet and hail, the mail must get through - and IT NEVER STOPS!
+221:BACKGROUND/szName:Serial Killer
+221:BACKGROUND/szShortName:Serial Killer
+221:BACKGROUND/szDescription:There are different accounts of how you've managed to leave the &#10;confinement, but everyone agrees - you should go back.
+222:BACKGROUND/szName:Veteran Mercenary/Snitch
+222:BACKGROUND/szShortName:Vet Merc/Snitch
+222:BACKGROUND/szDescription:You were already famous in this business before those youngsters were &#10;even born. After years of battle, there's hardly anything that can shake you up.
+223:BACKGROUND/szName:Military Brat/Snitch/Bomber
+223:BACKGROUND/szShortName:Brat/Snitch/Bomber
+223:BACKGROUND/szDescription:With Gary as a brother, is it any wonder that Larry drinks so hard?
+224:BACKGROUND/szName:Valley Girl Technician
+224:BACKGROUND/szShortName:Valley Girl/Tech
+224:BACKGROUND/szDescription:Valley girl wrench wench, and perhaps the best of the Roachburn siblings!
+225:BACKGROUND/szName:Nurse/Snitch
+225:BACKGROUND/szShortName:Nurse/Snitch
+225:BACKGROUND/szDescription:While not full-blown doctors, nurses are still in high demand &#10;in warzones, due to that grim business.
+226:BACKGROUND/szName:Veteran Mercenary
+226:BACKGROUND/szShortName:Veteran Merc
+226:BACKGROUND/szDescription:You were already famous in this business before those youngsters were &#10;even born. After years of battle, there's hardly anything that can shake you up.
+227:BACKGROUND/szName:Hypochondriac
+227:BACKGROUND/szShortName:Hypochondriac
+227:BACKGROUND/szDescription:When you enter a ward, all medical personnel tries to look overly &#10;busy or hides around corners in a futile attempt to avoid you. The List of your possible afflictions just keeps getting bigger and bigger!
+228:BACKGROUND/szName:Battlefield Medic
+228:BACKGROUND/szShortName:Battlefield Medic
+228:BACKGROUND/szDescription:Everyone can cut human flesh - but sewing it back while under fire is a quest for &#10;the best!
+229:BACKGROUND/szName:Arulcan Rebel
+229:BACKGROUND/szShortName:Rebel
+229:BACKGROUND/szDescription:Cut off from everyone, Manuel is a natural survivor.
+230:BACKGROUND/szName:Veteran Mercenary/Car Mechanic
+230:BACKGROUND/szShortName:Vet Merc/Mechanic
+230:BACKGROUND/szDescription:A car mechanic is very useful, as long as you actually have a car.
+231:BACKGROUND/szName:Hitman
+231:BACKGROUND/szShortName:Hitman
+231:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+232:BACKGROUND/szName:UN Peacekeeper
+232:BACKGROUND/szShortName:UN
+232:BACKGROUND/szDescription:Spam was frustrated by the lack of a strong mandate that forced &#10;him to do nothing. On the plus side, he is used to being fired at.
+233:BACKGROUND/szName:Veteran Ranger/Mercenary
+233:BACKGROUND/szShortName:Veteran Ranger/Merc
+233:BACKGROUND/szDescription:The Rangers form the elite of the US Army infantry.
+234:BACKGROUND/szName:Professional Thief/Convict
+234:BACKGROUND/szShortName:Thief/Convict
+234:BACKGROUND/szDescription:Prison is college for criminals . . . if they survive &#10;the course load. Jimmy passed with honors.
+235:BACKGROUND/szName:Competitive Shooter
+235:BACKGROUND/szShortName:Competitive Shooter
+235:BACKGROUND/szDescription:Some people display a knack for shooting, and a disturbing &#10;aggression against innocent paper bull's-eyes.
+236:BACKGROUND/szName:Airforce Pilot
+236:BACKGROUND/szShortName:Airforce Pilot
+236:BACKGROUND/szDescription:Bob is no stranger to tense situations, and lets others feel that as well.
+237:BACKGROUND/szName:Veteran Mercenary
+237:BACKGROUND/szShortName:Veteran Mercenary
+237:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+238:BACKGROUND/szName:The Mob
+238:BACKGROUND/szShortName:Mobster
+238:BACKGROUND/szDescription:Organized crime is found anywhere. No exceptions.
+239:BACKGROUND/szName:Veteran Bombmaker
+239:BACKGROUND/szShortName:Bombmaker
+239:BACKGROUND/szDescription:You make things go BOOM!
+240:BACKGROUND/szName:Lawyer/Snitch
+240:BACKGROUND/szShortName:Lawyer
+240:BACKGROUND/szDescription:A somewhat unorthodox background for a mercenary, former lawyers might be useful when there's a deal to be made on a knife's edge.
+241:BACKGROUND/szName:Pyrotechnician
+241:BACKGROUND/szShortName:Pyrotechnician
+241:BACKGROUND/szDescription:When you want to break an enemy's morale by blowing up his privy, it's time to get yourself a qualified pyrotechnician.
+242:BACKGROUND/szName:Surgeon
+242:BACKGROUND/szShortName:Surgeon
+242:BACKGROUND/szDescription:Everyone can cut human flesh - but sewing it back is a quest for &#10;the best!
+243:BACKGROUND/szName:Gunsmith
+243:BACKGROUND/szShortName:Gunsmith
+243:BACKGROUND/szDescription:An expert in the workings and history of firearms, the army's &#10;curious assortment of arms is this man's dream come true.
+244:BACKGROUND/szName:Convicted Watergate Burglar
+244:BACKGROUND/szShortName:Convict/Burglar
+244:BACKGROUND/szDescription:Well, that didn't go as planned.
+245:BACKGROUND/szName:Mime
+245:BACKGROUND/szShortName:Mime
+245:BACKGROUND/szDescription:...
+246:BACKGROUND/szName:Venezuelan Rebel
+246:BACKGROUND/szShortName:Venezuelan Rebel
+246:BACKGROUND/szDescription:The rebellion against the imperialists has succeeded in his country so Hector has since become a mercenary rebel.
+247:BACKGROUND/szName:Priest
+247:BACKGROUND/szShortName:Priest
+247:BACKGROUND/szDescription:Many devout followers of any religion or cult are surprisingly &#10;violent and zealous if pushed into the right (or wrong) direction.
+248:BACKGROUND/szName:General Practitioner/Soldier
+248:BACKGROUND/szShortName:GP/Soldier
+248:BACKGROUND/szDescription:Versatile doctor and professional soldier, she can &#10;save a human life or take it -- whichever the situation calls for.
+249:BACKGROUND/szName:Surveillance Expert
+249:BACKGROUND/szShortName:Surveillance Expert
+249:BACKGROUND/szDescription:A expert in both legal and illegal observation methods.&#10;Curiously, his resume never states where he learned all this.
+250:BACKGROUND/szName:Veteran Mercenary
+250:BACKGROUND/szShortName:Veteran Mercenary
+250:BACKGROUND/szDescription:You were already famous in this business before those youngsters were&#10; even born. After years of battle, there's hardly anything that can shake you up.
+251:BACKGROUND/szName:Pyrotechnician
+251:BACKGROUND/szShortName:Pyrotechnician
+251:BACKGROUND/szDescription:When you want to break an enemy's morale by blowing up his privy, it's time &#10;to get yourself a qualified pyrotechnician.
+252:BACKGROUND/szName:Mascot/Bomber
+252:BACKGROUND/szShortName:Mascot/Bomber
+252:BACKGROUND/szDescription:Nobody takes you seriously, because you used to walk around in a silly &#10;costume? Well, a child's smile is enough compensation!
+253:BACKGROUND/szName:Law Enforcement
+253:BACKGROUND/szShortName:Law Enforcement
+253:BACKGROUND/szDescription:Hey detective, did you manage to solve the case of the disappearing &#10;donuts yet?
+254:BACKGROUND/szName:Placeholder
+254:BACKGROUND/szShortName:Placeholder
+254:BACKGROUND/szDescription:Not needed!
+255:BACKGROUND/szName:Graduate/Bomber
+255:BACKGROUND/szShortName:Graduate/Bomber
+255:BACKGROUND/szDescription:Fresh out of school, with a diploma still warm in hand, it's time &#10;to finally make yourself a living.
+256:BACKGROUND/szName:Arms Dealer
+256:BACKGROUND/szShortName:Arms Dealer
+256:BACKGROUND/szDescription:Experience earned in years of arms trading leads to better &#10;deals when buying and selling guns.
+257:BACKGROUND/szName:Law Enforcement
+257:BACKGROUND/szShortName:Law Enforcement
+257:BACKGROUND/szDescription:Former law enforcement personnel often seek work in the &#10;mercenary world, and are the logical choice for handling captives.
+258:BACKGROUND/szName:Prison Guard
+258:BACKGROUND/szShortName:Prison Guard
+258:BACKGROUND/szDescription:In longer and larger conflicts, former prison guards are natural &#10;choices for running prison camps.
+259:BACKGROUND/szName:Gang Member
+259:BACKGROUND/szShortName:Gang Member
+259:BACKGROUND/szDescription:Becoming a mercenary is a natural step for many gang members&#10; - job's the same, the tools and pay are much better.
+260:BACKGROUND/szName:Convict
+260:BACKGROUND/szShortName:Convict
+260:BACKGROUND/szDescription:Anyone surviving in a merciless prison is bound to be more&#10; dangerous on release - if he survives that long.
+261:BACKGROUND/szName:Drug Addict
+261:BACKGROUND/szShortName:Drug Addict
+261:BACKGROUND/szDescription:Given the nature of today's drugs, addicts can make fearsome,&#10; yet unreliable, opponents.
+262:BACKGROUND/szName:Nobility
+262:BACKGROUND/szShortName:Nobility
+262:BACKGROUND/szDescription:Some people do not join this business out of necessity. While&#10; easy to label them as sissy aristocrats, some are actually quite capable,&#10; as they have received the best training money can buy.
+263:BACKGROUND/szName:Lawyer
+263:BACKGROUND/szShortName:Lawyer
+263:BACKGROUND/szDescription:A somewhat unorthodox background for a mercenary, former lawyers might be useful when there's a deal to be made on a knife's edge.
+264:BACKGROUND/szName:Pilot
+264:BACKGROUND/szShortName:Pilot
+264:BACKGROUND/szDescription:Used to physical stress over long periods of time, some pilots find the transition to ground combat surprisingly easy.
+265:BACKGROUND/szName:Priest
+265:BACKGROUND/szShortName:Priest
+265:BACKGROUND/szDescription:Many devout followers of any religion or cult are surprisingly&#10; violent and zealous if pushed into the right (or wrong) direction.
+266:BACKGROUND/szName:Nurse
+266:BACKGROUND/szShortName:Nurse
+266:BACKGROUND/szDescription:While not full-blown doctors, nurses are still in high demand&#10; in warzones, due to that grim business.
+267:BACKGROUND/szName:Construction Worker
+267:BACKGROUND/szShortName:Construction Worker
+267:BACKGROUND/szDescription:Construction workers are used to hard labour, and can construct&#10; fortifications better than deskjob heroes.
+268:BACKGROUND/szName:Skydiver
+268:BACKGROUND/szShortName:Skydiver
+268:BACKGROUND/szDescription:If you want to put your life at risk, might as well earn cash&#10; by doing so...
+269:BACKGROUND/szName:Drill Sergeant
+269:BACKGROUND/szShortName:Drill Sergeant
+269:BACKGROUND/szDescription:A drill sergeant's job is to create armies and traumatise young men and women.
+270:BACKGROUND/szName:Bouncer
+270:BACKGROUND/szShortName:Bouncer
+270:BACKGROUND/szDescription:Doormen make good soldiers in close combat, though the killing part is a change (hopefully).
+271:BACKGROUND/szName:Hitman
+271:BACKGROUND/szShortName:Hitman
+271:BACKGROUND/szDescription:Professional assassins are obviously used to killing, &#10;though might come in conflict with more idealistic team members.
+272:BACKGROUND/szName:Bomber
+272:BACKGROUND/szShortName:Bomber
+272:BACKGROUND/szDescription:Whether you call them terrorists or freedom fighters often &#10;depends on your relation towards those killed.
+273:BACKGROUND/szName:Bodyguard
+273:BACKGROUND/szShortName:Bodyguard
+273:BACKGROUND/szDescription:Superbly trained, utterly loyal, and willing to pay the &#10;ultimate price. What more could a potential employer want?
+274:BACKGROUND/szName:SWAT Member
+274:BACKGROUND/szShortName:SWAT
+274:BACKGROUND/szDescription:Blurring the line between police and military, SWAT teams are used in urban operations too dangerous for normal law enforcement.
+275:BACKGROUND/szName:Barkeeper
+275:BACKGROUND/szShortName:Barkeeper
+275:BACKGROUND/szDescription:A friendly face can make violence unnecessary...
+276:BACKGROUND/szName:Miner
+276:BACKGROUND/szShortName:Miner
+276:BACKGROUND/szDescription:Working in a mine is hard, punishing work. No wonder some start to look for easier cash.
+277:BACKGROUND/szName:The Mob
+277:BACKGROUND/szShortName:Mobster
+277:BACKGROUND/szDescription:Organized crime is found anywhere. No exceptions.
+278:BACKGROUND/szName:UN Peacekeeper
+278:BACKGROUND/szShortName:UN
+278:BACKGROUND/szDescription:Nations of the entire world provide these troops to solve all &#10;conflicts without any violence. Sadly, this statement is false.
+279:BACKGROUND/szName:Paratrooper
+279:BACKGROUND/szShortName:Paratrooper
+279:BACKGROUND/szDescription:It takes guts to jump out of a plane to face numerically superior foes.
+280:BACKGROUND/szName:Guerilla
+280:BACKGROUND/szShortName:Guerilla
+280:BACKGROUND/szDescription:You are well-trained in evading enemy forces and striking where they least expect it.
+281:BACKGROUND/szName:Conscript
+281:BACKGROUND/szShortName:Conscript
+281:BACKGROUND/szDescription:Far from being a pro, you at least know the basic stuff.
+282:BACKGROUND/szName:Military Advisor
+282:BACKGROUND/szShortName:Military Advisor
+282:BACKGROUND/szDescription:Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.
+283:BACKGROUND/szName:Paramilitary Instructor
+283:BACKGROUND/szShortName:Instructor
+283:BACKGROUND/szDescription:Just like boyscouts. But with violence. So not really like boyscouts &#10;at all.
+284:BACKGROUND/szName:Red Army
+284:BACKGROUND/szShortName:Red Army
+284:BACKGROUND/szDescription:With Russian stoicism, the Red Army prevailed against Hitler,&#10; Father Frost, and chronic shortages.
+285:BACKGROUND/szName:Undertaker
+285:BACKGROUND/szShortName:Undertaker
+285:BACKGROUND/szDescription:When you've seen it all, nothing can frighten you anymore.
+286:BACKGROUND/szName:Veteran
+286:BACKGROUND/szShortName:Veteran
+286:BACKGROUND/szDescription:You've been on one or two tours of duty and know trouble when you see it.
+287:BACKGROUND/szName:Tuareg
+287:BACKGROUND/szShortName:Tuareg
+287:BACKGROUND/szDescription:The tuareg are a berber people that lead a nomadic life in &#10;the Sahara.
+288:BACKGROUND/szName:Firefighter
+288:BACKGROUND/szShortName:Firefighter
+288:BACKGROUND/szDescription:Just because it involves no shooting, it doesn't have to be &#10;less dangerous.
+289:BACKGROUND/szName:Competitive Shooter
+289:BACKGROUND/szShortName:Competitive Shooter
+289:BACKGROUND/szDescription:Some people display a knack for shooting, and a disturbing &#10;aggression against innocent paper bull's-eyes.
+290:BACKGROUND/szName:Shopkeeper
+290:BACKGROUND/szShortName:Shopkeeper
+290:BACKGROUND/szDescription:For many people, their trade IS trade.
+291:BACKGROUND/szName:Car Mechanic
+291:BACKGROUND/szShortName:Car Mechanic
+291:BACKGROUND/szDescription:Car mechanics are very useful, as long as you actually have a car.
+292:BACKGROUND/szName:Smith
+292:BACKGROUND/szShortName:Smith
+292:BACKGROUND/szDescription:In a warzone without the usual comforts, it is very useful to &#10;have people who can maintain your gear.
+293:BACKGROUND/szName:Counter-Terrorist Unit
+293:BACKGROUND/szShortName:Counter-Terrorist
+293:BACKGROUND/szDescription:Most countries don't deploy their army to deal with interior threats, but use special police forces.
+294:BACKGROUND/szName:Office Worker
+294:BACKGROUND/szShortName:Office Worker
+294:BACKGROUND/szDescription:Air conditioning, watered down coffee and some papers to push - &#10;what else can you expect from life?
+295:BACKGROUND/szName:Backstage Crew
+295:BACKGROUND/szShortName:Backstage Crew
+295:BACKGROUND/szDescription:Blasting sounds, fireworks, screaming people - isn't it odd how &#10;similar an acting stage is to the battlefield?
+296:BACKGROUND/szName:Technical Wizard
+296:BACKGROUND/szShortName:Tech Whiz
+296:BACKGROUND/szDescription:No matter if it's thirty-years-old junk or the latest electronic &#10;gadget, a tech whiz can rewire, reassemble, and reconfigure it with their eyes closed.
+297:BACKGROUND/szName:Graduate
+297:BACKGROUND/szShortName:Graduate
+297:BACKGROUND/szDescription:Fresh out of school, with a diploma still warm in hand, it's time &#10;to finally make yourself a living.
+298:BACKGROUND/szName:Professional Thief
+298:BACKGROUND/szShortName:Thief
+298:BACKGROUND/szDescription:When offered to take it or leave it, you always choose 'take'.
+299:BACKGROUND/szName:Mime
+299:BACKGROUND/szShortName:Mime
+299:BACKGROUND/szDescription:...
+300:BACKGROUND/szName:B-Movie Star
+300:BACKGROUND/szShortName:B-Movie Star
+300:BACKGROUND/szDescription:Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.
+301:BACKGROUND/szName:Pyrotechnician
+301:BACKGROUND/szShortName:Pyrotechnician
+301:BACKGROUND/szDescription:When you want to break an enemy's morale by blowing up his privy, it's time &#10;to get yourself a qualified pyrotechnician.
+302:BACKGROUND/szName:Sapper
+302:BACKGROUND/szShortName:Sapper
+302:BACKGROUND/szDescription:A sapper can only make two mistakes in his life. The first one is his &#10;career choice.
+303:BACKGROUND/szName:Daredevil
+303:BACKGROUND/szShortName:Daredevil
+303:BACKGROUND/szDescription:An imposing sight on the battlefield, you are never one to &#10;shy away from taking the enemy head-on.
+304:BACKGROUND/szName:Redneck
+304:BACKGROUND/szShortName:Redneck
+304:BACKGROUND/szDescription:When the Confederacy lost the war, your family moved further &#10;south . . . and is still fighting . . . everybody.
+305:BACKGROUND/szName:Stalker
+305:BACKGROUND/szShortName:Stalker
+305:BACKGROUND/szDescription:Creepy, relentless, and socially handicapped - it &#10;is only a matter of time before they put you away.
+306:BACKGROUND/szName:Academic
+306:BACKGROUND/szShortName:Academic
+306:BACKGROUND/szDescription:Most of your knowledge comes from books and secondhand reports - &#10;and it didn't prepare you for a grim reality of a war zone as well as you thought.
+307:BACKGROUND/szName:Mental Patient
+307:BACKGROUND/szShortName:Mental Patient
+307:BACKGROUND/szDescription:There are different accounts of how you've managed to leave the &#10;confinement, but everyone agrees - you should go back.
+308:BACKGROUND/szName:Wrestler
+308:BACKGROUND/szShortName:Wrestler
+308:BACKGROUND/szDescription:It might be more of a spectacle than actual fighting, but getting thrown &#10;around a ring without breaking a neck still takes a lot of skill.
+309:BACKGROUND/szName:General Practitioner
+309:BACKGROUND/szShortName:GP Doctor
+309:BACKGROUND/szDescription:A versatile and educated doctor can save a human life, no matter what his &#10;patient caught - a virus or a bullet.
+310:BACKGROUND/szName:Surgeon
+310:BACKGROUND/szShortName:Surgeon
+310:BACKGROUND/szDescription:Everyone can cut human flesh - but sewing it back is a quest for&#10; the best!
+311:BACKGROUND/szName:Mercenary
+311:BACKGROUND/szShortName:Mercenary
+311:BACKGROUND/szDescription:While most may prefer an easy, safe life, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.
+312:BACKGROUND/szName:Veteran Mercenary
+312:BACKGROUND/szShortName:Veteran Mercenary
+312:BACKGROUND/szDescription:You were already famous in this business before those youngsters were &#10;even born. After years of battles, there's hardly anything that can shake you up.
+313:BACKGROUND/szName:Big Game Hunter
+313:BACKGROUND/szShortName:Big Game Hunter
+313:BACKGROUND/szDescription:Travel to pristine nature, seek fascinating species, and &#10;KILL THEM ALL.
+314:BACKGROUND/szName:Spotter
+314:BACKGROUND/szShortName:Spotter
+314:BACKGROUND/szDescription:Paired with a sniper, it is your job to make out &#10;targets and help in shot calculations
+315:BACKGROUND/szName:Bomb Disposal Unit
+315:BACKGROUND/szShortName:BDU
+315:BACKGROUND/szDescription:Displaying nerves of steel, you thrive at a job &#10;where every mistake can be the last one.
+316:BACKGROUND/szName:Renegade
+316:BACKGROUND/szShortName:Renegade
+316:BACKGROUND/szDescription:Others might disagree with your methods and accuse you of &#10;brutality, but you always get the job done - no matter the cost.
+317:BACKGROUND/szName:Black Bloc
+317:BACKGROUND/szShortName:Black Bloc
+317:BACKGROUND/szDescription:Peaceful protests did not have the results you &#10;wanted so you have turned to violent direct action as a mercenary.
+318:BACKGROUND/szName:Con Artist
+318:BACKGROUND/szShortName:Con Artist
+318:BACKGROUND/szDescription:You have no moral compass and will cheat everyone out of &#10;everything they have while blaming them for their misfortune.
+319:BACKGROUND/szName:Arulcan Rebel
+319:BACKGROUND/szShortName:Rebel
+319:BACKGROUND/szDescription:This is your country, your land, your people, and you have &#10;pledged your life to free them. More radical than Miguel, you have no leader.
+320:BACKGROUND/szName:Athlete
+320:BACKGROUND/szShortName:Athlete
+320:BACKGROUND/szDescription:Years of intense physical practice and gameday performance will certainly &#10;help you make those last-ditch efforts to survive.
+321:BACKGROUND/szName:Aid worker
+321:BACKGROUND/szShortName:Aid worker
+321:BACKGROUND/szDescription:You've been in much, MUCH worse situations, working for several &#10;well-known aid organisations.
+322:BACKGROUND/szName:Badge Bunny
+322:BACKGROUND/szShortName:Badge Bunny
+322:BACKGROUND/szDescription:Growing up in a rural town, you found yourself strangely attracted&#10;to people in uniforms, much to the dismay of the local officers.&#10;After developing a keen eye for their equipment, snatching away&#10;some soon became second nature to you.
+323:BACKGROUND/szName:Failed Attorney
+323:BACKGROUND/szShortName:Failed Attorney
+323:BACKGROUND/szDescription:The accused got away after you were framed for bribery, and you lost&#10;your job and all faith in the system. In the end, you delivered justice&#10;with your own hands, and found it oddly satisfying. You've been a&#10;mercenary vigilante ever since.
+324:BACKGROUND/szName:Private Eye
+324:BACKGROUND/szShortName:Private Eye
+324:BACKGROUND/szDescription:You're not afraid to get physical and your hands dirty to dig up evidence&#10;and you don't care one bit if you have to frame someone, anything goes&#10;if it rakes in some cash. That mindset has made you accept even the&#10;shadiest of jobs.
+325:BACKGROUND/szName:Cult Dropout
+325:BACKGROUND/szShortName:Cult Dropout
+325:BACKGROUND/szDescription:Our way is the true path, they said. Be grateful for our guidance, they said.&#10;Hand over your money, they said. Come to the room tonight, they said.&#10;Snap! Rage! Gore! Run, don't look back, you said.
+326:BACKGROUND/szName:Tomboy Mercenary
+326:BACKGROUND/szShortName:Tomboy Mercenary
+326:BACKGROUND/szDescription:A childhood on the farm with five unruly brothers shaped your attitude,&#10;and the joy of beating men at their own games carried on into adult life.&#10;After several years in the military, you decided to become a freelancer.
+327:BACKGROUND/szName:Gamekeeper
+327:BACKGROUND/szShortName:Gamekeeper
+327:BACKGROUND/szDescription:Dedicated to a life in nature, you took great joy in managing the local&#10;wildlife. Then you were shot by poachers and left for dead, forced to&#10;listen as they went on a killing spree. Hunting scum of their ilk&#10;is now your life's mission.
+328:BACKGROUND/szName:Poacher
+328:BACKGROUND/szShortName:Poacher
+328:BACKGROUND/szDescription:Nothing beats the thrill of taking prey, especially if it's endangered:&#10;that's bound to bring in good money. Who cares about those filthy&#10;creatures, anyway? And if it pays better, next time you could&#10;even go on a manhunt.
+329:BACKGROUND/szName:Nerd
+329:BACKGROUND/szShortName:Nerd
+329:BACKGROUND/szDescription:From early youth you've been fascinated by computers, and that landed you&#10;a job at a secret government agency. Following a scandal, the agency closed&#10;down and you hesitantly stepped into the world of freelance fieldwork.
+330:BACKGROUND/szName:Field Physician
+330:BACKGROUND/szShortName:Field Physician
+330:BACKGROUND/szDescription:In active duty you were always bothered by the rules and Geneva Covention&#10;only allowing you a certain degree of self-defense. Eventually, you switched&#10;to a job where those things really don't concern you anymore.
+331:BACKGROUND/szName:Housewife
+331:BACKGROUND/szShortName:Housewife
+331:BACKGROUND/szDescription:After a messy divorce you found yourself at a diverging point in life.&#10;In desperate search for an income, you mistook PMC as Private Music&#10;Conservatorium, but soon found solace in the company of the&#10;straightforward folks in this business.
+332:BACKGROUND/szName:Blaster
+332:BACKGROUND/szShortName:Blaster
+332:BACKGROUND/szDescription:You take pride in the fact that whatever you were assigned to demolish,&#10;tumbled and crumbled exactly as planned. A skyscraper in the city center,&#10;a bridge over a ravine, your ex's new car - everything reduced to rubble&#10;and ashes.
+333:BACKGROUND/szName:Artilleryman
+333:BACKGROUND/szShortName:Artilleryman
+333:BACKGROUND/szDescription:"I simply love that roar", that's your answer when asked about what being&#10;a crew member of a self-propelled howitzer was like. Even before you&#10;finished boot camp you knew that heavy ordnance in all its forms would&#10;be the true love of your life.
+334:BACKGROUND/szName:Mad Prepper
+334:BACKGROUND/szShortName:Mad Prepper
+334:BACKGROUND/szDescription:People say you're mad, but that's just them failing to grasp reality.&#10;The apocalypse is coming, and you're going to do whatever it takes to&#10;survive it. So screw them, they're in cahoots with "them", anyway.
+335:BACKGROUND/szName:Emergency Medical Technician
+335:BACKGROUND/szShortName:EMT
+335:BACKGROUND/szDescription:Patch them up, keep them alive until the emergency room. Clean and restock&#10;the ambulance and before you finish that cup of coffee, rush out to the&#10;next emergency... Only to face some crazy bat spitting on you for&#10;giving her daugher CPR.
+336:BACKGROUND/szName:Plumber
+336:BACKGROUND/szShortName:Plumber
+336:BACKGROUND/szDescription:Your father once told you that it would all go down the drain for you.&#10;He wasn't wrong, you even get paid to keep the drains in working order,&#10;but constantly fighting rats, cockroaches and crazy housewives has&#10;made you consider a career change.
+337:BACKGROUND/szName:Frat Boy
+337:BACKGROUND/szShortName:Frat Boy
+337:BACKGROUND/szDescription:After years of non-stop partying, you ended up with an unjustified sense &#10;of superiority, a drug problem and a nasty itch in your groin. The latest&#10;in your long series of great ideas was to become a gun for hire.&#10;What could possibly go wrong?
+338:BACKGROUND/szName:MMA Fighter
+338:BACKGROUND/szShortName:MMA Fighter
+338:BACKGROUND/szDescription:You were a good fighter, but you lost your promoter and contracts when&#10;some two-bit gangsters wanted to set up a fixed match and you refused.&#10;You beat the crap out of their boss, but that turned into a "family matter"&#10;and you had to hit the road.
+339:BACKGROUND/szName:Cemetery Guard
+339:BACKGROUND/szShortName:Cemetery Guard
+339:BACKGROUND/szDescription:It was fun helping with burials, spooking teenage couples, scaring away&#10;the wannabe satanists and beating up copper thieves. But constant night shifts&#10;took a toll on your eyesight, and you were eventually laid off.
+340:BACKGROUND/szName:Merchant Seaman
+340:BACKGROUND/szShortName:Merchant Seaman
+340:BACKGROUND/szDescription:You joined the merchant marine to support your family, but long absences&#10;from home led to a divorce. To make more money for child support&#10;and the kids' college funds you turned to smuggling and human&#10;trafficking, leading you down a dangerous path.
+341:BACKGROUND/szName:Trafficker
+341:BACKGROUND/szShortName:Trafficker
+341:BACKGROUND/szDescription:You only accept cash in advance, taking full advantage of every hint of&#10;desperation. Push them into badly ventilated containers, put them into leaking&#10;boats, abandon them in a desert - as long as it's low-risk and high-profit,&#10;everything goes.
+342:BACKGROUND/szName:Drug Pusher
+342:BACKGROUND/szShortName:Drug Pusher
+342:BACKGROUND/szDescription:It's all about supply and demand - and there sure is a lot of demand.&#10;Someone's got to provide what the people want, and all that fentanyl&#10;isn't going to deliver itself. Blame the ones creating the demand,&#10;not the customer service.
+343:BACKGROUND/szName:Navy Pharmacist
+343:BACKGROUND/szShortName:Navy Pharmacist
+343:BACKGROUND/szDescription:A chance to get a degree in pharmacology sure was a tempting bait,&#10;but your deployments turned out to be much less exciting than you&#10;hoped for. After some hesitation, you eventually left the Navy to&#10;start a freelance career in the field.
+344:BACKGROUND/szName:Farmer
+344:BACKGROUND/szShortName:Farmer
+344:BACKGROUND/szDescription:You grew up on your family's land, preparing to one day take over the farm.&#10;But then the lawyers showed up, demanding money for the use of crops their&#10;company just acquired the patents for. Ruined, you turned to mercenary&#10;work to channel your anger.
+345:BACKGROUND/szName:Scaredy Cat
+345:BACKGROUND/szShortName:Scaredy Cat
+345:BACKGROUND/szDescription:Homeschooled, secluded at home, constantly warned about the evils of&#10;the world, it came as a shock when your parents suddenly died and the&#10;bank took the house. You're definitely not cut out for this line of work,&#10;but you're stuck with it now.
+346:BACKGROUND/szName:Rocket Scientist
+346:BACKGROUND/szShortName:Rocket Scientist
+346:BACKGROUND/szDescription:You always admired how Wernher von Braun could weasel his way from&#10;war criminal to decorated NASA celebrity. Dedicated to achieving a similar&#10;untouchable status, you became a capable scientist. But times have changed,&#10;and you were fired for harrassment.

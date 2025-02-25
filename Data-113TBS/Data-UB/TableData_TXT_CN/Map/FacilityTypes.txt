@@ -1,0 +1,46 @@
+1:FACILITYTYPE/szFacilityName:医院
+1:FACILITYTYPE/ASSIGNMENT/szTooltipText:可以给你的伤员提供治疗，这里有先进的医疗设施，和技术精湛的医师。 
+2:FACILITYTYPE/szFacilityName:小酒吧
+2:FACILITYTYPE/ASSIGNMENT/szTooltipText:在这里的酒吧喝上几杯吧！和镇子里的人联络联络感情，这里的酒品物美价廉。
+3:FACILITYTYPE/szFacilityName:监狱
+4:FACILITYTYPE/szFacilityName:小型机场
+4:FACILITYTYPE/ASSIGNMENT/szTooltipText:去做些搬运工作吧， 这是一个锻炼力量的好机会。
+5:FACILITYTYPE/szFacilityName:军工厂
+5:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里的机器可以修理各种物品，你可以在这里锻炼你的修理技术，前提是你得会使用这些机器。
+6:FACILITYTYPE/szFacilityName:军营
+6:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有好多好多的床，虽然有点简陋，不过也比在野外休息强得多。
+7:FACILITYTYPE/szFacilityName:军事基地
+7:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有各种数码仪器，都是为了应对国家的各种突发情况而准备的。 这些仪器可以帮助你制定作战计划， 了解敌军的动向。
+8:FACILITYTYPE/szFacilityName:靶场
+8:FACILITYTYPE/ASSIGNMENT/szTooltipText:为什么不花点时间联系你的枪法呢？ 枪靶正在那里等着你用子弹把他们给打下来呢。 这肯定比你在野外联系要有效得多。
+9:FACILITYTYPE/szFacilityName:派出所
+9:FACILITYTYPE/ASSIGNMENT/szTooltipText:当地人可能愿意为你打探附近地区的情况。 你可以在这里收集信息以便更好地掌握敌军的动向。
+10:FACILITYTYPE/szFacilityName:SAM导弹基地
+11:FACILITYTYPE/szFacilityName:矿井
+11:FACILITYTYPE/ASSIGNMENT/szTooltipText:煤矿正缺乏爆破能手呢， 你可以来这里练习爆破。
+12:FACILITYTYPE/szFacilityName:小教堂
+12:FACILITYTYPE/ASSIGNMENT/szTooltipText:在一个安静的小教堂里奉献自我能够提升一个人的精神高度。 当地人也会对你产生好感，因为你尊重他们的生活方式。
+13:FACILITYTYPE/szFacilityName:拳击俱乐部
+13:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有很多健身器械， 就等着你去用了。这是一个不错的方法去保持健美， 对生命值得锻炼也大有帮助。
+14:FACILITYTYPE/szFacilityName:国家艺术馆
+15:FACILITYTYPE/szFacilityName:实验室
+16:FACILITYTYPE/szFacilityName:垃圾场
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+16:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+17:FACILITYTYPE/szFacilityName:海滩度假村
+17:FACILITYTYPE/ASSIGNMENT/szTooltipText:享受阳光，沙滩，冲浪。 这肯定比睡在战壕里要强得多。
+18:FACILITYTYPE/szFacilityName:老旧的士兵训练设施。
+19:FACILITYTYPE/szFacilityName:军营
+19:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有好多好多的床，虽然有点简陋，不过也比在野外休息强得多。
+20:FACILITYTYPE/szFacilityName:商店
+21:FACILITYTYPE/szFacilityName:隐藏的武器店
+22:FACILITYTYPE/szFacilityName:体育馆
+22:FACILITYTYPE/ASSIGNMENT/szTooltipText:这里有很多健身器械， 就等着你去用了。这是一个不错的方法去保持健美， 对生命值得锻炼也大有帮助。
+23:FACILITYTYPE/szFacilityName:发电厂
+24:FACILITYTYPE/szFacilityName:车间
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+24:FACILITYTYPE/ASSIGNMENT/szTooltipText:这个地方摆满了各种零件， 这些零件有助于修理工作。
+25:FACILITYTYPE/szFacilityName:隐藏的酒吧
+25:FACILITYTYPE/ASSIGNMENT/szTooltipText:在这里的酒吧喝上几杯吧！和镇子里的人联络联络感情，这里的酒品物美价廉。
