@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <STRUCTURESLIST>
-	<STRUCTURE><!--sandbags-->
+	<STRUCTURE><TempFieldByZ>0</TempFieldByZ><!--sandbags-->
 		<usCreationItem>1540</usCreationItem>
 		<usItemStatusLoss>1</usItemStatusLoss>
 		<szTileSetDisplayName>沙袋</szTileSetDisplayName>
@@ -16,7 +16,7 @@
 		<westfacingtile>8</westfacingtile>
 		<westfacingtile>9</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><!--concertina wire-->
+	<STRUCTURE><TempFieldByZ>1</TempFieldByZ><!--concertina wire-->
 		<usCreationItem>1542</usCreationItem>
 		<usItemStatusLoss>1</usItemStatusLoss>
 		<szTileSetDisplayName>铁丝网</szTileSetDisplayName>
@@ -32,7 +32,7 @@
 		<westfacingtile>2</westfacingtile>
 		<westfacingtile>4</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><!--medium debris -->
+	<STRUCTURE><TempFieldByZ>2</TempFieldByZ><!--medium debris -->
 		<usCreationItem>1724</usCreationItem>
 		<usItemStatusLoss>50</usItemStatusLoss>
 		<szTileSetDisplayName>中型木堆</szTileSetDisplayName>
@@ -44,7 +44,7 @@
 		<eastfacingtile>2</eastfacingtile>
 		<westfacingtile>2</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><!--large debris -->
+	<STRUCTURE><TempFieldByZ>3</TempFieldByZ><!--large debris -->
 		<usCreationItem>1724</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>大型木堆</szTileSetDisplayName>
@@ -68,7 +68,7 @@
 		<westfacingtile>4</westfacingtile>
 		<westfacingtile>5</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><!--wooden wall, large -->
+	<STRUCTURE><TempFieldByZ>4</TempFieldByZ><!--wooden wall, large -->
 		<usCreationItem>1725</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>木墙</szTileSetDisplayName>
