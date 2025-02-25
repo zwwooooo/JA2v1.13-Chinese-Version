@@ -41,7 +41,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><TempFieldByZ>3</TempFieldByZ><!-- snow sandbag -->
-		<szTileSetDisplayName>沙袋</szTileSetDisplayName>
+		<szTileSetDisplayName>雪沙袋</szTileSetDisplayName>
 		<szTileSetName>SNOW_BAG.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>

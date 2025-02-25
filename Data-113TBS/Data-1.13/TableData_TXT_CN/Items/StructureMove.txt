@@ -1,7 +1,7 @@
 0:STRUCTURE/szTileSetDisplayName:气瓶
 1:STRUCTURE/szTileSetDisplayName:家具
 2:STRUCTURE/szTileSetDisplayName:沙袋
-3:STRUCTURE/szTileSetDisplayName:沙袋
+3:STRUCTURE/szTileSetDisplayName:雪沙袋
 4:STRUCTURE/szTileSetDisplayName:箱子
 5:STRUCTURE/szTileSetDisplayName:桶
 6:STRUCTURE/szTileSetDisplayName:桶
