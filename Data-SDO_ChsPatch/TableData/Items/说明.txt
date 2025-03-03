@@ -1,3 +1,2 @@
 StructureConstruct.xml, StructureDeconstruct.xml
-跟1.13也对不上号，随便翻译
-
+跟1.13也对不上号，而且没有对应的szTileSetDisplayName，根据1.13加的翻译
