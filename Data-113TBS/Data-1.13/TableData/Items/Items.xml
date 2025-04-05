@@ -8427,12 +8427,13 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>284</uiIndex>
-		<szItemName>作战军服</szItemName>
-		<szLongItemName>作战军服</szLongItemName>
-		<szItemDesc>官方作战迷彩护甲。这是美国陆军的标准配备。这种材料的磨损太快了，真不知道他们怎么想的？</szItemDesc>
-		<szBRName>作战军服</szBRName>
-		<szBRDesc>官方作战迷彩护甲。比凯芙拉更坚固，而且还是美国陆军在伊拉克正在使用的身体护甲。它能提供有限的伪装。</szBRDesc>
+		<szItemName>丛林BDU夹克</szItemName>
+		<szLongItemName>丛林BDU夹克</szLongItemName>
+		<szItemDesc>丛林迷彩BDU夹克是一种采用林地迷彩图案的军用战术外套，常用于军事行动、户外活动或战术装备搭配。</szItemDesc>
+		<szBRName>丛林BDU夹克</szBRName>
+		<szBRDesc>这款轻便、高品质的BDU作战服夹克，专为丛林狩猎及其他武装行动设计，是此类活动的理想装备。</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>41</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -8447,8 +8448,7 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>15</CamoBonus>
-		<DesertCamoBonus>10</DesertCamoBonus>
-		<StealthBonus>-5</StealthBonus>
+		<DesertCamoBonus>5</DesertCamoBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
@@ -8456,16 +8456,10 @@
 		<BigGunList>1</BigGunList>
 		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
-			<PercentBase>-1</PercentBase>
-			<PercentCounterForceAccuracy>-1</PercentCounterForceAccuracy>
 		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS>
-			<PercentBase>-2</PercentBase>
-			<PercentCounterForceAccuracy>-2</PercentCounterForceAccuracy>
 		</CROUCH_MODIFIERS>
 		<PRONE_MODIFIERS>
-			<PercentBase>-1</PercentBase>
-			<PercentCounterForceAccuracy>-1</PercentCounterForceAccuracy>
 		</PRONE_MODIFIERS>
 	</ITEM>
 	<ITEM>
@@ -8505,6 +8499,7 @@
 		<szBRName>军礼服</szBRName>
 		<szBRDesc>美国海军陆战队礼服。警告！穿着这件衣服上战场是不行的。</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>43</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -8520,6 +8515,7 @@
 		<Repairable>1</Repairable>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
@@ -8560,7 +8556,7 @@
 		<szLongItemName>红色贝雷帽</szLongItemName>
 		<szItemDesc>Parlay voo francais? 这贝雷帽可能不是法国人的，但它肯定能让你看上去很基佬。</szItemDesc>
 		<szBRName>红色贝雷帽</szBRName>
-		<szBRDesc>开始组建你自己的特种作战部队吧！</szBRDesc>
+		<szBRDesc>戴上这顶军用红色贝雷帽，组建你的专属特战小队！</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>45</ubClassIndex>
@@ -8649,6 +8645,7 @@
 		<szBRName>军官大衣</szBRName>
 		<szBRDesc>苏联军官大衣。我们提供衣服口袋带金线的或不带金线的版本供您选择。</szBRDesc>
 		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>48</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -25971,7 +25968,7 @@
 		<szLongItemName>护膝</szLongItemName>
 		<szItemDesc>不仅仅是对玩滑板或者四处涂鸦的淘气包们，对您来说，也可以有效保护您的，说对了，膝盖。</szItemDesc>
 		<szBRName>护膝</szBRName>
-		<szBRDesc>不仅仅是对玩滑板或者四处涂鸦的淘气包们，对您来说，也可以有效保护您的，说对了，膝盖。</szBRDesc>
+		<szBRDesc>穿戴这副防弹护膝，让现代战场的激烈对抗不再伤膝！</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -31625,7 +31622,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>235</ubGraphicNum>
+		<ubGraphicNum>916</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
@@ -37227,11 +37224,12 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>23</ItemSize>
 		<usPrice>70</usPrice>
-		<ubCoolness>5</ubCoolness>
+		<ubCoolness>4</ubCoolness>
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<CamoBonus>5</CamoBonus>
+		<StealthBonus>5</StealthBonus>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Attachment>1</Attachment>
@@ -41751,6 +41749,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
+		<TwoHanded>1</TwoHanded>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
@@ -47483,7 +47482,7 @@
 		<szLongItemName>枪支清洁套装</szLongItemName>
 		<szItemDesc>包含了你在战场清洁枪支所需要的所有道具。</szItemDesc>
 		<szBRName>枪支清洁套装</szBRName>
-		<szBRDesc>即便是最可怕的毁灭性的武器也需要时不时地清洁维护一下。</szBRDesc>
+		<szBRDesc>即便是最致命的武器，也需时时养护！用这套精工打造的清洁工具组，让您的枪械持久如新，远离污垢侵扰。</szBRDesc>
 		<usItemClass>8192</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -49665,9 +49664,9 @@
 		<uiIndex>1654</uiIndex>
 		<szItemName>3.11迷你手雷袋</szItemName>
 		<szLongItemName>3.11迷你手雷袋</szLongItemName>
-		<szItemDesc>由耐用的尼龙1000D和高质量维可牢搭扣制成，这个MOLLE手雷袋低价高质。</szItemDesc>
+		<szItemDesc>这款3.11型号MOLLE破片手雷包，专为容纳两枚小型手榴弹设计。</szItemDesc>
 		<szBRName>3.11迷你手雷袋</szBRName>
-		<szBRDesc>这个3.11手雷袋可以用来装2个小手雷。</szBRDesc>
+		<szBRDesc>MOLLE迷你破片手雷包，采用耐磨1000D尼龙和优质魔术贴封口，品质卓越且价格超值，可容纳两枚小型手榴弹。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -51380,9 +51379,9 @@
 		<uiIndex>1717</uiIndex>
 		<szItemName>装弹器口袋</szItemName>
 		<szLongItemName>快速装弹器口袋</szLongItemName>
-		<szItemDesc>用于存放快速装弹器的口袋。</szItemDesc>
+		<szItemDesc>MOLLE弹夹袋，专为左轮快速装弹器安全存放设计。</szItemDesc>
 		<szBRName>装弹器口袋</szBRName>
-		<szBRDesc>用于存放快速装弹器的口袋。</szBRDesc>
+		<szBRDesc>MOLLE弹夹袋，专为左轮快速装弹器安全存放设计。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>4096</nasAttachmentClass>
@@ -51438,9 +51437,9 @@
 		<uiIndex>1719</uiIndex>
 		<szItemName>弹鼓袋</szItemName>
 		<szLongItemName>弹鼓袋</szLongItemName>
-		<szItemDesc>最适合携带弹鼓装的弹药。</szItemDesc>
+		<szItemDesc>专为弹鼓及同类弹药容器设计，适配多种MOLLE系统装备，战术收纳灵活无忧。</szItemDesc>
 		<szBRName>弹鼓袋</szBRName>
-		<szBRDesc>最适合携带弹鼓装的弹药。</szBRDesc>
+		<szBRDesc>专为弹鼓及同类弹药容器设计，适配多种MOLLE系统装备，战术收纳灵活无忧。</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<AttachmentClass>16777216</AttachmentClass>
 		<nasAttachmentClass>8192</nasAttachmentClass>
@@ -52144,7 +52143,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>234</ubGraphicNum>
+		<ubGraphicNum>915</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>25</ItemSize>
@@ -52213,7 +52212,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>234</ubGraphicNum>
+		<ubGraphicNum>915</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>25</ItemSize>
@@ -52251,7 +52250,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>235</ubGraphicNum>
+		<ubGraphicNum>917</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
@@ -52288,7 +52287,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>235</ubGraphicNum>
+		<ubGraphicNum>916</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
@@ -52320,7 +52319,7 @@
 		<AttachmentClass>32</AttachmentClass>
 		<nasAttachmentClass>32</nasAttachmentClass>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>235</ubGraphicNum>
+		<ubGraphicNum>917</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>22</ItemSize>
@@ -52381,7 +52380,7 @@
 		<szLongItemName>西药止痛片</szLongItemName>
 		<szItemDesc>这些小药丸可以缓解疼痛，请只用于医疗。</szItemDesc>
 		<szBRName>止痛片</szBRName>
-		<szBRDesc>非常有效的止痛药剂。注意：请在医师的指导下购买和使用。</szBRDesc>
+		<szBRDesc>非常有效的止痛药剂。现享永久特惠价！注意：请在医师的指导下购买和使用。</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>2</ubGraphicType>
@@ -52723,6 +52722,323 @@
 		<ShowStatus>1</ShowStatus>
 		<Medical>1</Medical>
 		<DiseaseSystemExclusive>1</DiseaseSystemExclusive>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1765</uiIndex>
+		<szItemName>巴拉克拉法帽</szItemName>
+		<szLongItemName>巴拉克拉法帽</szLongItemName>
+		<szItemDesc>这款流线型黑色巴拉克拉法帽，助你隐匿身份，威慑对手！</szItemDesc>
+		<szBRName>巴拉克拉法帽</szBRName>
+		<szBRDesc>风靡全球特警与特种部队的战术巴拉克拉法帽，戴上它，秒变战术专家！立即抢购，开启你的专业装备升级！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>199</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>909</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>15</ItemSize>
+		<usPrice>15</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1766</uiIndex>
+		<szItemName>丛林BDU作战裤</szItemName>
+		<szLongItemName>丛林BDU作战裤</szLongItemName>
+		<szItemDesc>丛林迷彩BDU作战裤，防护下肢轻微割伤与擦伤，适配多数腿甲系统，隐蔽性与功能性兼得。</szItemDesc>
+		<szBRName>丛林BDU作战裤</szBRName>
+		<szBRDesc>丛林BDU作战裤，限时特惠7折！隐蔽实战两相宜，错过再无！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>200</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>910</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>23</ItemSize>
+		<usPrice>130</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<CamoBonus>10</CamoBonus>
+		<DesertCamoBonus>3</DesertCamoBonus>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1767</uiIndex>
+		<szItemName>沙漠BDU作战裤</szItemName>
+		<szLongItemName>沙漠BDU作战裤</szLongItemName>
+		<szItemDesc>这款沙漠迷彩BDU长裤能保护下肢免受轻微割伤与擦伤，且适配大多数腿部护甲系统。</szItemDesc>
+		<szBRName>沙漠BDU作战裤</szBRName>
+		<szBRDesc>沙漠迷彩作战裤，提供多种沙漠及干旱地形迷彩样式。限时7折优惠！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>200</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>911</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>23</ItemSize>
+		<usPrice>130</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<CamoBonus>3</CamoBonus>
+		<DesertCamoBonus>10</DesertCamoBonus>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1768</uiIndex>
+		<szItemName>城市BDU作战裤</szItemName>
+		<szLongItemName>城市BDU作战裤</szLongItemName>
+		<szItemDesc>这款城市迷彩BDU长裤能保护下肢免受轻微割伤与擦伤，且适配大多数腿部护甲系统。</szItemDesc>
+		<szBRName>城市BDU作战裤</szBRName>
+		<szBRDesc>城市迷彩作战裤，提供多款都市环境专用迷彩图案。限时7折优惠！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>200</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>912</ubGraphicNum>
+		<ubWeight>6</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>23</ItemSize>
+		<usPrice>130</usPrice>
+		<ubCoolness>3</ubCoolness>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<UrbanCamoBonus>10</UrbanCamoBonus>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<Attachment>1</Attachment>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1769</uiIndex>
+		<szItemName>沙漠BDU夹克</szItemName>
+		<szLongItemName>沙漠BDU夹克</szLongItemName>
+		<szItemDesc>适配多数防弹背心，贴身剪裁设计。</szItemDesc>
+		<szBRName>沙漠BDU夹克</szBRName>
+		<szBRDesc>提供多款沙漠迷彩样式，专为中东地区任务及多沙环境作战打造，是沙域行动的理想之选。</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>41</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>913</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>250</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<CamoBonus>5</CamoBonus>
+		<DesertCamoBonus>15</DesertCamoBonus>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<ProvidesRobotCamo>1</ProvidesRobotCamo>
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1770</uiIndex>
+		<szItemName>城市BDU夹克</szItemName>
+		<szLongItemName>城市BDU夹克</szLongItemName>
+		<szItemDesc>适配多数防弹背心，贴身剪裁设计。</szItemDesc>
+		<szBRName>城市BDU夹克</szBRName>
+		<szBRDesc>每位讲究格调的都市战士都该拥有这款潮流BDU夹克，专为城市环境设计的多样化迷彩任君挑选。</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>41</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>914</ubGraphicNum>
+		<ubWeight>8</ubWeight>
+		<ItemSize>25</ItemSize>
+		<usPrice>250</usPrice>
+		<ubCoolness>2</ubCoolness>
+		<bReliability>-1</bReliability>
+		<bRepairEase>-3</bRepairEase>
+		<BR_NewInventory>3</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<UrbanCamoBonus>15</UrbanCamoBonus>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<ProvidesRobotCamo>1</ProvidesRobotCamo>
+		<STAND_MODIFIERS>
+		</STAND_MODIFIERS>
+		<CROUCH_MODIFIERS>
+		</CROUCH_MODIFIERS>
+		<PRONE_MODIFIERS>
+		</PRONE_MODIFIERS>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1771</uiIndex>
+		<szItemName>绿色贝雷帽</szItemName>
+		<szLongItemName>绿色贝雷帽</szLongItemName>
+		<szItemDesc>戴上这顶绿色贝雷帽，虽不能让你摇身变为真正的绿贝雷特种兵，却能唤醒你内心的非常规作战天赋。</szItemDesc>
+		<szBRName>绿色贝雷帽</szBRName>
+		<szBRDesc>军用风格绿色贝雷帽——组建专属特战小队，从一顶帽子开始！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>45</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>918</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>15</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1772</uiIndex>
+		<szItemName>蓝色贝雷帽</szItemName>
+		<szLongItemName>蓝色贝雷帽</szLongItemName>
+		<szItemDesc>戴上这顶优雅的联合国蓝色贝雷帽，你既能以风度与魄力守护和平，也能随心颠覆秩序——全凭你的风格。</szItemDesc>
+		<szBRName>蓝色贝雷帽</szBRName>
+		<szBRDesc>蓝色军用贝雷帽——组建专属维和精英小队！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>45</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>919</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>15</ItemSize>
+		<usPrice>30</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1773</uiIndex>
+		<szItemName>宽檐牛仔帽</szItemName>
+		<szLongItemName>宽檐牛仔帽</szLongItemName>
+		<szItemDesc>对付盗马贼与法外狂徒的经典行头。</szItemDesc>
+		<szBRName>宽檐牛仔帽</szBRName>
+		<szBRDesc>限量版西部风格帽——像科德尔·沃克一样从容潇洒，附赠查克·诺里斯亲签复刻版德州骑警徽章！</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>42</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>920</ubGraphicNum>
+		<ubWeight>3</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>18</ItemSize>
+		<usPrice>75</usPrice>
+		<ubCoolness>6</ubCoolness>
+		<BR_NewInventory>2</BR_NewInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
+		<STAND_MODIFIERS/>
+		<CROUCH_MODIFIERS/>
+		<PRONE_MODIFIERS/>
+	</ITEM>
+	<ITEM>
+		<uiIndex>1774</uiIndex>
+		<szItemName>轻便野战帽</szItemName>
+		<szLongItemName>轻便野战帽</szLongItemName>
+		<szItemDesc>轻便野战帽</szItemDesc>
+		<szBRName>轻便野战帽</szBRName>
+		<szBRDesc>这款轻便野战帽舒适实用，休闲活动或准军事行动皆宜，多色可选。</szBRDesc>
+		<usItemClass>2048</usItemClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<ubClassIndex>42</ubClassIndex>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>921</ubGraphicNum>
+		<ubWeight>1</ubWeight>
+		<ubPerPocket>1</ubPerPocket>
+		<ItemSize>15</ItemSize>
+		<usPrice>15</usPrice>
+		<ubCoolness>1</ubCoolness>
+		<BR_NewInventory>5</BR_NewInventory>
+		<BR_UsedInventory>1</BR_UsedInventory>
+		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<Sinks>1</Sinks>
+		<ShowStatus>1</ShowStatus>
+		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS/>
 		<PRONE_MODIFIERS/>
