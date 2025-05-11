@@ -17508,8 +17508,8 @@
 	<PROFILE>
 		<uiIndex>160</uiIndex>
 		<Type>5</Type>
-		<zName>悍马</zName>
-		<zNickname>悍马</zNickname>
+		<zName>Hummer</zName>
+		<zNickname>Hummer</zNickname>
 		<ubFaceIndex>160</ubFaceIndex>
 		<usVoiceIndex>160</usVoiceIndex>
 		<usEyesX>0</usEyesX>
@@ -17616,8 +17616,8 @@
 	<PROFILE>
 		<uiIndex>161</uiIndex>
 		<Type>5</Type>
-		<zName>凯迪拉克</zName>
-		<zNickname>凯迪拉克</zNickname>
+		<zName>El Dorado</zName>
+		<zNickname>El Dorado</zNickname>
 		<ubFaceIndex>161</ubFaceIndex>
 		<usVoiceIndex>161</usVoiceIndex>
 		<usEyesX>0</usEyesX>
@@ -17724,8 +17724,8 @@
 	<PROFILE>
 		<uiIndex>162</uiIndex>
 		<Type>5</Type>
-		<zName>冰淇淋车</zName>
-		<zNickname>冰淇淋车</zNickname>
+		<zName>Ice Cream Truck</zName>
+		<zNickname>Truck</zNickname>
 		<ubFaceIndex>162</ubFaceIndex>
 		<usVoiceIndex>162</usVoiceIndex>
 		<usEyesX>0</usEyesX>
@@ -17832,8 +17832,8 @@
 	<PROFILE>
 		<uiIndex>163</uiIndex>
 		<Type>5</Type>
-		<zName>直升机</zName>
-		<zNickname>直升机</zNickname>
+		<zName>Heli</zName>
+		<zNickname>Heli</zNickname>
 		<ubFaceIndex>163</ubFaceIndex>
 		<usVoiceIndex>163</usVoiceIndex>
 		<usEyesX>0</usEyesX>
@@ -17940,8 +17940,8 @@
 	<PROFILE>
 		<uiIndex>164</uiIndex>
 		<Type>5</Type>
-		<zName>坦克</zName>
-		<zNickname>坦克</zNickname>
+		<zName>Tank</zName>
+		<zNickname>Tank</zNickname>
 		<ubFaceIndex>164</ubFaceIndex>
 		<usVoiceIndex>164</usVoiceIndex>
 		<usEyesX>0</usEyesX>
