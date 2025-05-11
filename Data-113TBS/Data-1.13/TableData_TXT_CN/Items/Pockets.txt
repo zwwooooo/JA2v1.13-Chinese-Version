@@ -59,4 +59,4 @@
 58:POCKET/pName:水袋包
 59:POCKET/pName:战术枪背带
 60:POCKET/pName:弹鼓包
-61:POCKET/pName:Belt Feeder
+61:POCKET/pName:弹链供弹带
