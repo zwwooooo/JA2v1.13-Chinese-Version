@@ -1,1 +1,1 @@
-1:FACILITYTYPE/szFacilityName:军用训练场地遗迹
+1:FACILITYTYPES/FACILITYTYPE/szFacilityName:军用训练场地遗迹

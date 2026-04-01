@@ -1,5 +1,5 @@
-0:TAUNT/szText:What? Hello? I can't hear anything!
-1:TAUNT/szText:Argh! My ears are bleeding!
-2:TAUNT/szText:What's this ringing?
-3:TAUNT/szText:Huh? It's all silent now...
-4:TAUNT/szText:Suddenly all went quiet. What the hell?
+0:TAUNTS/TAUNT[0]/szText:What? Hello? I can't hear anything!
+1:TAUNTS/TAUNT[1]/szText:Argh! My ears are bleeding!
+2:TAUNTS/TAUNT[2]/szText:What's this ringing?
+3:TAUNTS/TAUNT[3]/szText:Huh? It's all silent now...
+4:TAUNTS/TAUNT[4]/szText:Suddenly all went quiet. What the hell?

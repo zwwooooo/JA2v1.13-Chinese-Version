@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<STRUCTURESLIST>
-	<STRUCTURE><TempFieldByZ>0</TempFieldByZ><!-- sandbag -->
+﻿<STRUCTURESLIST>
+	<STRUCTURE><!-- sandbag -->
 		<usDeconstructItem>1543</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>1</usCreatedItemStatus>
@@ -18,7 +17,7 @@
 		<allowedtile>8</allowedtile>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>1</TempFieldByZ><!--concertina wire-->
+	<STRUCTURE><!--concertina wire-->
 		<usDeconstructItem>243</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
 		<usCreatedItemStatus>1</usCreatedItemStatus>
@@ -34,7 +33,7 @@
 		<allowedtile>8</allowedtile>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>2</TempFieldByZ><!-- medium debris -->
+	<STRUCTURE><!-- medium debris -->
 		<usDeconstructItem>1543</usDeconstructItem>
 		<usItemToCreate>1724</usItemToCreate>
 		<usCreatedItemStatus>50</usCreatedItemStatus>
@@ -44,7 +43,7 @@
 		<allowedtile>1</allowedtile>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>3</TempFieldByZ><!-- large debris -->
+	<STRUCTURE><!-- large debris -->
 		<usDeconstructItem>1543</usDeconstructItem>
 		<usItemToCreate>1724</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
@@ -56,7 +55,7 @@
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>4</TempFieldByZ><!-- wooden wall -->
+	<STRUCTURE><!-- wooden wall -->
 		<usDeconstructItem>1543</usDeconstructItem>
 		<usItemToCreate>1725</usItemToCreate>
 		<usCreatedItemStatus>70</usCreatedItemStatus>

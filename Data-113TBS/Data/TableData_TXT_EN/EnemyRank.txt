@@ -1,10 +1,10 @@
-1:RANK/szRank:Recruit
-2:RANK/szRank:Private
-3:RANK/szRank:Corporal
-4:RANK/szRank:Specialist
-5:RANK/szRank:Sergeant
-6:RANK/szRank:Staff Sergeant
-7:RANK/szRank:Lieutenant
-8:RANK/szRank:Captain
-9:RANK/szRank:Major
-10:RANK/szRank:Colonel
+1:ENEMY_RANK/RANK[0]/szRank:Recruit
+2:ENEMY_RANK/RANK[1]/szRank:Private
+3:ENEMY_RANK/RANK[2]/szRank:Corporal
+4:ENEMY_RANK/RANK[3]/szRank:Specialist
+5:ENEMY_RANK/RANK[4]/szRank:Sergeant
+6:ENEMY_RANK/RANK[5]/szRank:Staff Sergeant
+7:ENEMY_RANK/RANK[6]/szRank:Lieutenant
+8:ENEMY_RANK/RANK[7]/szRank:Captain
+9:ENEMY_RANK/RANK[8]/szRank:Major
+10:ENEMY_RANK/RANK[9]/szRank:Colonel

@@ -1,62 +1,62 @@
-0:POCKET/pName:Nothing
-1:POCKET/pName:Gun Sling
-2:POCKET/pName:Knife
-3:POCKET/pName:Vehicle
-4:POCKET/pName:General Large
-5:POCKET/pName:Combat Pack
-6:POCKET/pName:Ammo Belt
-7:POCKET/pName:SMG Holster
-8:POCKET/pName:Medium General
-9:POCKET/pName:LgMagPocket
-10:POCKET/pName:AR Mag
-11:POCKET/pName:Pistol Holster
-12:POCKET/pName:SMG Mag
-13:POCKET/pName:Rifle Grenade
-14:POCKET/pName:Grenade
-15:POCKET/pName:Pistol Mag
-16:POCKET/pName:Tiny General
-17:POCKET/pName:Small General
-18:POCKET/pName:Belt Clip
-19:POCKET/pName:Speedloader
-20:POCKET/pName:Medical Pocket
-21:POCKET/pName:Syringe Pocket
-22:POCKET/pName:Double Ammo Belt
-23:POCKET/pName:Large Pistol Holster
-24:POCKET/pName:Shotgun Shells
-25:POCKET/pName:Shotgun Holster
-26:POCKET/pName:Throwing Knife
-27:POCKET/pName:Gen Misc.
-28:POCKET/pName:Small Explosive
-29:POCKET/pName:Rifle Mag x1
-30:POCKET/pName:Big Revolver Holster
-31:POCKET/pName:Combat Pack Gun Sling
-32:POCKET/pName:Large Revolver
-33:POCKET/pName:Explosivesx2
-34:POCKET/pName:Sniper Magx2
-35:POCKET/pName:Canteen
-36:POCKET/pName:First Aid Pocket
-37:POCKET/pName:Med Kit
-38:POCKET/pName:Carabiner Ring
-39:POCKET/pName:Grenadex3
-40:POCKET/pName:Pistol Magx2
-41:POCKET/pName:Rifle Grenadex2
-42:POCKET/pName:7 RD Shotgun Shells
-43:POCKET/pName:SMG Magx2
-44:POCKET/pName:Kits
-45:POCKET/pName:AR Magx2
-46:POCKET/pName:AR Magx1
-47:POCKET/pName:Flash Bangx3
-48:POCKET/pName:Pistol Magx3
-49:POCKET/pName:AR Magx3
-50:POCKET/pName:Mini Grenade
-51:POCKET/pName:SMG Magx3
-52:POCKET/pName:Small Knife
-53:POCKET/pName:Sniper Rifle Gun Sling
-54:POCKET/pName:Flash Bang
-55:POCKET/pName:Grenadex2
-56:POCKET/pName:Revolver Holster
-57:POCKET/pName:Rifle Magx2
-58:POCKET/pName:Bladder
-59:POCKET/pName:Tactical Gun Sling
-60:POCKET/pName:Drum Ammo
-61:POCKET/pName:Belt Feeder
+0:POCKETLIST/POCKET[0]/pName:Nothing
+1:POCKETLIST/POCKET[1]/pName:Gun Sling
+2:POCKETLIST/POCKET[2]/pName:Knife
+3:POCKETLIST/POCKET[3]/pName:Vehicle
+4:POCKETLIST/POCKET[4]/pName:General Large
+5:POCKETLIST/POCKET[5]/pName:Combat Pack
+6:POCKETLIST/POCKET[6]/pName:Ammo Belt
+7:POCKETLIST/POCKET[7]/pName:SMG Holster
+8:POCKETLIST/POCKET[8]/pName:Medium General
+9:POCKETLIST/POCKET[9]/pName:LgMagPocket
+10:POCKETLIST/POCKET[10]/pName:AR Mag
+11:POCKETLIST/POCKET[11]/pName:Pistol Holster
+12:POCKETLIST/POCKET[12]/pName:SMG Mag
+13:POCKETLIST/POCKET[13]/pName:Rifle Grenade
+14:POCKETLIST/POCKET[14]/pName:Grenade
+15:POCKETLIST/POCKET[15]/pName:Pistol Mag
+16:POCKETLIST/POCKET[16]/pName:Tiny General
+17:POCKETLIST/POCKET[17]/pName:Small General
+18:POCKETLIST/POCKET[18]/pName:Belt Clip
+19:POCKETLIST/POCKET[19]/pName:Speedloader
+20:POCKETLIST/POCKET[20]/pName:Medical Pocket
+21:POCKETLIST/POCKET[21]/pName:Syringe Pocket
+22:POCKETLIST/POCKET[22]/pName:Double Ammo Belt
+23:POCKETLIST/POCKET[23]/pName:Large Pistol Holster
+24:POCKETLIST/POCKET[24]/pName:Shotgun Shells
+25:POCKETLIST/POCKET[25]/pName:Shotgun Holster
+26:POCKETLIST/POCKET[26]/pName:Throwing Knife
+27:POCKETLIST/POCKET[27]/pName:Gen Misc.
+28:POCKETLIST/POCKET[28]/pName:Small Explosive
+29:POCKETLIST/POCKET[29]/pName:Rifle Mag x1
+30:POCKETLIST/POCKET[30]/pName:Big Revolver Holster
+31:POCKETLIST/POCKET[31]/pName:Combat Pack Gun Sling
+32:POCKETLIST/POCKET[32]/pName:Large Revolver
+33:POCKETLIST/POCKET[33]/pName:Explosivesx2
+34:POCKETLIST/POCKET[34]/pName:Sniper Magx2
+35:POCKETLIST/POCKET[35]/pName:Canteen
+36:POCKETLIST/POCKET[36]/pName:First Aid Pocket
+37:POCKETLIST/POCKET[37]/pName:Med Kit
+38:POCKETLIST/POCKET[38]/pName:Carabiner Ring
+39:POCKETLIST/POCKET[39]/pName:Grenadex3
+40:POCKETLIST/POCKET[40]/pName:Pistol Magx2
+41:POCKETLIST/POCKET[41]/pName:Rifle Grenadex2
+42:POCKETLIST/POCKET[42]/pName:7 RD Shotgun Shells
+43:POCKETLIST/POCKET[43]/pName:SMG Magx2
+44:POCKETLIST/POCKET[44]/pName:Kits
+45:POCKETLIST/POCKET[45]/pName:AR Magx2
+46:POCKETLIST/POCKET[46]/pName:AR Magx1
+47:POCKETLIST/POCKET[47]/pName:Flash Bangx3
+48:POCKETLIST/POCKET[48]/pName:Pistol Magx3
+49:POCKETLIST/POCKET[49]/pName:AR Magx3
+50:POCKETLIST/POCKET[50]/pName:Mini Grenade
+51:POCKETLIST/POCKET[51]/pName:SMG Magx3
+52:POCKETLIST/POCKET[52]/pName:Small Knife
+53:POCKETLIST/POCKET[53]/pName:Sniper Rifle Gun Sling
+54:POCKETLIST/POCKET[54]/pName:Flash Bang
+55:POCKETLIST/POCKET[55]/pName:Grenadex2
+56:POCKETLIST/POCKET[56]/pName:Revolver Holster
+57:POCKETLIST/POCKET[57]/pName:Rifle Magx2
+58:POCKETLIST/POCKET[58]/pName:Bladder
+59:POCKETLIST/POCKET[59]/pName:Tactical Gun Sling
+60:POCKETLIST/POCKET[60]/pName:Drum Ammo
+61:POCKETLIST/POCKET[61]/pName:Belt Feeder

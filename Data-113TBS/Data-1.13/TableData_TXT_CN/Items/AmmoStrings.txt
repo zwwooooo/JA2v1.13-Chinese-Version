@@ -1,146 +1,146 @@
-0:AMMO/AmmoCaliber:0
-0:AMMO/BRCaliber:0
-1:AMMO/AmmoCaliber:.38 Spc
-1:AMMO/BRCaliber:.38 Spc
-1:AMMO/NWSSCaliber:.38 Spc
-2:AMMO/AmmoCaliber:9x19mm
-2:AMMO/BRCaliber:9x19mm
-2:AMMO/NWSSCaliber:9x19mm
-3:AMMO/AmmoCaliber:.45 ACP
-3:AMMO/BRCaliber:.45 ACP
-3:AMMO/NWSSCaliber:.45 ACP
-4:AMMO/AmmoCaliber:.357 Mag
-4:AMMO/BRCaliber:.357 Mag
-4:AMMO/NWSSCaliber:.357 Mag
-5:AMMO/AmmoCaliber:12 gauge
-5:AMMO/BRCaliber:12 gauge
-5:AMMO/NWSSCaliber:12 gauge
-6:AMMO/AmmoCaliber:CAWS
-6:AMMO/BRCaliber:CAWS
-6:AMMO/NWSSCaliber:CAWS
-7:AMMO/AmmoCaliber:5.45x39mm
-7:AMMO/BRCaliber:5.45x39mm
-7:AMMO/NWSSCaliber:5.45x39mm
-8:AMMO/AmmoCaliber:5.56x45mm
-8:AMMO/BRCaliber:5.56x45mm
-8:AMMO/NWSSCaliber:5.56x45mm
-9:AMMO/AmmoCaliber:7.62x51mm
-9:AMMO/BRCaliber:7.62x51mm
-9:AMMO/NWSSCaliber:7.62x51mm
-10:AMMO/AmmoCaliber:7.62x39mm
-10:AMMO/BRCaliber:7.62x39mm
-10:AMMO/NWSSCaliber:7.62x39mm
-11:AMMO/AmmoCaliber:4.7x33mm
-11:AMMO/BRCaliber:4.7x33mm
-11:AMMO/NWSSCaliber:4.7x33mm
-12:AMMO/AmmoCaliber:5.7x28mm
-12:AMMO/BRCaliber:5.7x28mm
-12:AMMO/NWSSCaliber:5.7x28mm
-13:AMMO/AmmoCaliber:迫击炮弹
-13:AMMO/BRCaliber:迫击炮弹
-14:AMMO/AmmoCaliber:迷你火箭弹
-14:AMMO/BRCaliber:迷你火箭弹
-15:AMMO/AmmoCaliber:麻醉镖
-15:AMMO/BRCaliber:麻醉镖
-16:AMMO/AmmoCaliber:火焰喷射器燃料
-16:AMMO/BRCaliber:火焰喷射器燃料
-17:AMMO/AmmoCaliber:.50 BMG
-17:AMMO/BRCaliber:.50 BMG
-17:AMMO/NWSSCaliber:.50 BMG
-18:AMMO/AmmoCaliber:9x39mm
-18:AMMO/BRCaliber:9x39mm
-18:AMMO/NWSSCaliber:9x39mm
-19:AMMO/AmmoCaliber:4.6x30mm
-19:AMMO/BRCaliber:4.6x30mm
-19:AMMO/NWSSCaliber:4.6x30mm
-20:AMMO/AmmoCaliber:7.62x25mm
-20:AMMO/BRCaliber:7.62x25mm
-20:AMMO/NWSSCaliber:7.62x25mm
-21:AMMO/AmmoCaliber:12.7x108mm
-21:AMMO/BRCaliber:12.7x108mm
-21:AMMO/NWSSCaliber:12.7x108mm
-22:AMMO/AmmoCaliber:9x18mm
-22:AMMO/BRCaliber:9x18mm
-22:AMMO/NWSSCaliber:9x18mm
-23:AMMO/AmmoCaliber:.40 S&W
-23:AMMO/BRCaliber:.40 S&W
-23:AMMO/NWSSCaliber:.40 S&W
-24:AMMO/AmmoCaliber:7.62x54mmR
-24:AMMO/BRCaliber:7.62x54mmR
-24:AMMO/NWSSCaliber:7.62x54mmR
-25:AMMO/AmmoCaliber:.338 Lapua
-25:AMMO/BRCaliber:.338 Lapua
-25:AMMO/NWSSCaliber:.338 Lapua
-26:AMMO/AmmoCaliber:.44 Mag
-26:AMMO/BRCaliber:.44 Mag
-26:AMMO/NWSSCaliber:.44 Mag
-27:AMMO/AmmoCaliber:10x25mm
-27:AMMO/BRCaliber:10x25mm
-27:AMMO/NWSSCaliber:10x25mm
-28:AMMO/AmmoCaliber:12.3x50mm
-28:AMMO/BRCaliber:12.3x50mm
-28:AMMO/NWSSCaliber:12.3x50mm
-29:AMMO/AmmoCaliber:9x21mm
-29:AMMO/BRCaliber:9x21mm
-29:AMMO/NWSSCaliber:9x21mm
-30:AMMO/AmmoCaliber:7.62x37mm
-30:AMMO/BRCaliber:7.62x37mm
-30:AMMO/NWSSCaliber:7.62x37mm
-31:AMMO/AmmoCaliber:*unused*
-31:AMMO/BRCaliber:*unused*
-32:AMMO/AmmoCaliber:*unused*
-32:AMMO/BRCaliber:*unused*
-33:AMMO/AmmoCaliber:5.45x18mm
-33:AMMO/BRCaliber:5.45x18mm
-33:AMMO/NWSSCaliber:5.45x18mm
-34:AMMO/AmmoCaliber:9mm MS
-34:AMMO/BRCaliber:9mm MS
-34:AMMO/NWSSCaliber:9mm MS
-35:AMMO/AmmoCaliber:.50 AE
-35:AMMO/BRCaliber:.50 AE
-35:AMMO/NWSSCaliber:.50 AE
-36:AMMO/AmmoCaliber:.454 Casull
-36:AMMO/BRCaliber:.454 Casull
-36:AMMO/NWSSCaliber:.454 Casull
-37:AMMO/AmmoCaliber:.45 WinMag
-37:AMMO/BRCaliber:.45 WinMag
-37:AMMO/NWSSCaliber:.45 WinMag
-38:AMMO/AmmoCaliber:.50 Beowulf
-38:AMMO/BRCaliber:.50 Beowulf
-38:AMMO/NWSSCaliber:.50 Beowulf
-39:AMMO/AmmoCaliber:.300 WinMag
-39:AMMO/BRCaliber:.300 WinMag
-39:AMMO/NWSSCaliber:.300 WinMag
-40:AMMO/AmmoCaliber:7.92x57mm
-40:AMMO/BRCaliber:7.92x57mm
-40:AMMO/NWSSCaliber:7.92x57mm
-41:AMMO/AmmoCaliber:12.7x97mm Subsonic
-41:AMMO/BRCaliber:12.7x97mm
-41:AMMO/NWSSCaliber:12.7x97mm Subsonic
-42:AMMO/AmmoCaliber:6.8x43mm SPC
-42:AMMO/BRCaliber:6.8x43mm
-42:AMMO/NWSSCaliber:6.8x43mm SPC
-43:AMMO/AmmoCaliber:5.56x45mm SCF
-43:AMMO/BRCaliber:5.56x45mm SCF
-43:AMMO/NWSSCaliber:5.56x45mm SCF
-44:AMMO/AmmoCaliber:.41 AE
-44:AMMO/BRCaliber:.41 AE
-44:AMMO/NWSSCaliber:.41 AE
-45:AMMO/AmmoCaliber:.30 car
-45:AMMO/BRCaliber:.30 car
-45:AMMO/NWSSCaliber:.30 car
-46:AMMO/AmmoCaliber:.30-06
-46:AMMO/BRCaliber:.30-06
-46:AMMO/NWSSCaliber:.30-06
-47:AMMO/AmmoCaliber:6x35mm
-47:AMMO/BRCaliber:6x35mm
-47:AMMO/NWSSCaliber:6x35mm
-48:AMMO/AmmoCaliber:手炮子弹
-48:AMMO/BRCaliber:手炮子弹
-48:AMMO/NWSSCaliber:Cannon Ball
-49:AMMO/AmmoCaliber:胡椒粉喷雾罐
-49:AMMO/BRCaliber:胡椒粉喷雾罐
-49:AMMO/NWSSCaliber:Pepper Spray
-50:AMMO/AmmoCaliber:阻燃剂瓶(弹)
-50:AMMO/BRCaliber:阻燃剂瓶(弹)
-50:AMMO/NWSSCaliber:Fire retardant
+0:AMMOLIST/AMMO[0]/AmmoCaliber:0
+0:AMMOLIST/AMMO[0]/BRCaliber:0
+1:AMMOLIST/AMMO[1]/AmmoCaliber:.38 Spc
+1:AMMOLIST/AMMO[1]/BRCaliber:.38 Spc
+1:AMMOLIST/AMMO[1]/NWSSCaliber:.38 Spc
+2:AMMOLIST/AMMO[2]/AmmoCaliber:9x19mm
+2:AMMOLIST/AMMO[2]/BRCaliber:9x19mm
+2:AMMOLIST/AMMO[2]/NWSSCaliber:9x19mm
+3:AMMOLIST/AMMO[3]/AmmoCaliber:.45 ACP
+3:AMMOLIST/AMMO[3]/BRCaliber:.45 ACP
+3:AMMOLIST/AMMO[3]/NWSSCaliber:.45 ACP
+4:AMMOLIST/AMMO[4]/AmmoCaliber:.357 Mag
+4:AMMOLIST/AMMO[4]/BRCaliber:.357 Mag
+4:AMMOLIST/AMMO[4]/NWSSCaliber:.357 Mag
+5:AMMOLIST/AMMO[5]/AmmoCaliber:12 gauge
+5:AMMOLIST/AMMO[5]/BRCaliber:12 gauge
+5:AMMOLIST/AMMO[5]/NWSSCaliber:12 gauge
+6:AMMOLIST/AMMO[6]/AmmoCaliber:CAWS
+6:AMMOLIST/AMMO[6]/BRCaliber:CAWS
+6:AMMOLIST/AMMO[6]/NWSSCaliber:CAWS
+7:AMMOLIST/AMMO[7]/AmmoCaliber:5.45x39mm
+7:AMMOLIST/AMMO[7]/BRCaliber:5.45x39mm
+7:AMMOLIST/AMMO[7]/NWSSCaliber:5.45x39mm
+8:AMMOLIST/AMMO[8]/AmmoCaliber:5.56x45mm
+8:AMMOLIST/AMMO[8]/BRCaliber:5.56x45mm
+8:AMMOLIST/AMMO[8]/NWSSCaliber:5.56x45mm
+9:AMMOLIST/AMMO[9]/AmmoCaliber:7.62x51mm
+9:AMMOLIST/AMMO[9]/BRCaliber:7.62x51mm
+9:AMMOLIST/AMMO[9]/NWSSCaliber:7.62x51mm
+10:AMMOLIST/AMMO[10]/AmmoCaliber:7.62x39mm
+10:AMMOLIST/AMMO[10]/BRCaliber:7.62x39mm
+10:AMMOLIST/AMMO[10]/NWSSCaliber:7.62x39mm
+11:AMMOLIST/AMMO[11]/AmmoCaliber:4.7x33mm
+11:AMMOLIST/AMMO[11]/BRCaliber:4.7x33mm
+11:AMMOLIST/AMMO[11]/NWSSCaliber:4.7x33mm
+12:AMMOLIST/AMMO[12]/AmmoCaliber:5.7x28mm
+12:AMMOLIST/AMMO[12]/BRCaliber:5.7x28mm
+12:AMMOLIST/AMMO[12]/NWSSCaliber:5.7x28mm
+13:AMMOLIST/AMMO[13]/AmmoCaliber:迫击炮弹
+13:AMMOLIST/AMMO[13]/BRCaliber:迫击炮弹
+14:AMMOLIST/AMMO[14]/AmmoCaliber:迷你火箭弹
+14:AMMOLIST/AMMO[14]/BRCaliber:迷你火箭弹
+15:AMMOLIST/AMMO[15]/AmmoCaliber:麻醉镖
+15:AMMOLIST/AMMO[15]/BRCaliber:麻醉镖
+16:AMMOLIST/AMMO[16]/AmmoCaliber:火焰喷射器燃料
+16:AMMOLIST/AMMO[16]/BRCaliber:火焰喷射器燃料
+17:AMMOLIST/AMMO[17]/AmmoCaliber:.50 BMG
+17:AMMOLIST/AMMO[17]/BRCaliber:.50 BMG
+17:AMMOLIST/AMMO[17]/NWSSCaliber:.50 BMG
+18:AMMOLIST/AMMO[18]/AmmoCaliber:9x39mm
+18:AMMOLIST/AMMO[18]/BRCaliber:9x39mm
+18:AMMOLIST/AMMO[18]/NWSSCaliber:9x39mm
+19:AMMOLIST/AMMO[19]/AmmoCaliber:4.6x30mm
+19:AMMOLIST/AMMO[19]/BRCaliber:4.6x30mm
+19:AMMOLIST/AMMO[19]/NWSSCaliber:4.6x30mm
+20:AMMOLIST/AMMO[20]/AmmoCaliber:7.62x25mm
+20:AMMOLIST/AMMO[20]/BRCaliber:7.62x25mm
+20:AMMOLIST/AMMO[20]/NWSSCaliber:7.62x25mm
+21:AMMOLIST/AMMO[21]/AmmoCaliber:12.7x108mm
+21:AMMOLIST/AMMO[21]/BRCaliber:12.7x108mm
+21:AMMOLIST/AMMO[21]/NWSSCaliber:12.7x108mm
+22:AMMOLIST/AMMO[22]/AmmoCaliber:9x18mm
+22:AMMOLIST/AMMO[22]/BRCaliber:9x18mm
+22:AMMOLIST/AMMO[22]/NWSSCaliber:9x18mm
+23:AMMOLIST/AMMO[23]/AmmoCaliber:.40 S&W
+23:AMMOLIST/AMMO[23]/BRCaliber:.40 S&W
+23:AMMOLIST/AMMO[23]/NWSSCaliber:.40 S&W
+24:AMMOLIST/AMMO[24]/AmmoCaliber:7.62x54mmR
+24:AMMOLIST/AMMO[24]/BRCaliber:7.62x54mmR
+24:AMMOLIST/AMMO[24]/NWSSCaliber:7.62x54mmR
+25:AMMOLIST/AMMO[25]/AmmoCaliber:.338 Lapua
+25:AMMOLIST/AMMO[25]/BRCaliber:.338 Lapua
+25:AMMOLIST/AMMO[25]/NWSSCaliber:.338 Lapua
+26:AMMOLIST/AMMO[26]/AmmoCaliber:.44 Mag
+26:AMMOLIST/AMMO[26]/BRCaliber:.44 Mag
+26:AMMOLIST/AMMO[26]/NWSSCaliber:.44 Mag
+27:AMMOLIST/AMMO[27]/AmmoCaliber:10x25mm
+27:AMMOLIST/AMMO[27]/BRCaliber:10x25mm
+27:AMMOLIST/AMMO[27]/NWSSCaliber:10x25mm
+28:AMMOLIST/AMMO[28]/AmmoCaliber:12.3x50mm
+28:AMMOLIST/AMMO[28]/BRCaliber:12.3x50mm
+28:AMMOLIST/AMMO[28]/NWSSCaliber:12.3x50mm
+29:AMMOLIST/AMMO[29]/AmmoCaliber:9x21mm
+29:AMMOLIST/AMMO[29]/BRCaliber:9x21mm
+29:AMMOLIST/AMMO[29]/NWSSCaliber:9x21mm
+30:AMMOLIST/AMMO[30]/AmmoCaliber:7.62x37mm
+30:AMMOLIST/AMMO[30]/BRCaliber:7.62x37mm
+30:AMMOLIST/AMMO[30]/NWSSCaliber:7.62x37mm
+31:AMMOLIST/AMMO[31]/AmmoCaliber:*unused*
+31:AMMOLIST/AMMO[31]/BRCaliber:*unused*
+32:AMMOLIST/AMMO[32]/AmmoCaliber:*unused*
+32:AMMOLIST/AMMO[32]/BRCaliber:*unused*
+33:AMMOLIST/AMMO[33]/AmmoCaliber:5.45x18mm
+33:AMMOLIST/AMMO[33]/BRCaliber:5.45x18mm
+33:AMMOLIST/AMMO[33]/NWSSCaliber:5.45x18mm
+34:AMMOLIST/AMMO[34]/AmmoCaliber:9mm MS
+34:AMMOLIST/AMMO[34]/BRCaliber:9mm MS
+34:AMMOLIST/AMMO[34]/NWSSCaliber:9mm MS
+35:AMMOLIST/AMMO[35]/AmmoCaliber:.50 AE
+35:AMMOLIST/AMMO[35]/BRCaliber:.50 AE
+35:AMMOLIST/AMMO[35]/NWSSCaliber:.50 AE
+36:AMMOLIST/AMMO[36]/AmmoCaliber:.454 Casull
+36:AMMOLIST/AMMO[36]/BRCaliber:.454 Casull
+36:AMMOLIST/AMMO[36]/NWSSCaliber:.454 Casull
+37:AMMOLIST/AMMO[37]/AmmoCaliber:.45 WinMag
+37:AMMOLIST/AMMO[37]/BRCaliber:.45 WinMag
+37:AMMOLIST/AMMO[37]/NWSSCaliber:.45 WinMag
+38:AMMOLIST/AMMO[38]/AmmoCaliber:.50 Beowulf
+38:AMMOLIST/AMMO[38]/BRCaliber:.50 Beowulf
+38:AMMOLIST/AMMO[38]/NWSSCaliber:.50 Beowulf
+39:AMMOLIST/AMMO[39]/AmmoCaliber:.300 WinMag
+39:AMMOLIST/AMMO[39]/BRCaliber:.300 WinMag
+39:AMMOLIST/AMMO[39]/NWSSCaliber:.300 WinMag
+40:AMMOLIST/AMMO[40]/AmmoCaliber:7.92x57mm
+40:AMMOLIST/AMMO[40]/BRCaliber:7.92x57mm
+40:AMMOLIST/AMMO[40]/NWSSCaliber:7.92x57mm
+41:AMMOLIST/AMMO[41]/AmmoCaliber:12.7x97mm Subsonic
+41:AMMOLIST/AMMO[41]/BRCaliber:12.7x97mm
+41:AMMOLIST/AMMO[41]/NWSSCaliber:12.7x97mm Subsonic
+42:AMMOLIST/AMMO[42]/AmmoCaliber:6.8x43mm SPC
+42:AMMOLIST/AMMO[42]/BRCaliber:6.8x43mm
+42:AMMOLIST/AMMO[42]/NWSSCaliber:6.8x43mm SPC
+43:AMMOLIST/AMMO[43]/AmmoCaliber:5.56x45mm SCF
+43:AMMOLIST/AMMO[43]/BRCaliber:5.56x45mm SCF
+43:AMMOLIST/AMMO[43]/NWSSCaliber:5.56x45mm SCF
+44:AMMOLIST/AMMO[44]/AmmoCaliber:.41 AE
+44:AMMOLIST/AMMO[44]/BRCaliber:.41 AE
+44:AMMOLIST/AMMO[44]/NWSSCaliber:.41 AE
+45:AMMOLIST/AMMO[45]/AmmoCaliber:.30 car
+45:AMMOLIST/AMMO[45]/BRCaliber:.30 car
+45:AMMOLIST/AMMO[45]/NWSSCaliber:.30 car
+46:AMMOLIST/AMMO[46]/AmmoCaliber:.30-06
+46:AMMOLIST/AMMO[46]/BRCaliber:.30-06
+46:AMMOLIST/AMMO[46]/NWSSCaliber:.30-06
+47:AMMOLIST/AMMO[47]/AmmoCaliber:6x35mm
+47:AMMOLIST/AMMO[47]/BRCaliber:6x35mm
+47:AMMOLIST/AMMO[47]/NWSSCaliber:6x35mm
+48:AMMOLIST/AMMO[48]/AmmoCaliber:手炮子弹
+48:AMMOLIST/AMMO[48]/BRCaliber:手炮子弹
+48:AMMOLIST/AMMO[48]/NWSSCaliber:Cannon Ball
+49:AMMOLIST/AMMO[49]/AmmoCaliber:胡椒粉喷雾罐
+49:AMMOLIST/AMMO[49]/BRCaliber:胡椒粉喷雾罐
+49:AMMOLIST/AMMO[49]/NWSSCaliber:Pepper Spray
+50:AMMOLIST/AMMO[50]/AmmoCaliber:阻燃剂瓶(弹)
+50:AMMOLIST/AMMO[50]/BRCaliber:阻燃剂瓶(弹)
+50:AMMOLIST/AMMO[50]/NWSSCaliber:Fire retardant

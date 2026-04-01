@@ -1,5 +1,5 @@
-0:STRUCTURE/szTileSetDisplayName:Sandbags
-1:STRUCTURE/szTileSetDisplayName:Concertina wire
-2:STRUCTURE/szTileSetDisplayName:medium debris
-3:STRUCTURE/szTileSetDisplayName:large debris
-4:STRUCTURE/szTileSetDisplayName:wooden wall large
+0:STRUCTURESLIST/STRUCTURE[0]/szTileSetDisplayName:Sandbags
+1:STRUCTURESLIST/STRUCTURE[1]/szTileSetDisplayName:Concertina wire
+2:STRUCTURESLIST/STRUCTURE[2]/szTileSetDisplayName:medium debris
+3:STRUCTURESLIST/STRUCTURE[3]/szTileSetDisplayName:large debris
+4:STRUCTURESLIST/STRUCTURE[4]/szTileSetDisplayName:wooden wall large

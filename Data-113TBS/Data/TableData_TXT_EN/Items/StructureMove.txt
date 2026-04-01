@@ -1,46 +1,46 @@
-0:STRUCTURE/szTileSetDisplayName:Gas cylinder
-1:STRUCTURE/szTileSetDisplayName:Furniture
-2:STRUCTURE/szTileSetDisplayName:Sandbags
-3:STRUCTURE/szTileSetDisplayName:Sandbags
-4:STRUCTURE/szTileSetDisplayName:Crate
-5:STRUCTURE/szTileSetDisplayName:Barrel
-6:STRUCTURE/szTileSetDisplayName:Barrel
-7:STRUCTURE/szTileSetDisplayName:Barrel
-8:STRUCTURE/szTileSetDisplayName:Tire
-9:STRUCTURE/szTileSetDisplayName:Furniture
-10:STRUCTURE/szTileSetDisplayName:Furniture
-11:STRUCTURE/szTileSetDisplayName:Furniture
-12:STRUCTURE/szTileSetDisplayName:Furniture
-13:STRUCTURE/szTileSetDisplayName:Furniture
-14:STRUCTURE/szTileSetDisplayName:Furniture
-15:STRUCTURE/szTileSetDisplayName:Barrel
-16:STRUCTURE/szTileSetDisplayName:Debris
-17:STRUCTURE/szTileSetDisplayName:Chair
-18:STRUCTURE/szTileSetDisplayName:Chair
-19:STRUCTURE/szTileSetDisplayName:Locker
-20:STRUCTURE/szTileSetDisplayName:Furniture
-21:STRUCTURE/szTileSetDisplayName:Shabby Furniture
-22:STRUCTURE/szTileSetDisplayName:Locker
-23:STRUCTURE/szTileSetDisplayName:Chair
-24:STRUCTURE/szTileSetDisplayName:Locker
-25:STRUCTURE/szTileSetDisplayName:Furniture
-26:STRUCTURE/szTileSetDisplayName:Furniture
-27:STRUCTURE/szTileSetDisplayName:Furniture
-28:STRUCTURE/szTileSetDisplayName:Barrel
-29:STRUCTURE/szTileSetDisplayName:Furniture
-30:STRUCTURE/szTileSetDisplayName:Furniture
-31:STRUCTURE/szTileSetDisplayName:Chair
-32:STRUCTURE/szTileSetDisplayName:Gas Cylinder
-33:STRUCTURE/szTileSetDisplayName:Furniture
-34:STRUCTURE/szTileSetDisplayName:Old Furniture
-35:STRUCTURE/szTileSetDisplayName:Fancy decoration
-36:STRUCTURE/szTileSetDisplayName:Fancy furniture
-37:STRUCTURE/szTileSetDisplayName:Velvet chair
-38:STRUCTURE/szTileSetDisplayName:Furniture
-39:STRUCTURE/szTileSetDisplayName:Furniture
-40:STRUCTURE/szTileSetDisplayName:Chair
-41:STRUCTURE/szTileSetDisplayName:Container
-42:STRUCTURE/szTileSetDisplayName:Furniture
-43:STRUCTURE/szTileSetDisplayName:Package
-44:STRUCTURE/szTileSetDisplayName:Package
-45:STRUCTURE/szTileSetDisplayName:Crate
+0:STRUCTURESLIST/STRUCTURE[0]/szTileSetDisplayName:Gas cylinder
+1:STRUCTURESLIST/STRUCTURE[1]/szTileSetDisplayName:Furniture
+2:STRUCTURESLIST/STRUCTURE[2]/szTileSetDisplayName:Sandbags
+3:STRUCTURESLIST/STRUCTURE[3]/szTileSetDisplayName:Sandbags
+4:STRUCTURESLIST/STRUCTURE[4]/szTileSetDisplayName:Crate
+5:STRUCTURESLIST/STRUCTURE[5]/szTileSetDisplayName:Barrel
+6:STRUCTURESLIST/STRUCTURE[6]/szTileSetDisplayName:Barrel
+7:STRUCTURESLIST/STRUCTURE[7]/szTileSetDisplayName:Barrel
+8:STRUCTURESLIST/STRUCTURE[8]/szTileSetDisplayName:Tire
+9:STRUCTURESLIST/STRUCTURE[9]/szTileSetDisplayName:Furniture
+10:STRUCTURESLIST/STRUCTURE[10]/szTileSetDisplayName:Furniture
+11:STRUCTURESLIST/STRUCTURE[11]/szTileSetDisplayName:Furniture
+12:STRUCTURESLIST/STRUCTURE[12]/szTileSetDisplayName:Furniture
+13:STRUCTURESLIST/STRUCTURE[13]/szTileSetDisplayName:Furniture
+14:STRUCTURESLIST/STRUCTURE[14]/szTileSetDisplayName:Furniture
+15:STRUCTURESLIST/STRUCTURE[15]/szTileSetDisplayName:Barrel
+16:STRUCTURESLIST/STRUCTURE[16]/szTileSetDisplayName:Debris
+17:STRUCTURESLIST/STRUCTURE[17]/szTileSetDisplayName:Chair
+18:STRUCTURESLIST/STRUCTURE[18]/szTileSetDisplayName:Chair
+19:STRUCTURESLIST/STRUCTURE[19]/szTileSetDisplayName:Locker
+20:STRUCTURESLIST/STRUCTURE[20]/szTileSetDisplayName:Furniture
+21:STRUCTURESLIST/STRUCTURE[21]/szTileSetDisplayName:Shabby Furniture
+22:STRUCTURESLIST/STRUCTURE[22]/szTileSetDisplayName:Locker
+23:STRUCTURESLIST/STRUCTURE[23]/szTileSetDisplayName:Chair
+24:STRUCTURESLIST/STRUCTURE[24]/szTileSetDisplayName:Locker
+25:STRUCTURESLIST/STRUCTURE[25]/szTileSetDisplayName:Furniture
+26:STRUCTURESLIST/STRUCTURE[26]/szTileSetDisplayName:Furniture
+27:STRUCTURESLIST/STRUCTURE[27]/szTileSetDisplayName:Furniture
+28:STRUCTURESLIST/STRUCTURE[28]/szTileSetDisplayName:Barrel
+29:STRUCTURESLIST/STRUCTURE[29]/szTileSetDisplayName:Furniture
+30:STRUCTURESLIST/STRUCTURE[30]/szTileSetDisplayName:Furniture
+31:STRUCTURESLIST/STRUCTURE[31]/szTileSetDisplayName:Chair
+32:STRUCTURESLIST/STRUCTURE[32]/szTileSetDisplayName:Gas Cylinder
+33:STRUCTURESLIST/STRUCTURE[33]/szTileSetDisplayName:Furniture
+34:STRUCTURESLIST/STRUCTURE[34]/szTileSetDisplayName:Old Furniture
+35:STRUCTURESLIST/STRUCTURE[35]/szTileSetDisplayName:Fancy decoration
+36:STRUCTURESLIST/STRUCTURE[36]/szTileSetDisplayName:Fancy furniture
+37:STRUCTURESLIST/STRUCTURE[37]/szTileSetDisplayName:Velvet chair
+38:STRUCTURESLIST/STRUCTURE[38]/szTileSetDisplayName:Furniture
+39:STRUCTURESLIST/STRUCTURE[39]/szTileSetDisplayName:Furniture
+40:STRUCTURESLIST/STRUCTURE[40]/szTileSetDisplayName:Chair
+41:STRUCTURESLIST/STRUCTURE[41]/szTileSetDisplayName:Container
+42:STRUCTURESLIST/STRUCTURE[42]/szTileSetDisplayName:Furniture
+43:STRUCTURESLIST/STRUCTURE[43]/szTileSetDisplayName:Package
+44:STRUCTURESLIST/STRUCTURE[44]/szTileSetDisplayName:Package
+45:STRUCTURESLIST/STRUCTURE[45]/szTileSetDisplayName:Crate

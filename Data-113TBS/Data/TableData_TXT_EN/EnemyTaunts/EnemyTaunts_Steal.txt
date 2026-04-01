@@ -1,5 +1,5 @@
-0:TAUNT/szText:Hey, gimme that!
-1:TAUNT/szText:Nice toy!
-2:TAUNT/szText:Give me that, you're not using it properly anyway!
-3:TAUNT/szText:Ooh, shiny!
-4:TAUNT/szText:Nice stuff you... had... there!
+0:TAUNTS/TAUNT[0]/szText:Hey, gimme that!
+1:TAUNTS/TAUNT[1]/szText:Nice toy!
+2:TAUNTS/TAUNT[2]/szText:Give me that, you're not using it properly anyway!
+3:TAUNTS/TAUNT[3]/szText:Ooh, shiny!
+4:TAUNTS/TAUNT[4]/szText:Nice stuff you... had... there!

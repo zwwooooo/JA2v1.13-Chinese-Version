@@ -1,16 +1,16 @@
-0:TAUNT/szText:OK, I think it's pretty safe to assume he's dead.
-1:TAUNT/szText:OK, I think it's pretty safe to assume she's dead.
-2:TAUNT/szText:I think I'll skip lunch today.
-3:TAUNT/szText:Hahaha! Fucking awesome!
-3:TAUNT/szTextCensored:Hahaha! Freaking awesome!
-4:TAUNT/szText:Fuck yeah! I love this job!
-4:TAUNT/szTextCensored:Hell yeah! I love this job!
-5:TAUNT/szText:It's OK, you weren't using it anyway.
-6:TAUNT/szText:Boom, head shot!
-7:TAUNT/szText:Wow!
-8:TAUNT/szText:Mind blown!
-9:TAUNT/szText:I wasn't even trying.
-10:TAUNT/szText:Did somebody take a picture?
-11:TAUNT/szText:Pop goes the zit!
-12:TAUNT/szText:Somebody call an ambulance!
-13:TAUNT/szText:Does this mean I can read minds now?
+0:TAUNTS/TAUNT[0]/szText:OK, I think it's pretty safe to assume he's dead.
+1:TAUNTS/TAUNT[1]/szText:OK, I think it's pretty safe to assume she's dead.
+2:TAUNTS/TAUNT[2]/szText:I think I'll skip lunch today.
+3:TAUNTS/TAUNT[3]/szText:Hahaha! Fucking awesome!
+3:TAUNTS/TAUNT[3]/szTextCensored:Hahaha! Freaking awesome!
+4:TAUNTS/TAUNT[4]/szText:Fuck yeah! I love this job!
+4:TAUNTS/TAUNT[4]/szTextCensored:Hell yeah! I love this job!
+5:TAUNTS/TAUNT[5]/szText:It's OK, you weren't using it anyway.
+6:TAUNTS/TAUNT[6]/szText:Boom, head shot!
+7:TAUNTS/TAUNT[7]/szText:Wow!
+8:TAUNTS/TAUNT[8]/szText:Mind blown!
+9:TAUNTS/TAUNT[9]/szText:I wasn't even trying.
+10:TAUNTS/TAUNT[10]/szText:Did somebody take a picture?
+11:TAUNTS/TAUNT[11]/szText:Pop goes the zit!
+12:TAUNTS/TAUNT[12]/szText:Somebody call an ambulance!
+13:TAUNTS/TAUNT[13]/szText:Does this mean I can read minds now?

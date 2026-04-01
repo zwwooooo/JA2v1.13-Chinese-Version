@@ -1,1 +1,1 @@
-0:TAUNT/szText:Taunt! (320 letters)
+0:TAUNTS/TAUNT/szText:Taunt! (320 letters)

@@ -1,5 +1,5 @@
-0:TAUNT/szText:掩护我，我在装弹！
-1:TAUNT/szText:我没子弹了，重新装填！
-2:TAUNT/szText:需要装弹！
-3:TAUNT/szText:装弹！
-4:TAUNT/szText:需要给我的杀人机器上新电池了！
+0:TAUNTS/TAUNT[0]/szText:掩护我，我在装弹！
+1:TAUNTS/TAUNT[1]/szText:我没子弹了，重新装填！
+2:TAUNTS/TAUNT[2]/szText:需要装弹！
+3:TAUNTS/TAUNT[3]/szText:装弹！
+4:TAUNTS/TAUNT[4]/szText:需要给我的杀人机器上新电池了！

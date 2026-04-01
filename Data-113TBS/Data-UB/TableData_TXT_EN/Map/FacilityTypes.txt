@@ -1,46 +1,46 @@
-1:FACILITYTYPE/szFacilityName:Hospital
-1:FACILITYTYPE/ASSIGNMENT/szTooltipText:Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.
-2:FACILITYTYPE/szFacilityName:Small Sleazy Bar
-2:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.
-3:FACILITYTYPE/szFacilityName:Prison Complex
-4:FACILITYTYPE/szFacilityName:Small Airport
-4:FACILITYTYPE/ASSIGNMENT/szTooltipText:Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.
-5:FACILITYTYPE/szFacilityName:Munitions Factory
-5:FACILITYTYPE/ASSIGNMENT/szTooltipText:The machinery here can manufacture all sorts of replacements parts, which will increase your efficiency at repair, assuming you know how to use the complex machinery here.
-6:FACILITYTYPE/szFacilityName:Military Barracks
-6:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!
-7:FACILITYTYPE/szFacilityName:Military Headquarters
-7:FACILITYTYPE/ASSIGNMENT/szTooltipText:The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.
-8:FACILITYTYPE/szFacilityName:Shooting Range
-8:FACILITYTYPE/ASSIGNMENT/szTooltipText:Why not spend some time practicing your aim? The dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.
-9:FACILITYTYPE/szFacilityName:A.C.A Building
-9:FACILITYTYPE/ASSIGNMENT/szTooltipText:The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.
-10:FACILITYTYPE/szFacilityName:SAM Site
-11:FACILITYTYPE/szFacilityName:Mine
-11:FACILITYTYPE/ASSIGNMENT/szTooltipText:Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.
-12:FACILITYTYPE/szFacilityName:Small Church
-12:FACILITYTYPE/ASSIGNMENT/szTooltipText:A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.
-13:FACILITYTYPE/szFacilityName:Boxing Club
-13:FACILITYTYPE/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.
-14:FACILITYTYPE/szFacilityName:National Museum
-15:FACILITYTYPE/szFacilityName:Laboratory
-16:FACILITYTYPE/szFacilityName:Junkyard
-16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-16:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-17:FACILITYTYPE/szFacilityName:Beach Resort
-17:FACILITYTYPE/ASSIGNMENT/szTooltipText:Sun, sand, surf. This sure as hell beats sleeping in a trench.
-18:FACILITYTYPE/szFacilityName:Legacy Militia Training Facility
-19:FACILITYTYPE/szFacilityName:Military Barracks
-19:FACILITYTYPE/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!
-20:FACILITYTYPE/szFacilityName:Fung's Store
-21:FACILITYTYPE/szFacilityName:Hiden Arms Store
-22:FACILITYTYPE/szFacilityName:Gym
-22:FACILITYTYPE/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.
-23:FACILITYTYPE/szFacilityName:Power Plant
-24:FACILITYTYPE/szFacilityName:Workshop unit
-24:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-24:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-24:FACILITYTYPE/ASSIGNMENT/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
-25:FACILITYTYPE/szFacilityName:Hiden Bar
-25:FACILITYTYPE/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.
+1:FACILITYTYPES/FACILITYTYPE[0]/szFacilityName:Hospital
+1:FACILITYTYPES/FACILITYTYPE[0]/ASSIGNMENT/szTooltipText:Perform life-saving surgery on your wounded men, using state-of-the-art equipment. Increases the DOCTOR's efficiency.
+2:FACILITYTYPES/FACILITYTYPE[1]/szFacilityName:Small Sleazy Bar
+2:FACILITYTYPES/FACILITYTYPE[1]/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.
+3:FACILITYTYPES/FACILITYTYPE[2]/szFacilityName:Prison Complex
+4:FACILITYTYPES/FACILITYTYPE[3]/szFacilityName:Small Airport
+4:FACILITYTYPES/FACILITYTYPE[3]/ASSIGNMENT/szTooltipText:Spend some time loading and unloading aircraft. Increases the efficiency of STRENGTH practice.
+5:FACILITYTYPES/FACILITYTYPE[4]/szFacilityName:Munitions Factory
+5:FACILITYTYPES/FACILITYTYPE[4]/ASSIGNMENT/szTooltipText:The machinery here can manufacture all sorts of replacements parts, which will increase your efficiency at repair, assuming you know how to use the complex machinery here.
+6:FACILITYTYPES/FACILITYTYPE[5]/szFacilityName:Military Barracks
+6:FACILITYTYPES/FACILITYTYPE[5]/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!
+7:FACILITYTYPES/FACILITYTYPE[6]/szFacilityName:Military Headquarters
+7:FACILITYTYPES/FACILITYTYPE[6]/ASSIGNMENT/szTooltipText:The war room here has all sorts of digital equipment, designed for maintaining a good grasp on the strategic situation across the country. This will help you coordinate your defenses, and collect information about enemy movements in the wilderness.
+8:FACILITYTYPES/FACILITYTYPE[7]/szFacilityName:Shooting Range
+8:FACILITYTYPES/FACILITYTYPE[7]/ASSIGNMENT/szTooltipText:Why not spend some time practicing your aim? The dummy targets are practically begging for it. It sure as hell beats taking pot-shots at rocks out in the wilderness.
+9:FACILITYTYPES/FACILITYTYPE[8]/szFacilityName:A.C.A Building
+9:FACILITYTYPES/FACILITYTYPE[8]/ASSIGNMENT/szTooltipText:The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region.
+10:FACILITYTYPES/FACILITYTYPE[9]/szFacilityName:SAM Site
+11:FACILITYTYPES/FACILITYTYPE[10]/szFacilityName:Mine
+11:FACILITYTYPES/FACILITYTYPE[10]/ASSIGNMENT/szTooltipText:Anyone who knows how to set explosives will be welcome in a mine. Increases efficiency of EXPLOSIVES training.
+12:FACILITYTYPES/FACILITYTYPE[11]/szFacilityName:Small Church
+12:FACILITYTYPES/FACILITYTYPE[11]/ASSIGNMENT/szTooltipText:A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.
+13:FACILITYTYPES/FACILITYTYPE[12]/szFacilityName:Boxing Club
+13:FACILITYTYPES/FACILITYTYPE[12]/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.
+14:FACILITYTYPES/FACILITYTYPE[13]/szFacilityName:National Museum
+15:FACILITYTYPES/FACILITYTYPE[14]/szFacilityName:Laboratory
+16:FACILITYTYPES/FACILITYTYPE[15]/szFacilityName:Junkyard
+16:FACILITYTYPES/FACILITYTYPE[15]/ASSIGNMENT[0]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+16:FACILITYTYPES/FACILITYTYPE[15]/ASSIGNMENT[1]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+16:FACILITYTYPES/FACILITYTYPE[15]/ASSIGNMENT[2]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+17:FACILITYTYPES/FACILITYTYPE[16]/szFacilityName:Beach Resort
+17:FACILITYTYPES/FACILITYTYPE[16]/ASSIGNMENT/szTooltipText:Sun, sand, surf. This sure as hell beats sleeping in a trench.
+18:FACILITYTYPES/FACILITYTYPE[17]/szFacilityName:Legacy Militia Training Facility
+19:FACILITYTYPES/FACILITYTYPE[18]/szFacilityName:Military Barracks
+19:FACILITYTYPES/FACILITYTYPE[18]/ASSIGNMENT/szTooltipText:There are plenty of beds here. It's a bit basic, but certainly better than resting outside!
+20:FACILITYTYPES/FACILITYTYPE[19]/szFacilityName:Fung's Store
+21:FACILITYTYPES/FACILITYTYPE[20]/szFacilityName:Hiden Arms Store
+22:FACILITYTYPES/FACILITYTYPE[21]/szFacilityName:Gym
+22:FACILITYTYPES/FACILITYTYPE[21]/ASSIGNMENT/szTooltipText:There's plenty of gymnastic equipment here, just waiting to be used. This is a great way to get a balanced work-out that might improve your shape considerably. Increases the efficiency of HEALTH training.
+23:FACILITYTYPES/FACILITYTYPE[22]/szFacilityName:Power Plant
+24:FACILITYTYPES/FACILITYTYPE[23]/szFacilityName:Workshop unit
+24:FACILITYTYPES/FACILITYTYPE[23]/ASSIGNMENT[0]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+24:FACILITYTYPES/FACILITYTYPE[23]/ASSIGNMENT[1]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+24:FACILITYTYPES/FACILITYTYPE[23]/ASSIGNMENT[2]/szTooltipText:This place is practically littered with spare parts for anything you might imagine. This will certainly make any repair-work considerably easier.
+25:FACILITYTYPES/FACILITYTYPE[24]/szFacilityName:Hiden Bar
+25:FACILITYTYPES/FACILITYTYPE[24]/ASSIGNMENT/szTooltipText:Have a drink at the local bar! Increases loyalty in this town, for a price and a chance to get drunk.

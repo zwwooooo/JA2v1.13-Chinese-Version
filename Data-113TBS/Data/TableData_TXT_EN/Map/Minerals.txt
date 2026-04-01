@@ -1,4 +1,4 @@
-0:TYPE/sNameType:Mine
-0:TYPE/sMineral:Silver
-1:TYPE/sNameType:Mine
-1:TYPE/sMineral:Gold
+0:MINERALS/TYPE[0]/sNameType:Mine
+0:MINERALS/TYPE[0]/sMineral:Silver
+1:MINERALS/TYPE[1]/sNameType:Mine
+1:MINERALS/TYPE[1]/sMineral:Gold

@@ -1,510 +1,510 @@
-0:PROFILE/zName:Barry Unger
-0:PROFILE/zNickname:Barry
-1:PROFILE/zName:Keith "Blood" Hanson
-1:PROFILE/zNickname:Blood
-2:PROFILE/zName:Rudy "Lynx-Eyed" Roberts
-2:PROFILE/zNickname:Lynx
-3:PROFILE/zName:Steve "Grizzly" Bornell
-3:PROFILE/zNickname:Grizzly
-4:PROFILE/zName:Victoria Waters
-4:PROFILE/zNickname:Vicki
-5:PROFILE/zName:Trevor Colby
-5:PROFILE/zNickname:Trevor
-6:PROFILE/zName:Helmut Grunther
-6:PROFILE/zNickname:Grunty
-7:PROFILE/zName:Ivan Dolvich
-7:PROFILE/zNickname:Ivan
-8:PROFILE/zName:Bobby "Steroid" Gontarski
-8:PROFILE/zNickname:Steroid
-9:PROFILE/zName:Igor Dolvich
-9:PROFILE/zNickname:Igor
-10:PROFILE/zName:Kyle "Shadow" Simmons
-10:PROFILE/zNickname:Shadow
-11:PROFILE/zName:Ernie "Red" Spragg
-11:PROFILE/zNickname:Red
-12:PROFILE/zName:Carl "Reaper" Sheppards
-12:PROFILE/zNickname:Reaper
-13:PROFILE/zName:Fidel Dahan
-13:PROFILE/zNickname:Fidel
-14:PROFILE/zName:Cynthia "Fox" Guzzman
-14:PROFILE/zNickname:Fox
-15:PROFILE/zName:Sidney Nettleson
-15:PROFILE/zNickname:Sidney
-16:PROFILE/zName:Gus Tarballs
-16:PROFILE/zNickname:Gus
-17:PROFILE/zName:Monica "Buns" Sondergaard
-17:PROFILE/zNickname:Buns
-18:PROFILE/zName:Ice Williams
-18:PROFILE/zNickname:Ice
-19:PROFILE/zName:Dr. Donna "Spider" Houston
-19:PROFILE/zNickname:Spider
-20:PROFILE/zName:Dr. Clifford Highball
-20:PROFILE/zNickname:Cliff
-21:PROFILE/zName:John "Bull" Peters
-21:PROFILE/zNickname:Bull
-22:PROFILE/zName:Frank "Hitman" Hennessy
-22:PROFILE/zNickname:Hitman
-23:PROFILE/zName:Louisa "Buzz" Garneau
-23:PROFILE/zNickname:Buzz
-24:PROFILE/zName:Ron "Raider" Higgens
-24:PROFILE/zNickname:Raider
-25:PROFILE/zName:Charlene "Raven" Higgens
-25:PROFILE/zNickname:Raven
-26:PROFILE/zName:Kirk "Static" Stevenson
-26:PROFILE/zNickname:Static
-27:PROFILE/zName:Corp. Len Anderson
-27:PROFILE/zNickname:Len
-28:PROFILE/zName:Dr. Daniel Quinten
-28:PROFILE/zNickname:Danny
-29:PROFILE/zName:Earl "Magic" Walker
-29:PROFILE/zNickname:Magic
-30:PROFILE/zName:Stephen Rothman
-30:PROFILE/zNickname:Stephen
-31:PROFILE/zName:Robert James Sullivan
-31:PROFILE/zNickname:Scully
-32:PROFILE/zName:J.P. "La Malice" Viau
-32:PROFILE/zNickname:Malice
-33:PROFILE/zName:Dr. Q. Huaong
-33:PROFILE/zNickname:Dr. Q
-34:PROFILE/zName:Edgar "Nails" Smorth
-34:PROFILE/zNickname:Nails
-35:PROFILE/zName:Thor Kaufman
-35:PROFILE/zNickname:Thor
-36:PROFILE/zName:Sheila "Scope" Sterling
-36:PROFILE/zNickname:Scope
-37:PROFILE/zName:Peter "Wolf" Sanderson
-37:PROFILE/zNickname:Wolf
-38:PROFILE/zName:Dr. Michael Dawson
-38:PROFILE/zNickname:MD
-39:PROFILE/zName:Norma "Meltdown" Jessop
-39:PROFILE/zNickname:Meltdown
-40:PROFILE/zName:Biff Apscott
-40:PROFILE/zNickname:Biff
-41:PROFILE/zName:Frankie "Haywire" Gordon
-41:PROFILE/zNickname:Haywire
-42:PROFILE/zName:Doug "Gasket" Milton
-42:PROFILE/zNickname:Gasket
-43:PROFILE/zName:Bill "Razor" Lamont
-43:PROFILE/zNickname:Razor
-44:PROFILE/zName:Florence Gabriel
-44:PROFILE/zNickname:Flo
-45:PROFILE/zName:Tim "Gumpy" Hillman
-45:PROFILE/zNickname:Gumpy
-46:PROFILE/zName:Larry Roachburn
-46:PROFILE/zNickname:Larry
-47:PROFILE/zName:Larry Roachburn
-47:PROFILE/zNickname:Larry
-48:PROFILE/zName:Jim "Cougar" Wallace
-48:PROFILE/zNickname:Cougar
-49:PROFILE/zName:Tim "Numb" Sutton
-49:PROFILE/zNickname:Numb
-50:PROFILE/zName:Thorton "Bubba" Jones
-50:PROFILE/zNickname:Bubba
-51:PROFILE/zName:
-51:PROFILE/zNickname:PGmale1
-52:PROFILE/zName:
-52:PROFILE/zNickname:PGmale2 
-53:PROFILE/zName:
-53:PROFILE/zNickname:PGmale3
-54:PROFILE/zName:
-54:PROFILE/zNickname:PGLady1
-55:PROFILE/zName:
-55:PROFILE/zNickname:PGLady2
-56:PROFILE/zName:
-56:PROFILE/zNickname:PGLady3
-57:PROFILE/zName:
-57:PROFILE/zNickname:PGmale4
-58:PROFILE/zName:Gaston Cavalier
-58:PROFILE/zNickname:Gaston
-59:PROFILE/zName:Lt. "Stogie" Horge
-59:PROFILE/zNickname:Stogie
-60:PROFILE/zName:Manuel
-60:PROFILE/zNickname:Manuel
-61:PROFILE/zName:Col. Frederick Biggins
-61:PROFILE/zNickname:Biggins
-62:PROFILE/zName:John Kulba
-62:PROFILE/zNickname:John
-63:PROFILE/zName:Madlab's Robot
-63:PROFILE/zNickname:Robot
-64:PROFILE/zName:Tex Colburn
-64:PROFILE/zNickname:Tex
-65:PROFILE/zName:Slay
-65:PROFILE/zNickname:Terry
-66:PROFILE/zName:Greg "Dynamo" Duncan
-66:PROFILE/zNickname:Dynamo
-67:PROFILE/zName:Breeham "Shank" Druz
-67:PROFILE/zNickname:Shank
-68:PROFILE/zName:Igmus "Iggy" Palkov
-68:PROFILE/zNickname:Iggy
-69:PROFILE/zName:Dr. Vincent Beaumont
-69:PROFILE/zNickname:Vince
-70:PROFILE/zName:Lt. Conrad Gillitt
-70:PROFILE/zNickname:Conrad
-71:PROFILE/zName:Combat Jeep
-71:PROFILE/zNickname:C. Jeep
-72:PROFILE/zName:Kevin "Maddog" Cameron
-72:PROFILE/zNickname:Maddog
-73:PROFILE/zName:Mrs. Betty Fung
-73:PROFILE/zNickname:Betty
-74:PROFILE/zName:Raul Mendez
-74:PROFILE/zNickname:Raul
-75:PROFILE/zName:Deputy Commander Morris
-75:PROFILE/zNickname:Morris
-76:PROFILE/zName:Jerry Melo
-76:PROFILE/zNickname:Jerry
-77:PROFILE/zName:Rudy Twoskidoo
-77:PROFILE/zNickname:Rudy
-78:PROFILE/zName:Carmen Dancio
-78:PROFILE/zNickname:Carmen
-79:PROFILE/zName:Joseph Papanus
-79:PROFILE/zNickname:Joe
-80:PROFILE/zName:Dr. Steven Willis
-80:PROFILE/zNickname:Steve
-81:PROFILE/zName:Ricardo "Rat" Grimaldo
-81:PROFILE/zNickname:Rat
-82:PROFILE/zName:MoM
-82:PROFILE/zNickname:Annie
-83:PROFILE/zName:Imposter
-83:PROFILE/zNickname:Chris
-84:PROFILE/zName:Bob
-84:PROFILE/zNickname:Bob
-85:PROFILE/zName:Brenda Drake
-85:PROFILE/zNickname:Brenda
-86:PROFILE/zName:Peter "Kingpin" Klauss
-86:PROFILE/zNickname:Kingpin
-87:PROFILE/zName:Darren Van Haussen
-87:PROFILE/zNickname:Darren
-88:PROFILE/zName:Maria DaSilva
-88:PROFILE/zNickname:Maria
-89:PROFILE/zName:Angel Dasilva
-89:PROFILE/zNickname:Angel
-90:PROFILE/zName:Joey Graham
-90:PROFILE/zNickname:Joey
-91:PROFILE/zName:Tony
-91:PROFILE/zNickname:Tony
-92:PROFILE/zName:Frank
-92:PROFILE/zNickname:Frank
-93:PROFILE/zName:Spike
-93:PROFILE/zNickname:Spike
-94:PROFILE/zName:Damon Warrick
-94:PROFILE/zNickname:Damon
-95:PROFILE/zName:Kyle Lemmons
-95:PROFILE/zNickname:Kyle
-96:PROFILE/zName:Micky O'Brien
-96:PROFILE/zNickname:Micky
-97:PROFILE/zName:James "Skyrider" Bullock
-97:PROFILE/zNickname:Skyrider
-98:PROFILE/zName:Pablo Greco
-98:PROFILE/zNickname:Pablo
-99:PROFILE/zName:Salvatore Lappus
-99:PROFILE/zNickname:Sal
-100:PROFILE/zName:Father John Walker
-100:PROFILE/zNickname:Father
-101:PROFILE/zName:Fatima
-101:PROFILE/zNickname:Fatima
-102:PROFILE/zName:Christine Woltz
-102:PROFILE/zNickname:Warden
-103:PROFILE/zName:Gordon Jefferies
-103:PROFILE/zNickname:Gordon
-104:PROFILE/zName:Gary "Gabby" Mulnick
-104:PROFILE/zNickname:Gabby
-105:PROFILE/zName:Dr. Ernest Poppin
-105:PROFILE/zNickname:Ernest
-106:PROFILE/zName:Fred Morris
-106:PROFILE/zNickname:Fred
-107:PROFILE/zName:Madame Layla
-107:PROFILE/zNickname:Madame
-108:PROFILE/zName:Yanni Nomigotta
-108:PROFILE/zNickname:Yanni
-109:PROFILE/zName:Martha Graham
-109:PROFILE/zNickname:Martha
-110:PROFILE/zName:Tiffany
-110:PROFILE/zNickname:Joe
-111:PROFILE/zName:T-Rex
-111:PROFILE/zNickname:Jasmin
-112:PROFILE/zName:Druggist
-112:PROFILE/zNickname:Charlie
-113:PROFILE/zName:Jake Cameron
-113:PROFILE/zNickname:Jake
-114:PROFILE/zName:Pacos
-114:PROFILE/zNickname:Pacos
-115:PROFILE/zName:Dave Gerard
-115:PROFILE/zNickname:Dave
-116:PROFILE/zName:Skipper
-116:PROFILE/zNickname:Skipper
-117:PROFILE/zName:Hans Vanderkilt
-117:PROFILE/zNickname:Hans
-118:PROFILE/zName:John Kulba
-118:PROFILE/zNickname:John
-119:PROFILE/zName:Mary Kulba
-119:PROFILE/zNickname:Mary
-120:PROFILE/zName:General Theo Humphey
-120:PROFILE/zNickname:General
-121:PROFILE/zName:Sergeant Krott
-121:PROFILE/zNickname:Sergeant
-122:PROFILE/zName:Armand Ricci
-122:PROFILE/zNickname:Armand
-123:PROFILE/zName:Lora Ricci
-123:PROFILE/zNickname:Lora
-124:PROFILE/zName:Franz Hinkle
-124:PROFILE/zNickname:Franz
-125:PROFILE/zName:Howard Filmore
-125:PROFILE/zNickname:Howard
-126:PROFILE/zName:Sam Rozen
-126:PROFILE/zNickname:Sam
-127:PROFILE/zName:Eldin Fiddes
-127:PROFILE/zNickname:Eldin
-128:PROFILE/zName:Arnold Brunzwell
-128:PROFILE/zNickname:Arnie
-129:PROFILE/zName:Tina Elzan
-129:PROFILE/zNickname:Tina
-130:PROFILE/zName:Alexander Fredo
-130:PROFILE/zNickname:Fredo
-131:PROFILE/zName:Walter Bazzon
-131:PROFILE/zNickname:Walter
-132:PROFILE/zName:Jenny Walden
-132:PROFILE/zNickname:Jenny
-133:PROFILE/zName:Billy GoonBall
-133:PROFILE/zNickname:Billy
-134:PROFILE/zName:Brewster Woltz
-134:PROFILE/zNickname:Brewster
-135:PROFILE/zName:Messenger of bad news
-135:PROFILE/zNickname:Elliot
-136:PROFILE/zName:Part of crowd for end game
-136:PROFILE/zNickname:Derek
-137:PROFILE/zName:Part of endgame crowd
-137:PROFILE/zNickname:Oliver
-138:PROFILE/zName:Waldo Zimmer
-138:PROFILE/zNickname:Waldo
-139:PROFILE/zName:Doreen Harrows
-139:PROFILE/zNickname:Doreen
-140:PROFILE/zName:Jim Perry
-140:PROFILE/zNickname:Jim
-141:PROFILE/zName:Jack Remington
-141:PROFILE/zNickname:Jack
-142:PROFILE/zName:Olaf Helinski
-142:PROFILE/zNickname:Olaf
-143:PROFILE/zName:Ray Baker
-143:PROFILE/zNickname:Ray
-144:PROFILE/zName:Olga Statova
-144:PROFILE/zNickname:Olga
-145:PROFILE/zName:Tyrone Banks
-145:PROFILE/zNickname:Tyrone
-146:PROFILE/zName:Dr. Nathaniel "MadLab" Kairns
-146:PROFILE/zNickname:MadLab
-147:PROFILE/zName:Keith Hemps
-147:PROFILE/zNickname:Keith
-148:PROFILE/zName:Matt Duncan
-148:PROFILE/zNickname:Matt
-149:PROFILE/zName:Mike
-149:PROFILE/zNickname:Mike
-150:PROFILE/zName:Daryl Hick
-150:PROFILE/zNickname:Daryl
-151:PROFILE/zName:Herve Santos
-151:PROFILE/zNickname:Herve
-152:PROFILE/zName:Peter Santos
-152:PROFILE/zNickname:Peter
-153:PROFILE/zName:Alberto Santos
-153:PROFILE/zNickname:Alberto
-154:PROFILE/zName:Carlo Santos
-154:PROFILE/zNickname:Carlo
-155:PROFILE/zName:Manny Santos
-155:PROFILE/zNickname:Manny
-156:PROFILE/zName:Oswald Johnston
-156:PROFILE/zNickname:Oswald
-157:PROFILE/zName:Calvin Barkmore
-157:PROFILE/zNickname:Calvin
-158:PROFILE/zName:Carl Tercel
-158:PROFILE/zNickname:Carl
-159:PROFILE/zName:
-159:PROFILE/zNickname:Speck...
-160:PROFILE/zName:Hummer
-160:PROFILE/zNickname:Hummer
-161:PROFILE/zName:El Dorado
-161:PROFILE/zNickname:El Dorado
-162:PROFILE/zName:Ice Cream Truck
-162:PROFILE/zNickname:Truck
-163:PROFILE/zName:Heli
-163:PROFILE/zNickname:Heli
-164:PROFILE/zName:Tank
-164:PROFILE/zNickname:Tank
-165:PROFILE/zName:Gaston Cavalier
-165:PROFILE/zNickname:Gaston
-166:PROFILE/zName:Lt. "Stogie" Horge
-166:PROFILE/zNickname:Stogie
-167:PROFILE/zName:Tex Colburn
-167:PROFILE/zNickname:Tex
-168:PROFILE/zName:Col. Frederick Biggins
-168:PROFILE/zNickname:Biggins
-169:PROFILE/zName:
-169:PROFILE/zNickname:PGmale4
-170:PROFILE/zName:Victor "Monk" Kolesnikov
-170:PROFILE/zNickname:Monk
-171:PROFILE/zName:Janno "Brain" Allik
-171:PROFILE/zNickname:Brain
-172:PROFILE/zName:Lennart "Scream" Vilde
-172:PROFILE/zNickname:Scream
-173:PROFILE/zName:Henning von Branitz
-173:PROFILE/zNickname:Henning
-174:PROFILE/zName:Luc Fabre
-174:PROFILE/zNickname:Lucky
-175:PROFILE/zName:Dr. Laura Colin
-175:PROFILE/zNickname:Laura
-176:PROFILE/zName:Graziella "Grace" Girelli
-176:PROFILE/zNickname:Grace
-177:PROFILE/zName:Rudolf Steiger
-177:PROFILE/zNickname:Rudolf
-178:PROFILE/zName:Gregory "Spooky" Block
-178:PROFILE/zNickname:Spooky
-179:PROFILE/zName:Bruce "Skitz" Bonner
-179:PROFILE/zNickname:Skitz
-180:PROFILE/zName:Willy "Weasel" Augustin
-180:PROFILE/zNickname:Weasel
-181:PROFILE/zName:Carl "It" Goodman
-181:PROFILE/zNickname:It
-182:PROFILE/zName:Dr. Bernie Gloveless
-182:PROFILE/zNickname:Bernie
-183:PROFILE/zName:Murray "Pops" McGillicutty
-183:PROFILE/zNickname:Pops
-184:PROFILE/zName:Walter Yuntz
-184:PROFILE/zNickname:Wally
-185:PROFILE/zName:Dr. Eli Summers
-185:PROFILE/zNickname:Eli
-186:PROFILE/zName:Dr. Mitch Shudlem
-186:PROFILE/zNickname:Mitch
-187:PROFILE/zName:Howard "Carp" Melfield
-187:PROFILE/zNickname:Carp
-188:PROFILE/zName:Lance Fisher
-188:PROFILE/zNickname:Lance
-189:PROFILE/zName:Dr. Raffitto "Raffi" Leevon
-189:PROFILE/zNickname:Raffi
-190:PROFILE/zName:Wink E. Dickerson
-190:PROFILE/zNickname:Wink
-191:PROFILE/zName:Speck T. Kline
-191:PROFILE/zNickname:Speck
-192:PROFILE/zName:
-192:PROFILE/zNickname:PGmale5
-193:PROFILE/zName:
-193:PROFILE/zNickname:PGmale6
-194:PROFILE/zName:
-194:PROFILE/zNickname:PGmale7
-195:PROFILE/zName:John Kulba
-195:PROFILE/zNickname:John
-196:PROFILE/zName:Elio
-196:PROFILE/zNickname:Elio
-197:PROFILE/zName:Juan
-197:PROFILE/zNickname:Juan
-198:PROFILE/zName:Wahan
-198:PROFILE/zNickname:Wahan
-199:PROFILE/zName:Jeep
-199:PROFILE/zNickname:Jeep
-200:PROFILE/zName:
-200:PROFILE/zNickname:
-201:PROFILE/zName:
-201:PROFILE/zNickname:
-202:PROFILE/zName:
-202:PROFILE/zNickname:
-203:PROFILE/zName:
-203:PROFILE/zNickname:
-204:PROFILE/zName:
-204:PROFILE/zNickname:
-205:PROFILE/zName:
-205:PROFILE/zNickname:
-206:PROFILE/zName:
-206:PROFILE/zNickname:
-207:PROFILE/zName:
-207:PROFILE/zNickname:
-208:PROFILE/zName:
-208:PROFILE/zNickname:
-209:PROFILE/zName:
-209:PROFILE/zNickname:
-210:PROFILE/zName:
-210:PROFILE/zNickname:
-211:PROFILE/zName:
-211:PROFILE/zNickname:
-212:PROFILE/zName:
-212:PROFILE/zNickname:
-213:PROFILE/zName:
-213:PROFILE/zNickname:
-214:PROFILE/zName:
-214:PROFILE/zNickname:
-215:PROFILE/zName:Monica "Buns" Sondergaard
-215:PROFILE/zNickname:Buns
-216:PROFILE/zName:
-216:PROFILE/zNickname:
-217:PROFILE/zName:
-217:PROFILE/zNickname:
-218:PROFILE/zName:
-218:PROFILE/zNickname:
-219:PROFILE/zName:
-219:PROFILE/zNickname:
-220:PROFILE/zName:Jack "Postie" Durham
-220:PROFILE/zNickname:Postie
-221:PROFILE/zName:Unusually Ruthless Reuban
-221:PROFILE/zNickname:Reuban
-222:PROFILE/zName:Col. Leon Roachburn
-222:PROFILE/zNickname:Leon
-223:PROFILE/zName:Gary Roachburn
-223:PROFILE/zNickname:Gary
-224:PROFILE/zName:Megan "Sparky" Roachburn
-224:PROFILE/zNickname:Sparky
-225:PROFILE/zName:Mary Beth Wilkens
-225:PROFILE/zNickname:Beth
-226:PROFILE/zName:Samuel Garver
-226:PROFILE/zNickname:Sam
-227:PROFILE/zName:Hurl E. Cutter
-227:PROFILE/zNickname:Hurl
-228:PROFILE/zName:Dr. Ahmad "Doc" Koolhan
-228:PROFILE/zNickname:Doc
-229:PROFILE/zName:Manuel Rivas
-229:PROFILE/zNickname:Manuel
-230:PROFILE/zName:Glen "Boss" Hatchet
-230:PROFILE/zNickname:Boss
-231:PROFILE/zName:Johnny "Snake" Edwards
-231:PROFILE/zNickname:Snake
-232:PROFILE/zName:Alan "Spam" Webster
-232:PROFILE/zNickname:Spam
-233:PROFILE/zName:Maj. Spike Scallion
-233:PROFILE/zNickname:Spike
-234:PROFILE/zName:Jimmy Upton
-234:PROFILE/zNickname:Jimmy
-235:PROFILE/zName:Timothy "Leech" Jenkins
-235:PROFILE/zNickname:Leech
-236:PROFILE/zName:Capt. Bob Adams
-236:PROFILE/zNickname:Bob
-237:PROFILE/zName:Col. Leo Kelly
-237:PROFILE/zNickname:Kelly
-238:PROFILE/zName:Vincenzo Massimo
-238:PROFILE/zNickname:Vinny
-239:PROFILE/zName:Marty "Kaboom" Moffat
-239:PROFILE/zNickname:Kaboom
-240:PROFILE/zName:Lt. Bud Hellar
-240:PROFILE/zNickname:Bud
-241:PROFILE/zName:Russel Hunter
-241:PROFILE/zNickname:Rusty
-242:PROFILE/zName:Dr. Mark "Needle" Kranhuim
-242:PROFILE/zNickname:Needle
-243:PROFILE/zName:Patrick "Screw" Phillips
-243:PROFILE/zNickname:Screw
-244:PROFILE/zName:Elroy B. Tolken
-244:PROFILE/zNickname:Elroy
-245:PROFILE/zName:Anita "Mouse" Backman
-245:PROFILE/zNickname:Mouse
-246:PROFILE/zName:Hector Alvarez
-246:PROFILE/zNickname:Hector
-247:PROFILE/zName:Reverend Clyde Potter
-247:PROFILE/zNickname:Rev
-248:PROFILE/zName:Dr. Margaret "Stella" Trammel
-248:PROFILE/zNickname:Stella
-249:PROFILE/zName:Edward "Ears" Stockwell
-249:PROFILE/zNickname:Ears
-250:PROFILE/zName:Murray "Moses" Ebstern
-250:PROFILE/zNickname:Moses
-251:PROFILE/zName:Lesley "Smoke" Petersen
-251:PROFILE/zNickname:Smoke
-252:PROFILE/zName:Roger "Dyno" Wittman
-252:PROFILE/zNickname:Dyno
-253:PROFILE/zName:Herman "Turtle" Regents
-253:PROFILE/zNickname:Turtle
-254:PROFILE/zName:
-254:PROFILE/zNickname:
+0:MERCPROFILES/PROFILE[0]/zName:Barry Unger
+0:MERCPROFILES/PROFILE[0]/zNickname:Barry
+1:MERCPROFILES/PROFILE[1]/zName:Keith "Blood" Hanson
+1:MERCPROFILES/PROFILE[1]/zNickname:Blood
+2:MERCPROFILES/PROFILE[2]/zName:Rudy "Lynx-Eyed" Roberts
+2:MERCPROFILES/PROFILE[2]/zNickname:Lynx
+3:MERCPROFILES/PROFILE[3]/zName:Steve "Grizzly" Bornell
+3:MERCPROFILES/PROFILE[3]/zNickname:Grizzly
+4:MERCPROFILES/PROFILE[4]/zName:Victoria Waters
+4:MERCPROFILES/PROFILE[4]/zNickname:Vicki
+5:MERCPROFILES/PROFILE[5]/zName:Trevor Colby
+5:MERCPROFILES/PROFILE[5]/zNickname:Trevor
+6:MERCPROFILES/PROFILE[6]/zName:Helmut Grunther
+6:MERCPROFILES/PROFILE[6]/zNickname:Grunty
+7:MERCPROFILES/PROFILE[7]/zName:Ivan Dolvich
+7:MERCPROFILES/PROFILE[7]/zNickname:Ivan
+8:MERCPROFILES/PROFILE[8]/zName:Bobby "Steroid" Gontarski
+8:MERCPROFILES/PROFILE[8]/zNickname:Steroid
+9:MERCPROFILES/PROFILE[9]/zName:Igor Dolvich
+9:MERCPROFILES/PROFILE[9]/zNickname:Igor
+10:MERCPROFILES/PROFILE[10]/zName:Kyle "Shadow" Simmons
+10:MERCPROFILES/PROFILE[10]/zNickname:Shadow
+11:MERCPROFILES/PROFILE[11]/zName:Ernie "Red" Spragg
+11:MERCPROFILES/PROFILE[11]/zNickname:Red
+12:MERCPROFILES/PROFILE[12]/zName:Carl "Reaper" Sheppards
+12:MERCPROFILES/PROFILE[12]/zNickname:Reaper
+13:MERCPROFILES/PROFILE[13]/zName:Fidel Dahan
+13:MERCPROFILES/PROFILE[13]/zNickname:Fidel
+14:MERCPROFILES/PROFILE[14]/zName:Cynthia "Fox" Guzzman
+14:MERCPROFILES/PROFILE[14]/zNickname:Fox
+15:MERCPROFILES/PROFILE[15]/zName:Sidney Nettleson
+15:MERCPROFILES/PROFILE[15]/zNickname:Sidney
+16:MERCPROFILES/PROFILE[16]/zName:Gus Tarballs
+16:MERCPROFILES/PROFILE[16]/zNickname:Gus
+17:MERCPROFILES/PROFILE[17]/zName:Monica "Buns" Sondergaard
+17:MERCPROFILES/PROFILE[17]/zNickname:Buns
+18:MERCPROFILES/PROFILE[18]/zName:Ice Williams
+18:MERCPROFILES/PROFILE[18]/zNickname:Ice
+19:MERCPROFILES/PROFILE[19]/zName:Dr. Donna "Spider" Houston
+19:MERCPROFILES/PROFILE[19]/zNickname:Spider
+20:MERCPROFILES/PROFILE[20]/zName:Dr. Clifford Highball
+20:MERCPROFILES/PROFILE[20]/zNickname:Cliff
+21:MERCPROFILES/PROFILE[21]/zName:John "Bull" Peters
+21:MERCPROFILES/PROFILE[21]/zNickname:Bull
+22:MERCPROFILES/PROFILE[22]/zName:Frank "Hitman" Hennessy
+22:MERCPROFILES/PROFILE[22]/zNickname:Hitman
+23:MERCPROFILES/PROFILE[23]/zName:Louisa "Buzz" Garneau
+23:MERCPROFILES/PROFILE[23]/zNickname:Buzz
+24:MERCPROFILES/PROFILE[24]/zName:Ron "Raider" Higgens
+24:MERCPROFILES/PROFILE[24]/zNickname:Raider
+25:MERCPROFILES/PROFILE[25]/zName:Charlene "Raven" Higgens
+25:MERCPROFILES/PROFILE[25]/zNickname:Raven
+26:MERCPROFILES/PROFILE[26]/zName:Kirk "Static" Stevenson
+26:MERCPROFILES/PROFILE[26]/zNickname:Static
+27:MERCPROFILES/PROFILE[27]/zName:Corp. Len Anderson
+27:MERCPROFILES/PROFILE[27]/zNickname:Len
+28:MERCPROFILES/PROFILE[28]/zName:Dr. Daniel Quinten
+28:MERCPROFILES/PROFILE[28]/zNickname:Danny
+29:MERCPROFILES/PROFILE[29]/zName:Earl "Magic" Walker
+29:MERCPROFILES/PROFILE[29]/zNickname:Magic
+30:MERCPROFILES/PROFILE[30]/zName:Stephen Rothman
+30:MERCPROFILES/PROFILE[30]/zNickname:Stephen
+31:MERCPROFILES/PROFILE[31]/zName:Robert James Sullivan
+31:MERCPROFILES/PROFILE[31]/zNickname:Scully
+32:MERCPROFILES/PROFILE[32]/zName:J.P. "La Malice" Viau
+32:MERCPROFILES/PROFILE[32]/zNickname:Malice
+33:MERCPROFILES/PROFILE[33]/zName:Dr. Q. Huaong
+33:MERCPROFILES/PROFILE[33]/zNickname:Dr. Q
+34:MERCPROFILES/PROFILE[34]/zName:Edgar "Nails" Smorth
+34:MERCPROFILES/PROFILE[34]/zNickname:Nails
+35:MERCPROFILES/PROFILE[35]/zName:Thor Kaufman
+35:MERCPROFILES/PROFILE[35]/zNickname:Thor
+36:MERCPROFILES/PROFILE[36]/zName:Sheila "Scope" Sterling
+36:MERCPROFILES/PROFILE[36]/zNickname:Scope
+37:MERCPROFILES/PROFILE[37]/zName:Peter "Wolf" Sanderson
+37:MERCPROFILES/PROFILE[37]/zNickname:Wolf
+38:MERCPROFILES/PROFILE[38]/zName:Dr. Michael Dawson
+38:MERCPROFILES/PROFILE[38]/zNickname:MD
+39:MERCPROFILES/PROFILE[39]/zName:Norma "Meltdown" Jessop
+39:MERCPROFILES/PROFILE[39]/zNickname:Meltdown
+40:MERCPROFILES/PROFILE[40]/zName:Biff Apscott
+40:MERCPROFILES/PROFILE[40]/zNickname:Biff
+41:MERCPROFILES/PROFILE[41]/zName:Frankie "Haywire" Gordon
+41:MERCPROFILES/PROFILE[41]/zNickname:Haywire
+42:MERCPROFILES/PROFILE[42]/zName:Doug "Gasket" Milton
+42:MERCPROFILES/PROFILE[42]/zNickname:Gasket
+43:MERCPROFILES/PROFILE[43]/zName:Bill "Razor" Lamont
+43:MERCPROFILES/PROFILE[43]/zNickname:Razor
+44:MERCPROFILES/PROFILE[44]/zName:Florence Gabriel
+44:MERCPROFILES/PROFILE[44]/zNickname:Flo
+45:MERCPROFILES/PROFILE[45]/zName:Tim "Gumpy" Hillman
+45:MERCPROFILES/PROFILE[45]/zNickname:Gumpy
+46:MERCPROFILES/PROFILE[46]/zName:Larry Roachburn
+46:MERCPROFILES/PROFILE[46]/zNickname:Larry
+47:MERCPROFILES/PROFILE[47]/zName:Larry Roachburn
+47:MERCPROFILES/PROFILE[47]/zNickname:Larry
+48:MERCPROFILES/PROFILE[48]/zName:Jim "Cougar" Wallace
+48:MERCPROFILES/PROFILE[48]/zNickname:Cougar
+49:MERCPROFILES/PROFILE[49]/zName:Tim "Numb" Sutton
+49:MERCPROFILES/PROFILE[49]/zNickname:Numb
+50:MERCPROFILES/PROFILE[50]/zName:Thorton "Bubba" Jones
+50:MERCPROFILES/PROFILE[50]/zNickname:Bubba
+51:MERCPROFILES/PROFILE[51]/zName:
+51:MERCPROFILES/PROFILE[51]/zNickname:PGmale1
+52:MERCPROFILES/PROFILE[52]/zName:
+52:MERCPROFILES/PROFILE[52]/zNickname:PGmale2
+53:MERCPROFILES/PROFILE[53]/zName:
+53:MERCPROFILES/PROFILE[53]/zNickname:PGmale3
+54:MERCPROFILES/PROFILE[54]/zName:
+54:MERCPROFILES/PROFILE[54]/zNickname:PGLady1
+55:MERCPROFILES/PROFILE[55]/zName:
+55:MERCPROFILES/PROFILE[55]/zNickname:PGLady2
+56:MERCPROFILES/PROFILE[56]/zName:
+56:MERCPROFILES/PROFILE[56]/zNickname:PGLady3
+57:MERCPROFILES/PROFILE[57]/zName:
+57:MERCPROFILES/PROFILE[57]/zNickname:PGmale4
+58:MERCPROFILES/PROFILE[58]/zName:Gaston Cavalier
+58:MERCPROFILES/PROFILE[58]/zNickname:Gaston
+59:MERCPROFILES/PROFILE[59]/zName:Lt. "Stogie" Horge
+59:MERCPROFILES/PROFILE[59]/zNickname:Stogie
+60:MERCPROFILES/PROFILE[60]/zName:Manuel
+60:MERCPROFILES/PROFILE[60]/zNickname:Manuel
+61:MERCPROFILES/PROFILE[61]/zName:Col. Frederick Biggins
+61:MERCPROFILES/PROFILE[61]/zNickname:Biggins
+62:MERCPROFILES/PROFILE[62]/zName:John Kulba
+62:MERCPROFILES/PROFILE[62]/zNickname:John
+63:MERCPROFILES/PROFILE[63]/zName:Madlab's Robot
+63:MERCPROFILES/PROFILE[63]/zNickname:Robot
+64:MERCPROFILES/PROFILE[64]/zName:Tex Colburn
+64:MERCPROFILES/PROFILE[64]/zNickname:Tex
+65:MERCPROFILES/PROFILE[65]/zName:Slay
+65:MERCPROFILES/PROFILE[65]/zNickname:Terry
+66:MERCPROFILES/PROFILE[66]/zName:Greg "Dynamo" Duncan
+66:MERCPROFILES/PROFILE[66]/zNickname:Dynamo
+67:MERCPROFILES/PROFILE[67]/zName:Breeham "Shank" Druz
+67:MERCPROFILES/PROFILE[67]/zNickname:Shank
+68:MERCPROFILES/PROFILE[68]/zName:Igmus "Iggy" Palkov
+68:MERCPROFILES/PROFILE[68]/zNickname:Iggy
+69:MERCPROFILES/PROFILE[69]/zName:Dr. Vincent Beaumont
+69:MERCPROFILES/PROFILE[69]/zNickname:Vince
+70:MERCPROFILES/PROFILE[70]/zName:Lt. Conrad Gillitt
+70:MERCPROFILES/PROFILE[70]/zNickname:Conrad
+71:MERCPROFILES/PROFILE[71]/zName:Combat Jeep
+71:MERCPROFILES/PROFILE[71]/zNickname:C. Jeep
+72:MERCPROFILES/PROFILE[72]/zName:Kevin "Maddog" Cameron
+72:MERCPROFILES/PROFILE[72]/zNickname:Maddog
+73:MERCPROFILES/PROFILE[73]/zName:Mrs. Betty Fung
+73:MERCPROFILES/PROFILE[73]/zNickname:Betty
+74:MERCPROFILES/PROFILE[74]/zName:Raul Mendez
+74:MERCPROFILES/PROFILE[74]/zNickname:Raul
+75:MERCPROFILES/PROFILE[75]/zName:Deputy Commander Morris
+75:MERCPROFILES/PROFILE[75]/zNickname:Morris
+76:MERCPROFILES/PROFILE[76]/zName:Jerry Melo
+76:MERCPROFILES/PROFILE[76]/zNickname:Jerry
+77:MERCPROFILES/PROFILE[77]/zName:Rudy Twoskidoo
+77:MERCPROFILES/PROFILE[77]/zNickname:Rudy
+78:MERCPROFILES/PROFILE[78]/zName:Carmen Dancio
+78:MERCPROFILES/PROFILE[78]/zNickname:Carmen
+79:MERCPROFILES/PROFILE[79]/zName:Joseph Papanus
+79:MERCPROFILES/PROFILE[79]/zNickname:Joe
+80:MERCPROFILES/PROFILE[80]/zName:Dr. Steven Willis
+80:MERCPROFILES/PROFILE[80]/zNickname:Steve
+81:MERCPROFILES/PROFILE[81]/zName:Ricardo "Rat" Grimaldo
+81:MERCPROFILES/PROFILE[81]/zNickname:Rat
+82:MERCPROFILES/PROFILE[82]/zName:MoM
+82:MERCPROFILES/PROFILE[82]/zNickname:Annie
+83:MERCPROFILES/PROFILE[83]/zName:Imposter
+83:MERCPROFILES/PROFILE[83]/zNickname:Chris
+84:MERCPROFILES/PROFILE[84]/zName:Bob
+84:MERCPROFILES/PROFILE[84]/zNickname:Bob
+85:MERCPROFILES/PROFILE[85]/zName:Brenda Drake
+85:MERCPROFILES/PROFILE[85]/zNickname:Brenda
+86:MERCPROFILES/PROFILE[86]/zName:Peter "Kingpin" Klauss
+86:MERCPROFILES/PROFILE[86]/zNickname:Kingpin
+87:MERCPROFILES/PROFILE[87]/zName:Darren Van Haussen
+87:MERCPROFILES/PROFILE[87]/zNickname:Darren
+88:MERCPROFILES/PROFILE[88]/zName:Maria DaSilva
+88:MERCPROFILES/PROFILE[88]/zNickname:Maria
+89:MERCPROFILES/PROFILE[89]/zName:Angel Dasilva
+89:MERCPROFILES/PROFILE[89]/zNickname:Angel
+90:MERCPROFILES/PROFILE[90]/zName:Joey Graham
+90:MERCPROFILES/PROFILE[90]/zNickname:Joey
+91:MERCPROFILES/PROFILE[91]/zName:Tony
+91:MERCPROFILES/PROFILE[91]/zNickname:Tony
+92:MERCPROFILES/PROFILE[92]/zName:Frank
+92:MERCPROFILES/PROFILE[92]/zNickname:Frank
+93:MERCPROFILES/PROFILE[93]/zName:Spike
+93:MERCPROFILES/PROFILE[93]/zNickname:Spike
+94:MERCPROFILES/PROFILE[94]/zName:Damon Warrick
+94:MERCPROFILES/PROFILE[94]/zNickname:Damon
+95:MERCPROFILES/PROFILE[95]/zName:Kyle Lemmons
+95:MERCPROFILES/PROFILE[95]/zNickname:Kyle
+96:MERCPROFILES/PROFILE[96]/zName:Micky O'Brien
+96:MERCPROFILES/PROFILE[96]/zNickname:Micky
+97:MERCPROFILES/PROFILE[97]/zName:James "Skyrider" Bullock
+97:MERCPROFILES/PROFILE[97]/zNickname:Skyrider
+98:MERCPROFILES/PROFILE[98]/zName:Pablo Greco
+98:MERCPROFILES/PROFILE[98]/zNickname:Pablo
+99:MERCPROFILES/PROFILE[99]/zName:Salvatore Lappus
+99:MERCPROFILES/PROFILE[99]/zNickname:Sal
+100:MERCPROFILES/PROFILE[100]/zName:Father John Walker
+100:MERCPROFILES/PROFILE[100]/zNickname:Father
+101:MERCPROFILES/PROFILE[101]/zName:Fatima
+101:MERCPROFILES/PROFILE[101]/zNickname:Fatima
+102:MERCPROFILES/PROFILE[102]/zName:Christine Woltz
+102:MERCPROFILES/PROFILE[102]/zNickname:Warden
+103:MERCPROFILES/PROFILE[103]/zName:Gordon Jefferies
+103:MERCPROFILES/PROFILE[103]/zNickname:Gordon
+104:MERCPROFILES/PROFILE[104]/zName:Gary "Gabby" Mulnick
+104:MERCPROFILES/PROFILE[104]/zNickname:Gabby
+105:MERCPROFILES/PROFILE[105]/zName:Dr. Ernest Poppin
+105:MERCPROFILES/PROFILE[105]/zNickname:Ernest
+106:MERCPROFILES/PROFILE[106]/zName:Fred Morris
+106:MERCPROFILES/PROFILE[106]/zNickname:Fred
+107:MERCPROFILES/PROFILE[107]/zName:Madame Layla
+107:MERCPROFILES/PROFILE[107]/zNickname:Madame
+108:MERCPROFILES/PROFILE[108]/zName:Yanni Nomigotta
+108:MERCPROFILES/PROFILE[108]/zNickname:Yanni
+109:MERCPROFILES/PROFILE[109]/zName:Martha Graham
+109:MERCPROFILES/PROFILE[109]/zNickname:Martha
+110:MERCPROFILES/PROFILE[110]/zName:Tiffany
+110:MERCPROFILES/PROFILE[110]/zNickname:Joe
+111:MERCPROFILES/PROFILE[111]/zName:T-Rex
+111:MERCPROFILES/PROFILE[111]/zNickname:Jasmin
+112:MERCPROFILES/PROFILE[112]/zName:Druggist
+112:MERCPROFILES/PROFILE[112]/zNickname:Charlie
+113:MERCPROFILES/PROFILE[113]/zName:Jake Cameron
+113:MERCPROFILES/PROFILE[113]/zNickname:Jake
+114:MERCPROFILES/PROFILE[114]/zName:Pacos
+114:MERCPROFILES/PROFILE[114]/zNickname:Pacos
+115:MERCPROFILES/PROFILE[115]/zName:Dave Gerard
+115:MERCPROFILES/PROFILE[115]/zNickname:Dave
+116:MERCPROFILES/PROFILE[116]/zName:Skipper
+116:MERCPROFILES/PROFILE[116]/zNickname:Skipper
+117:MERCPROFILES/PROFILE[117]/zName:Hans Vanderkilt
+117:MERCPROFILES/PROFILE[117]/zNickname:Hans
+118:MERCPROFILES/PROFILE[118]/zName:John Kulba
+118:MERCPROFILES/PROFILE[118]/zNickname:John
+119:MERCPROFILES/PROFILE[119]/zName:Mary Kulba
+119:MERCPROFILES/PROFILE[119]/zNickname:Mary
+120:MERCPROFILES/PROFILE[120]/zName:General Theo Humphey
+120:MERCPROFILES/PROFILE[120]/zNickname:General
+121:MERCPROFILES/PROFILE[121]/zName:Sergeant Krott
+121:MERCPROFILES/PROFILE[121]/zNickname:Sergeant
+122:MERCPROFILES/PROFILE[122]/zName:Armand Ricci
+122:MERCPROFILES/PROFILE[122]/zNickname:Armand
+123:MERCPROFILES/PROFILE[123]/zName:Lora Ricci
+123:MERCPROFILES/PROFILE[123]/zNickname:Lora
+124:MERCPROFILES/PROFILE[124]/zName:Franz Hinkle
+124:MERCPROFILES/PROFILE[124]/zNickname:Franz
+125:MERCPROFILES/PROFILE[125]/zName:Howard Filmore
+125:MERCPROFILES/PROFILE[125]/zNickname:Howard
+126:MERCPROFILES/PROFILE[126]/zName:Sam Rozen
+126:MERCPROFILES/PROFILE[126]/zNickname:Sam
+127:MERCPROFILES/PROFILE[127]/zName:Eldin Fiddes
+127:MERCPROFILES/PROFILE[127]/zNickname:Eldin
+128:MERCPROFILES/PROFILE[128]/zName:Arnold Brunzwell
+128:MERCPROFILES/PROFILE[128]/zNickname:Arnie
+129:MERCPROFILES/PROFILE[129]/zName:Tina Elzan
+129:MERCPROFILES/PROFILE[129]/zNickname:Tina
+130:MERCPROFILES/PROFILE[130]/zName:Alexander Fredo
+130:MERCPROFILES/PROFILE[130]/zNickname:Fredo
+131:MERCPROFILES/PROFILE[131]/zName:Walter Bazzon
+131:MERCPROFILES/PROFILE[131]/zNickname:Walter
+132:MERCPROFILES/PROFILE[132]/zName:Jenny Walden
+132:MERCPROFILES/PROFILE[132]/zNickname:Jenny
+133:MERCPROFILES/PROFILE[133]/zName:Billy GoonBall
+133:MERCPROFILES/PROFILE[133]/zNickname:Billy
+134:MERCPROFILES/PROFILE[134]/zName:Brewster Woltz
+134:MERCPROFILES/PROFILE[134]/zNickname:Brewster
+135:MERCPROFILES/PROFILE[135]/zName:Messenger of bad news
+135:MERCPROFILES/PROFILE[135]/zNickname:Elliot
+136:MERCPROFILES/PROFILE[136]/zName:Part of crowd for end game
+136:MERCPROFILES/PROFILE[136]/zNickname:Derek
+137:MERCPROFILES/PROFILE[137]/zName:Part of endgame crowd
+137:MERCPROFILES/PROFILE[137]/zNickname:Oliver
+138:MERCPROFILES/PROFILE[138]/zName:Waldo Zimmer
+138:MERCPROFILES/PROFILE[138]/zNickname:Waldo
+139:MERCPROFILES/PROFILE[139]/zName:Doreen Harrows
+139:MERCPROFILES/PROFILE[139]/zNickname:Doreen
+140:MERCPROFILES/PROFILE[140]/zName:Jim Perry
+140:MERCPROFILES/PROFILE[140]/zNickname:Jim
+141:MERCPROFILES/PROFILE[141]/zName:Jack Remington
+141:MERCPROFILES/PROFILE[141]/zNickname:Jack
+142:MERCPROFILES/PROFILE[142]/zName:Olaf Helinski
+142:MERCPROFILES/PROFILE[142]/zNickname:Olaf
+143:MERCPROFILES/PROFILE[143]/zName:Ray Baker
+143:MERCPROFILES/PROFILE[143]/zNickname:Ray
+144:MERCPROFILES/PROFILE[144]/zName:Olga Statova
+144:MERCPROFILES/PROFILE[144]/zNickname:Olga
+145:MERCPROFILES/PROFILE[145]/zName:Tyrone Banks
+145:MERCPROFILES/PROFILE[145]/zNickname:Tyrone
+146:MERCPROFILES/PROFILE[146]/zName:Dr. Nathaniel "MadLab" Kairns
+146:MERCPROFILES/PROFILE[146]/zNickname:MadLab
+147:MERCPROFILES/PROFILE[147]/zName:Keith Hemps
+147:MERCPROFILES/PROFILE[147]/zNickname:Keith
+148:MERCPROFILES/PROFILE[148]/zName:Matt Duncan
+148:MERCPROFILES/PROFILE[148]/zNickname:Matt
+149:MERCPROFILES/PROFILE[149]/zName:Mike
+149:MERCPROFILES/PROFILE[149]/zNickname:Mike
+150:MERCPROFILES/PROFILE[150]/zName:Daryl Hick
+150:MERCPROFILES/PROFILE[150]/zNickname:Daryl
+151:MERCPROFILES/PROFILE[151]/zName:Herve Santos
+151:MERCPROFILES/PROFILE[151]/zNickname:Herve
+152:MERCPROFILES/PROFILE[152]/zName:Peter Santos
+152:MERCPROFILES/PROFILE[152]/zNickname:Peter
+153:MERCPROFILES/PROFILE[153]/zName:Alberto Santos
+153:MERCPROFILES/PROFILE[153]/zNickname:Alberto
+154:MERCPROFILES/PROFILE[154]/zName:Carlo Santos
+154:MERCPROFILES/PROFILE[154]/zNickname:Carlo
+155:MERCPROFILES/PROFILE[155]/zName:Manny Santos
+155:MERCPROFILES/PROFILE[155]/zNickname:Manny
+156:MERCPROFILES/PROFILE[156]/zName:Oswald Johnston
+156:MERCPROFILES/PROFILE[156]/zNickname:Oswald
+157:MERCPROFILES/PROFILE[157]/zName:Calvin Barkmore
+157:MERCPROFILES/PROFILE[157]/zNickname:Calvin
+158:MERCPROFILES/PROFILE[158]/zName:Carl Tercel
+158:MERCPROFILES/PROFILE[158]/zNickname:Carl
+159:MERCPROFILES/PROFILE[159]/zName:
+159:MERCPROFILES/PROFILE[159]/zNickname:Speck...
+160:MERCPROFILES/PROFILE[160]/zName:Hummer
+160:MERCPROFILES/PROFILE[160]/zNickname:Hummer
+161:MERCPROFILES/PROFILE[161]/zName:El Dorado
+161:MERCPROFILES/PROFILE[161]/zNickname:El Dorado
+162:MERCPROFILES/PROFILE[162]/zName:Ice Cream Truck
+162:MERCPROFILES/PROFILE[162]/zNickname:Truck
+163:MERCPROFILES/PROFILE[163]/zName:Heli
+163:MERCPROFILES/PROFILE[163]/zNickname:Heli
+164:MERCPROFILES/PROFILE[164]/zName:Tank
+164:MERCPROFILES/PROFILE[164]/zNickname:Tank
+165:MERCPROFILES/PROFILE[165]/zName:Gaston Cavalier
+165:MERCPROFILES/PROFILE[165]/zNickname:Gaston
+166:MERCPROFILES/PROFILE[166]/zName:Lt. "Stogie" Horge
+166:MERCPROFILES/PROFILE[166]/zNickname:Stogie
+167:MERCPROFILES/PROFILE[167]/zName:Tex Colburn
+167:MERCPROFILES/PROFILE[167]/zNickname:Tex
+168:MERCPROFILES/PROFILE[168]/zName:Col. Frederick Biggins
+168:MERCPROFILES/PROFILE[168]/zNickname:Biggins
+169:MERCPROFILES/PROFILE[169]/zName:
+169:MERCPROFILES/PROFILE[169]/zNickname:PGmale4
+170:MERCPROFILES/PROFILE[170]/zName:Victor "Monk" Kolesnikov
+170:MERCPROFILES/PROFILE[170]/zNickname:Monk
+171:MERCPROFILES/PROFILE[171]/zName:Janno "Brain" Allik
+171:MERCPROFILES/PROFILE[171]/zNickname:Brain
+172:MERCPROFILES/PROFILE[172]/zName:Lennart "Scream" Vilde
+172:MERCPROFILES/PROFILE[172]/zNickname:Scream
+173:MERCPROFILES/PROFILE[173]/zName:Henning von Branitz
+173:MERCPROFILES/PROFILE[173]/zNickname:Henning
+174:MERCPROFILES/PROFILE[174]/zName:Luc Fabre
+174:MERCPROFILES/PROFILE[174]/zNickname:Lucky
+175:MERCPROFILES/PROFILE[175]/zName:Dr. Laura Colin
+175:MERCPROFILES/PROFILE[175]/zNickname:Laura
+176:MERCPROFILES/PROFILE[176]/zName:Graziella "Grace" Girelli
+176:MERCPROFILES/PROFILE[176]/zNickname:Grace
+177:MERCPROFILES/PROFILE[177]/zName:Rudolf Steiger
+177:MERCPROFILES/PROFILE[177]/zNickname:Rudolf
+178:MERCPROFILES/PROFILE[178]/zName:Gregory "Spooky" Block
+178:MERCPROFILES/PROFILE[178]/zNickname:Spooky
+179:MERCPROFILES/PROFILE[179]/zName:Bruce "Skitz" Bonner
+179:MERCPROFILES/PROFILE[179]/zNickname:Skitz
+180:MERCPROFILES/PROFILE[180]/zName:Willy "Weasel" Augustin
+180:MERCPROFILES/PROFILE[180]/zNickname:Weasel
+181:MERCPROFILES/PROFILE[181]/zName:Carl "It" Goodman
+181:MERCPROFILES/PROFILE[181]/zNickname:It
+182:MERCPROFILES/PROFILE[182]/zName:Dr. Bernie Gloveless
+182:MERCPROFILES/PROFILE[182]/zNickname:Bernie
+183:MERCPROFILES/PROFILE[183]/zName:Murray "Pops" McGillicutty
+183:MERCPROFILES/PROFILE[183]/zNickname:Pops
+184:MERCPROFILES/PROFILE[184]/zName:Walter Yuntz
+184:MERCPROFILES/PROFILE[184]/zNickname:Wally
+185:MERCPROFILES/PROFILE[185]/zName:Dr. Eli Summers
+185:MERCPROFILES/PROFILE[185]/zNickname:Eli
+186:MERCPROFILES/PROFILE[186]/zName:Dr. Mitch Shudlem
+186:MERCPROFILES/PROFILE[186]/zNickname:Mitch
+187:MERCPROFILES/PROFILE[187]/zName:Howard "Carp" Melfield
+187:MERCPROFILES/PROFILE[187]/zNickname:Carp
+188:MERCPROFILES/PROFILE[188]/zName:Lance Fisher
+188:MERCPROFILES/PROFILE[188]/zNickname:Lance
+189:MERCPROFILES/PROFILE[189]/zName:Dr. Raffitto "Raffi" Leevon
+189:MERCPROFILES/PROFILE[189]/zNickname:Raffi
+190:MERCPROFILES/PROFILE[190]/zName:Wink E. Dickerson
+190:MERCPROFILES/PROFILE[190]/zNickname:Wink
+191:MERCPROFILES/PROFILE[191]/zName:Speck T. Kline
+191:MERCPROFILES/PROFILE[191]/zNickname:Speck
+192:MERCPROFILES/PROFILE[192]/zName:
+192:MERCPROFILES/PROFILE[192]/zNickname:PGmale5
+193:MERCPROFILES/PROFILE[193]/zName:
+193:MERCPROFILES/PROFILE[193]/zNickname:PGmale6
+194:MERCPROFILES/PROFILE[194]/zName:
+194:MERCPROFILES/PROFILE[194]/zNickname:PGmale7
+195:MERCPROFILES/PROFILE[195]/zName:John Kulba
+195:MERCPROFILES/PROFILE[195]/zNickname:John
+196:MERCPROFILES/PROFILE[196]/zName:Elio
+196:MERCPROFILES/PROFILE[196]/zNickname:Elio
+197:MERCPROFILES/PROFILE[197]/zName:Juan
+197:MERCPROFILES/PROFILE[197]/zNickname:Juan
+198:MERCPROFILES/PROFILE[198]/zName:Wahan
+198:MERCPROFILES/PROFILE[198]/zNickname:Wahan
+199:MERCPROFILES/PROFILE[199]/zName:Jeep
+199:MERCPROFILES/PROFILE[199]/zNickname:Jeep
+200:MERCPROFILES/PROFILE[200]/zName:
+200:MERCPROFILES/PROFILE[200]/zNickname:
+201:MERCPROFILES/PROFILE[201]/zName:
+201:MERCPROFILES/PROFILE[201]/zNickname:
+202:MERCPROFILES/PROFILE[202]/zName:
+202:MERCPROFILES/PROFILE[202]/zNickname:
+203:MERCPROFILES/PROFILE[203]/zName:
+203:MERCPROFILES/PROFILE[203]/zNickname:
+204:MERCPROFILES/PROFILE[204]/zName:
+204:MERCPROFILES/PROFILE[204]/zNickname:
+205:MERCPROFILES/PROFILE[205]/zName:
+205:MERCPROFILES/PROFILE[205]/zNickname:
+206:MERCPROFILES/PROFILE[206]/zName:
+206:MERCPROFILES/PROFILE[206]/zNickname:
+207:MERCPROFILES/PROFILE[207]/zName:
+207:MERCPROFILES/PROFILE[207]/zNickname:
+208:MERCPROFILES/PROFILE[208]/zName:
+208:MERCPROFILES/PROFILE[208]/zNickname:
+209:MERCPROFILES/PROFILE[209]/zName:
+209:MERCPROFILES/PROFILE[209]/zNickname:
+210:MERCPROFILES/PROFILE[210]/zName:
+210:MERCPROFILES/PROFILE[210]/zNickname:
+211:MERCPROFILES/PROFILE[211]/zName:
+211:MERCPROFILES/PROFILE[211]/zNickname:
+212:MERCPROFILES/PROFILE[212]/zName:
+212:MERCPROFILES/PROFILE[212]/zNickname:
+213:MERCPROFILES/PROFILE[213]/zName:
+213:MERCPROFILES/PROFILE[213]/zNickname:
+214:MERCPROFILES/PROFILE[214]/zName:
+214:MERCPROFILES/PROFILE[214]/zNickname:
+215:MERCPROFILES/PROFILE[215]/zName:Monica "Buns" Sondergaard
+215:MERCPROFILES/PROFILE[215]/zNickname:Buns
+216:MERCPROFILES/PROFILE[216]/zName:
+216:MERCPROFILES/PROFILE[216]/zNickname:
+217:MERCPROFILES/PROFILE[217]/zName:
+217:MERCPROFILES/PROFILE[217]/zNickname:
+218:MERCPROFILES/PROFILE[218]/zName:
+218:MERCPROFILES/PROFILE[218]/zNickname:
+219:MERCPROFILES/PROFILE[219]/zName:
+219:MERCPROFILES/PROFILE[219]/zNickname:
+220:MERCPROFILES/PROFILE[220]/zName:Jack "Postie" Durham
+220:MERCPROFILES/PROFILE[220]/zNickname:Postie
+221:MERCPROFILES/PROFILE[221]/zName:Unusually Ruthless Reuban
+221:MERCPROFILES/PROFILE[221]/zNickname:Reuban
+222:MERCPROFILES/PROFILE[222]/zName:Col. Leon Roachburn
+222:MERCPROFILES/PROFILE[222]/zNickname:Leon
+223:MERCPROFILES/PROFILE[223]/zName:Gary Roachburn
+223:MERCPROFILES/PROFILE[223]/zNickname:Gary
+224:MERCPROFILES/PROFILE[224]/zName:Megan "Sparky" Roachburn
+224:MERCPROFILES/PROFILE[224]/zNickname:Sparky
+225:MERCPROFILES/PROFILE[225]/zName:Mary Beth Wilkens
+225:MERCPROFILES/PROFILE[225]/zNickname:Beth
+226:MERCPROFILES/PROFILE[226]/zName:Samuel Garver
+226:MERCPROFILES/PROFILE[226]/zNickname:Sam
+227:MERCPROFILES/PROFILE[227]/zName:Hurl E. Cutter
+227:MERCPROFILES/PROFILE[227]/zNickname:Hurl
+228:MERCPROFILES/PROFILE[228]/zName:Dr. Ahmad "Doc" Koolhan
+228:MERCPROFILES/PROFILE[228]/zNickname:Doc
+229:MERCPROFILES/PROFILE[229]/zName:Manuel Rivas
+229:MERCPROFILES/PROFILE[229]/zNickname:Manuel
+230:MERCPROFILES/PROFILE[230]/zName:Glen "Boss" Hatchet
+230:MERCPROFILES/PROFILE[230]/zNickname:Boss
+231:MERCPROFILES/PROFILE[231]/zName:Johnny "Snake" Edwards
+231:MERCPROFILES/PROFILE[231]/zNickname:Snake
+232:MERCPROFILES/PROFILE[232]/zName:Alan "Spam" Webster
+232:MERCPROFILES/PROFILE[232]/zNickname:Spam
+233:MERCPROFILES/PROFILE[233]/zName:Maj. Spike Scallion
+233:MERCPROFILES/PROFILE[233]/zNickname:Spike
+234:MERCPROFILES/PROFILE[234]/zName:Jimmy Upton
+234:MERCPROFILES/PROFILE[234]/zNickname:Jimmy
+235:MERCPROFILES/PROFILE[235]/zName:Timothy "Leech" Jenkins
+235:MERCPROFILES/PROFILE[235]/zNickname:Leech
+236:MERCPROFILES/PROFILE[236]/zName:Capt. Bob Adams
+236:MERCPROFILES/PROFILE[236]/zNickname:Bob
+237:MERCPROFILES/PROFILE[237]/zName:Col. Leo Kelly
+237:MERCPROFILES/PROFILE[237]/zNickname:Kelly
+238:MERCPROFILES/PROFILE[238]/zName:Vincenzo Massimo
+238:MERCPROFILES/PROFILE[238]/zNickname:Vinny
+239:MERCPROFILES/PROFILE[239]/zName:Marty "Kaboom" Moffat
+239:MERCPROFILES/PROFILE[239]/zNickname:Kaboom
+240:MERCPROFILES/PROFILE[240]/zName:Lt. Bud Hellar
+240:MERCPROFILES/PROFILE[240]/zNickname:Bud
+241:MERCPROFILES/PROFILE[241]/zName:Russel Hunter
+241:MERCPROFILES/PROFILE[241]/zNickname:Rusty
+242:MERCPROFILES/PROFILE[242]/zName:Dr. Mark "Needle" Kranhuim
+242:MERCPROFILES/PROFILE[242]/zNickname:Needle
+243:MERCPROFILES/PROFILE[243]/zName:Patrick "Screw" Phillips
+243:MERCPROFILES/PROFILE[243]/zNickname:Screw
+244:MERCPROFILES/PROFILE[244]/zName:Elroy B. Tolken
+244:MERCPROFILES/PROFILE[244]/zNickname:Elroy
+245:MERCPROFILES/PROFILE[245]/zName:Anita "Mouse" Backman
+245:MERCPROFILES/PROFILE[245]/zNickname:Mouse
+246:MERCPROFILES/PROFILE[246]/zName:Hector Alvarez
+246:MERCPROFILES/PROFILE[246]/zNickname:Hector
+247:MERCPROFILES/PROFILE[247]/zName:Reverend Clyde Potter
+247:MERCPROFILES/PROFILE[247]/zNickname:Rev
+248:MERCPROFILES/PROFILE[248]/zName:Dr. Margaret "Stella" Trammel
+248:MERCPROFILES/PROFILE[248]/zNickname:Stella
+249:MERCPROFILES/PROFILE[249]/zName:Edward "Ears" Stockwell
+249:MERCPROFILES/PROFILE[249]/zNickname:Ears
+250:MERCPROFILES/PROFILE[250]/zName:Murray "Moses" Ebstern
+250:MERCPROFILES/PROFILE[250]/zNickname:Moses
+251:MERCPROFILES/PROFILE[251]/zName:Lesley "Smoke" Petersen
+251:MERCPROFILES/PROFILE[251]/zNickname:Smoke
+252:MERCPROFILES/PROFILE[252]/zName:Roger "Dyno" Wittman
+252:MERCPROFILES/PROFILE[252]/zNickname:Dyno
+253:MERCPROFILES/PROFILE[253]/zName:Herman "Turtle" Regents
+253:MERCPROFILES/PROFILE[253]/zNickname:Turtle
+254:MERCPROFILES/PROFILE[254]/zName:
+254:MERCPROFILES/PROFILE[254]/zNickname:

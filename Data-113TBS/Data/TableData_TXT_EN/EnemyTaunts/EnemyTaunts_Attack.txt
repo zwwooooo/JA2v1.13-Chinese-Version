@@ -1,74 +1,74 @@
-0:TAUNT/szText:Killing time!
-1:TAUNT/szText:I'll kill you!
-2:TAUNT/szText:Show me what you've got!
-3:TAUNT/szText:Take this, you maggot!
-4:TAUNT/szText:Here is your freedom, you son of a bitch!
-5:TAUNT/szText:I'll break you!
-6:TAUNT/szText:Dying ain't much of a living, boy!
-7:TAUNT/szText:Dying ain't much of a living, girl!
-8:TAUNT/szText:Trust me. I'm a professional!
-9:TAUNT/szText:You're the disease and I'm the cure.
-10:TAUNT/szText:Sucker!
-11:TAUNT/szText:Suck on this!
-12:TAUNT/szText:Come get some!
-13:TAUNT/szText:You're mine!
-14:TAUNT/szText:Die!
-15:TAUNT/szText:You scared, motherfucker?
-15:TAUNT/szText:You scared, bastard?
-16:TAUNT/szText:This is gonna hurt!
-17:TAUNT/szText:Eat shit and die!
-18:TAUNT/szText:Send me a postcard from hell!
-19:TAUNT/szText:I think you'll enjoy this.
-20:TAUNT/szText:Come to daddy!
-21:TAUNT/szText:Come to momma!
-22:TAUNT/szText:This is for the Queen!
-23:TAUNT/szText:You'll be six feet under in no time!
-24:TAUNT/szText:Gonna send ya home in a pine box, loser!
-25:TAUNT/szText:Hey, wanna play?
-26:TAUNT/szText:Viva la revolution!
-27:TAUNT/szText:Your move, creep!
-28:TAUNT/szText:You should have stayed home, bitch!
-29:TAUNT/szText:You should have stayed home, fucker!
-29:TAUNT/szTextCensored:You should have stayed home, sucker!
-30:TAUNT/szText:Die, vermin!
-31:TAUNT/szText:Feeling scared?
-32:TAUNT/szText:Dance for me!
-33:TAUNT/szText:How fun!
-34:TAUNT/szText:Dakka-dakka-dakka!
-35:TAUNT/szText:Guns don't kill people, I do!
-36:TAUNT/szText:I'm the best!
-37:TAUNT/szText:Kneel before me, loser!
-38:TAUNT/szText:Come on! I don't got all day!
-39:TAUNT/szText:Eat lead!
-40:TAUNT/szText:I'm better than you!
-41:TAUNT/szText:You fucked with the wrong man!
-41:TAUNT/szTextCensored:You messed with the wrong man!
-42:TAUNT/szText:You fucked with the wrong woman!
-42:TAUNT/szTextCensored:You messed with the wrong woman!
-43:TAUNT/szText:Stop wasting my time!
-44:TAUNT/szText:You deserve it!
-45:TAUNT/szText:Yeah!
-46:TAUNT/szText:That's right!
-47:TAUNT/szText:You're dead.
-48:TAUNT/szText:How ya like it?
-49:TAUNT/szText:You had it coming!
-50:TAUNT/szText:Why, hello there!
-51:TAUNT/szText:Say "cheese"!
-52:TAUNT/szText:Yippie ki-yay, mister Falcon!
-53:TAUNT/szText:Could you just please die?
-54:TAUNT/szText:Garbage day!
-55:TAUNT/szText:I'm doing the world a favor getting rid of your ugly face!
-56:TAUNT/szText:Hey babe, give me your number, and I'll stop shooting!
-57:TAUNT/szText:Hey handsome, give me your number, and I'll stop shooting!
-58:TAUNT/szText:I will destroy you!
-59:TAUNT/szText:Dead or alive, you're coming with me.
-60:TAUNT/szText:I looked for you, I've found you and now I will kill you!
-61:TAUNT/szText:Somebody's gonna get hurt. It ain't gonna be me!
-62:TAUNT/szText:Your life is over, asshole!
-63:TAUNT/szText:I deliver justice... one bullet at a time!
-64:TAUNT/szText:Viva la revolution!
-65:TAUNT/szText:Your move, creep!
-66:TAUNT/szText:I'm gonna blow your head off!
-67:TAUNT/szText:You cowboys are finished!
-68:TAUNT/szText:Long live the Queen!
-69:TAUNT/szText:The Queen says: Die!
+0:TAUNTS/TAUNT[0]/szText:Killing time!
+1:TAUNTS/TAUNT[1]/szText:I'll kill you!
+2:TAUNTS/TAUNT[2]/szText:Show me what you've got!
+3:TAUNTS/TAUNT[3]/szText:Take this, you maggot!
+4:TAUNTS/TAUNT[4]/szText:Here is your freedom, you son of a bitch!
+5:TAUNTS/TAUNT[5]/szText:I'll break you!
+6:TAUNTS/TAUNT[6]/szText:Dying ain't much of a living, boy!
+7:TAUNTS/TAUNT[7]/szText:Dying ain't much of a living, girl!
+8:TAUNTS/TAUNT[8]/szText:Trust me. I'm a professional!
+9:TAUNTS/TAUNT[9]/szText:You're the disease and I'm the cure.
+10:TAUNTS/TAUNT[10]/szText:Sucker!
+11:TAUNTS/TAUNT[11]/szText:Suck on this!
+12:TAUNTS/TAUNT[12]/szText:Come get some!
+13:TAUNTS/TAUNT[13]/szText:You're mine!
+14:TAUNTS/TAUNT[14]/szText:Die!
+15:TAUNTS/TAUNT[15]/szText[0]:You scared, motherfucker?
+15:TAUNTS/TAUNT[15]/szText[1]:You scared, bastard?
+16:TAUNTS/TAUNT[16]/szText:This is gonna hurt!
+17:TAUNTS/TAUNT[17]/szText:Eat shit and die!
+18:TAUNTS/TAUNT[18]/szText:Send me a postcard from hell!
+19:TAUNTS/TAUNT[19]/szText:I think you'll enjoy this.
+20:TAUNTS/TAUNT[20]/szText:Come to daddy!
+21:TAUNTS/TAUNT[21]/szText:Come to momma!
+22:TAUNTS/TAUNT[22]/szText:This is for the Queen!
+23:TAUNTS/TAUNT[23]/szText:You'll be six feet under in no time!
+24:TAUNTS/TAUNT[24]/szText:Gonna send ya home in a pine box, loser!
+25:TAUNTS/TAUNT[25]/szText:Hey, wanna play?
+26:TAUNTS/TAUNT[26]/szText:Viva la revolution!
+27:TAUNTS/TAUNT[27]/szText:Your move, creep!
+28:TAUNTS/TAUNT[28]/szText:You should have stayed home, bitch!
+29:TAUNTS/TAUNT[29]/szText:You should have stayed home, fucker!
+29:TAUNTS/TAUNT[29]/szTextCensored:You should have stayed home, sucker!
+30:TAUNTS/TAUNT[30]/szText:Die, vermin!
+31:TAUNTS/TAUNT[31]/szText:Feeling scared?
+32:TAUNTS/TAUNT[32]/szText:Dance for me!
+33:TAUNTS/TAUNT[33]/szText:How fun!
+34:TAUNTS/TAUNT[34]/szText:Dakka-dakka-dakka!
+35:TAUNTS/TAUNT[35]/szText:Guns don't kill people, I do!
+36:TAUNTS/TAUNT[36]/szText:I'm the best!
+37:TAUNTS/TAUNT[37]/szText:Kneel before me, loser!
+38:TAUNTS/TAUNT[38]/szText:Come on! I don't got all day!
+39:TAUNTS/TAUNT[39]/szText:Eat lead!
+40:TAUNTS/TAUNT[40]/szText:I'm better than you!
+41:TAUNTS/TAUNT[41]/szText:You fucked with the wrong man!
+41:TAUNTS/TAUNT[41]/szTextCensored:You messed with the wrong man!
+42:TAUNTS/TAUNT[42]/szText:You fucked with the wrong woman!
+42:TAUNTS/TAUNT[42]/szTextCensored:You messed with the wrong woman!
+43:TAUNTS/TAUNT[43]/szText:Stop wasting my time!
+44:TAUNTS/TAUNT[44]/szText:You deserve it!
+45:TAUNTS/TAUNT[45]/szText:Yeah!
+46:TAUNTS/TAUNT[46]/szText:That's right!
+47:TAUNTS/TAUNT[47]/szText:You're dead.
+48:TAUNTS/TAUNT[48]/szText:How ya like it?
+49:TAUNTS/TAUNT[49]/szText:You had it coming!
+50:TAUNTS/TAUNT[50]/szText:Why, hello there!
+51:TAUNTS/TAUNT[51]/szText:Say "cheese"!
+52:TAUNTS/TAUNT[52]/szText:Yippie ki-yay, mister Falcon!
+53:TAUNTS/TAUNT[53]/szText:Could you just please die?
+54:TAUNTS/TAUNT[54]/szText:Garbage day!
+55:TAUNTS/TAUNT[55]/szText:I'm doing the world a favor getting rid of your ugly face!
+56:TAUNTS/TAUNT[56]/szText:Hey babe, give me your number, and I'll stop shooting!
+57:TAUNTS/TAUNT[57]/szText:Hey handsome, give me your number, and I'll stop shooting!
+58:TAUNTS/TAUNT[58]/szText:I will destroy you!
+59:TAUNTS/TAUNT[59]/szText:Dead or alive, you're coming with me.
+60:TAUNTS/TAUNT[60]/szText:I looked for you, I've found you and now I will kill you!
+61:TAUNTS/TAUNT[61]/szText:Somebody's gonna get hurt. It ain't gonna be me!
+62:TAUNTS/TAUNT[62]/szText:Your life is over, asshole!
+63:TAUNTS/TAUNT[63]/szText:I deliver justice... one bullet at a time!
+64:TAUNTS/TAUNT[64]/szText:Viva la revolution!
+65:TAUNTS/TAUNT[65]/szText:Your move, creep!
+66:TAUNTS/TAUNT[66]/szText:I'm gonna blow your head off!
+67:TAUNTS/TAUNT[67]/szText:You cowboys are finished!
+68:TAUNTS/TAUNT[68]/szText:Long live the Queen!
+69:TAUNTS/TAUNT[69]/szText:The Queen says: Die!

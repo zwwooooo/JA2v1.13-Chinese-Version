@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<STRUCTURESLIST>
-	<STRUCTURE><TempFieldByZ>0</TempFieldByZ><!--sandbags-->
+﻿<STRUCTURESLIST>
+	<STRUCTURE><!--sandbags-->
 		<usCreationItem>1540</usCreationItem>
 		<usItemStatusLoss>1</usItemStatusLoss>
 		<szTileSetDisplayName>Sandbags</szTileSetDisplayName>
@@ -16,7 +15,7 @@
 		<westfacingtile>8</westfacingtile>
 		<westfacingtile>9</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>1</TempFieldByZ><!--concertina wire-->
+	<STRUCTURE><!--concertina wire-->
 		<usCreationItem>1542</usCreationItem>
 		<usItemStatusLoss>1</usItemStatusLoss>
 		<szTileSetDisplayName>Concertina wire</szTileSetDisplayName>
@@ -32,7 +31,7 @@
 		<westfacingtile>2</westfacingtile>
 		<westfacingtile>4</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>2</TempFieldByZ><!--medium debris -->
+	<STRUCTURE><!--medium debris -->
 		<usCreationItem>1724</usCreationItem>
 		<usItemStatusLoss>50</usItemStatusLoss>
 		<szTileSetDisplayName>medium debris</szTileSetDisplayName>
@@ -44,7 +43,7 @@
 		<eastfacingtile>2</eastfacingtile>
 		<westfacingtile>2</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>3</TempFieldByZ><!--large debris -->
+	<STRUCTURE><!--large debris -->
 		<usCreationItem>1724</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>large debris</szTileSetDisplayName>
@@ -68,7 +67,7 @@
 		<westfacingtile>4</westfacingtile>
 		<westfacingtile>5</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><TempFieldByZ>4</TempFieldByZ><!--wooden wall, large -->
+	<STRUCTURE><!--wooden wall, large -->
 		<usCreationItem>1725</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetDisplayName>wooden wall large</szTileSetDisplayName>

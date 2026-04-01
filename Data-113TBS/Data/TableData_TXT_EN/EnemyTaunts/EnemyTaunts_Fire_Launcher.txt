@@ -1,30 +1,30 @@
-0:TAUNT/szText:Say hello to my lil' friend!
-1:TAUNT/szText:Barbecue time!
-2:TAUNT/szText:Suck it down!
-3:TAUNT/szText:Bam!
-4:TAUNT/szText:Kaboom!
-5:TAUNT/szText:Dodge this!
-6:TAUNT/szText:I like it!
-7:TAUNT/szText:Hahaha!
-8:TAUNT/szText:Die in fire, bitch!
-9:TAUNT/szText:Die in fire, son of a bitch!
-10:TAUNT/szText:Say your prayers!
-11:TAUNT/szText:Hell yeah!
-12:TAUNT/szText:There's no kill like overkill!
-13:TAUNT/szText:My gun's bigger than yours!
-14:TAUNT/szText:I got a present for ya!
-15:TAUNT/szText:Watch and learn.
-16:TAUNT/szText:Special delivery!
-17:TAUNT/szText:You should see your face now!
-18:TAUNT/szText:Didn't see THAT coming, huh?
-19:TAUNT/szText:Checkmate!
-20:TAUNT/szText:I always wanted to do this.
-21:TAUNT/szText:Peace through power!
-22:TAUNT/szText:This job ain't that bad.
-23:TAUNT/szText:Now I remember why I joined the army!
-24:TAUNT/szText:Ooh, somebody stop me!
-25:TAUNT/szText:You're welcome!
-26:TAUNT/szText:There goes the neighborhood!
-27:TAUNT/szText:Denied!
-28:TAUNT/szText:Hold my beer and watch this!
-29:TAUNT/szText:If I had a dick, this is when I would tell you to suck it!
+0:TAUNTS/TAUNT[0]/szText:Say hello to my lil' friend!
+1:TAUNTS/TAUNT[1]/szText:Barbecue time!
+2:TAUNTS/TAUNT[2]/szText:Suck it down!
+3:TAUNTS/TAUNT[3]/szText:Bam!
+4:TAUNTS/TAUNT[4]/szText:Kaboom!
+5:TAUNTS/TAUNT[5]/szText:Dodge this!
+6:TAUNTS/TAUNT[6]/szText:I like it!
+7:TAUNTS/TAUNT[7]/szText:Hahaha!
+8:TAUNTS/TAUNT[8]/szText:Die in fire, bitch!
+9:TAUNTS/TAUNT[9]/szText:Die in fire, son of a bitch!
+10:TAUNTS/TAUNT[10]/szText:Say your prayers!
+11:TAUNTS/TAUNT[11]/szText:Hell yeah!
+12:TAUNTS/TAUNT[12]/szText:There's no kill like overkill!
+13:TAUNTS/TAUNT[13]/szText:My gun's bigger than yours!
+14:TAUNTS/TAUNT[14]/szText:I got a present for ya!
+15:TAUNTS/TAUNT[15]/szText:Watch and learn.
+16:TAUNTS/TAUNT[16]/szText:Special delivery!
+17:TAUNTS/TAUNT[17]/szText:You should see your face now!
+18:TAUNTS/TAUNT[18]/szText:Didn't see THAT coming, huh?
+19:TAUNTS/TAUNT[19]/szText:Checkmate!
+20:TAUNTS/TAUNT[20]/szText:I always wanted to do this.
+21:TAUNTS/TAUNT[21]/szText:Peace through power!
+22:TAUNTS/TAUNT[22]/szText:This job ain't that bad.
+23:TAUNTS/TAUNT[23]/szText:Now I remember why I joined the army!
+24:TAUNTS/TAUNT[24]/szText:Ooh, somebody stop me!
+25:TAUNTS/TAUNT[25]/szText:You're welcome!
+26:TAUNTS/TAUNT[26]/szText:There goes the neighborhood!
+27:TAUNTS/TAUNT[27]/szText:Denied!
+28:TAUNTS/TAUNT[28]/szText:Hold my beer and watch this!
+29:TAUNTS/TAUNT[29]/szText:If I had a dick, this is when I would tell you to suck it!

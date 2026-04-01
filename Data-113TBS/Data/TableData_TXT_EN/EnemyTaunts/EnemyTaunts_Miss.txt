@@ -1,11 +1,11 @@
-0:TAUNT/szText:Crap!
-1:TAUNT/szText:You fuck!
-1:TAUNT/szTextCensored:You freak!
-2:TAUNT/szText:Oh, come on!
-3:TAUNT/szText:Don't make me go over there!
-4:TAUNT/szText:Son of a bitch!
-5:TAUNT/szText:Goddamnit.
-6:TAUNT/szText:Are you tryin' to make me look good?
-7:TAUNT/szText:At the circus it looked easier...
-8:TAUNT/szText:It was just a warning shot!
-9:TAUNT/szText:I wasn't even trying.
+0:TAUNTS/TAUNT[0]/szText:Crap!
+1:TAUNTS/TAUNT[1]/szText:You fuck!
+1:TAUNTS/TAUNT[1]/szTextCensored:You freak!
+2:TAUNTS/TAUNT[2]/szText:Oh, come on!
+3:TAUNTS/TAUNT[3]/szText:Don't make me go over there!
+4:TAUNTS/TAUNT[4]/szText:Son of a bitch!
+5:TAUNTS/TAUNT[5]/szText:Goddamnit.
+6:TAUNTS/TAUNT[6]/szText:Are you tryin' to make me look good?
+7:TAUNTS/TAUNT[7]/szText:At the circus it looked easier...
+8:TAUNTS/TAUNT[8]/szText:It was just a warning shot!
+9:TAUNTS/TAUNT[9]/szText:I wasn't even trying.

@@ -1,11 +1,11 @@
-0:TAUNT/szText:操！
-1:TAUNT/szText:混蛋！
-1:TAUNT/szTextCensored:You freak!
-2:TAUNT/szText:我勒个去！
-3:TAUNT/szText:别逼我过去！
-4:TAUNT/szText:畜生！
-5:TAUNT/szText:草泥马。
-6:TAUNT/szText:你是想给我留点面子吗？
-7:TAUNT/szText:在靶场感觉很简单啊...
-8:TAUNT/szText:这只是热身！
-9:TAUNT/szText:我只是随便试试。
+0:TAUNTS/TAUNT[0]/szText:操！
+1:TAUNTS/TAUNT[1]/szText:混蛋！
+1:TAUNTS/TAUNT[1]/szTextCensored:You freak!
+2:TAUNTS/TAUNT[2]/szText:我勒个去！
+3:TAUNTS/TAUNT[3]/szText:别逼我过去！
+4:TAUNTS/TAUNT[4]/szText:畜生！
+5:TAUNTS/TAUNT[5]/szText:草泥马。
+6:TAUNTS/TAUNT[6]/szText:你是想给我留点面子吗？
+7:TAUNTS/TAUNT[7]/szText:在靶场感觉很简单啊...
+8:TAUNTS/TAUNT[8]/szText:这只是热身！
+9:TAUNTS/TAUNT[9]/szText:我只是随便试试。

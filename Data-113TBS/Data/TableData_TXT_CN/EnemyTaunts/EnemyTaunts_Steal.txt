@@ -1,5 +1,5 @@
-0:TAUNT/szText:嘿，这个给我！
-1:TAUNT/szText:不错的玩意！
-2:TAUNT/szText:给我，反正你的用法也不对！
-3:TAUNT/szText:哦哦哦，好漂亮！
-4:TAUNT/szText:你的东西...很...漂...亮！
+0:TAUNTS/TAUNT[0]/szText:嘿，这个给我！
+1:TAUNTS/TAUNT[1]/szText:不错的玩意！
+2:TAUNTS/TAUNT[2]/szText:给我，反正你的用法也不对！
+3:TAUNTS/TAUNT[3]/szText:哦哦哦，好漂亮！
+4:TAUNTS/TAUNT[4]/szText:你的东西...很...漂...亮！

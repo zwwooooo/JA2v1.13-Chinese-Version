@@ -1,6 +1,6 @@
-0:TAUNT/szText:What the hell am I going to do now?
-1:TAUNT/szText:I'm all out!
-2:TAUNT/szText:I'm running dry over here!
-3:TAUNT/szText:Need more ammo!
-4:TAUNT/szText:I'm out of bullets!
-5:TAUNT/szText:Need supplies!
+0:TAUNTS/TAUNT[0]/szText:What the hell am I going to do now?
+1:TAUNTS/TAUNT[1]/szText:I'm all out!
+2:TAUNTS/TAUNT[2]/szText:I'm running dry over here!
+3:TAUNTS/TAUNT[3]/szText:Need more ammo!
+4:TAUNTS/TAUNT[4]/szText:I'm out of bullets!
+5:TAUNTS/TAUNT[5]/szText:Need supplies!

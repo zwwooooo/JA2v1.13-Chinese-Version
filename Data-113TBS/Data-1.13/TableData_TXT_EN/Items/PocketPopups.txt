@@ -1,41 +1,41 @@
-1:POCKET/pName:Gun Sling
-2:POCKET/pName:Knife
-6:POCKET/pName:Ammo Belt
-7:POCKET/pName:SMG Holster
-9:POCKET/pName:LgMagPocket
-10:POCKET/pName:AR Mag
-10:POCKET/popup/subMenu/name:grenades
-11:POCKET/pName:Pistol Holster
-12:POCKET/pName:SMG Mag
-13:POCKET/pName:Rifle Grenade
-14:POCKET/pName:Grenade
-15:POCKET/pName:Pistol Mag
-19:POCKET/pName:Speedloader
-22:POCKET/pName:Double Belt
-4:POCKET/pName:General Large
-4:POCKET/popup/subMenu/name:weapons
-4:POCKET/popup/subMenu/name:ammo
-4:POCKET/popup/subMenu/subMenu/name:RPG rockets
-4:POCKET/popup/subMenu/subMenu/name:Rifle grenades
-4:POCKET/popup/subMenu/name:grenades
-5:POCKET/pName:Combat Pack
-5:POCKET/popup/subMenu/name:weapons
-5:POCKET/popup/subMenu/name:ammo
-5:POCKET/popup/subMenu/subMenu/name:RPG rockets
-5:POCKET/popup/subMenu/subMenu/name:Rifle grenades
-5:POCKET/popup/subMenu/name:grenades
-8:POCKET/pName:Medium General
-8:POCKET/popup/subMenu/name:ammo
-8:POCKET/popup/subMenu/name:grenades
-8:POCKET/popup/subMenu/name:kits
-8:POCKET/popup/subMenu/name:face gear
-16:POCKET/pName:Tiny General
-16:POCKET/popup/subMenu/name:grenades
-16:POCKET/popup/subMenu/name:misc
-16:POCKET/popup/subMenu/name:kits
-17:POCKET/pName:Small General
-17:POCKET/popup/subMenu/name:grenades
-17:POCKET/popup/subMenu/name:misc
-17:POCKET/popup/subMenu/name:kits
-20:POCKET/pName:Medical Pocket
-21:POCKET/pName:Syringe Pocket
+1:POCKETPOPUPS/POCKET[0]/pName:Gun Sling
+2:POCKETPOPUPS/POCKET[1]/pName:Knife
+6:POCKETPOPUPS/POCKET[2]/pName:Ammo Belt
+7:POCKETPOPUPS/POCKET[3]/pName:SMG Holster
+9:POCKETPOPUPS/POCKET[4]/pName:LgMagPocket
+10:POCKETPOPUPS/POCKET[5]/pName:AR Mag
+10:POCKETPOPUPS/POCKET[5]/popup/subMenu/name:grenades
+11:POCKETPOPUPS/POCKET[6]/pName:Pistol Holster
+12:POCKETPOPUPS/POCKET[7]/pName:SMG Mag
+13:POCKETPOPUPS/POCKET[8]/pName:Rifle Grenade
+14:POCKETPOPUPS/POCKET[9]/pName:Grenade
+15:POCKETPOPUPS/POCKET[10]/pName:Pistol Mag
+19:POCKETPOPUPS/POCKET[11]/pName:Speedloader
+22:POCKETPOPUPS/POCKET[12]/pName:Double Belt
+4:POCKETPOPUPS/POCKET[13]/pName:General Large
+4:POCKETPOPUPS/POCKET[13]/popup/subMenu[0]/name:weapons
+4:POCKETPOPUPS/POCKET[13]/popup/subMenu[1]/name:ammo
+4:POCKETPOPUPS/POCKET[13]/popup/subMenu[1]/subMenu[0]/name:RPG rockets
+4:POCKETPOPUPS/POCKET[13]/popup/subMenu[1]/subMenu[1]/name:Rifle grenades
+4:POCKETPOPUPS/POCKET[13]/popup/subMenu[2]/name:grenades
+5:POCKETPOPUPS/POCKET[14]/pName:Combat Pack
+5:POCKETPOPUPS/POCKET[14]/popup/subMenu[0]/name:weapons
+5:POCKETPOPUPS/POCKET[14]/popup/subMenu[1]/name:ammo
+5:POCKETPOPUPS/POCKET[14]/popup/subMenu[1]/subMenu[0]/name:RPG rockets
+5:POCKETPOPUPS/POCKET[14]/popup/subMenu[1]/subMenu[1]/name:Rifle grenades
+5:POCKETPOPUPS/POCKET[14]/popup/subMenu[2]/name:grenades
+8:POCKETPOPUPS/POCKET[15]/pName:Medium General
+8:POCKETPOPUPS/POCKET[15]/popup/subMenu[0]/name:ammo
+8:POCKETPOPUPS/POCKET[15]/popup/subMenu[1]/name:grenades
+8:POCKETPOPUPS/POCKET[15]/popup/subMenu[2]/name:kits
+8:POCKETPOPUPS/POCKET[15]/popup/subMenu[3]/name:face gear
+16:POCKETPOPUPS/POCKET[16]/pName:Tiny General
+16:POCKETPOPUPS/POCKET[16]/popup/subMenu[0]/name:grenades
+16:POCKETPOPUPS/POCKET[16]/popup/subMenu[1]/name:misc
+16:POCKETPOPUPS/POCKET[16]/popup/subMenu[2]/name:kits
+17:POCKETPOPUPS/POCKET[17]/pName:Small General
+17:POCKETPOPUPS/POCKET[17]/popup/subMenu[0]/name:grenades
+17:POCKETPOPUPS/POCKET[17]/popup/subMenu[1]/name:misc
+17:POCKETPOPUPS/POCKET[17]/popup/subMenu[2]/name:kits
+20:POCKETPOPUPS/POCKET[18]/pName:Medical Pocket
+21:POCKETPOPUPS/POCKET[19]/pName:Syringe Pocket

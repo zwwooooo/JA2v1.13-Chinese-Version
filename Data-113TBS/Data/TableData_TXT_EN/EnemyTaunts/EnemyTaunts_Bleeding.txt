@@ -1,12 +1,12 @@
-0:TAUNT/szText:I'm leaking!
-1:TAUNT/szText:I'm bleeding!
-2:TAUNT/szText:Everyone, throw whatever you're doing and help me!
-3:TAUNT/szText:Mmmm... blood.
-4:TAUNT/szText:I need medical attention!
-5:TAUNT/szText:I'm spilling blood!
-6:TAUNT/szText:Hey! It DOES taste like iron!
-7:TAUNT/szText:Oh, I'm getting light-headed!
-8:TAUNT/szText:Does it count toward my Honorary Donor card?
-9:TAUNT/szText:I'm bleeding... It was supposed to be them, not me!
-10:TAUNT/szText:Gonna need some sewing!
-11:TAUNT/szText:Oh no... my precious fluids!
+0:TAUNTS/TAUNT[0]/szText:I'm leaking!
+1:TAUNTS/TAUNT[1]/szText:I'm bleeding!
+2:TAUNTS/TAUNT[2]/szText:Everyone, throw whatever you're doing and help me!
+3:TAUNTS/TAUNT[3]/szText:Mmmm... blood.
+4:TAUNTS/TAUNT[4]/szText:I need medical attention!
+5:TAUNTS/TAUNT[5]/szText:I'm spilling blood!
+6:TAUNTS/TAUNT[6]/szText:Hey! It DOES taste like iron!
+7:TAUNTS/TAUNT[7]/szText:Oh, I'm getting light-headed!
+8:TAUNTS/TAUNT[8]/szText:Does it count toward my Honorary Donor card?
+9:TAUNTS/TAUNT[9]/szText:I'm bleeding... It was supposed to be them, not me!
+10:TAUNTS/TAUNT[10]/szText:Gonna need some sewing!
+11:TAUNTS/TAUNT[11]/szText:Oh no... my precious fluids!

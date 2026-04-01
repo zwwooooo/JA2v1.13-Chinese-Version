@@ -1,5 +1,5 @@
-0:STRUCTURE/szTileSetDisplayName:沙袋
-1:STRUCTURE/szTileSetDisplayName:铁丝网
-2:STRUCTURE/szTileSetDisplayName:中型木堆
-3:STRUCTURE/szTileSetDisplayName:大型木堆
-4:STRUCTURE/szTileSetDisplayName:木墙
+0:STRUCTURESLIST/STRUCTURE[0]/szTileSetDisplayName:沙袋
+1:STRUCTURESLIST/STRUCTURE[1]/szTileSetDisplayName:铁丝网
+2:STRUCTURESLIST/STRUCTURE[2]/szTileSetDisplayName:中型木堆
+3:STRUCTURESLIST/STRUCTURE[3]/szTileSetDisplayName:大型木堆
+4:STRUCTURESLIST/STRUCTURE[4]/szTileSetDisplayName:木墙

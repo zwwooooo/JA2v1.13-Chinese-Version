@@ -1,255 +1,255 @@
-0:NAME/szGroup:None
-1:NAME/szGroup:反抗军
-2:NAME/szGroup:KingPin黑帮
-3:NAME/szGroup:Sanmona武装力量
-4:NAME/szGroup:赞助人
-5:NAME/szGroup:乞丐
-6:NAME/szGroup:观光客
-7:NAME/szGroup:Alma民兵
-8:NAME/szGroup:医生
-9:NAME/szGroup:夫妻
-10:NAME/szGroup:乡下人
-11:NAME/szGroup:典狱官
-12:NAME/szGroup:废品回收站
-13:NAME/szGroup:工厂设施
-14:NAME/szGroup:女王
-15:NAME/szGroup:Joey, Martha
-16:NAME/szGroup:Devin
-17:NAME/szGroup:Hamous
-18:NAME/szGroup:Terry
-19:NAME/szGroup:Dynamo, Shank
-20:NAME/szGroup:民兵
-21:NAME/szGroup:俘虏
-22:NAME/szGroup:Empty Slot22
-23:NAME/szGroup:Empty Slot23
-24:NAME/szGroup:志愿者
-25:NAME/szGroup:赏金杀手
-26:NAME/szGroup:被击落的飞行员
-27:NAME/szGroup:科学家
-28:NAME/szGroup:无线电技术员
-29:NAME/szGroup:机场工作人员
-30:NAME/szGroup:军队工作人员
-31:NAME/szGroup:工厂工人
-32:NAME/szGroup:秘书
-33:NAME/szGroup:支持者
-34:NAME/szGroup:黑市
-35:NAME/szGroup:Empty Slot35
-36:NAME/szGroup:Empty Slot36
-37:NAME/szGroup:Empty Slot37
-38:NAME/szGroup:Empty Slot38
-39:NAME/szGroup:Empty Slot39
-40:NAME/szGroup:Empty Slot40
-41:NAME/szGroup:Empty Slot41
-42:NAME/szGroup:Empty Slot42
-43:NAME/szGroup:Empty Slot43
-44:NAME/szGroup:Empty Slot44
-45:NAME/szGroup:Empty Slot45
-46:NAME/szGroup:Empty Slot46
-47:NAME/szGroup:Empty Slot47
-48:NAME/szGroup:Empty Slot48
-49:NAME/szGroup:Empty Slot49
-50:NAME/szGroup:Empty Slot50
-51:NAME/szGroup:Empty Slot51
-52:NAME/szGroup:Empty Slot52
-53:NAME/szGroup:Empty Slot53
-54:NAME/szGroup:Empty Slot54
-55:NAME/szGroup:Empty Slot55
-56:NAME/szGroup:Empty Slot56
-57:NAME/szGroup:Empty Slot57
-58:NAME/szGroup:Empty Slot58
-59:NAME/szGroup:Empty Slot59
-60:NAME/szGroup:Empty Slot60
-61:NAME/szGroup:Empty Slot61
-62:NAME/szGroup:Empty Slot62
-63:NAME/szGroup:Empty Slot63
-64:NAME/szGroup:Empty Slot64
-65:NAME/szGroup:Empty Slot65
-66:NAME/szGroup:Empty Slot66
-67:NAME/szGroup:Empty Slot67
-68:NAME/szGroup:Empty Slot68
-69:NAME/szGroup:Empty Slot69
-70:NAME/szGroup:Empty Slot70
-71:NAME/szGroup:Empty Slot71
-72:NAME/szGroup:Empty Slot72
-73:NAME/szGroup:Empty Slot73
-74:NAME/szGroup:Empty Slot74
-75:NAME/szGroup:Empty Slot75
-76:NAME/szGroup:Empty Slot76
-77:NAME/szGroup:Empty Slot77
-78:NAME/szGroup:Empty Slot78
-79:NAME/szGroup:Empty Slot79
-80:NAME/szGroup:Empty Slot80
-81:NAME/szGroup:Empty Slot81
-82:NAME/szGroup:Empty Slot82
-83:NAME/szGroup:Empty Slot83
-84:NAME/szGroup:Empty Slot84
-85:NAME/szGroup:Empty Slot85
-86:NAME/szGroup:Empty Slot86
-87:NAME/szGroup:Empty Slot87
-88:NAME/szGroup:Empty Slot88
-89:NAME/szGroup:Empty Slot89
-90:NAME/szGroup:Empty Slot90
-91:NAME/szGroup:Empty Slot91
-92:NAME/szGroup:Empty Slot92
-93:NAME/szGroup:Empty Slot93
-94:NAME/szGroup:Empty Slot94
-95:NAME/szGroup:Empty Slot95
-96:NAME/szGroup:Empty Slot96
-97:NAME/szGroup:Empty Slot97
-98:NAME/szGroup:Empty Slot98
-99:NAME/szGroup:Empty Slot99
-100:NAME/szGroup:Empty Slot100
-101:NAME/szGroup:Empty Slot101
-102:NAME/szGroup:Empty Slot102
-103:NAME/szGroup:Empty Slot103
-104:NAME/szGroup:Empty Slot104
-105:NAME/szGroup:Empty Slot105
-106:NAME/szGroup:Empty Slot106
-107:NAME/szGroup:Empty Slot107
-108:NAME/szGroup:Empty Slot108
-109:NAME/szGroup:Empty Slot109
-110:NAME/szGroup:Empty Slot110
-111:NAME/szGroup:Empty Slot111
-112:NAME/szGroup:Empty Slot112
-113:NAME/szGroup:Empty Slot113
-114:NAME/szGroup:Empty Slot114
-115:NAME/szGroup:Empty Slot115
-116:NAME/szGroup:Empty Slot116
-117:NAME/szGroup:Empty Slot117
-118:NAME/szGroup:Empty Slot118
-119:NAME/szGroup:Empty Slot119
-120:NAME/szGroup:Empty Slot120
-121:NAME/szGroup:Empty Slot121
-122:NAME/szGroup:Empty Slot122
-123:NAME/szGroup:Empty Slot123
-124:NAME/szGroup:Empty Slot124
-125:NAME/szGroup:Empty Slot125
-126:NAME/szGroup:Empty Slot126
-127:NAME/szGroup:Empty Slot127
-128:NAME/szGroup:Empty Slot128
-129:NAME/szGroup:Empty Slot129
-130:NAME/szGroup:Empty Slot130
-131:NAME/szGroup:Empty Slot131
-132:NAME/szGroup:Empty Slot132
-133:NAME/szGroup:Empty Slot133
-134:NAME/szGroup:Empty Slot134
-135:NAME/szGroup:Empty Slot135
-136:NAME/szGroup:Empty Slot136
-137:NAME/szGroup:Empty Slot137
-138:NAME/szGroup:Empty Slot138
-139:NAME/szGroup:Empty Slot139
-140:NAME/szGroup:Empty Slot140
-141:NAME/szGroup:Empty Slot141
-142:NAME/szGroup:Empty Slot142
-143:NAME/szGroup:Empty Slot143
-144:NAME/szGroup:Empty Slot144
-145:NAME/szGroup:Empty Slot145
-146:NAME/szGroup:Empty Slot146
-147:NAME/szGroup:Empty Slot147
-148:NAME/szGroup:Empty Slot148
-149:NAME/szGroup:Empty Slot149
-150:NAME/szGroup:Empty Slot150
-151:NAME/szGroup:Empty Slot151
-152:NAME/szGroup:Empty Slot152
-153:NAME/szGroup:Empty Slot153
-154:NAME/szGroup:Empty Slot154
-155:NAME/szGroup:Empty Slot155
-156:NAME/szGroup:Empty Slot156
-157:NAME/szGroup:Empty Slot157
-158:NAME/szGroup:Empty Slot158
-159:NAME/szGroup:Empty Slot159
-160:NAME/szGroup:Empty Slot160
-161:NAME/szGroup:Empty Slot161
-162:NAME/szGroup:Empty Slot162
-163:NAME/szGroup:Empty Slot163
-164:NAME/szGroup:Empty Slot164
-165:NAME/szGroup:Empty Slot165
-166:NAME/szGroup:Empty Slot166
-167:NAME/szGroup:Empty Slot167
-168:NAME/szGroup:Empty Slot168
-169:NAME/szGroup:Empty Slot169
-170:NAME/szGroup:Empty Slot170
-171:NAME/szGroup:Empty Slot171
-172:NAME/szGroup:Empty Slot172
-173:NAME/szGroup:Empty Slot173
-174:NAME/szGroup:Empty Slot174
-175:NAME/szGroup:Empty Slot175
-176:NAME/szGroup:Empty Slot176
-177:NAME/szGroup:Empty Slot177
-178:NAME/szGroup:Empty Slot178
-179:NAME/szGroup:Empty Slot179
-180:NAME/szGroup:Empty Slot180
-181:NAME/szGroup:Empty Slot181
-182:NAME/szGroup:Empty Slot182
-183:NAME/szGroup:Empty Slot183
-184:NAME/szGroup:Empty Slot184
-185:NAME/szGroup:Empty Slot185
-186:NAME/szGroup:Empty Slot186
-187:NAME/szGroup:Empty Slot187
-188:NAME/szGroup:Empty Slot188
-189:NAME/szGroup:Empty Slot189
-190:NAME/szGroup:Empty Slot190
-191:NAME/szGroup:Empty Slot191
-192:NAME/szGroup:Empty Slot192
-193:NAME/szGroup:Empty Slot193
-194:NAME/szGroup:Empty Slot194
-195:NAME/szGroup:Empty Slot195
-196:NAME/szGroup:Empty Slot196
-197:NAME/szGroup:Empty Slot197
-198:NAME/szGroup:Empty Slot198
-199:NAME/szGroup:Empty Slot199
-200:NAME/szGroup:Empty Slot200
-201:NAME/szGroup:Empty Slot201
-202:NAME/szGroup:Empty Slot202
-203:NAME/szGroup:Empty Slot203
-204:NAME/szGroup:Empty Slot204
-205:NAME/szGroup:Empty Slot205
-206:NAME/szGroup:Empty Slot206
-207:NAME/szGroup:Empty Slot207
-208:NAME/szGroup:Empty Slot208
-209:NAME/szGroup:Empty Slot209
-210:NAME/szGroup:Empty Slot210
-211:NAME/szGroup:Empty Slot211
-212:NAME/szGroup:Empty Slot212
-213:NAME/szGroup:Empty Slot213
-214:NAME/szGroup:Empty Slot214
-215:NAME/szGroup:Empty Slot215
-216:NAME/szGroup:Empty Slot216
-217:NAME/szGroup:Empty Slot217
-218:NAME/szGroup:Empty Slot218
-219:NAME/szGroup:Empty Slot219
-220:NAME/szGroup:Empty Slot220
-221:NAME/szGroup:Empty Slot221
-222:NAME/szGroup:Empty Slot222
-223:NAME/szGroup:Empty Slot223
-224:NAME/szGroup:Empty Slot224
-225:NAME/szGroup:Empty Slot225
-226:NAME/szGroup:Empty Slot226
-227:NAME/szGroup:Empty Slot227
-228:NAME/szGroup:Empty Slot228
-229:NAME/szGroup:Empty Slot229
-230:NAME/szGroup:Empty Slot230
-231:NAME/szGroup:Empty Slot231
-232:NAME/szGroup:Empty Slot232
-233:NAME/szGroup:Empty Slot233
-234:NAME/szGroup:Empty Slot234
-235:NAME/szGroup:Empty Slot235
-236:NAME/szGroup:Empty Slot236
-237:NAME/szGroup:Empty Slot237
-238:NAME/szGroup:Empty Slot238
-239:NAME/szGroup:Empty Slot239
-240:NAME/szGroup:Empty Slot240
-241:NAME/szGroup:Empty Slot241
-242:NAME/szGroup:Empty Slot242
-243:NAME/szGroup:Empty Slot243
-244:NAME/szGroup:Empty Slot244
-245:NAME/szGroup:Empty Slot245
-246:NAME/szGroup:Empty Slot246
-247:NAME/szGroup:Empty Slot247
-248:NAME/szGroup:Empty Slot248
-249:NAME/szGroup:Empty Slot249
-250:NAME/szGroup:Empty Slot250
-251:NAME/szGroup:Empty Slot251
-252:NAME/szGroup:Empty Slot252
-253:NAME/szGroup:Empty Slot253
-254:NAME/szGroup:Empty Slot254
+0:CIV_GROUP_NAMES/NAME[0]/szGroup:None
+1:CIV_GROUP_NAMES/NAME[1]/szGroup:反抗军
+2:CIV_GROUP_NAMES/NAME[2]/szGroup:KingPin黑帮
+3:CIV_GROUP_NAMES/NAME[3]/szGroup:Sanmona武装力量
+4:CIV_GROUP_NAMES/NAME[4]/szGroup:赞助人
+5:CIV_GROUP_NAMES/NAME[5]/szGroup:乞丐
+6:CIV_GROUP_NAMES/NAME[6]/szGroup:观光客
+7:CIV_GROUP_NAMES/NAME[7]/szGroup:Alma民兵
+8:CIV_GROUP_NAMES/NAME[8]/szGroup:医生
+9:CIV_GROUP_NAMES/NAME[9]/szGroup:夫妻
+10:CIV_GROUP_NAMES/NAME[10]/szGroup:乡下人
+11:CIV_GROUP_NAMES/NAME[11]/szGroup:典狱官
+12:CIV_GROUP_NAMES/NAME[12]/szGroup:废品回收站
+13:CIV_GROUP_NAMES/NAME[13]/szGroup:工厂设施
+14:CIV_GROUP_NAMES/NAME[14]/szGroup:女王
+15:CIV_GROUP_NAMES/NAME[15]/szGroup:Joey, Martha
+16:CIV_GROUP_NAMES/NAME[16]/szGroup:Devin
+17:CIV_GROUP_NAMES/NAME[17]/szGroup:Hamous
+18:CIV_GROUP_NAMES/NAME[18]/szGroup:Terry
+19:CIV_GROUP_NAMES/NAME[19]/szGroup:Dynamo, Shank
+20:CIV_GROUP_NAMES/NAME[20]/szGroup:民兵
+21:CIV_GROUP_NAMES/NAME[21]/szGroup:俘虏
+22:CIV_GROUP_NAMES/NAME[22]/szGroup:Empty Slot22
+23:CIV_GROUP_NAMES/NAME[23]/szGroup:Empty Slot23
+24:CIV_GROUP_NAMES/NAME[24]/szGroup:志愿者
+25:CIV_GROUP_NAMES/NAME[25]/szGroup:赏金杀手
+26:CIV_GROUP_NAMES/NAME[26]/szGroup:被击落的飞行员
+27:CIV_GROUP_NAMES/NAME[27]/szGroup:科学家
+28:CIV_GROUP_NAMES/NAME[28]/szGroup:无线电技术员
+29:CIV_GROUP_NAMES/NAME[29]/szGroup:机场工作人员
+30:CIV_GROUP_NAMES/NAME[30]/szGroup:军队工作人员
+31:CIV_GROUP_NAMES/NAME[31]/szGroup:工厂工人
+32:CIV_GROUP_NAMES/NAME[32]/szGroup:秘书
+33:CIV_GROUP_NAMES/NAME[33]/szGroup:支持者
+34:CIV_GROUP_NAMES/NAME[34]/szGroup:黑市
+35:CIV_GROUP_NAMES/NAME[35]/szGroup:Empty Slot35
+36:CIV_GROUP_NAMES/NAME[36]/szGroup:Empty Slot36
+37:CIV_GROUP_NAMES/NAME[37]/szGroup:Empty Slot37
+38:CIV_GROUP_NAMES/NAME[38]/szGroup:Empty Slot38
+39:CIV_GROUP_NAMES/NAME[39]/szGroup:Empty Slot39
+40:CIV_GROUP_NAMES/NAME[40]/szGroup:Empty Slot40
+41:CIV_GROUP_NAMES/NAME[41]/szGroup:Empty Slot41
+42:CIV_GROUP_NAMES/NAME[42]/szGroup:Empty Slot42
+43:CIV_GROUP_NAMES/NAME[43]/szGroup:Empty Slot43
+44:CIV_GROUP_NAMES/NAME[44]/szGroup:Empty Slot44
+45:CIV_GROUP_NAMES/NAME[45]/szGroup:Empty Slot45
+46:CIV_GROUP_NAMES/NAME[46]/szGroup:Empty Slot46
+47:CIV_GROUP_NAMES/NAME[47]/szGroup:Empty Slot47
+48:CIV_GROUP_NAMES/NAME[48]/szGroup:Empty Slot48
+49:CIV_GROUP_NAMES/NAME[49]/szGroup:Empty Slot49
+50:CIV_GROUP_NAMES/NAME[50]/szGroup:Empty Slot50
+51:CIV_GROUP_NAMES/NAME[51]/szGroup:Empty Slot51
+52:CIV_GROUP_NAMES/NAME[52]/szGroup:Empty Slot52
+53:CIV_GROUP_NAMES/NAME[53]/szGroup:Empty Slot53
+54:CIV_GROUP_NAMES/NAME[54]/szGroup:Empty Slot54
+55:CIV_GROUP_NAMES/NAME[55]/szGroup:Empty Slot55
+56:CIV_GROUP_NAMES/NAME[56]/szGroup:Empty Slot56
+57:CIV_GROUP_NAMES/NAME[57]/szGroup:Empty Slot57
+58:CIV_GROUP_NAMES/NAME[58]/szGroup:Empty Slot58
+59:CIV_GROUP_NAMES/NAME[59]/szGroup:Empty Slot59
+60:CIV_GROUP_NAMES/NAME[60]/szGroup:Empty Slot60
+61:CIV_GROUP_NAMES/NAME[61]/szGroup:Empty Slot61
+62:CIV_GROUP_NAMES/NAME[62]/szGroup:Empty Slot62
+63:CIV_GROUP_NAMES/NAME[63]/szGroup:Empty Slot63
+64:CIV_GROUP_NAMES/NAME[64]/szGroup:Empty Slot64
+65:CIV_GROUP_NAMES/NAME[65]/szGroup:Empty Slot65
+66:CIV_GROUP_NAMES/NAME[66]/szGroup:Empty Slot66
+67:CIV_GROUP_NAMES/NAME[67]/szGroup:Empty Slot67
+68:CIV_GROUP_NAMES/NAME[68]/szGroup:Empty Slot68
+69:CIV_GROUP_NAMES/NAME[69]/szGroup:Empty Slot69
+70:CIV_GROUP_NAMES/NAME[70]/szGroup:Empty Slot70
+71:CIV_GROUP_NAMES/NAME[71]/szGroup:Empty Slot71
+72:CIV_GROUP_NAMES/NAME[72]/szGroup:Empty Slot72
+73:CIV_GROUP_NAMES/NAME[73]/szGroup:Empty Slot73
+74:CIV_GROUP_NAMES/NAME[74]/szGroup:Empty Slot74
+75:CIV_GROUP_NAMES/NAME[75]/szGroup:Empty Slot75
+76:CIV_GROUP_NAMES/NAME[76]/szGroup:Empty Slot76
+77:CIV_GROUP_NAMES/NAME[77]/szGroup:Empty Slot77
+78:CIV_GROUP_NAMES/NAME[78]/szGroup:Empty Slot78
+79:CIV_GROUP_NAMES/NAME[79]/szGroup:Empty Slot79
+80:CIV_GROUP_NAMES/NAME[80]/szGroup:Empty Slot80
+81:CIV_GROUP_NAMES/NAME[81]/szGroup:Empty Slot81
+82:CIV_GROUP_NAMES/NAME[82]/szGroup:Empty Slot82
+83:CIV_GROUP_NAMES/NAME[83]/szGroup:Empty Slot83
+84:CIV_GROUP_NAMES/NAME[84]/szGroup:Empty Slot84
+85:CIV_GROUP_NAMES/NAME[85]/szGroup:Empty Slot85
+86:CIV_GROUP_NAMES/NAME[86]/szGroup:Empty Slot86
+87:CIV_GROUP_NAMES/NAME[87]/szGroup:Empty Slot87
+88:CIV_GROUP_NAMES/NAME[88]/szGroup:Empty Slot88
+89:CIV_GROUP_NAMES/NAME[89]/szGroup:Empty Slot89
+90:CIV_GROUP_NAMES/NAME[90]/szGroup:Empty Slot90
+91:CIV_GROUP_NAMES/NAME[91]/szGroup:Empty Slot91
+92:CIV_GROUP_NAMES/NAME[92]/szGroup:Empty Slot92
+93:CIV_GROUP_NAMES/NAME[93]/szGroup:Empty Slot93
+94:CIV_GROUP_NAMES/NAME[94]/szGroup:Empty Slot94
+95:CIV_GROUP_NAMES/NAME[95]/szGroup:Empty Slot95
+96:CIV_GROUP_NAMES/NAME[96]/szGroup:Empty Slot96
+97:CIV_GROUP_NAMES/NAME[97]/szGroup:Empty Slot97
+98:CIV_GROUP_NAMES/NAME[98]/szGroup:Empty Slot98
+99:CIV_GROUP_NAMES/NAME[99]/szGroup:Empty Slot99
+100:CIV_GROUP_NAMES/NAME[100]/szGroup:Empty Slot100
+101:CIV_GROUP_NAMES/NAME[101]/szGroup:Empty Slot101
+102:CIV_GROUP_NAMES/NAME[102]/szGroup:Empty Slot102
+103:CIV_GROUP_NAMES/NAME[103]/szGroup:Empty Slot103
+104:CIV_GROUP_NAMES/NAME[104]/szGroup:Empty Slot104
+105:CIV_GROUP_NAMES/NAME[105]/szGroup:Empty Slot105
+106:CIV_GROUP_NAMES/NAME[106]/szGroup:Empty Slot106
+107:CIV_GROUP_NAMES/NAME[107]/szGroup:Empty Slot107
+108:CIV_GROUP_NAMES/NAME[108]/szGroup:Empty Slot108
+109:CIV_GROUP_NAMES/NAME[109]/szGroup:Empty Slot109
+110:CIV_GROUP_NAMES/NAME[110]/szGroup:Empty Slot110
+111:CIV_GROUP_NAMES/NAME[111]/szGroup:Empty Slot111
+112:CIV_GROUP_NAMES/NAME[112]/szGroup:Empty Slot112
+113:CIV_GROUP_NAMES/NAME[113]/szGroup:Empty Slot113
+114:CIV_GROUP_NAMES/NAME[114]/szGroup:Empty Slot114
+115:CIV_GROUP_NAMES/NAME[115]/szGroup:Empty Slot115
+116:CIV_GROUP_NAMES/NAME[116]/szGroup:Empty Slot116
+117:CIV_GROUP_NAMES/NAME[117]/szGroup:Empty Slot117
+118:CIV_GROUP_NAMES/NAME[118]/szGroup:Empty Slot118
+119:CIV_GROUP_NAMES/NAME[119]/szGroup:Empty Slot119
+120:CIV_GROUP_NAMES/NAME[120]/szGroup:Empty Slot120
+121:CIV_GROUP_NAMES/NAME[121]/szGroup:Empty Slot121
+122:CIV_GROUP_NAMES/NAME[122]/szGroup:Empty Slot122
+123:CIV_GROUP_NAMES/NAME[123]/szGroup:Empty Slot123
+124:CIV_GROUP_NAMES/NAME[124]/szGroup:Empty Slot124
+125:CIV_GROUP_NAMES/NAME[125]/szGroup:Empty Slot125
+126:CIV_GROUP_NAMES/NAME[126]/szGroup:Empty Slot126
+127:CIV_GROUP_NAMES/NAME[127]/szGroup:Empty Slot127
+128:CIV_GROUP_NAMES/NAME[128]/szGroup:Empty Slot128
+129:CIV_GROUP_NAMES/NAME[129]/szGroup:Empty Slot129
+130:CIV_GROUP_NAMES/NAME[130]/szGroup:Empty Slot130
+131:CIV_GROUP_NAMES/NAME[131]/szGroup:Empty Slot131
+132:CIV_GROUP_NAMES/NAME[132]/szGroup:Empty Slot132
+133:CIV_GROUP_NAMES/NAME[133]/szGroup:Empty Slot133
+134:CIV_GROUP_NAMES/NAME[134]/szGroup:Empty Slot134
+135:CIV_GROUP_NAMES/NAME[135]/szGroup:Empty Slot135
+136:CIV_GROUP_NAMES/NAME[136]/szGroup:Empty Slot136
+137:CIV_GROUP_NAMES/NAME[137]/szGroup:Empty Slot137
+138:CIV_GROUP_NAMES/NAME[138]/szGroup:Empty Slot138
+139:CIV_GROUP_NAMES/NAME[139]/szGroup:Empty Slot139
+140:CIV_GROUP_NAMES/NAME[140]/szGroup:Empty Slot140
+141:CIV_GROUP_NAMES/NAME[141]/szGroup:Empty Slot141
+142:CIV_GROUP_NAMES/NAME[142]/szGroup:Empty Slot142
+143:CIV_GROUP_NAMES/NAME[143]/szGroup:Empty Slot143
+144:CIV_GROUP_NAMES/NAME[144]/szGroup:Empty Slot144
+145:CIV_GROUP_NAMES/NAME[145]/szGroup:Empty Slot145
+146:CIV_GROUP_NAMES/NAME[146]/szGroup:Empty Slot146
+147:CIV_GROUP_NAMES/NAME[147]/szGroup:Empty Slot147
+148:CIV_GROUP_NAMES/NAME[148]/szGroup:Empty Slot148
+149:CIV_GROUP_NAMES/NAME[149]/szGroup:Empty Slot149
+150:CIV_GROUP_NAMES/NAME[150]/szGroup:Empty Slot150
+151:CIV_GROUP_NAMES/NAME[151]/szGroup:Empty Slot151
+152:CIV_GROUP_NAMES/NAME[152]/szGroup:Empty Slot152
+153:CIV_GROUP_NAMES/NAME[153]/szGroup:Empty Slot153
+154:CIV_GROUP_NAMES/NAME[154]/szGroup:Empty Slot154
+155:CIV_GROUP_NAMES/NAME[155]/szGroup:Empty Slot155
+156:CIV_GROUP_NAMES/NAME[156]/szGroup:Empty Slot156
+157:CIV_GROUP_NAMES/NAME[157]/szGroup:Empty Slot157
+158:CIV_GROUP_NAMES/NAME[158]/szGroup:Empty Slot158
+159:CIV_GROUP_NAMES/NAME[159]/szGroup:Empty Slot159
+160:CIV_GROUP_NAMES/NAME[160]/szGroup:Empty Slot160
+161:CIV_GROUP_NAMES/NAME[161]/szGroup:Empty Slot161
+162:CIV_GROUP_NAMES/NAME[162]/szGroup:Empty Slot162
+163:CIV_GROUP_NAMES/NAME[163]/szGroup:Empty Slot163
+164:CIV_GROUP_NAMES/NAME[164]/szGroup:Empty Slot164
+165:CIV_GROUP_NAMES/NAME[165]/szGroup:Empty Slot165
+166:CIV_GROUP_NAMES/NAME[166]/szGroup:Empty Slot166
+167:CIV_GROUP_NAMES/NAME[167]/szGroup:Empty Slot167
+168:CIV_GROUP_NAMES/NAME[168]/szGroup:Empty Slot168
+169:CIV_GROUP_NAMES/NAME[169]/szGroup:Empty Slot169
+170:CIV_GROUP_NAMES/NAME[170]/szGroup:Empty Slot170
+171:CIV_GROUP_NAMES/NAME[171]/szGroup:Empty Slot171
+172:CIV_GROUP_NAMES/NAME[172]/szGroup:Empty Slot172
+173:CIV_GROUP_NAMES/NAME[173]/szGroup:Empty Slot173
+174:CIV_GROUP_NAMES/NAME[174]/szGroup:Empty Slot174
+175:CIV_GROUP_NAMES/NAME[175]/szGroup:Empty Slot175
+176:CIV_GROUP_NAMES/NAME[176]/szGroup:Empty Slot176
+177:CIV_GROUP_NAMES/NAME[177]/szGroup:Empty Slot177
+178:CIV_GROUP_NAMES/NAME[178]/szGroup:Empty Slot178
+179:CIV_GROUP_NAMES/NAME[179]/szGroup:Empty Slot179
+180:CIV_GROUP_NAMES/NAME[180]/szGroup:Empty Slot180
+181:CIV_GROUP_NAMES/NAME[181]/szGroup:Empty Slot181
+182:CIV_GROUP_NAMES/NAME[182]/szGroup:Empty Slot182
+183:CIV_GROUP_NAMES/NAME[183]/szGroup:Empty Slot183
+184:CIV_GROUP_NAMES/NAME[184]/szGroup:Empty Slot184
+185:CIV_GROUP_NAMES/NAME[185]/szGroup:Empty Slot185
+186:CIV_GROUP_NAMES/NAME[186]/szGroup:Empty Slot186
+187:CIV_GROUP_NAMES/NAME[187]/szGroup:Empty Slot187
+188:CIV_GROUP_NAMES/NAME[188]/szGroup:Empty Slot188
+189:CIV_GROUP_NAMES/NAME[189]/szGroup:Empty Slot189
+190:CIV_GROUP_NAMES/NAME[190]/szGroup:Empty Slot190
+191:CIV_GROUP_NAMES/NAME[191]/szGroup:Empty Slot191
+192:CIV_GROUP_NAMES/NAME[192]/szGroup:Empty Slot192
+193:CIV_GROUP_NAMES/NAME[193]/szGroup:Empty Slot193
+194:CIV_GROUP_NAMES/NAME[194]/szGroup:Empty Slot194
+195:CIV_GROUP_NAMES/NAME[195]/szGroup:Empty Slot195
+196:CIV_GROUP_NAMES/NAME[196]/szGroup:Empty Slot196
+197:CIV_GROUP_NAMES/NAME[197]/szGroup:Empty Slot197
+198:CIV_GROUP_NAMES/NAME[198]/szGroup:Empty Slot198
+199:CIV_GROUP_NAMES/NAME[199]/szGroup:Empty Slot199
+200:CIV_GROUP_NAMES/NAME[200]/szGroup:Empty Slot200
+201:CIV_GROUP_NAMES/NAME[201]/szGroup:Empty Slot201
+202:CIV_GROUP_NAMES/NAME[202]/szGroup:Empty Slot202
+203:CIV_GROUP_NAMES/NAME[203]/szGroup:Empty Slot203
+204:CIV_GROUP_NAMES/NAME[204]/szGroup:Empty Slot204
+205:CIV_GROUP_NAMES/NAME[205]/szGroup:Empty Slot205
+206:CIV_GROUP_NAMES/NAME[206]/szGroup:Empty Slot206
+207:CIV_GROUP_NAMES/NAME[207]/szGroup:Empty Slot207
+208:CIV_GROUP_NAMES/NAME[208]/szGroup:Empty Slot208
+209:CIV_GROUP_NAMES/NAME[209]/szGroup:Empty Slot209
+210:CIV_GROUP_NAMES/NAME[210]/szGroup:Empty Slot210
+211:CIV_GROUP_NAMES/NAME[211]/szGroup:Empty Slot211
+212:CIV_GROUP_NAMES/NAME[212]/szGroup:Empty Slot212
+213:CIV_GROUP_NAMES/NAME[213]/szGroup:Empty Slot213
+214:CIV_GROUP_NAMES/NAME[214]/szGroup:Empty Slot214
+215:CIV_GROUP_NAMES/NAME[215]/szGroup:Empty Slot215
+216:CIV_GROUP_NAMES/NAME[216]/szGroup:Empty Slot216
+217:CIV_GROUP_NAMES/NAME[217]/szGroup:Empty Slot217
+218:CIV_GROUP_NAMES/NAME[218]/szGroup:Empty Slot218
+219:CIV_GROUP_NAMES/NAME[219]/szGroup:Empty Slot219
+220:CIV_GROUP_NAMES/NAME[220]/szGroup:Empty Slot220
+221:CIV_GROUP_NAMES/NAME[221]/szGroup:Empty Slot221
+222:CIV_GROUP_NAMES/NAME[222]/szGroup:Empty Slot222
+223:CIV_GROUP_NAMES/NAME[223]/szGroup:Empty Slot223
+224:CIV_GROUP_NAMES/NAME[224]/szGroup:Empty Slot224
+225:CIV_GROUP_NAMES/NAME[225]/szGroup:Empty Slot225
+226:CIV_GROUP_NAMES/NAME[226]/szGroup:Empty Slot226
+227:CIV_GROUP_NAMES/NAME[227]/szGroup:Empty Slot227
+228:CIV_GROUP_NAMES/NAME[228]/szGroup:Empty Slot228
+229:CIV_GROUP_NAMES/NAME[229]/szGroup:Empty Slot229
+230:CIV_GROUP_NAMES/NAME[230]/szGroup:Empty Slot230
+231:CIV_GROUP_NAMES/NAME[231]/szGroup:Empty Slot231
+232:CIV_GROUP_NAMES/NAME[232]/szGroup:Empty Slot232
+233:CIV_GROUP_NAMES/NAME[233]/szGroup:Empty Slot233
+234:CIV_GROUP_NAMES/NAME[234]/szGroup:Empty Slot234
+235:CIV_GROUP_NAMES/NAME[235]/szGroup:Empty Slot235
+236:CIV_GROUP_NAMES/NAME[236]/szGroup:Empty Slot236
+237:CIV_GROUP_NAMES/NAME[237]/szGroup:Empty Slot237
+238:CIV_GROUP_NAMES/NAME[238]/szGroup:Empty Slot238
+239:CIV_GROUP_NAMES/NAME[239]/szGroup:Empty Slot239
+240:CIV_GROUP_NAMES/NAME[240]/szGroup:Empty Slot240
+241:CIV_GROUP_NAMES/NAME[241]/szGroup:Empty Slot241
+242:CIV_GROUP_NAMES/NAME[242]/szGroup:Empty Slot242
+243:CIV_GROUP_NAMES/NAME[243]/szGroup:Empty Slot243
+244:CIV_GROUP_NAMES/NAME[244]/szGroup:Empty Slot244
+245:CIV_GROUP_NAMES/NAME[245]/szGroup:Empty Slot245
+246:CIV_GROUP_NAMES/NAME[246]/szGroup:Empty Slot246
+247:CIV_GROUP_NAMES/NAME[247]/szGroup:Empty Slot247
+248:CIV_GROUP_NAMES/NAME[248]/szGroup:Empty Slot248
+249:CIV_GROUP_NAMES/NAME[249]/szGroup:Empty Slot249
+250:CIV_GROUP_NAMES/NAME[250]/szGroup:Empty Slot250
+251:CIV_GROUP_NAMES/NAME[251]/szGroup:Empty Slot251
+252:CIV_GROUP_NAMES/NAME[252]/szGroup:Empty Slot252
+253:CIV_GROUP_NAMES/NAME[253]/szGroup:Empty Slot253
+254:CIV_GROUP_NAMES/NAME[254]/szGroup:Empty Slot254
